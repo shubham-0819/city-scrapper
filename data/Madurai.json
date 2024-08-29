@@ -1,0 +1,352 @@
+[
+  {
+    "name": "DEIVAM DENTAL CLINIC",
+    "address": "AVR Complex, No.14, P.T.R Road, Narimedu, Madurai, Tamil Nadu 625002, India",
+    "phone": "0452 452 2771",
+    "rating": 4.9,
+    "number_of_reviews": 78
+  },
+  {
+    "name": "Nala Dental Hospital",
+    "address": "9B, 1, Vallabh Bhai Rd, near Vadamalayan Hospital, Reserve Police Line, Chinna Chokikulam, Madurai, Tamil Nadu 625002, India",
+    "phone": "094441 54551",
+    "rating": 4.3,
+    "number_of_reviews": 172
+  },
+  {
+    "name": "V Bose Dental Care",
+    "address": "236 South Veli St, Chinna Kadai St, South Gate, Periyar, Area, Madurai, Tamil Nadu 625001, India",
+    "phone": "093452 44555",
+    "rating": 4.9,
+    "number_of_reviews": 569
+  },
+  {
+    "name": "Britestar Dental Solutions",
+    "address": "E Veli St, Near Federal Bank, Mahal Area, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "098848 64267",
+    "rating": 5,
+    "number_of_reviews": 3
+  },
+  {
+    "name": "Aristo Speciality Hospital",
+    "address": "50B, Bypass Rd, opp. Aparna Towers, Ponmeni, Madurai, Tamil Nadu 625016, India",
+    "phone": "083444 11127",
+    "rating": 4.1,
+    "number_of_reviews": 336
+  },
+  {
+    "name": "ANBU DENTAL CLINIC Nelpettai",
+    "address": "231, E Veli St, Nelpettai, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "081108 11044",
+    "rating": 4.9,
+    "number_of_reviews": 93
+  },
+  {
+    "name": "Madura Dental Clinic",
+    "address": "No 278, Goods Shed St, near Railway station, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "099447 24564",
+    "rating": 4.9,
+    "number_of_reviews": 651
+  },
+  {
+    "name": "Madurai Dental Centre",
+    "address": "No: 239, Kamarajar Road, Gandhipettai Bus Stop, Near Alankar Theatre, Madurai, Tamil Nadu 625009, India",
+    "phone": "0452 232 6297",
+    "rating": 4.1,
+    "number_of_reviews": 22
+  },
+  {
+    "name": "VSG Dental Care",
+    "address": "17-B, Tirupparankunram Rd, Andalpuram, Madurai, Tamil Nadu 625003, India",
+    "phone": "099943 99321",
+    "rating": 5,
+    "number_of_reviews": 9
+  },
+  {
+    "name": "SMILE STYLE Dental clinic",
+    "address": "12A/59A, Kuruvikkaran salai, 1st, Jawahar Cross St, Anna Nagar, Shenoy Nagar, Madurai, Tamil Nadu 625020, India",
+    "phone": "073730 47575",
+    "rating": 4.9,
+    "number_of_reviews": 431
+  },
+  {
+    "name": "GRACE DENTAL CLINIC",
+    "address": "46, Netaji Rd, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 10
+  },
+  {
+    "name": "Toothzone Dental",
+    "address": "A4/2, KK Nagar Main Rd, opp. to Bata Showroom, next to Apollo pharmacy, Mellur, KK Nagar, Naganakulam, Tamil Nadu 625020, India",
+    "phone": "0452 439 3943",
+    "rating": 4,
+    "number_of_reviews": 22
+  },
+  {
+    "name": "VasuRam Dental Care",
+    "address": "No 71, Thiruvapudaiyar kovil bus stop Palam Station Road, and, near Muthoot Finance, opposite to Minnal Kalyana Mandapam, Sellur, Madurai, Tamil Nadu 625002, India",
+    "phone": "097876 99066",
+    "rating": 4.8,
+    "number_of_reviews": 26
+  },
+  {
+    "name": "Deen Dentofacial Clinics - branch 1",
+    "address": "S Veli St, South Gate, Periyar, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "0452 436 5787",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Shanker Dental and Craniofacial Centre",
+    "address": "17/33 Rajaji Street, Gandhi Nagar Walkable distance from Anna, Bus stand, opposite Asirvatham Speciality hospital, Shenoy Nagar, Madurai, Tamil Nadu 625020, India",
+    "phone": "097884 73879",
+    "rating": 5,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "Prabhu Oral Surgery Centre",
+    "address": "503, W 2nd St, Mellur, KK Nagar, Naganakulam, Tamil Nadu 625020, India",
+    "phone": "091590 69078",
+    "rating": 4.3,
+    "number_of_reviews": 6
+  },
+  {
+    "name": "Smile Bright Dental Care",
+    "address": "1st floor, indian bank colony, Siva Complex, NH 785, Mahalakshmi Nagar, Madurai, Tamil Nadu 625014, India",
+    "phone": "0452 268 2262",
+    "rating": 4.6,
+    "number_of_reviews": 10
+  },
+  {
+    "name": "The Smile Care, Dental Clinic",
+    "address": "Madurai Citi centre, 137, 93, Kamarajar Salai, Pankajam Colony, Kamarajar Salai, Madurai, Tamil Nadu 625009, India",
+    "phone": "N/A",
+    "rating": 4.8,
+    "number_of_reviews": 8
+  },
+  {
+    "name": "Agaram Dental Clinic",
+    "address": "First Floor, Agaram Dental Clinic, Petrol Bunk, Bypass Rd, near Vajra Apartments, above Sakthi medicals, Ponmeni, Madurai, Tamil Nadu 625016, India",
+    "phone": "093448 55157",
+    "rating": 4.9,
+    "number_of_reviews": 378
+  },
+  {
+    "name": "TOOTH DENTAL CARE",
+    "address": "73 a, Vakkil New St, Arajar Salai, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "A.A. Dental Care",
+    "address": "bus stop, 92, N Veli St, near simmakkal, Arajar Salai, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "097897 75363",
+    "rating": 4.9,
+    "number_of_reviews": 419
+  },
+  {
+    "name": "Balaji Ortho Clinic",
+    "address": "60, Dhanappa Mudali Street, near Mayura Complex, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "0452 234 2010",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dentes Dental Clinic",
+    "address": "Dentes Dental clinic, 207, E Veli St, Kamarajar Salai, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "080980 04142",
+    "rating": 4.9,
+    "number_of_reviews": 286
+  },
+  {
+    "name": "MURUGADOSS DENTAL HOSPITAL",
+    "address": "no 4 ,east marret street, 4th lane, Kamarajar Salai, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "099439 94522",
+    "rating": 5,
+    "number_of_reviews": 69
+  },
+  {
+    "name": "DENTAL CARE",
+    "address": "Sellur, Madurai, Tamil Nadu 625002, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Siva Dental Clinic",
+    "address": "8,Ponnagaram Broadway, 1st St, Ponnagaram, Arappalayam, Madurai, Tamil Nadu 625001, India",
+    "phone": "099949 31178",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Sree Parvathi Dental Clinic",
+    "address": "99, Palam Station Rd, Sellur, Madurai, Tamil Nadu 625002, India",
+    "phone": "094427 03011",
+    "rating": 5,
+    "number_of_reviews": 7
+  },
+  {
+    "name": "White Pearl Dental Care",
+    "address": "W4MG+447, Suyarajyapuram East Main Street, Sellur, Madurai, Tamil Nadu 625001, India",
+    "phone": "097902 99787",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "SURYA MULTISPECIALITY DENTAL CLINIC",
+    "address": "Paetai, pallivasal complex, bus stop, Pallivasal St, near goripalayam, Goripalayam, Madurai, Tamil Nadu 625002, India",
+    "phone": "088071 51047",
+    "rating": 5,
+    "number_of_reviews": 658
+  },
+  {
+    "name": "Dr.Nadha’s aestheticz",
+    "address": "9, Chavadi St, Goripalayam, Madurai, Tamil Nadu 625002, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "ELITE DENTAL CLINIC",
+    "address": "first floor, 12 a, E2E2 Rd, above Valli Medical shop, 1st street, Narimedu, Madurai, Tamil Nadu 625002, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 6
+  },
+  {
+    "name": "Zaara Dental Clinic",
+    "address": "68, near, Munichalai Rd, adjacent to Apollo Pharmacy, Munichalai, Madurai, Tamil Nadu 625009, India",
+    "phone": "0452 452 0066",
+    "rating": 4.9,
+    "number_of_reviews": 1917
+  },
+  {
+    "name": "MEGHA DENTAL CARE",
+    "address": "3A, Arappalayam Main Rd, opposite to Sandhya hospital, near Thirumalai naicker statue, Ponnagaram, Arappalayam, Madurai, Tamil Nadu 625016, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 9
+  },
+  {
+    "name": "Noor Dental Clinic and Orthodontic hospital",
+    "address": "41-B, PT Rajan Rd, opposite to O.C.P.M BACK GATE, Narimedu, Madurai, Tamil Nadu 625002, India",
+    "phone": "084892 99299",
+    "rating": 4.9,
+    "number_of_reviews": 1353
+  },
+  {
+    "name": "D - CARE Speciality dental clinic",
+    "address": "No 156, 1st floor, E Marret St, Panthadi Area, thavittusandai, Madurai, Tamil Nadu 625020, India",
+    "phone": "N/A",
+    "rating": 4.9,
+    "number_of_reviews": 8
+  },
+  {
+    "name": "RAJU DENTAL CLINIC",
+    "address": "Narimedu, Madurai, Tamil Nadu 625002, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "THU DENTAL CARE",
+    "address": "South Gate, Periyar, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "099765 55333",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Sathesh Hospital and Honey Dentistry",
+    "address": "New 326,Old 137, East Marret Street,, Thavittusanthai bus stop(West),, Panthadi Area, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "095004 99650",
+    "rating": 4.8,
+    "number_of_reviews": 17
+  },
+  {
+    "name": "Subha Dental Clinic & Implant Center",
+    "address": "147, E Veli St, Thavittu Sandhai, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "098942 83906",
+    "rating": 4.9,
+    "number_of_reviews": 9
+  },
+  {
+    "name": "Surya Ortho Care",
+    "address": "99, TPK Road, Near Malai Murasu, T P K Road, Periyar, Madurai Main, Madurai, Tamil Nadu 625001, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Joy Orthotics",
+    "address": "3-A, Vaidhyanatha Iyyar S, Shenoy Nagar, Elango School Back Side, Shenoy Nagar, Madurai, Tamil Nadu 625020, India",
+    "phone": "0452 260 0550",
+    "rating": 4,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "PUGAL DENTAL CARE",
+    "address": "Arapalayam main road, jallikattu statue round, near arapalayam, Ponnagaram, Padi Thurai, Arappalayam, Madurai, Tamil Nadu 625016, India",
+    "phone": "063691 59310",
+    "rating": 5,
+    "number_of_reviews": 9
+  },
+  {
+    "name": "Twinklers Dental Care",
+    "address": "Narimedu, 5A, Avaiyar Street, B B Kulam, Madurai, Tamil Nadu 625002, India",
+    "phone": "096778 69954",
+    "rating": 4.6,
+    "number_of_reviews": 18
+  },
+  {
+    "name": "Sumathi Dental Clinic",
+    "address": "625001, 17, New Mahalipatti Rd, Mahalipatti, Madurai, Tamil Nadu 625001, India",
+    "phone": "097912 66792",
+    "rating": 4.8,
+    "number_of_reviews": 23
+  },
+  {
+    "name": "Dr. M.MOHAN KARTHIKEYAN",
+    "address": "Madurai, Tamil Nadu 625009, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Jeyadev Impex",
+    "address": "99/20, West Ponnagaram, 8th Street, West Ponnagaram, Pethaniapuram 2, Arappalayam, Madurai, Tamil Nadu 625016, India",
+    "phone": "0452 450 0343",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "SH Dentz - Speciality Implant Clinic",
+    "address": "179 A, First Floor, Kamarajar Salai, near Chamber of Commerce, opposite to Meenakshi Fan House, Madurai, Tamil Nadu 625009, India",
+    "phone": "090435 88772",
+    "rating": 5,
+    "number_of_reviews": 11
+  },
+  {
+    "name": "ஐ ஸ்மைல் பல் மருத்துவமனை",
+    "address": "Sarvodaya Nagar 5th Street, New Ellis Nagar, Ellis Nagar, Madurai, Tamil Nadu 625016, India",
+    "phone": "063816 93409",
+    "rating": 5,
+    "number_of_reviews": 40
+  },
+  {
+    "name": "White Pearl Dental Care",
+    "address": "2nd gate, PT Rajan Rd, opp. to Kendriya Vidyalaya School, next to Union Bank, Madurai, Tamil Nadu 625002, India",
+    "phone": "097902 99787",
+    "rating": 4.9,
+    "number_of_reviews": 35
+  },
+  {
+    "name": "Dakshin Dental Solution ( P ) Ltd",
+    "address": "39,T.B. Road, Arasaradi, Old Dindigul Rd, North Gate, Somasundaram Nagar, Thomas Colony, Madurai, Tamil Nadu 625010, India",
+    "phone": "096593 02151",
+    "rating": 5,
+    "number_of_reviews": 1
+  }
+]

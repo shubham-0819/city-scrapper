@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Dhaliwal Hospital",
+    "address": "3, Batala Rd, Shivala Colony, Amritsar, Punjab 143001, India",
+    "phone": "077106 77002",
+    "rating": 4.7,
+    "number_of_reviews": 508
+  },
+  {
+    "name": "Demat9",
+    "address": "3, Ann Kay Victory Tower M.M.Malvyia Road, INA Colony, Amritsar, Punjab 143001, India",
+    "phone": "093104 33649",
+    "rating": 2,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "ARORA DENTAL CLINIC",
+    "address": "C-8,, Dhab Khatikan,, near Hindu College Amritsar, Near Moti Mahal, Lohgarh Gate, Katra Ahluwalia, Amritsar, Punjab 143006, India",
+    "phone": "098142 55510",
+    "rating": 4.7,
+    "number_of_reviews": 38
+  },
+  {
+    "name": "Hundal Dental Traders-Dental Chair, Extraction Instruments & Autoclave Equipment’s Dealers | Disposables Supplier in Amritsar",
+    "address": "Doctors Complex, children Hospital, Majitha Rd, opp. Govt. Eye & ENT Hospital & Naresh Grover, near Gupta Bakers & Dr Puri Lab, Opp. ENT Hospital, Medical Enclave, Amritsar, Punjab 143001, India",
+    "phone": "098038 80555",
+    "rating": 5,
+    "number_of_reviews": 58
+  },
+  {
+    "name": "PARVEEN SAINI ROBOTICS ORTHOPAEDIC BEST KNEE , HIP& SHOULDER JOINT REPLACEMENT ADVANCED CENTRE AND DENTAL ORTHODONTIC CENTRE",
+    "address": "70-C, Taylor Road, Chanderpuri, Near, Lawrence Road, opposite Gandhi grounds, near heritage club, INA Colony, Amritsar, Punjab 143001, India",
+    "phone": "0183 221 0682",
+    "rating": 4.8,
+    "number_of_reviews": 126
+  },
+  {
+    "name": "Dream Smiles Dental & Skin Care",
+    "address": "Mall Rd, Kennedy Avenue, Amritsar, Punjab 143001, India",
+    "phone": "N/A",
+    "rating": 4.7,
+    "number_of_reviews": 37
+  },
+  {
+    "name": "Dentista Dental Clinic",
+    "address": "Pushpa Market, Lawrence Road Ext, opp. Axis Bank, near Tare Di Hatt, Amritsar, Punjab 143001, India",
+    "phone": "081467 58164",
+    "rating": 4.5,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Sahib Dental Clinic",
+    "address": "B -48 Ranjit Avenue Near Shemrock Public School, B - Block, Ranjit Avenue, Amritsar, Punjab 143001, India",
+    "phone": "075892 06060",
+    "rating": 4.8,
+    "number_of_reviews": 49
+  },
+  {
+    "name": "Clove Dental",
+    "address": "Pal Tower, Lawrence Road, near Nayyar Hospital, Shastri Nagar, Extn, Amritsar, Punjab 143001, India",
+    "phone": "011 6927 1067",
+    "rating": 4.9,
+    "number_of_reviews": 586
+  },
+  {
+    "name": "Smile N Shine Super Speaciality Dental Clinic",
+    "address": "opposite gali teliya wali, Sewak Mandi, Nimak Mandi, Amritsar, Amritsar Cantt., Punjab 143001, India",
+    "phone": "085918 64749",
+    "rating": 4.9,
+    "number_of_reviews": 34
+  },
+  {
+    "name": "Dr manjul mehra Kashvi Dental Care",
+    "address": "536, opp. mehak park, Gumtala Sub Urban, E-Block, Ranjit Avenue, Amritsar, Punjab 143001, India",
+    "phone": "N/A",
+    "rating": 4.8,
+    "number_of_reviews": 9
+  },
+  {
+    "name": "Dr. Simar's Dental & Oral Care Clinic",
+    "address": "Ram Talai Rd, Main Bazaar, New Golden Avenue, Sharifpura, Amritsar, Punjab 143001, India",
+    "phone": "N/A",
+    "rating": 4.8,
+    "number_of_reviews": 133
+  },
+  {
+    "name": "Dukhniwaran Dental Clinic",
+    "address": "Flat shop 33, Ranjit avenue B block, opposite to HDFC atm in, Gumtala Sub Urban, A - Block, market, Amritsar, Punjab 143001, India",
+    "phone": "085289 35037",
+    "rating": 4.9,
+    "number_of_reviews": 315
+  },
+  {
+    "name": "Clove Dental",
+    "address": "SCO- 75, above Kafeine Cafe, near Mahindra Showroom, Gumtala Sub Urban, D - Block, Ranjit Avenue, Amritsar, Punjab 143001, India",
+    "phone": "095992 16884",
+    "rating": 4.9,
+    "number_of_reviews": 534
+  },
+  {
+    "name": "Dental Joy Dental Clinic",
+    "address": "883, Circular Rd, Medical Enclave, Amritsar, Punjab 143001, India",
+    "phone": "073555 90315",
+    "rating": 5,
+    "number_of_reviews": 103
+  },
+  {
+    "name": "S P Arora and Co",
+    "address": "Mohanlal & Sons, Majitha Mandi, Shastri Market, Shastri Market, Near Bhandari Bridge, Guru Arjun Nagar, Amritsar, Punjab 143001, India",
+    "phone": "0183 253 3245",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr. Puneet Kumar",
+    "address": "INA Colony, Amritsar, Punjab 143001, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Parekh Dental Clinic",
+    "address": "#208, Queens Rd, near Crystal Chowk, Crystal Chowk, INA Colony, Amritsar, Punjab 143001, India",
+    "phone": "098768 83599",
+    "rating": 4.8,
+    "number_of_reviews": 78
+  },
+  {
+    "name": "SHAKTI ORTHO",
+    "address": "JVJF+HXW, Chitra Talkies Rd, Hall Gate, Hall Bazar, Katra Ahluwalia, Amritsar, Punjab 143001, India",
+    "phone": "094170 17032",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Smile dental spa",
+    "address": "172, Katra Moti Ram, Hathi Gate, Hall Gate, Hathi Gate, Katra Ahluwalia, Amritsar, Punjab 143001, India",
+    "phone": "098762 00359",
+    "rating": 4.9,
+    "number_of_reviews": 34
+  },
+  {
+    "name": "Om Enterprises",
+    "address": "JVHF+HVM, Kucha Dai Khana, Katra Sher Singh, Katra Ahluwalia, Amritsar, Punjab 143006, India",
+    "phone": "099145 29536",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr.Amit Sharma",
+    "address": "Hathi Gate, Katra Ahluwalia, Amritsar, Punjab 143006, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Ram Parkash Ashok Kumar",
+    "address": "JVHH+R4X, Chownk, adjacent to Gupta Cloth House, Katra Bhagian, Hall Bazar, Ram Bagh, Amritsar, Punjab 143001, India",
+    "phone": "0183 254 1268",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr.Sushil Gupta",
+    "address": "Hall Bazar, Katra Ahluwalia, Amritsar, Punjab 143006, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr. YUKTI GUPTA",
+    "address": "DENTAL STUDIO, The Mall, Adult and Paediatric Dentistry,, Basement DR VED GUPTA HOSPITAL, 355, MALL ROAD, Adjoining Govt. Girls School,, AMRITSAR, 117-A, White Avenue, Amritsar, Punjab 143001, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 5
+  },
+  {
+    "name": "Dr. HIRA LAL KHANNA",
+    "address": "Katra Parda, Katra Ahluwalia, Amritsar, Punjab 143006, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr. Om Parkash Dental",
+    "address": "The Mall, 117-A, beside omaxe novelty mall, White Avenue, Amritsar, Punjab 143001, India",
+    "phone": "080546 12345",
+    "rating": 4.9,
+    "number_of_reviews": 556
+  },
+  {
+    "name": "Gupta Dental Care",
+    "address": "Nanak building, Lawrence Road, opposite Nehru shopping complex, White Avenue, Amritsar, Punjab 143001, India",
+    "phone": "081461 96779",
+    "rating": 4.8,
+    "number_of_reviews": 5
+  },
+  {
+    "name": "Dr.Krishna Oberoi",
+    "address": "JVMM+FF2, Shivala Rd, Near Fatak, West Hussain Pura, Hussainpura, Amritsar, Punjab 143001, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "( Child dental care) Aesthetica dental care",
+    "address": "28, Rose Ave, White Avenue, Amritsar, Punjab 143001, India",
+    "phone": "099888 29102",
+    "rating": 4.8,
+    "number_of_reviews": 51
+  },
+  {
+    "name": "Taneja Dental Clinic",
+    "address": "Bus Stand, Near Fatak, West Hussain Pura, City Centre, Amritsar, Punjab 143001, India",
+    "phone": "098159 20482",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "New Era Dental Lab",
+    "address": "Near Fatak, West Hussain Pura, Hussainpura, Amritsar, Punjab 140003, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 3
+  },
+  {
+    "name": "WORLD DENTAL CARE CENTRE",
+    "address": "BUILDING NO 46, Rani Ka Bagh, Mohindra Colony, Amritsar, Punjab 143001, India",
+    "phone": "075084 57089",
+    "rating": 5,
+    "number_of_reviews": 443
+  },
+  {
+    "name": "Dentales",
+    "address": "LGF-4, Eminent Mall, Mall Rd, Kennedy Avenue, Amritsar, Punjab 143001, India",
+    "phone": "096815 50009",
+    "rating": 5,
+    "number_of_reviews": 92
+  },
+  {
+    "name": "Biala Dental Care & Implant Centre",
+    "address": "54a hukam singh road bhavan's S.L.public school lane, Shivala Colony, Amritsar, Punjab 143001, India",
+    "phone": "098727 61938",
+    "rating": 4.9,
+    "number_of_reviews": 33
+  },
+  {
+    "name": "Batra Dental Clinic",
+    "address": "Mandir, near, Shivala Rd, Sunder Nagar, Amritsar, Punjab 143001, India",
+    "phone": "096463 53551",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Anmol dental clinic",
+    "address": "188-b, Rani Ka Bagh, Mohindra Colony, Amritsar, Punjab 143001, India",
+    "phone": "081463 02177",
+    "rating": 5,
+    "number_of_reviews": 15
+  },
+  {
+    "name": "Dr. Parveen Narang",
+    "address": "Inside B.K. Dutt Gate, Lohgarh Gate, Katra Ahluwalia, Amritsar, Punjab 143006, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Kundan Dental Care Clinic",
+    "address": "Building no. 2320, Bus Stand, opposite City Center(Near, Sharifpura, Amritsar, Punjab 143001, India",
+    "phone": "076967 68939",
+    "rating": 5,
+    "number_of_reviews": 167
+  },
+  {
+    "name": "Young's & Café",
+    "address": "23A, Lawrence Road, Nagi jawlersh, White Avenue, Amritsar, Punjab 143104, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Lawrence Dental Clinic",
+    "address": "2 Navi Sadak, Dayanand Nagar, Opp Sanjha Chula, opposite B.B.K DAV college, Opp. BBK DAV College, Dayanand Nagar, Amritsar, Punjab 143001, India",
+    "phone": "098720 92226",
+    "rating": 4.8,
+    "number_of_reviews": 9
+  },
+  {
+    "name": "Modern Dental Clinic",
+    "address": "4-A, Ground Floor, Lawrence Road,Nai Sadak, Dayanand Nagar, Amritsar, Punjab 143001, India",
+    "phone": "090411 04007",
+    "rating": 4.6,
+    "number_of_reviews": 10
+  },
+  {
+    "name": "Aanchal Dental Care and Implant Centre",
+    "address": "283, near Government Girls School, Shivala Colony, Amritsar, Punjab 143001, India",
+    "phone": "094637 57946",
+    "rating": 5,
+    "number_of_reviews": 5
+  },
+  {
+    "name": "Dr. A.D. Singh",
+    "address": "Tilak Nagar, Amritsar, Punjab 143001, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Bright Smiles Dental Clinic",
+    "address": "JVQP+WMM, Mall Rd, Maharaja Ranjit Singh Nagar, Joshi Colony, Amritsar, Punjab 143001, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr Gupta's Dental Hub",
+    "address": "11 a, Maqbool Rd, White Avenue, Amritsar, Punjab 143001, India",
+    "phone": "098140 14147",
+    "rating": 4.9,
+    "number_of_reviews": 130
+  },
+  {
+    "name": "Dr. Joginder Singh Memorial & Sons Dental Clinic",
+    "address": "Dhab Khatikan, Katra Ahluwalia, Amritsar Cantt., Punjab 143006, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr Sood's Dental Point Clinic",
+    "address": "106, Shivala Rd, Professor Colony, Tilak Nagar, Amritsar, Punjab 143001, India",
+    "phone": "098147 77985",
+    "rating": 5,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "Dr Neha Arora Dental Clinic",
+    "address": "Dr. Neha Arora Dental Clinic, I/s, Beri Gate Market, Amritsar, Punjab 143001, India",
+    "phone": "077430 26101",
+    "rating": 5,
+    "number_of_reviews": 30
+  },
+  {
+    "name": "DR.SATYA NAND SHARMA",
+    "address": "Dhab Khatikan, Katra Ahluwalia, Amritsar Cantt., Punjab 143006, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  }
+]

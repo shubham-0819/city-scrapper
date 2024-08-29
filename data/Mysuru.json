@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Smile Dental Care",
+    "address": "No 42/A, Ground floor, Sriranga complex, Vishwamanava Double Road, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570009, India",
+    "phone": "N/A",
+    "rating": 4.7,
+    "number_of_reviews": 805
+  },
+  {
+    "name": "Apollo Dental Clinic, Mysuru - Best Dental Clinic in Bangalore - Root Canals, Aligners, Implants, Crowns and Veneers",
+    "address": "Apollo BGS Hospitals, Adichunchanagiri Road ,Kuvempunagar, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "081234 31714",
+    "rating": 4.8,
+    "number_of_reviews": 309
+  },
+  {
+    "name": "Life Care Dental Clinic",
+    "address": "2979, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India",
+    "phone": "098860 37522",
+    "rating": 4.9,
+    "number_of_reviews": 436
+  },
+  {
+    "name": "Complete Dentistry - Dental Clinic and Implant Centre",
+    "address": "# 175 , 6th cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India",
+    "phone": "0821 419 4867",
+    "rating": 4.8,
+    "number_of_reviews": 25
+  },
+  {
+    "name": "Dr Paras. Mysore Smile :) Dental Clinic",
+    "address": "No. 2689, Near Mallappa Flour shop. V V Mohalla 8th Cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India",
+    "phone": "098458 54977",
+    "rating": 4.9,
+    "number_of_reviews": 89
+  },
+  {
+    "name": "whYte dental",
+    "address": "Adipampa Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570001, India",
+    "phone": "070907 00790",
+    "rating": 4.8,
+    "number_of_reviews": 745
+  },
+  {
+    "name": "Smile ARC Dental Clinic",
+    "address": "Vijyanagar, Vijayanagara 3rd stage, Mysuru, Karnataka 570017, India",
+    "phone": "098863 48062",
+    "rating": 5,
+    "number_of_reviews": 3
+  },
+  {
+    "name": "Mysore Dental Care & Implant Center",
+    "address": "# 581, off, Kalidasa Rd, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017, India",
+    "phone": "098452 35853",
+    "rating": 4.8,
+    "number_of_reviews": 528
+  },
+  {
+    "name": "Parvathi Dental Clinic",
+    "address": "PARVATHI DENTAL CARE - 446,446/1, 1ST STAGE Buddha Marga, opposite to DFRL, Siddhartha Layout, Mysuru, Karnataka 570011, India",
+    "phone": "098867 85810",
+    "rating": 4.8,
+    "number_of_reviews": 149
+  },
+  {
+    "name": "Sumanth Speciality Clinic",
+    "address": "1211, New Kantharaj Urs Rd, Chamarajapura, Chamarajapuram Mohalla, Lakshmipuram, Mysuru, Karnataka 570004, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "White Lily Dental",
+    "address": "2857, 2nd Main Rd, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570014, India",
+    "phone": "093115 87749",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Thomas Multi Speciality Dental Clinic",
+    "address": "35/A,S No 375/B,Ramaswamy Circle, 1st Floor, Chamaraja Double Road, opposite Sri Krishna Bakery, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570024, India",
+    "phone": "0821 242 7242",
+    "rating": 4.4,
+    "number_of_reviews": 12
+  },
+  {
+    "name": "THE DENTIST",
+    "address": "437, Chamaraja Double Road, Sunnadakeri, Rahmania Mohalla, Mysuru, Karnataka 570004, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Pancham Dental Clinic",
+    "address": "155, New Kantharaj Urs Rd, Basaveshwaranagar, Sharadadevi Nagar, Kuvempu Nagara, Mysuru, Karnataka 570022, India",
+    "phone": "098444 04044",
+    "rating": 4.9,
+    "number_of_reviews": 8
+  },
+  {
+    "name": "Kateel Dental care",
+    "address": "#CH 15/2, 3rd cross, 5th Main Rd, Saraswathipuram, Mysuru, Karnataka 570009, India",
+    "phone": "099729 12662",
+    "rating": 4.9,
+    "number_of_reviews": 34
+  },
+  {
+    "name": "Dental Surgeon",
+    "address": "Chikkahally Village, Varuna, Hobli, Hobli, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570010, India",
+    "phone": "0821 259 9557",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Vinayaka dental clinic X Ray and Specialist Centre",
+    "address": "1774, P and T Block, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Fernandes Multi Speciality Dental Clinic & Implants Centre",
+    "address": "Chamaraja Double Road, Subbarayanakere, KR Mohalla, Chamrajpura, Mysuru, Karnataka 570024, India",
+    "phone": "0821 244 2406",
+    "rating": 4.2,
+    "number_of_reviews": 24
+  },
+  {
+    "name": "My DENTIST, Foundation Of Preventive Dentistry",
+    "address": "118, Panchamantra Rd, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "N/A",
+    "rating": 3.5,
+    "number_of_reviews": 6
+  },
+  {
+    "name": "ART OF BRACES DENTAL CARE",
+    "address": "7JVH+G6H, Saraswathi Rd, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr. R.Vijaylakshmi - Best Perio Dentist in Kuvempunagar Mysore",
+    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "073289 03499",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr. Shadakshari - Best Dental Implant Doctors in Kuvempu Nagar Mysore",
+    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "073289 03499",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr. Mukta Jain - Best Dentist in Kuvempunagar Mysore",
+    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "073289 03499",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr. Arun J Kumar",
+    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "073289 03499",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr. Vijayalakshmi R - Best Children Dentist in Mysore",
+    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "073289 03499",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr. Suma - Best Dental Braces Dentist in Mysore",
+    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "073289 03499",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr. Jyothishree PV - Dentist in Kuvempunagar Mysore",
+    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "073289 03499",
+    "rating": 4,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr. Shaswath - Best Teeth Braces Specialist in Kuvempu Nagar Mysore",
+    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "073289 03499",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Bk Dental Clinic",
+    "address": "12th main, 5th Cross Road, Saraswathipuram, Mysuru, Karnataka 570009, India",
+    "phone": "077950 76422",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr. Chandrika's Clinic",
+    "address": "174/1, 11th Main Road, Saraswathipuram, Mysuru, Karnataka 570009, India",
+    "phone": "N/A",
+    "rating": 3.8,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "DENTO DESIGNS",
+    "address": "#448 SBN COMPLEX M.G.ROAD, Chavadi St, Agrahara, Fort Mohalla, Mysuru, Karnataka 570004, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Endo Care Dental Clinic",
+    "address": "Agrahara, 1, Veerashiva Anathalaya Building, Circle, 5th Cross Rd, Agrahara, Ramachandra Agrahara, Mysuru, Karnataka 570004, India",
+    "phone": "N/A",
+    "rating": 4,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Ortho lab Mysore",
+    "address": "8J5W+PFC, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570001, India",
+    "phone": "099808 95417",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Ora dental care mysore",
+    "address": "99, D Devaraj Urs Rd, above CARAT LANE showroom, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570001, India",
+    "phone": "080957 90359",
+    "rating": 4.9,
+    "number_of_reviews": 330
+  },
+  {
+    "name": "Dr Arun Kumar K S, Dental surgeon",
+    "address": "1st floor, Adichunchanagiri Road, near appolo hospital, M-Block, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr Nalini G Kulkarni - DENTIST",
+    "address": "No. 38, Near KUVEMPUNAGAR COMPLEX, Opp. More Supermarket, Udayaravi Rd, next to Cadabams, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "089706 32985",
+    "rating": 5,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Dr. Deepa's Dental Care and Implant Centre",
+    "address": "627/B, First Floor, New Kantharaj Urs Rd, A & B Block, Kuvempu Nagara, Mysuru, Karnataka 570022, India",
+    "phone": "N/A",
+    "rating": 4.3,
+    "number_of_reviews": 3
+  },
+  {
+    "name": "Sharan Dental Clinic",
+    "address": "MIG 27,1st Floor, Nrupatunga Rd, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "0821 256 1222",
+    "rating": 3,
+    "number_of_reviews": 14
+  },
+  {
+    "name": "Sarathi Dental Clinic",
+    "address": "Udayaravi Rd, E&F Block, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "0821 246 0461",
+    "rating": 4.3,
+    "number_of_reviews": 64
+  },
+  {
+    "name": "V k Enterprises",
+    "address": "Subbarayanakere, Shivarampet, Mysuru, Karnataka 570001, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Shree Dental Clinic",
+    "address": "building, Maruthi Temple Rd, Gangothri Layout, Mysuru, Karnataka 570009, India",
+    "phone": "076195 18795",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center",
+    "address": "no.449, 1st floor, sthira building, New Kantharaj Urs Rd, TK Layout, Mysuru, Karnataka 570023, India",
+    "phone": "097708 81765",
+    "rating": 5,
+    "number_of_reviews": 6
+  },
+  {
+    "name": "Anvi Dental Clinic Kuvempu Nagar Root canal Best Dentist for Cap crownMysuru",
+    "address": "682, M Block, Nrupatunga Rd, 2nd Stage, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "094482 40070",
+    "rating": 5,
+    "number_of_reviews": 20
+  },
+  {
+    "name": "B.k Dental Clinic",
+    "address": "Namana Park, opposite D block, Vivekanandana Nagar, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "phone": "094481 01254",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "NAYANA ADVANCED DENTAL CARE",
+    "address": "71, Sahukar Chennaiah Road, Kuvempunagara North, Tonchikoppal 4th Stage, Saraswathipuram, Mysuru, Karnataka 570009, India",
+    "phone": "094817 87791",
+    "rating": 5,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Dr.N. Chandrabhan Singh",
+    "address": "8M72+RX8, B N Rd, behind Chamundeshwari Talkies, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "The Dental Centre",
+    "address": "shop number 28, and 29, MUDA Shopping Complex, Block A, Ramakrishnanagar, Mysuru, Karnataka 570023, India",
+    "phone": "0821 254 2071",
+    "rating": 5,
+    "number_of_reviews": 3
+  },
+  {
+    "name": "TruShine dental clinic",
+    "address": "1788 MBM Lehar complex, Sayyaji Rao Rd, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570021, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Kalanara Multi-Speciality Dental Clinic",
+    "address": "976/A, Main Rd, Aravinda Nagar, Vivekananda Nagar, Mysuru, Karnataka 570023, India",
+    "phone": "N/A",
+    "rating": 4.6,
+    "number_of_reviews": 13
+  },
+  {
+    "name": "SMILE PLEASE STUDIO",
+    "address": "7JGG+82M, High Tension Line Rd, Aravinda Nagar, Vivekananda Nagar, Mysuru, Karnataka 570023, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  }
+]

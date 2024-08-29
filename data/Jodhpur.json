@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Swastha Dental Care",
+    "address": "Vidhya Park, C-18, IAF Road, opp. Bhartiya Vidhya Bhawan, Jodhpur, Rajasthan 342011, India",
+    "phone": "094614 06532",
+    "rating": 4.9,
+    "number_of_reviews": 76
+  },
+  {
+    "name": "Manas Dental Clinic",
+    "address": "D-52, near Medical College Auditorium, Sector-D, Shastri Nagar, Jodhpur, Rajasthan 342001, India",
+    "phone": "094604 60450",
+    "rating": 4.8,
+    "number_of_reviews": 48
+  },
+  {
+    "name": "Dr. Mohan Ram Latiyal- Dentist In Jodhpur",
+    "address": "Varsha Dental Hospital And Implant Center B-54 , Saraswati Nagar, near Saint Anne's School, near Ambika Hospital 🏥, Basni First Phase, Landmark:, Jodhpur, Rajasthan 342005, India",
+    "phone": "097997 74276",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Varsha Dental Hospital & Implant Centre - Best Dental Hospital in Basni, Dentist & equipped Dental Hospital in Jodhpur",
+    "address": "B-54, Saraswati Nagar Main Rd, near Ambika Hospital, Basni First Phase, Basni, Jodhpur, Rajasthan 342005, India",
+    "phone": "097997 74276",
+    "rating": 4.2,
+    "number_of_reviews": 33
+  },
+  {
+    "name": "Impressions Dental Clinic& Implant Centre-Best Dentist/Implantilogist/Root Canal Doctors/Tooth Cap/Dental Implant in Jodhpur",
+    "address": "Vistar Yojana, Bhagat Ki Kothi Extension Scheme, J-4, Bhagat Ki Kothi, Jodhpur, Rajasthan 342001, India",
+    "phone": "094131 45672",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr Dushyant Soni",
+    "address": "Bhagat Ki Kothi Extension Scheme, Heavy Industrial Area Phase II, Basni, Jodhpur, Rajasthan 342001, India",
+    "phone": "094131 45672",
+    "rating": 5,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "Dr. Manish Bishnoi -Orthodontist",
+    "address": "Aditiya Sapphire, opp. New High Court, near Shatabdi Circle, Prithviraj Nagar, Jodhpur, Rajasthan 342005, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Dr Bhanupriya 's Dental Hub",
+    "address": "petrol pump, Lifeline hospital, Pali Rd, near blue city, Jhalamand, Jodhpur, Rajasthan 342005, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Dr. Kishore's Clinic",
+    "address": "Sector-C, Basni, Jodhpur, Rajasthan 342005, India",
+    "phone": "094144 76793",
+    "rating": 4.2,
+    "number_of_reviews": 5
+  },
+  {
+    "name": "MultiSpeciality Dental Clinic, Dr Ratna Bansal",
+    "address": "29, Golf Course Scheme Rd, near Chandra Imperial, Air Force Area, Jodhpur, Rajasthan 342011, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 7
+  },
+  {
+    "name": "Aesthetic Dental Designs (Dental clinic)",
+    "address": "3-c-63, Kudi BHAGTASANI, Sector 3, Kudi Bhagtasni Housing Board, Jodhpur, Rajasthan 342005, India",
+    "phone": "098296 53162",
+    "rating": 4.9,
+    "number_of_reviews": 107
+  },
+  {
+    "name": "New Satyam dental kanwar nagar",
+    "address": "Kanwar Nagar, Jodhpur, Rajasthan 342005, India",
+    "phone": "094620 50444",
+    "rating": 5,
+    "number_of_reviews": 142
+  },
+  {
+    "name": "Perfect Smile dental Clinic",
+    "address": "100 -C, Central School Scheme Main Rd, Air Force Area, Jodhpur, Rajasthan 342011, India",
+    "phone": "094624 79281",
+    "rating": 4.8,
+    "number_of_reviews": 184
+  },
+  {
+    "name": "Mukesh Dental Care Orthodontic & Implants Centre ( Dr. Mukesh Paliwal)",
+    "address": "40 Feet Rd, Rameshwar Nagar, 1st Phase, Basni, Jodhpur, Rajasthan 342005, India",
+    "phone": "N/A",
+    "rating": 4.5,
+    "number_of_reviews": 21
+  },
+  {
+    "name": "Mehta Dental Clinic - Dr.Anam Mehta & Dr.Ashima Mehta",
+    "address": "103, Central School Scheme Main Rd, Air Force Area, Jodhpur, Rajasthan 342011, India",
+    "phone": "098282 90678",
+    "rating": 4.9,
+    "number_of_reviews": 62
+  },
+  {
+    "name": "A R dental clinic",
+    "address": "726M+R4W, Golf Course Park Rd, Air Force Area, Jodhpur, Rajasthan 342011, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Rajmani's Dental Care - Best Dentist Near Me | dental Clinic Near Me | Dentist in Jodhpur",
+    "address": "3/21, near Samudayik Bhavan, Sector 3, Kudi Bhagtasni Housing Board, Choraha, Jodhpur, Rajasthan 342005, India",
+    "phone": "096808 77699",
+    "rating": 4.4,
+    "number_of_reviews": 8
+  },
+  {
+    "name": "Meenakshi Dental Care",
+    "address": "7265+JQR, Sector-H, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "0291 261 0423",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr. D.D. Gupta",
+    "address": "1/3 mdm hospital campus,near shastri circle,shastri nagar, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "0291 263 8385",
+    "rating": 4.5,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Dr Anika Aggarwal - Best Dentist InJodhpur | Smile Designing & Root Canal Specialist",
+    "address": "houswe, 119, New Power House Rd, behind market, near deeksha classes, Section 7, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "092399 93999",
+    "rating": 4.6,
+    "number_of_reviews": 26
+  },
+  {
+    "name": "Dr. Radhika Joshi- Dentist In Jodhpur",
+    "address": "Dr. Radhika Joshi Clinic 4F2, New Power House Rd, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Manvi Sparkling Smiles",
+    "address": "46 Abhay Ghar Opp.Airforce K.V.No.1 School, Jodhpur, Rajasthan 342011, India",
+    "phone": "094144 74473",
+    "rating": 5,
+    "number_of_reviews": 17
+  },
+  {
+    "name": "Shailee Dental Care",
+    "address": "C-159, near mansukh diagnostic center, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "082900 22300",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "S R Dental Clinic",
+    "address": "C-16 A, Opp. MDM Hospital, Shastri Nagar, Jodhpur, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "094141 34764",
+    "rating": 4,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "Newsmile Dental Care",
+    "address": "111, Shobhawaton Ki Dhani Rd, Gajendra Nagar, Khema-Ka-Kuwa, Jodhpur, Rajasthan 342008, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Paras Dental Care",
+    "address": "111, Shobhawaton Ki Dhani Rd, Gajendra Nagar, Khema-Ka-Kuwa, Jodhpur, Rajasthan 342008, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Gehlot Dental Clinic",
+    "address": "Sector 8, Kudi Bhagtasni Housing Board, Vivek Vihar Yojana, Jodhpur, Sangariya, Rajasthan 342013, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Laser Dental Clinic",
+    "address": "Shivam Hospital,4 Mahaveer Colony 'B' Bhaskar Chouraha, Mahaveer Colony, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "phone": "088905 60570",
+    "rating": 5,
+    "number_of_reviews": 54
+  },
+  {
+    "name": "Lodha Dental Care",
+    "address": "B-60, opp. Agrasen Park, Sector-B, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "093523 29304",
+    "rating": 4.8,
+    "number_of_reviews": 36
+  },
+  {
+    "name": "Elegant Teeth",
+    "address": "6, ITI Rd, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Saran Dental Hospital & Implant Centre",
+    "address": "Medical Market, Ratanada Cir, opposite Bharat Petrol Pump, near Ratanada, Cantt Area, Jodhpur, Rajasthan 342011, India",
+    "phone": "0291 261 3737",
+    "rating": 3.9,
+    "number_of_reviews": 48
+  },
+  {
+    "name": "Dr tarun choudhary",
+    "address": "House No 22 gali no.1, Shakti Colony, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 3
+  },
+  {
+    "name": "Suncity Dental Clinic & Implant Center",
+    "address": "State Highway 61, Cantt Area, Ratanada Circle, opposite Sukh Sagar Restaurant, Ratanada, Jodhpur, Rajasthan 342011, India",
+    "phone": "088548 12340",
+    "rating": 4.6,
+    "number_of_reviews": 5
+  },
+  {
+    "name": "Dr Sajjad Qureshi",
+    "address": "Medicity hospital and research centre, A-72, circle, Chopasani Rd, near SBI bank, Sector-A, Akhaliya Vikas Yojana, Jodhpur, Rajasthan 342001, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 3
+  },
+  {
+    "name": "Jindal Dental Clinic",
+    "address": "Bakhat Sagar, 45, Nehru Park Rd, Sindhi Colony, Sardarpura, Jodhpur, Rajasthan 342003, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 3
+  },
+  {
+    "name": "Dr Pankaj Sancheti",
+    "address": "37-kha, 10th E Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr Arvind Singh Bithu",
+    "address": "72F5+45X, D Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Pearl Dental Care",
+    "address": "893, 2nd D Rd, Sardarpura, Jodhpur, Rajasthan 325001, India",
+    "phone": "080790 49628",
+    "rating": 3,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Dr Itika singla( Teeth and face clinic)",
+    "address": "A-306, near dalle khan ki chakki, near dr shyam mathur, Sector-A, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "099827 64860",
+    "rating": 5,
+    "number_of_reviews": 138
+  },
+  {
+    "name": "Smile Studio",
+    "address": "3M, Circuit House Rd, Hanwant Nagar, East Patel Nagar, Jodhpur, Rajasthan 342006, India",
+    "phone": "087644 16160",
+    "rating": 5,
+    "number_of_reviews": 3
+  },
+  {
+    "name": "Dr sunita khetani ( SENIOR DENTIST) TEETH AND GUMS",
+    "address": "shopping center, E 49, near CLG Institute, Kalpataru, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "098298 24356",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Sudant - Mittal Dental & Implant centre(EX Oral & Maxillofacial surgeon AIIMS ,Jodhpur)",
+    "address": "E 81 Behind Rathi hospital, kalpataru shopping centre, shastri nagar, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "094149 83326",
+    "rating": 5,
+    "number_of_reviews": 21
+  },
+  {
+    "name": "Rathi Dental Care (Dr. Anubha Rathi)",
+    "address": "E-109, C/O Rathi Hospital, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "phone": "081473 05750",
+    "rating": 4.8,
+    "number_of_reviews": 32
+  },
+  {
+    "name": "Dr Komal Purohit",
+    "address": "G tower, 19 A, road, Shanker Nager, Subhash Nagar, Jodhpur, Rajasthan 342008, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "DENTAL HUB JODHPUR",
+    "address": "family gate, Subhash Chowk, opposite Police Line Road, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "phone": "098808 15445",
+    "rating": 4.9,
+    "number_of_reviews": 74
+  },
+  {
+    "name": "Dr. Purnima Purohit | Dentist | JJEDC ENDODONTIC DENTAL IMPLANT CENTER",
+    "address": "JJEDC ENDODONTIC DENTAL IMPLANT CENTER, Sardarpura, Jodhpur, Rajasthan 342001, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "JJEDC ENDODONTIC Dental Implant Centre",
+    "address": "177, 1st C Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
+    "phone": "082335 11670",
+    "rating": 4.8,
+    "number_of_reviews": 65
+  },
+  {
+    "name": "Dr Jogesh Purohit",
+    "address": "JJEDC Oral Implant Centre, 177, 1st C Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
+    "phone": "N/A",
+    "rating": 3.8,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "Dr. Bothra's SMILE Designing Center",
+    "address": "B wing-103 & 104, 1st Floor, Aanchal Complex, Residency Rd, Near Manidhari Hospital, Sardarpura, Jodhpur, Rajasthan 342003, India",
+    "phone": "098292 49300",
+    "rating": 5,
+    "number_of_reviews": 305
+  },
+  {
+    "name": "Dr. Sangeeta Patel",
+    "address": "Subhash Nagar, Jodhpur, Rajasthan 342008, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  }
+]

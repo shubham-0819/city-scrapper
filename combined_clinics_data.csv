@@ -1,0 +1,972 @@
+"name","address","phone","rating","number_of_reviews"
+"Dhaliwal Hospital","3, Batala Rd, Shivala Colony, Amritsar, Punjab 143001, India","077106 77002",4.7,508
+"Demat9","3, Ann Kay Victory Tower M.M.Malvyia Road, INA Colony, Amritsar, Punjab 143001, India","093104 33649",2,1
+"ARORA DENTAL CLINIC","C-8,, Dhab Khatikan,, near Hindu College Amritsar, Near Moti Mahal, Lohgarh Gate, Katra Ahluwalia, Amritsar, Punjab 143006, India","098142 55510",4.7,38
+"Hundal Dental Traders-Dental Chair, Extraction Instruments & Autoclave Equipment’s Dealers | Disposables Supplier in Amritsar","Doctors Complex, children Hospital, Majitha Rd, opp. Govt. Eye & ENT Hospital & Naresh Grover, near Gupta Bakers & Dr Puri Lab, Opp. ENT Hospital, Medical Enclave, Amritsar, Punjab 143001, India","098038 80555",5,58
+"PARVEEN SAINI ROBOTICS ORTHOPAEDIC BEST KNEE , HIP& SHOULDER JOINT REPLACEMENT ADVANCED CENTRE AND DENTAL ORTHODONTIC CENTRE","70-C, Taylor Road, Chanderpuri, Near, Lawrence Road, opposite Gandhi grounds, near heritage club, INA Colony, Amritsar, Punjab 143001, India","0183 221 0682",4.8,126
+"Dream Smiles Dental & Skin Care","Mall Rd, Kennedy Avenue, Amritsar, Punjab 143001, India","N/A",4.7,37
+"Dentista Dental Clinic","Pushpa Market, Lawrence Road Ext, opp. Axis Bank, near Tare Di Hatt, Amritsar, Punjab 143001, India","081467 58164",4.5,2
+"Sahib Dental Clinic","B -48 Ranjit Avenue Near Shemrock Public School, B - Block, Ranjit Avenue, Amritsar, Punjab 143001, India","075892 06060",4.8,49
+"Clove Dental","Pal Tower, Lawrence Road, near Nayyar Hospital, Shastri Nagar, Extn, Amritsar, Punjab 143001, India","011 6927 1067",4.9,586
+"Smile N Shine Super Speaciality Dental Clinic","opposite gali teliya wali, Sewak Mandi, Nimak Mandi, Amritsar, Amritsar Cantt., Punjab 143001, India","085918 64749",4.9,34
+"Dr manjul mehra Kashvi Dental Care","536, opp. mehak park, Gumtala Sub Urban, E-Block, Ranjit Avenue, Amritsar, Punjab 143001, India","N/A",4.8,9
+"Dr. Simar's Dental & Oral Care Clinic","Ram Talai Rd, Main Bazaar, New Golden Avenue, Sharifpura, Amritsar, Punjab 143001, India","N/A",4.8,133
+"Dukhniwaran Dental Clinic","Flat shop 33, Ranjit avenue B block, opposite to HDFC atm in, Gumtala Sub Urban, A - Block, market, Amritsar, Punjab 143001, India","085289 35037",4.9,315
+"Clove Dental","SCO- 75, above Kafeine Cafe, near Mahindra Showroom, Gumtala Sub Urban, D - Block, Ranjit Avenue, Amritsar, Punjab 143001, India","095992 16884",4.9,534
+"Dental Joy Dental Clinic","883, Circular Rd, Medical Enclave, Amritsar, Punjab 143001, India","073555 90315",5,103
+"S P Arora and Co","Mohanlal & Sons, Majitha Mandi, Shastri Market, Shastri Market, Near Bhandari Bridge, Guru Arjun Nagar, Amritsar, Punjab 143001, India","0183 253 3245","No rating available","No reviews"
+"Dr. Puneet Kumar","INA Colony, Amritsar, Punjab 143001, India","N/A","No rating available","No reviews"
+"Parekh Dental Clinic","#208, Queens Rd, near Crystal Chowk, Crystal Chowk, INA Colony, Amritsar, Punjab 143001, India","098768 83599",4.8,78
+"SHAKTI ORTHO","JVJF+HXW, Chitra Talkies Rd, Hall Gate, Hall Bazar, Katra Ahluwalia, Amritsar, Punjab 143001, India","094170 17032",5,1
+"Smile dental spa","172, Katra Moti Ram, Hathi Gate, Hall Gate, Hathi Gate, Katra Ahluwalia, Amritsar, Punjab 143001, India","098762 00359",4.9,34
+"Om Enterprises","JVHF+HVM, Kucha Dai Khana, Katra Sher Singh, Katra Ahluwalia, Amritsar, Punjab 143006, India","099145 29536","No rating available","No reviews"
+"Dr.Amit Sharma","Hathi Gate, Katra Ahluwalia, Amritsar, Punjab 143006, India","N/A","No rating available","No reviews"
+"Ram Parkash Ashok Kumar","JVHH+R4X, Chownk, adjacent to Gupta Cloth House, Katra Bhagian, Hall Bazar, Ram Bagh, Amritsar, Punjab 143001, India","0183 254 1268","No rating available","No reviews"
+"Dr.Sushil Gupta","Hall Bazar, Katra Ahluwalia, Amritsar, Punjab 143006, India","N/A","No rating available","No reviews"
+"Dr. YUKTI GUPTA","DENTAL STUDIO, The Mall, Adult and Paediatric Dentistry,, Basement DR VED GUPTA HOSPITAL, 355, MALL ROAD, Adjoining Govt. Girls School,, AMRITSAR, 117-A, White Avenue, Amritsar, Punjab 143001, India","N/A",5,5
+"Dr. HIRA LAL KHANNA","Katra Parda, Katra Ahluwalia, Amritsar, Punjab 143006, India","N/A","No rating available","No reviews"
+"Dr. Om Parkash Dental","The Mall, 117-A, beside omaxe novelty mall, White Avenue, Amritsar, Punjab 143001, India","080546 12345",4.9,556
+"Gupta Dental Care","Nanak building, Lawrence Road, opposite Nehru shopping complex, White Avenue, Amritsar, Punjab 143001, India","081461 96779",4.8,5
+"Dr.Krishna Oberoi","JVMM+FF2, Shivala Rd, Near Fatak, West Hussain Pura, Hussainpura, Amritsar, Punjab 143001, India","N/A","No rating available","No reviews"
+"( Child dental care) Aesthetica dental care","28, Rose Ave, White Avenue, Amritsar, Punjab 143001, India","099888 29102",4.8,51
+"Taneja Dental Clinic","Bus Stand, Near Fatak, West Hussain Pura, City Centre, Amritsar, Punjab 143001, India","098159 20482","No rating available","No reviews"
+"New Era Dental Lab","Near Fatak, West Hussain Pura, Hussainpura, Amritsar, Punjab 140003, India","N/A",5,3
+"WORLD DENTAL CARE CENTRE","BUILDING NO 46, Rani Ka Bagh, Mohindra Colony, Amritsar, Punjab 143001, India","075084 57089",5,443
+"Dentales","LGF-4, Eminent Mall, Mall Rd, Kennedy Avenue, Amritsar, Punjab 143001, India","096815 50009",5,92
+"Biala Dental Care & Implant Centre","54a hukam singh road bhavan's S.L.public school lane, Shivala Colony, Amritsar, Punjab 143001, India","098727 61938",4.9,33
+"Batra Dental Clinic","Mandir, near, Shivala Rd, Sunder Nagar, Amritsar, Punjab 143001, India","096463 53551",5,1
+"Anmol dental clinic","188-b, Rani Ka Bagh, Mohindra Colony, Amritsar, Punjab 143001, India","081463 02177",5,15
+"Dr. Parveen Narang","Inside B.K. Dutt Gate, Lohgarh Gate, Katra Ahluwalia, Amritsar, Punjab 143006, India","N/A","No rating available","No reviews"
+"Kundan Dental Care Clinic","Building no. 2320, Bus Stand, opposite City Center(Near, Sharifpura, Amritsar, Punjab 143001, India","076967 68939",5,167
+"Young's & Café","23A, Lawrence Road, Nagi jawlersh, White Avenue, Amritsar, Punjab 143104, India","N/A","No rating available","No reviews"
+"Lawrence Dental Clinic","2 Navi Sadak, Dayanand Nagar, Opp Sanjha Chula, opposite B.B.K DAV college, Opp. BBK DAV College, Dayanand Nagar, Amritsar, Punjab 143001, India","098720 92226",4.8,9
+"Modern Dental Clinic","4-A, Ground Floor, Lawrence Road,Nai Sadak, Dayanand Nagar, Amritsar, Punjab 143001, India","090411 04007",4.6,10
+"Aanchal Dental Care and Implant Centre","283, near Government Girls School, Shivala Colony, Amritsar, Punjab 143001, India","094637 57946",5,5
+"Dr. A.D. Singh","Tilak Nagar, Amritsar, Punjab 143001, India","N/A","No rating available","No reviews"
+"Bright Smiles Dental Clinic","JVQP+WMM, Mall Rd, Maharaja Ranjit Singh Nagar, Joshi Colony, Amritsar, Punjab 143001, India","N/A","No rating available","No reviews"
+"Dr Gupta's Dental Hub","11 a, Maqbool Rd, White Avenue, Amritsar, Punjab 143001, India","098140 14147",4.9,130
+"Dr. Joginder Singh Memorial & Sons Dental Clinic","Dhab Khatikan, Katra Ahluwalia, Amritsar Cantt., Punjab 143006, India","N/A",5,1
+"Dr Sood's Dental Point Clinic","106, Shivala Rd, Professor Colony, Tilak Nagar, Amritsar, Punjab 143001, India","098147 77985",5,4
+"Dr Neha Arora Dental Clinic","Dr. Neha Arora Dental Clinic, I/s, Beri Gate Market, Amritsar, Punjab 143001, India","077430 26101",5,30
+"DR.SATYA NAND SHARMA","Dhab Khatikan, Katra Ahluwalia, Amritsar Cantt., Punjab 143006, India","N/A","No rating available","No reviews"
+"Tirupati Dental Care Centre","Shri Nathji Apartment,Osmanpura Road, oppo Hotel Manor besides National Flag, post, beside Dig Jam showroom, New Usmanpura, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","083905 64777",4.9,84
+"Raman Dental Clinic","A7, Gajanan Vaibhav Narayan Plaza, Cannought Garden, N 5, Cidco, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","099230 88034",5,76
+"CITY DENTAL CENTRE","1st Floor, Mahaveer Complex, Above state bank of hyderabad, akashwani chowk, Jalna Road, Jlal Colony, Kailash Nagar, Mondha, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","099218 12233",4.8,166
+"Bhute Spine Clinic And Orthodental Care","Satya dharma complex, between rc bafna jewellers and atul honda showroom,, Aakashwani chowk, Mahesh Nagar, Mondha, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","080871 02525",4.8,77
+"PARGAONKAR DENTAL CLINIC","Kalda Corner, Plot No.1/7, New Shreya Nagar, Rachana, Ramanagar, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","0240 233 5314",5,38
+"The Lotus Dental Care","Shop No 1, Plot no 7, near Paripurti Nursing Home, opposite Amrutvel Hospital, Shrikrishna Nagar, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431009, India","095612 66616",5,8
+"Naser Dental Care Centre","Plot Number 20 Ahebab Colony, Urdu School, Kat Kat Gate Rd, near Aneesa, Younus Colony, Kat Kat Gate, N 10, Cidco, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","080075 55568",5,21
+"Dental & Oral Care Centre","Block number 8, First floor, Disha Square Building, near Devgiri Bank, behind Gajanan Book Store, Sutgirni Chowk, Kasliwal Nagar, Garkheda, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431005, India","098227 70880",5,43
+"The Tooth Clinic","Plot no. 5 Sahajeevan co op society, Opp. Vawan Hari Pethe Jewellers, Sahjeevan Colony, Nutan Colony, Samarth Nagar, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","N/A",4.9,27
+"Sharda Dental Hospital","Anjana Complex, Opp. Cannought Garden North Gate, Near Bombay Stationery, Cannought Place, CIDCO Cannought, Cidco, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431003, India","098226 61654",4.4,7
+"Dr Hedgewar Rugnalaya","Near Gajanand Maharaj Mandir, Road, Jawahar Colony, Garkheda, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431005, India","0240 224 5000",4,634
+"Dr. Bhagyashree Ambewadikar","Indrayani Multispeciality Dental Clinic, Bajrang Chowk Rd, N-6, Cidco, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431003, India","080 4696 1837","No rating available","No reviews"
+"Goklani's Dental & Cosmetic Clinic","Jalna Road, opp. Akashwani Kendra, near Medical, Jlal Colony, Kailash Nagar, Mondha, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","094046 06090",4.6,41
+"Shri Mahavir Dental Speciality Clinic","Opp. Akashwani, Mahesh Nagar, Ahinsanagar, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","N/A",4.8,4
+"Relief Dental Clinic","First floor satyadharm complex akashwani chowk, V8GW+QJC, Mahesh Nagar, Mondha, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431003, India","N/A","No rating available","No reviews"
+"Dr. Seemit Shah","Apex Hospital Road, Jalna Road, Opp. S.F.S. School, Venkatesh Nagar, Mondha, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","098231 29828",4.7,14
+"BANG DENTAL CLINIC","7, Jalna Road, Opp. S.F.S. School, Mahesh Nagar, Mondha, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","0240 232 5966",5,1
+"Jain Clinic","V8FW+797, Bhanudas Nagar, Jawahar Nagar, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431003, India","098508 99377","No rating available","No reviews"
+"Dr Smita Shinde - Best Dentist In Aurangabad, Root Canal Specialist & Dental Implant Surgeon","Plot No.11, Carewell Superspeciality Hospital, Jalna Road, opp. S.F.S School, Venkatesh Nagar, New Usmanpura, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","070219 55835",5,30
+"Dwarka Dental Clinic","First Floor, Chetan Super Market, Trimurti Chowk, Jawahar Colony, Trimurti Chowk, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","098222 99733",4.9,18
+"अष्टविनायक Dental Clinic & Implant Center","Lokmitra Colony, Sindhi Colony, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","070307 77723",4,2
+"Anmol","N-3-5-712, Sanjay Nagar, Mondha, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","N/A","No rating available","No reviews"
+"CareKid Dental Center","Office no. 217, 1st floor, Matrix Business center, Kalda Corner, Chetana Nagar, Sindhi Colony, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","093700 54404",5,126
+"Sarvadnya Advance Dental Care, Ch. Sambhajinagar ( Aurangabad)","Shop No. 118,119 Ground Floor, Matrix Complex, Kalda Corner, Chetana Nagar, Sindhi Colony, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","074988 97532",5,307
+"Crowns n Braces Orthodontic & Implant Dental clinic","3rd floor, Matrix business center, opposite HP petrol pump, above sudarshan netralay, Kalda Corner, Chetana Nagar, Sindhi Colony, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","099690 83409",5,16
+"Kranti Dental Care - best dental clinic in Aurangabad,laser,Cosmetic,Root canal,Implantologist,Crown,Implants,Tooth Filling","Om 25, Shri Vyankatesh Housing Society, jawahar Colony Area, Near Chetak Chetak ghoda Chowk, Shastri Nagar, Sindhi Colony, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431005, India","087669 21820",4.9,122
+"Dr. Tejal Pallod DentalWorld Dental Clinic & Implant Center","Jalna road, second floor, Oberoi chamber, beside hotel amarpreet, Rokda Hanuman Colony, Mondha, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","093250 42232",5,99
+"PEARL DENTAL CLINIC","V8PR+2HQ, Jinsi Police Station Rd, Nawabpura, Mondha, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431003, India","N/A","No rating available","No reviews"
+"Shinde Speciality Dental & Implant Center | Best Dentist in Aurangabad | Root Canal Specialist | Dental Implant Surgeon","Goodman's Residency, Shop No. 2 7 hills, to, Gajanan Maharaj Mandir Rd, near HDFC bank, Vidya Nagar, Nyay Nagar, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431005, India","082750 04720",5,101
+"Dr. Patil's Complete Dental Solutions","Shreya Nagar Old, New Usmanpura, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","N/A","No rating available","No reviews"
+"JAMBURE DENTAL CLINIC","Siddhi arcade, Darga Rd, near hdfc bank, Kalda Corner, Shreya Nagar Old, New Usmanpura, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431005, India","077093 18905",4.8,78
+"Dr. Pallavi Gokhale","Plot No 50, Chetak Ghoda Chowk, opp. Sapna Super Market, Jai Vishwa Bharti Colony, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431005, India","1860 500 1066","No rating available","No reviews"
+"Ambulgekar’s Smilax Dental Care","Flat no1, Vaibhavshree Apartment, Agnihotri Chowk Rd, near Chetak ghoda, Aanad Nagar, Shastri Nagar, Sindhi Colony, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","N/A",5,31
+"Om Dental clinic","Om dental clinic, Ulkanagari Rd, Garkheda Area, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431005, India","N/A",5,7
+"बालाजी दातांचा दवाखाना","V88W+82H, Golvalkar Guruji Marg, Basant Bahar, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431009, India","N/A","No rating available","No reviews"
+"Dr. Wahab Shaikh","Noor Super Speciality Dental Hospital & Cancer Clinic, Galli Number 18, opp. Buddh Vihar, near Rahat Hospital, Baijipura, Indira Nagar, Mondha, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431003, India","084215 86542",5,6
+"Dental & Oral Care Centre","7, Garkheda Rd, Sarang Housing Society, Gajanan Maharaj Mandir Chowk, Garkheda, Sandesh Nagar, Chaitanya Nagar, Garkheda, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431005, India","0240 245 1577","No rating available","No reviews"
+"Dr Ghunawat Microdentistry","119,Behind Roplekar Hospital, Krishnaparijat, Tilaknagar, New Usmanpura, Tilaknagar, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","098907 52227",4.9,15
+"Somulwar Dental Clinic and Root Canal Centre","Khivansara park, Garkheda Area, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","N/A","No rating available","No reviews"
+"Arham Dental Clinic","Shop No.F, khivansara Mayfair, 08, Ulkanagari Rd, near Eknat Hospital, Ashok Nagar, Garkheda, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","N/A",4.6,5
+"Shree Jeevan Dental Care","Shop no. F16, 1st floor, August High Street Complex, Garkheda Area, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","083901 65777",5,5
+"Positive Dental Clinic And Root Canal Centre","shariff colony, Al-meer school, Roshan Gate Rd, Sharif Colony, Jaswantpura, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","099607 43888",5,1
+"Dr.m.a Pasha Dental Clinic","Roshan Gate, Sharif Colony, Jaswantpura, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431003, India","098223 37907",5,1
+"Dr. Gyansudha D. Gawali - Best Dentist in Aurangabad","Dental Roots, Shop No. 6, Disha Sankul Complex, near Reliance Mall, Chhatrapati Nagar, Chattrapati Nagar, Garkheda, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","0788 780 6807","No rating available","No reviews"
+"Dental Roots","Shop No. 6, Disha Sankul Complex, near Reliance Mall, Chhatrapati Nagar, Chattrapati Nagar, Garkheda, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","0788 780 6807",5,5
+"MEHER DENTAL CLINIC","Shahgunj, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431003, India","N/A","No rating available","No reviews"
+"Perfect Smile Dental Clinic","Perfect Smile Dental Clinic, near central octroi, Sambhaji Colony, Mathura Nagar, N-6, Cidco, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431002, India","097655 17777",4.9,110
+"Abhi's Dental Clinic","Ground floor, Plot no, 95B, ShreeNidhi building, besides Bilgee hospital, near Kalda corner, Shambhu Mahadev Nagar, Shreya Nagar, New Usmanpura, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431005, India","090045 77044",5,16
+"Manal Dental Clinic","Chelipura, Shahgunj, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","N/A","No rating available","No reviews"
+"Subhan Allah Dental Clinic","Shahbazaar, near Kali Masjid T.T.S.(Ahle Sunnat Wa Jamaat)(Zohar-1:30, Juma-1:30), Labar Colony, Shah Bazar, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra 431001, India","N/A",5,5
+"Bansal Dental Care","62, Saharanpur Rd, Arhat Bazaar, Lakkhi Bagh, Dehradun, Uttarakhand 248001, India","097604 36805",4.7,77
+"Dr. Sneha Sarin's SmileCraft Dental Clinic","168 - Arhat Bazaar, Opp. Hotel Narula, Saharanpur Road, Laxman Chowk, Laxman Chowk, Dehradun, Uttarakhand 248001, India","070880 57057",4.7,62
+"Perfect Smile Dental Care & Implant Centre","25, Tilak Rd, Near Silver bells school, Tilak Nagar, Khurbura Mohalla, Dehradun, Uttarakhand 248001, India","094113 11030",4.8,85
+"AGRAWAL DENTAL CLINIC","82GP+R4V Rajshree Complex, Chakrata Rd, near CHARAK PATHOLOGY, near Nari Shilp Girls Inter College, Tagore Villa, Chukkuwala, Dehradun, Uttarakhand 248001, India","094567 56700",4.8,614
+"Dr.Patil Dental Implant and Laser Centre","Subhash Rd, Irigation Colony, Karanpur, Dehradun, Uttarakhand 248001, India","0135 271 2733",3.5,13
+"DENTOCARE DENTAL AND IMPLANT CENTRE","460, GMS Rd, Engineers Enclave, Kanwali, Dehradun, Uttarakhand 248001, India","097603 27027",4.9,142
+"Dr Rastogi’s Dental Clinic","Shop No. 4, Chanakya Towers, Dilaram Bazar, Kandholi, Chironwali, Dehradun, Uttarakhand 248001, India","094120 52826",4.3,105
+"Smile Zone Dental Care Centre","near Punjab National Bank, Anurag Chowk, Dehradun, Uttarakhand 248001, India","098975 81019",4.6,38
+"Parish dental clinic","SHOP NO-4,RR-TOWER, Kargi Rd, Brahmanwala, Dehradun, Uttarakhand 248001, India","097607 23147",4.5,11
+"Dentist Dehradun","First Floor, Victory Point, 34, Ballupur Rd, Ram Vihar, Ballupur, Dehradun, Uttarakhand 248001, India","099970 03844",5,74
+"Health Column","33, Saket Colony, Ajabpur Kalan, Dehradun, Uttarakhand 248001, India","0135 266 9707",4.3,10
+"Dental Plus Clinic / Dr. Jigyasa Bhardwaj","Dental Plus Clinic, Rispana Bridge, Pragati Vihar, Ajabpur Kalan, Dehradun, Uttarakhand 248001, India","087557 03677",5,37
+"Dr Kanika Kohli Dental Surgeon","35, Arhat Bazar Rd, Saharanpur Chowk, Jhanda Bazar, Arhat Bazaar, Jhanda Mohalla, Dehradun, Uttarakhand 248001, India","0135 272 0063",4,49
+"Nayti Dental Clinic","56/2, Kanwali Rd, Saharanpur Chowk, Jhanda Bazar, Jhanda Mohalla, Dehradun, Uttarakhand 248001, India","099275 27740",4.9,10
+"Smile Please Dentocare & Implant Centre","30, Kamal Market, Pipal Mandi, Dhamawala Mohalla, Paltan Bazaar, Dehradun, Uttarakhand 248001, India","094573 55661",5,37
+"Dr. Abhishek Vashist- Dental Surgeon in Dehradun","My Dental Clinic 70, Uttrakhand Gramin Bank, Saharanpur Rd, Arhat Bazaar, Lakkhi Bagh, Dehradun, Uttarakhand 248001, India","099978 00022","No rating available","No reviews"
+"Dr. Sunny Remedo","10, Paltan Bazar Rd, Tilak Nagar, Jhanda Mohalla, Dehradun, Uttarakhand 248001, India","N/A",5,1
+"Dental Impression","Ground Floor, PLS Plaza, BG 07, Gandhi Rd, near SBI, Dhamawala Mohalla, Dhamawala Bazaar, Dehradun, Uttarakhand 248001, India","081710 48085",4.5,13
+"Dr. Alok Teotia","Indresh Nagar, Laxman Chowk, Dehradun, Uttarakhand 248001, India","N/A","No rating available","No reviews"
+"The Dental Clinic | Dr. Priyanka Mittal | General Dental practitioner | Chukkuwala, Dehradun","40, Chakrata Rd, near ICICI Bank, Tagore Villa, Chukkuwala, Dehradun, Uttarakhand 248001, India","097600 30679","No rating available","No reviews"
+"Rizvi Brothers","Shop-109, near Kotwali, Kotwali, Ajit Prasad Nagar, Paltan Bazaar, Dehradun, Uttarakhand 248001, India","078953 02273","No rating available","No reviews"
+"Dentara - Best Dentist in Dehradun | Braces | Implants | Dental Clinic | RCT | Clinical Cosmetologist","39, Court Rd, opposite S.S.P Office, Race Course, Dehradun, Uttarakhand 248001, India","082798 08323",4.9,117
+"SAI KRIPA DENTAL IMPLANT SOLUTIONS","84/45, Ansari Marg, near MAA KAALIKA TEMPLE, Machhi Bazar, Paltan Bazaar, Dehradun, Uttarakhand 248001, India","098371 34939",4.6,22
+"THE SMILE ESSENTIAL DENTAL CLINIC","63, Ansari Marg, Machhi Bazar, Connaught Place, Dehradun, Uttarakhand 248001, India","N/A",4.9,95
+"Rawat dental clinic","6, New Rd, Near Government Doon Medical College Hospital, Race Course, Dehradun, Uttarakhand 248001, India","090120 80298",4.7,12
+"Hari Ram Kohli Memorial Hospital","6,2b, Haridwar Rd, Shiv Nagar, Old Nehru Colony, Dharampur, Dehradun, Uttarakhand 248001, India","094563 00063",3.9,198
+"Aradhana Dental Care","58 A New, Connaught Place, Dehradun, Uttarakhand 248001, India","095571 83100","No rating available","No reviews"
+"Dr. Vineet Verma- Dentist in Dehradun","Ayushmaan Dental Clinic, Sbi Bank, C- 302, Govind Garh Rd, Prakash Nagar, Yamuna Colony, Khurbura Mohalla, Dehradun, Uttarakhand 248001, India","097617 40018","No rating available","No reviews"
+"Dental Care Centre","Dispensary Road , K C City Centre , opp Gandhi inter college, Darshan Lal Chowk, Harrawala, Dehradun, Uttarakhand 248001, India","N/A",4.2,25
+"32 Whites - Dental Clinic","1, Omkar Plaza, Bindal Bridge, Clock Tower, Chakrata Rd, Bindaal Tirahya, Khurbura Mohalla, Dehradun, Uttarakhand 248001, India","0135 262 9999",5,2
+"BELWAL DENTAL CLINIC","3/233, Chakrata Rd, opp. Prabhat Cinema, Chukkuwala, Dehradun, Uttarakhand 248001, India","N/A",5,7
+"Dr. U. C. Chandna","Clock Tower, Chukkuwala, Dehradun, Uttarakhand 248001, India","N/A","No rating available","No reviews"
+"Udant","1, Race Course Rd, Amarshahid Anand Colony, Race Course, Dehradun, Uttarakhand 248001, India","N/A","No rating available","No reviews"
+"Dr. Krishna Prakash","Haridwara RoaEastern Canal Road, 105, Dehradun Uttarakhand 248001 IN, 65, EC Road, adjoining Police Chauki, Guru Nanak Vihar, Race Course, Araghard, Dehradun, Uttarakhand 248001, India","N/A",5,1
+"Dr. Harish Joshi","Indraprasth Lane No. 8, Punjab National Bank, Ring Rd, Nehrugram, Dehradun, Uttarakhand 248005, India","N/A",5,1
+"Smile Design","829W+27Q, New Rd, Race Course, Dehradun, Uttarakhand 248001, India","N/A","No rating available","No reviews"
+"Dental Hub: Braces and Implant Centre","Suri chowk, opposite Axis bank, above beenos fast food, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001, India","098059 05858",5,27
+"Dr. Anjum Aggarwal's Dental Clinic","F-1, Race Course Rd, Near, Police Line, East Rest Camp, Chander Nagar, Race Course, Dehradun, Uttarakhand 248001, India","N/A",5,2
+"Dr.Mehta's Dental Centre","16 A, 16A, New Rd, near Uttranchal Gramin Bank Head Office, near MKP crossing, Race Course, Dehradun, Uttarakhand 248001, India","0135 265 4445",3.9,26
+"Dr. Vimal Paul","Kanwali Rd, MDDA Colony, Govind Garh, Khurbura Mohalla, Dehradun, Uttarakhand 248001, India","N/A","No rating available","No reviews"
+"Dr. Tanu Anand- Dental Surgeon in Dehradun","Dental Solutions, 51/4-B, Haridwar Rd, near sanjana pathology lab, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001, India","088595 44167",5,1
+"Dr. Kartikay Kasariya","New Rd, near Dwarka Store, Race Course, Dehradun, Uttarakhand 248001, India","N/A",5,9
+"Tooth Fairy kids & Family Dental Care","chowk, near Pathri bagh, opp. SLV Inter college, Patel Nagar, Dehradun, Uttarakhand 248001, India","095288 75891",5,63
+"beyond smiles, dental clinic and implant centre","d, 34, Race Course Rd, opp. police line ground, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001, India","0135 272 1537",4.8,114
+"Dr. Ashish Negi","General Mahadev Singh Rd, near Hotel Sun Park In, Shakti Enclave, Kaonli, Dehradun, Uttarakhand 248171, India","096903 72441","No rating available","No reviews"
+"Dr. R.K. Verma","Chukkuwala, Dehradun, Uttarakhand 248001, India","N/A","No rating available","No reviews"
+"Saleem Pahalwan","Shree Ram Shopping Complex, Kanwali Rd, Shriram Puram Colony, Kaonli Road, Dehradun, Uttarakhand 248001, India","092191 16673","No rating available","No reviews"
+"Doon Family Dental Clinic","Haridwar Rd, near Doon Valley Nursing home, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001, India","099178 07508",4.8,5
+"Dr. Ujjval Mehrotra","Araghar Chowk, Kushal Plaza, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001, India","N/A","No rating available","No reviews"
+"Dr. P.k. Panwar","82HF+R2J, Ballupur Rd, Mitralok Colony, Akashdeep Colony, Khurbura Mohalla, Dehradun, Uttarakhand 248001, India","095571 96074",5,1
+"Dr. Bharat Bhushan Sethi, New Delhi","111, Vijay Vihar Phase II, Avantika, Pocket D, Sector 1, Rohini, Delhi, 110085, India","098180 25045","No rating available","No reviews"
+"Dr Anubha Grover (Dental Clinic)","Shop 28, CSC 5, Sector 9, Rohini, Rajapur, Pocket 12, Sector 9, Rohini, Delhi, 110085, India","098102 40863",4.9,46
+"Bright Smile Dental Clinic","98 A, Block CD, Dakshini Pitampura, Pitampura, New Delhi, Delhi, 110034, India","098114 79332",4.9,9
+"Advanced Dental Solutions","D-14/19, Maharaja Agrasen Marg, Sector 3, Sector 3D, Rohini, Delhi, 110085, India","098999 12606",4.8,26
+"Clove Dental","next to Krishna Jwellers, Pocket 21, Sector 3, Rohini, Delhi, 110085, India","095992 16884",4.9,872
+"kapil dental clinic & implant center","a-1/681, Sector 6 Rd, Pocket 1, Sector 6A, Rohini, New Delhi, Delhi, 110085, India","098117 33823",4.8,589
+"Smilemax Dental Clinic","SmileMax Dental, WZ-548-B, opposite Sanik vihar gate no.1 park, Rani Bagh, Rishi Nagar, Pitampura, New Delhi, Delhi, 110034, India","088002 11141",5,67
+"Clove Dental","Maharaja Agrasen Marg, above Yes Bank, Pocket 2, Sector 7A, Rohini, Delhi, 110085, India","011 6927 1061",4.9,1123
+"Faith Dental","Pocket A-1, Flat no. 4, first floor, Pradeep Bhatia Marg, near M2k Cinemas, Pocket 1, Sector 7, Rohini, Delhi, 110085, India","099117 29999",5,45
+"Dantam - Dental & Aesthetics Clinic [Dr. Shubhra's] | Best Dental Clinic Pitampura","11, First Floor, Tarun Enclave, Pitampura, Delhi, Parwana Rd, Deepali, Pitampura, New Delhi, Delhi, 110034, India","099714 66087",4.9,63
+"Dr. Gupta's Dental Clinic","Dr Gupta's Dental & Braces Clinic- C 7/97, Ground Floor, Sector 8, Rohini, Pocket 4, Sector 8C, Rohini, Delhi, 110085, India","099102 57800",4.3,151
+"Best Plastic Surgeon in Rohini, Pitampura, Delhi - Tandon Clinic","Pocket C8 599, pocket C8,Bhagawan Mahavir Marg Sector 8, Rohini Near Madhuban Chowk Entry into DDA flats from gate, opposite Metro Pillar Number 374, Pocket 8, Sector 8C, Rohini, New Delhi, Delhi, 110085, India","096502 50665",4.6,19
+"Illumident-Dental Surgery and Implants Centre","1067, Block E, Saraswati Vihar, Pitampura, Delhi, 110034, India","098911 13964","No rating available","No reviews"
+"Dr Bhatia's Dental Care","134, Anand Vihar, Landmark:, near Vishal school, Pundrik Vihar, Pitampura, Delhi, 110034, India","088606 92858",5,352
+"Dr. Shweta's Dental and Implants Clinic | Best Dentist & Implants Clinic in Sector 8 Rohini","Madhuban Chowk, 579/C-8, opposite Metro Pillar Number 373, Pocket 8, Sector-8, Rohini, Delhi, 110085, India","096502 26303",4.8,108
+"Family Dental Clinik","North Ex Mall, A 204, North, Rajapur, Pocket 18, Sector 9, Rohini, New Delhi, Delhi, 110085, India","098189 34383",5,51
+"Clove Dental","Ground Floor, Block E, Saraswati Vihar, Pitampura, New Delhi, Delhi, 110034, India","095992 16884",4.9,458
+"FUTURIS HEALTH----- DENTAL, IMPLANT & BRACES CLINIC","65, Shakti Vihar, Pitampura, Delhi, 110034, India","098995 45852",5,34
+"Dr Tarun's Dental - Dentist","Near Crpf School, B-65, Ground Floor, Prashant Vihar, Sector 14, Rohini, New Delhi, Delhi, 110085, India","093151 01096",4.9,84
+"INNODENT (Innovative Dentistry)","GD-23, Shaheed Jagat Narayan Marg, GD Block, Dakshini Pitampura, Pitampura, Delhi, 110034, India","088607 91111","No rating available","No reviews"
+"Sparkling Smile Aesthetics Dental Studio","D-63, New Multan Nagar, near paschim Vihar metro station, New Multan Nagar, Shakur Basti, Delhi, 110056, India","085954 81991","No rating available","No reviews"
+"Preet Dental","A-3/264, First Floor, Police Colony, A 3 Block, Paschim Vihar, Delhi, 110063, India","098115 56609",4.4,57
+"Dental Excellence","B-5/73, Sunday bazar road near MCD primary school,, sector-11, Rohini, Block C, Pocket 5, Sector 11, Rohini, Delhi, 110085, India","099534 30644",5,1
+"Clove Dental","next to Jindal Store, Block C, Pocket 5, Sector 11, Rohini, Delhi, 110085, India","095992 16884",4.9,750
+"REGAIN DENTAL SPECIALITY CLINIC","D-3/104,1ST FLOOR,PROGRESSIVE CHAMBERS, D-BLOCK, CENT.MKT, opp. Pvr Prashant Vihar Road, Prashant Vihar, Sector 14, Rohini, Delhi, 110085, India","098111 59163",4.8,42
+"Clove Dental","Pocket KD Market, above Dominos, above Domino's, Block KD, Dakshini Pitampura, Pitampura, Delhi, 110034, India","011 6927 1061",4.9,468
+"DENTAL HIVE a unit of (Dr Gargs Dental Care & Cure Centre)","45,First Floor,CSC DDA Market AP Block,Pitampura, Block AP, Poorvi Pitampura, Pitampura, New Delhi, Delhi, 110034, India","N/A",4.6,41
+"Vardhman Dental Care","114, 115 & 117; 1st floor, Vardhaman Shopping Complex, Rohit Kunj, market, Pitampura, Delhi, 110034, India","082851 01213",4.9,72
+"C.S.B Multispeciality Dental Clinic;","G-18/41, Dr. KN Katju Marg, Sector 15, Pocket 18, Sector 15G, Rohini, Delhi, 110089, India","092123 90005",4.8,120
+"Dental Works","A-3/265, First Floor, above Caratlane showroom, opposite Jain Mandir, Police Colony, A 3 Block, Paschim Vihar, Delhi, 110063, India","078278 18169",4.9,112
+"Sarin Dental Clinic","Shop No.103, Aditya Complex, Adarsh Nagar, Block AP, Poorvi Pitampura, Pitampura, Delhi, 110034, India","092138 12900","No rating available","No reviews"
+"Dr.Chawla's Pearl Dental Clinic","Shop No 12,DDA Market,Rajdhani Enclave, Near Mahindra park chowk(Ranibagh),Pitampura, Shree Nagar, Rajdhani Enclave, Pitampura, Delhi, 110034, India","099960 36515",5,2
+"Dental Care N Cure Clinic","D2, 1st Floor, Shubham Enclave, Jwala Heri Main Rd, opp. District Park, Shubham Enclave, Reserve Bank Enclave, Paschim Vihar, Delhi, 110063, India","093109 99214",5,283
+"Dr. Kukreja's Dental Care","Rajdhani Enclave, Shree Nagar, Rajdhani Enclave, Pitampura, Delhi, 110034, India","099999 44222",4.2,5
+"Clove Dental","next to Indian Bank, Guru Harkishan Nagar, Paschim Vihar, New Delhi, Delhi, 110063, India","011 6927 1059",4.9,570
+"Goel Dental & Orthodontic Centre","GH-14/113, Opposite Guru Harkishan Nagar, Nangloi Saiyed Rd, GH 14, Block GH 14, Paschim Vihar, Delhi, 110087, India","098916 79400",4.1,9
+"WISDOM BITES DENTAL CLINIC & IMPLANT CENTER","ND 10, Block ND, Dakshini Pitampura, Pitampura, New Delhi, Delhi, 110034, India","099103 73736",4.8,40
+"SR Dental & Implant Centre","Vardhman Hospital,, Sector 15, Sector 15C, Rohini, Delhi, 110085, India","N/A","No rating available","No reviews"
+"Braces & Dental Clinic","NP-99A, First Floor,, Maurya Enclave, (Near Gopal Mandir), Pitampura, Gopal Mandir Marg, Block NP, Poorvi Pitampura, Pitampura, Delhi, 110088, India","098111 76355",4.2,11
+"D'Care Skin & Dental centre","NP 154 ground floor, opposite JP Market, MP Block, Block NP, Poorvi Pitampura, Pitampura, Delhi, 110034, India","093104 88406",4.7,26
+"Clove Dental","opp. Gujarati Namkeen, near Manav Chowk, Sector 15, Pocket 10, Sector 15D, Rohini, New Delhi, Delhi, 110089, India","011 6927 1061",4.9,740
+"Dental Que","55, W Ave Rd, West Punjabi Bagh, Punjabi Bagh, New Delhi, Delhi, 110026, India","011 4007 3363",4.3,53
+"Dr. Kukreja's Super Speciality Dental and Implant Centre","105-106, MP Mall, MP Block, Block UP, Poorvi Pitampura, Pitampura, Delhi, 110034, India","N/A",4.8,195
+"Clove Dental","Gopal Mandir Marg, Block QP, Poorvi Pitampura, Pitampura, New Delhi, Delhi, 110034, India","N/A",4.9,466
+"Dental Clinic & Dental Implants Centre | Dr Arun Grover","1, next to saral diagnostic centre, next to Gate No 1, Shakti Vihar, Pitampura, New Delhi, Delhi, 110034, India","098108 50226",5,40
+"HealthyGo .","Plot no- 31-32, Wazir complex, I, Rohtak Rd, Block 4 ABC, Nangloi Extension, Nangloi, New Delhi, Delhi, 110041, India","099583 63983",4.9,75
+"Delhi Dental Hub","Best Dentist, 9, State Bank Nagar, Paschim Vihar, Delhi, 110063, India","098913 73779",4.8,514
+"Clove Dental","opp. Central Market, next to Hair Mystery, West Punjabi Bagh, Punjabi Bagh, Delhi, 110026, India","088002 55338",4.9,808
+"Simplismile","30/42 Punjabi Bagh West, Road No. 42, West Punjabi Bagh, Punjabi Bagh, Delhi, 110026, India","011 4246 6940",5,9
+"Dental World - Dental Clinic in Delhi | Root Canal Treatment in Delhi | Invisible Braces & Invisalign In Delhi","No. 57, Road No. 42, West Punjabi Bagh, Punjabi Bagh, New Delhi, Delhi, 110026, India","098102 24317",4.9,239
+"Pearl 32 Dental Spa & Cosmetic Clinic","Dr. Dilip Sethia, Railway Gate, Anupam Building, 8, Assam Trunk Rd, Bharalumukh, Guwahati, Assam 781009, India","094354 47788",4.5,153
+"Metropolis Dental Clinic & Implant Center","Kachari Basti Rd, South Sarania, Lachit Nagar, Guwahati, Assam 781007, India","088110 82782",4.2,16
+"Crystal Smile Dental Aesthetic & Orthodontic Clinic","Krine Vista Opposite Anil Plaza, Ananda Nagar, Guwahati, Assam 781005, India","076620 45612",4.4,57
+"Smartcity Dental Clinic","DEBABRATA ENCLAVE, Lokhra Rd, near V-Mart, opp. Subham Garden, Bhaskar Nagar, Gopinath Nagar, Binowa Nagar, Kala Pahar, Guwahati, Assam 781018, India","099576 75780",5,25
+"Denta Life Multispeciality Dental Clinic","Pragati Tower, Lokhra Rd, opposite Vishal Mega Mart Colony Bazar area, Bhaskar Nagar, Gopinath Nagar, Binowa Nagar, Kala Pahar, Guwahati, Assam 781018, India","094355 58286",4.9,40
+"omkar gift center","5P2H+3QQ, Dhirenpara, Guwahati, Assam 781009, India","093656 48151","No rating available","No reviews"
+"R S Dental Clinic","M Market, Dhirenpara, A K Deb Road, 25, Dhirenpara, Fatasil Ambari, Guwahati, Assam 781025, India","060018 68643",4.4,46
+"Apollo Dental Dispur","5P3Q+GVC, Binowa Nagar, Kala Pahar, Guwahati, Assam 781018, India","N/A","No rating available","No reviews"
+"City Dental Clinic","Binowa Nagar, Kala Pahar Guwahati, Assam 781001, near Indian Oil Petrol Pump ,Das Service Station, Binowa Nagar, Kala Pahar, Guwahati, Assam 781018, India","098640 13770",4.6,109
+"Healing Aid Medicine & Wellness Center","4QQ2+WWF, Odalbakra, Kahilipara, Guwahati, Assam 781034, India","N/A","No rating available","No reviews"
+"Dr. Nandita's Dentcare clinic","4QH2+6MH, Sonaighuli, Guwahati, Assam 781034, India","N/A","No rating available","No reviews"
+"Confident Dental Clinic","AK Dev Rd, near Bajaj Showroom, near SBI ATM, Katahbari, Dhirenpara, Guwahati, Assam 781035, India","N/A",5,22
+"MANASHI DENTAL CARE","Kahilipara Main Rd, Jatia, Kahilipara, Guwahati, Assam 781006, India","N/A","No rating available","No reviews"
+"Klove","176, FA Rd, Kumarpara, Guwahati, Assam 781001, India","N/A",4.6,21
+"Dr Nikita Modi Dental Clinic Guwahati | Best Dentist in Guwahati, Athgaon","1st Floor, Ahmed Complex, above cake.com, Kumarpara, panchali, Guwahati, Assam 781009, India","070023 13756",5,107
+"AGARWAL DENTAL CARE & TOBACCO CESSATION CENTRE","Ulubari, Guwahati, Assam 781008, India","N/A",3,2
+"Dental vacancy","Kotabari 1, AKHK Medicos, No Masjid, GARCHUK, Guwahati, Assam 781035, India","N/A","No rating available","No reviews"
+"Dr. Pawan's Bright Smile Dental Care | Best Dentist in Guwahati, Bharalumukh","F A Road, Kumarpara Pachali, Bharalumukh 1st floor, House No. 184/3, Rehmania Building, above Car Decora, Bharalumukh, Guwahati, Assam 781001, India","070020 84818",4.9,73
+"Dr rounak Jains dental centre/ braces implants/ best dentist guwahati","1st floor, Siddha Point, opp. Marwari Hospital & Research Centre, Athgaon, Guwahati, Assam 781001, India","088129 69559",4.9,629
+"Swagat Dental Clinic & Implant Centre","Swagat Endolaparoscopic Surgical Research Institute, A Unit of Swagat Hospital, Assam Trunk Rd, Santipur, Guwahati, Assam 781009, India","070026 86709",4.9,25
+"S-thetix Dental (Guwahati)","R. K. Choudhary Road, Bharalumukh, Guwahati, Assam 781009, India","N/A",5,157
+"Dr.Kuhina's Dental and Skin Clinic","Lokhra -Lalganesh Road, Haricharan Das Path, near City Elite School, Lokhra, Guwahati, Assam 781034, India","086384 01476",4.9,57
+"Care32 Dental Clinic","no.7, Care32 Dental Clinic, near Railway Gate, Bharalumukh, Guwahati, Assam 781009, India","N/A",5,10
+"Lions Club Dental Care Unit","Goshala, Lions Eye Hospital & Dental Care Unit, near KC Das College, Oppostie, Guwahati, Assam 781008, India","070860 12109",5,23
+"Serenity Family Dentistry","1 st floor, Sharma and kalita assocites building, Assam Trunk Rd, Bharalumukh, Guwahati, Assam 781009, India","078380 01589",4.9,98
+"Dr. Sumi Choudhary- Dentist in Guwahati","Dental plaza ground floor Raj, DGP Office, Dr BK Kakati Rd, Ulubari, Guwahati, Assam 781007, India","N/A",5,1
+"Orthodontist","Dr Keshans Clinic, Dr BK Kakati Rd, South Sarania, Ulubari, Guwahati, Assam 781007, India","N/A","No rating available","No reviews"
+"Capital Healthcare Dental Clinic","2nd floor, Capital health care, Madhuban Plaza, Lokhra Rd, Lokhra, Guwahati, Assam 781040, India","094359 73300",5,41
+"DR PAUL'S DENTAL CHAMBER","P.P. ROAD ,REHABARI , MILANPUR, HOUSE NO 55, near PEARL VALLEY SCHOOL, Manipuri Rajbari, Ulubari, Guwahati, Assam 781008, India","084860 65451",5,4
+"The Dental Care Clinic","Allahabad Bank Annexe Hem Baruah Road opp. ASTC Bus Stand, Machkhowa, Guwahati, Assam 781009, India","069012 54950",5,1
+"Dr. Nabanita Baruah ( Dental Superspeciality Clinic ) - Best Orthodontist In Guwahati","GS Rd, Srimantapur, Chilarai Nagar, Guwahati, Assam 781006, India","088222 01201",5,4
+"Aesthetics & Smiles Makeover Clinic (Medicity Guwahati)","AM Rd, near Arya Hospital, Manipuri Rajbari, Ulubari, Guwahati, Assam 781008, India","084864 83479",4.8,325
+"Bhagadutta Path","4QRF+6HG, Janakpur Rd, Kahilipara, Guwahati, Assam 781019, India","N/A",5,2
+"Dr Sharad Jhingran’s Dental Clinic","KC, S Chowdhury Rd, Tokobari Satra, Guwahati, Assam 781008, India","099540 85156",5,4
+"The North East Dental Lab - Best Dental Lab in Guwahati Assam","Chila Rai Nagar Path,1st Floor, Opp. ICICI Bank, GS Rd, Bhangagarh, Guwahati, Assam 781005, India","0361 246 1776",3.8,6
+"The Urban Dentist | Braces & Implant Specialists","3rd Floor, NH Centre Point Building, GS Rd, opposite Bora Service Station Complex, South Sarania, Ulubari, Guwahati, Assam 781007, India","097072 98280",4.9,211
+"The dental clinic","ABC, Near Rajiv Bhawan, Bhangagarh, Guwahati, Assam 781028, India","078969 45427","No rating available","No reviews"
+"CareVale Dental - Dental Clinic in Guwahati","Boraj Arcade, GS Rd, opposite VIP showroom, South Sarania, Ulubari, Guwahati, Assam 781007, India","095083 92120",4.9,40
+"Smart City Dentistry","AK Azad Rd, opposite City Heart Hotel, opposite Talukdar chat house, Rehabari, Guwahati, Assam 781008, India","091136 04185",4.9,118
+"Modern Dental Clinic","Kanaklata Path, Hatigaon, Guwahati, Assam 781038, India","N/A",5,1
+"Precision Dental Clinic & Implant Centre","1st Floor, Roushan Complex, Dr BK Kakati Rd, near Ulubari, Chariali, Ulubari, Guwahati, Assam 781007, India","075768 50744",4.5,19
+"Regional Dental Clinic","3rd Floor, Bordoichila Bhawan, Shillong Road, Bhangagarh, Guwahati, Assam 781032, India","N/A",5,1
+"Dr. Aalisha Kanodia","Orthodontic Centre and Dental Clinic, 2nd floor, Prag Plaza Complex 100, Shillong Road, Bhangagarh, Guwahati, Assam 781005, India","099026 39295",5,116
+"METRO DENTAL CARE","Hatigaon, NOTBOMA , Near LP school,Guwahati,Assam,781034,India Hatigaon, Near L.P. School, Notboma, Guwahati, Assam 781034, India","060034 90599","No rating available","No reviews"
+"Tooth Buddy Children's Dental Care","Room no.02, First floor, Prag Plaza, GS Rd, Bhangagarh, Guwahati, Assam 781005, India","077807 28794",4.9,52
+"Solitaire Dental Clinic & Implant Centre","Bora Service Station Complex, by lane, near allen solley show room, South Sarania, Lachit Nagar, Guwahati, Assam 781007, India","060027 89594",5,15
+"Dr. Kaushik Bhowmick","Surekha Square, Lachitnagar, South Sarania, North Guwahati, Guwahati, Assam 781007, India","088849 02011",5,5
+"Dr.Dipjyoti Baruah (MDS, Orthodontist)","Surekha square, 4th floor, Lachit Nagar, South Sarania, Ulubari, Guwahati, Assam 781007, India","091011 86983",4.9,264
+"Dr. Nipan Patgiri DENT-TALES Dental Clinic & Implant Centre","1st floor, B2, AGP complex, Assam Trunk Rd, adjacent Icici bank, Opposite Police Reserve, Guwahati, Assam 781001, India","097400 12832",5,11
+"স্বাগতম বর্ণালী বিউটি পার্লাৰ","4P95+685, AK Dev Rd, Garchuk Chariali, Dhirenpara, Guwahati, Assam 781035, India","N/A","No rating available","No reviews"
+"JAIN DENTAL CLINIC","386 - A, near hotel Basant, Krishna Nagar, Adarsh Nagar, Jalandhar, Punjab 144001, India","098140 02766",4.9,1535
+"CHEEMA DENTAL IMPLANT CENTRE","213, Model Town, Jalandhar, Punjab 144003, India","098156 03002",4.7,77
+"Aggarwal Dental Supply Co. (Regd.)","8HHP+9G6, Mandi Road, Fentonganj, Jalandhar, Punjab 144001, India","097818 88797",5,4
+"Dr Goyal's Dental Implants Clinic Centre","403, Lajpat Nagar, Shastri Nagar, Market, Jalandhar, Punjab 144001, India","097805 31898",3.7,6
+"Kumar Dental Hospital","Kumar Dental Hospital, SCF102, Sri Guru Ravidass Chowk Market Makodar, Road, Abadpura, Model Town, Jalandhar, Punjab 144003, India","092167 65765",4.5,99
+"Nu Face","Vijay Tower Civil Lines, Friends Theatre Road, 8HGG+CFQ, Friends Theatre Road, Kot Pakshian, Pacca Bagh, Jalandhar, Punjab 144001, India","0181 227 6246",5,3
+"Dental Tree Jalandhar","C/o JASWANT HOSPITAL, Adjoining basti Adda Petrol Pump, Near Football Chownk Jalandhar City, 8HJ9+4XC, Adda Bastian, Shakti Nagar, Jalandhar, Punjab 144001, India","085690 00538",3.4,11
+"Dr. Sabharwal's Tooth Clinic","368, opposite doordarshan kendra, Ajit Nagar, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India","084270 33997",5,238
+"Malhan Dental Clinic","221, Mahavir Marg, Gujral Nagar Market , Near Mann Scanning Centre, Gujral Nagar, Jalandhar, Punjab 144001, India","0181 220 8221",4.6,66
+"Clove Dental","adjacent to lakme salon, Near Football Chowk, Shakti Nagar, Jalandhar, Punjab 144002, India","011 6927 1068",4.9,679
+"Modi Dental Clinic And Implant Centre","Nehru Garden Rd, Master Tara Singh Nagar, Jalandhar, Punjab 144001, India","094170 15322",4.9,66
+"Dr. Anshuman Modi","Nehru Garden ROAD Jalandhar, Central Town, Jalandhar, Punjab 144001, India","094170 15322",5,11
+"Kukreja Dental Clinic - Best Dental & Implant Clinic in Jalandhar","Sodal Rd, Near Chintpurni Mandir, Mai Hiran Gate, Charanjit Pura, Neela Mahal, Jalandhar, Punjab 144001, India","098158 00893",5,1
+"Advanced Orthodontic Center","S.C.O 16, New Jawahar Nagar Market, Radio Colony, New Jawahar Nagar, Jawahar Nagar, Jalandhar, Punjab 144001, India","098141 07353",4.1,44
+"Global Hospital - Best Cardiac Care & Neurologist Expert Hospital in Jalandhar & Knee, Spine, Ortho, Diabetes Treatment","Best Cardiac Care & Neurologist Expert Hospital, 10, Link Road, Abadpura, Model Town, Jalandhar, N M Town, Punjab 144003, India","098140 55576",3.7,241
+"Clove Dental","above Westside, Model Town, Jalandhar, Punjab 144003, India","095992 16884",4.9,778
+"Tru Smiles Dental & Implant Clinic","First Floor, Ganpati Tower, 30, near Aggarwal Dhaba, New Colony, Model Town, Jalandhar, Punjab 144001, India","088720 16177",5,1
+"Apex Dental","Guru Teg Bahadur Nagar, GTB Nagar, Jalandhar, Punjab 144003, India","095012 91314",5,2
+"Rajpal Dental Clinic","Rajpal Dental Clinic, Mata Rani chowk, near Model town, Prakash Nagar, market, Jalandhar, Punjab 144003, India","098156 12333",5,12
+"smile 'n' shine dental care centre","sco 12-13,deol nagar market, nakoder road, near ekta gas agency, Dayal Nagar, Model House, Jalandhar, Punjab 144003, India","098555 12809","No rating available","No reviews"
+"Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar","Mithapur Rd, Ravindra Nagar, Cheema Nagar, Urban Estate phase II, Jalandhar, Punjab 144003, India","077092 55018",5,32
+"Denta Care","Shop 3, Wadala Rd, opp. Pearl Hospital, 60 Garden Colony, Green Model Town, Jalandhar, Punjab 144001, India","098780 97574",5,8
+"Cheema Dental Clinic","Powar Complex, Mithapur Rd, Mithapur Chowk, Makhan Shah Lubana Nagar, Bank Colony, Urban Estate phase II, Jalandhar, Punjab 144003, India","094179 81703",4.8,5
+"Varma Dental Clinic","WC 118, GT Rd, opposite Civil Hospital, Opp.Civil Hospital, Ali Mohalla, Jalandhar, Punjab 144001, India","098140 61744",3.3,7
+"Kumar Clinic","University Road, Ladhewali, 8HGG+CFQ, University Road, Kot Pakshian, Pacca Bagh, Jalandhar, Punjab 144001, India","0181 229 3902","No rating available","No reviews"
+"Tyagmurti Goswami Ganeshdutt Missionary Hospital","Jalandhar - Nakodar Rd, Jyothi Chowk, Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144001, India","0181 503 0520",3.4,24
+"Dr.Mrs.Neelam Rana","Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144006, India","N/A","No rating available","No reviews"
+"Gandhi Dental Clinic","Milap Rd, Near Luv-Kush Chowk, Chahar Bagh, Central Town, Jalandhar, Punjab 144001, India","078379 90294",5,3
+"Choudhary Dental, Implant And Cosmetic Clinic","183, Sikka Chowk, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India","084270 06177",5,12
+"Dev Dental & Opticals","8HHC+C98, Islam Gunj, Shakti Nagar, Jalandhar, Punjab 144001, India","098153 56457",1,1
+"Dr.Dinesh Aggarwal","Central Town, Jalandhar, Punjab 144001, India","N/A","No rating available","No reviews"
+"Dr verma's dental clinic and implant centre","Wg 366 c neewain, New Suraj Ganj, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India","N/A",5,1
+"Grace Dental Clinic","8HGM+X6H, Street Number 3, Central Town, Jalandhar, Punjab 144001, India","076960 00434",5,5
+"Dr Varun Sabharwal","97, Shakti Nagar, Jalandhar, Punjab 144001, India","099885 35772",5,9
+"Dr Ajay Arneja's Jalandhar Dental Implant Clinic","E.S 232 A, Makhdoompura Near Gurdwara Jalandhar City, Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144001, India","099140 33108",5,21
+"Modern Dental Clinic","Ohri Hospital Complex, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India","098149 12635",3,1
+"Malhotra GARMANTS","Purani Kotwali, Band Market, Near Gur Mandi, Charanjit Pura, Jatpura, Jalandhar, Punjab 144008, India","095920 60270","No rating available","No reviews"
+"Smile Gallery","8HHP+24P, Milap Rd, Gurudwara Market, Central Town, Jalandhar, Punjab 144001, India","N/A","No rating available","No reviews"
+"DR. SKY DENTISTRY (Dr. Gagandeep S Gauba's)","320, near, Nakodar Chowk, Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144003, India","077176 42334",5,9
+"MK Dental Clinic","Nk-100, near Purani Sabzi Mandi, Charanjit Pura, Jatpura, Jalandhar, Punjab 144001, India","088376 63272",4.9,50
+"Dr. Rahul Dental Studio","8HH8+FVP, opposite Lovely Dhaba, Near Football Chowk, Shakti Nagar, Jalandhar, Punjab 144002, India","N/A",5,1
+"CROWNS Advanced Dental Care Clinic","Anand Palace Market, Partap Bagh, Fentonganj, Jalandhar, Punjab 144001, India","N/A",5,1
+"Dr Satpal Sandhu (Sandhu Orthodontic Clinic)","SCO 193, near Mann Scanning Centre, Gujral Nagar, Jalandhar, Punjab 144001, India","N/A",5,1
+"STUDIO dental","8HJ9+R7V, Jail Rd, near Laxmi mandir, Adarsh Nagar, Jalandhar, Punjab 144008, India","098721 48024","No rating available","No reviews"
+"Gupta Dental Clinic & Implant Centre ( Naveen Gupta )","136, Gujral Nagar,Jalandhar,Punjab,144003,India 136, Gujral Nagar, Jalandhar, Punjab 144003, India","0181 220 3941",3.7,3
+"Guru Nanak Mission Hospital","8H8H+M72, Mahavir Marg, Civil Line, Jalandhar, Punjab 144006, India","0181 245 8733",4,271
+"Affordable Dental Implant clinic and Rct Center","Jalandhar - Nakodar Rd, opp. layllpur Khalsa school Ground, Opp. Khalsa School, Lajpat Nagar, Jalandhar, Punjab 144001, India","094639 32535","No rating available","No reviews"
+"Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)","shop 4, Jalandhar - Nakodar Rd, Nakodar Chowk, Lajpat Nagar, Jalandhar, Punjab 144001, India","N/A","No rating available","No reviews"
+"Kalyani Dental Clinic","8HHP+HQ3, Mandi Road, near Shani Dev Mandir, Fentonganj, Jalandhar, Punjab 144001, India","N/A","No rating available","No reviews"
+"East West Enterprises","Charanjit Pura, Jatpura, Jalandhar, Punjab 144008, India","N/A","No rating available","No reviews"
+"Swastha Dental Care","Vidhya Park, C-18, IAF Road, opp. Bhartiya Vidhya Bhawan, Jodhpur, Rajasthan 342011, India","094614 06532",4.9,76
+"Manas Dental Clinic","D-52, near Medical College Auditorium, Sector-D, Shastri Nagar, Jodhpur, Rajasthan 342001, India","094604 60450",4.8,48
+"Dr. Mohan Ram Latiyal- Dentist In Jodhpur","Varsha Dental Hospital And Implant Center B-54 , Saraswati Nagar, near Saint Anne's School, near Ambika Hospital 🏥, Basni First Phase, Landmark:, Jodhpur, Rajasthan 342005, India","097997 74276",5,1
+"Varsha Dental Hospital & Implant Centre - Best Dental Hospital in Basni, Dentist & equipped Dental Hospital in Jodhpur","B-54, Saraswati Nagar Main Rd, near Ambika Hospital, Basni First Phase, Basni, Jodhpur, Rajasthan 342005, India","097997 74276",4.2,33
+"Impressions Dental Clinic& Implant Centre-Best Dentist/Implantilogist/Root Canal Doctors/Tooth Cap/Dental Implant in Jodhpur","Vistar Yojana, Bhagat Ki Kothi Extension Scheme, J-4, Bhagat Ki Kothi, Jodhpur, Rajasthan 342001, India","094131 45672",5,1
+"Dr Dushyant Soni","Bhagat Ki Kothi Extension Scheme, Heavy Industrial Area Phase II, Basni, Jodhpur, Rajasthan 342001, India","094131 45672",5,4
+"Dr. Manish Bishnoi -Orthodontist","Aditiya Sapphire, opp. New High Court, near Shatabdi Circle, Prithviraj Nagar, Jodhpur, Rajasthan 342005, India","N/A",5,2
+"Dr Bhanupriya 's Dental Hub","petrol pump, Lifeline hospital, Pali Rd, near blue city, Jhalamand, Jodhpur, Rajasthan 342005, India","N/A",5,2
+"Dr. Kishore's Clinic","Sector-C, Basni, Jodhpur, Rajasthan 342005, India","094144 76793",4.2,5
+"MultiSpeciality Dental Clinic, Dr Ratna Bansal","29, Golf Course Scheme Rd, near Chandra Imperial, Air Force Area, Jodhpur, Rajasthan 342011, India","N/A",5,7
+"Aesthetic Dental Designs (Dental clinic)","3-c-63, Kudi BHAGTASANI, Sector 3, Kudi Bhagtasni Housing Board, Jodhpur, Rajasthan 342005, India","098296 53162",4.9,107
+"New Satyam dental kanwar nagar","Kanwar Nagar, Jodhpur, Rajasthan 342005, India","094620 50444",5,142
+"Perfect Smile dental Clinic","100 -C, Central School Scheme Main Rd, Air Force Area, Jodhpur, Rajasthan 342011, India","094624 79281",4.8,184
+"Mukesh Dental Care Orthodontic & Implants Centre ( Dr. Mukesh Paliwal)","40 Feet Rd, Rameshwar Nagar, 1st Phase, Basni, Jodhpur, Rajasthan 342005, India","N/A",4.5,21
+"Mehta Dental Clinic - Dr.Anam Mehta & Dr.Ashima Mehta","103, Central School Scheme Main Rd, Air Force Area, Jodhpur, Rajasthan 342011, India","098282 90678",4.9,62
+"A R dental clinic","726M+R4W, Golf Course Park Rd, Air Force Area, Jodhpur, Rajasthan 342011, India","N/A","No rating available","No reviews"
+"Rajmani's Dental Care - Best Dentist Near Me | dental Clinic Near Me | Dentist in Jodhpur","3/21, near Samudayik Bhavan, Sector 3, Kudi Bhagtasni Housing Board, Choraha, Jodhpur, Rajasthan 342005, India","096808 77699",4.4,8
+"Meenakshi Dental Care","7265+JQR, Sector-H, Shastri Nagar, Jodhpur, Rajasthan 342003, India","0291 261 0423","No rating available","No reviews"
+"Dr. D.D. Gupta","1/3 mdm hospital campus,near shastri circle,shastri nagar, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India","0291 263 8385",4.5,2
+"Dr Anika Aggarwal - Best Dentist InJodhpur | Smile Designing & Root Canal Specialist","houswe, 119, New Power House Rd, behind market, near deeksha classes, Section 7, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India","092399 93999",4.6,26
+"Dr. Radhika Joshi- Dentist In Jodhpur","Dr. Radhika Joshi Clinic 4F2, New Power House Rd, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India","N/A","No rating available","No reviews"
+"Manvi Sparkling Smiles","46 Abhay Ghar Opp.Airforce K.V.No.1 School, Jodhpur, Rajasthan 342011, India","094144 74473",5,17
+"Shailee Dental Care","C-159, near mansukh diagnostic center, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India","082900 22300","No rating available","No reviews"
+"S R Dental Clinic","C-16 A, Opp. MDM Hospital, Shastri Nagar, Jodhpur, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India","094141 34764",4,4
+"Newsmile Dental Care","111, Shobhawaton Ki Dhani Rd, Gajendra Nagar, Khema-Ka-Kuwa, Jodhpur, Rajasthan 342008, India","N/A","No rating available","No reviews"
+"Paras Dental Care","111, Shobhawaton Ki Dhani Rd, Gajendra Nagar, Khema-Ka-Kuwa, Jodhpur, Rajasthan 342008, India","N/A","No rating available","No reviews"
+"Gehlot Dental Clinic","Sector 8, Kudi Bhagtasni Housing Board, Vivek Vihar Yojana, Jodhpur, Sangariya, Rajasthan 342013, India","N/A",5,1
+"Laser Dental Clinic","Shivam Hospital,4 Mahaveer Colony 'B' Bhaskar Chouraha, Mahaveer Colony, Ratanada, Jodhpur, Rajasthan 342001, India","088905 60570",5,54
+"Lodha Dental Care","B-60, opp. Agrasen Park, Sector-B, Shastri Nagar, Jodhpur, Rajasthan 342003, India","093523 29304",4.8,36
+"Elegant Teeth","6, ITI Rd, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India","N/A","No rating available","No reviews"
+"Saran Dental Hospital & Implant Centre","Medical Market, Ratanada Cir, opposite Bharat Petrol Pump, near Ratanada, Cantt Area, Jodhpur, Rajasthan 342011, India","0291 261 3737",3.9,48
+"Dr tarun choudhary","House No 22 gali no.1, Shakti Colony, Ratanada, Jodhpur, Rajasthan 342001, India","N/A",5,3
+"Suncity Dental Clinic & Implant Center","State Highway 61, Cantt Area, Ratanada Circle, opposite Sukh Sagar Restaurant, Ratanada, Jodhpur, Rajasthan 342011, India","088548 12340",4.6,5
+"Dr Sajjad Qureshi","Medicity hospital and research centre, A-72, circle, Chopasani Rd, near SBI bank, Sector-A, Akhaliya Vikas Yojana, Jodhpur, Rajasthan 342001, India","N/A",5,3
+"Jindal Dental Clinic","Bakhat Sagar, 45, Nehru Park Rd, Sindhi Colony, Sardarpura, Jodhpur, Rajasthan 342003, India","N/A",5,3
+"Dr Pankaj Sancheti","37-kha, 10th E Rd, Sardarpura, Jodhpur, Rajasthan 342003, India","N/A","No rating available","No reviews"
+"Dr Arvind Singh Bithu","72F5+45X, D Rd, Sardarpura, Jodhpur, Rajasthan 342003, India","N/A",5,1
+"Pearl Dental Care","893, 2nd D Rd, Sardarpura, Jodhpur, Rajasthan 325001, India","080790 49628",3,2
+"Dr Itika singla( Teeth and face clinic)","A-306, near dalle khan ki chakki, near dr shyam mathur, Sector-A, Shastri Nagar, Jodhpur, Rajasthan 342003, India","099827 64860",5,138
+"Smile Studio","3M, Circuit House Rd, Hanwant Nagar, East Patel Nagar, Jodhpur, Rajasthan 342006, India","087644 16160",5,3
+"Dr sunita khetani ( SENIOR DENTIST) TEETH AND GUMS","shopping center, E 49, near CLG Institute, Kalpataru, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India","098298 24356",5,1
+"Sudant - Mittal Dental & Implant centre(EX Oral & Maxillofacial surgeon AIIMS ,Jodhpur)","E 81 Behind Rathi hospital, kalpataru shopping centre, shastri nagar, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India","094149 83326",5,21
+"Rathi Dental Care (Dr. Anubha Rathi)","E-109, C/O Rathi Hospital, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India","081473 05750",4.8,32
+"Dr Komal Purohit","G tower, 19 A, road, Shanker Nager, Subhash Nagar, Jodhpur, Rajasthan 342008, India","N/A","No rating available","No reviews"
+"DENTAL HUB JODHPUR","family gate, Subhash Chowk, opposite Police Line Road, Ratanada, Jodhpur, Rajasthan 342001, India","098808 15445",4.9,74
+"Dr. Purnima Purohit | Dentist | JJEDC ENDODONTIC DENTAL IMPLANT CENTER","JJEDC ENDODONTIC DENTAL IMPLANT CENTER, Sardarpura, Jodhpur, Rajasthan 342001, India","N/A","No rating available","No reviews"
+"JJEDC ENDODONTIC Dental Implant Centre","177, 1st C Rd, Sardarpura, Jodhpur, Rajasthan 342003, India","082335 11670",4.8,65
+"Dr Jogesh Purohit","JJEDC Oral Implant Centre, 177, 1st C Rd, Sardarpura, Jodhpur, Rajasthan 342003, India","N/A",3.8,4
+"Dr. Bothra's SMILE Designing Center","B wing-103 & 104, 1st Floor, Aanchal Complex, Residency Rd, Near Manidhari Hospital, Sardarpura, Jodhpur, Rajasthan 342003, India","098292 49300",5,305
+"Dr. Sangeeta Patel","Subhash Nagar, Jodhpur, Rajasthan 342008, India","N/A","No rating available","No reviews"
+"DEIVAM DENTAL CLINIC","AVR Complex, No.14, P.T.R Road, Narimedu, Madurai, Tamil Nadu 625002, India","0452 452 2771",4.9,78
+"Nala Dental Hospital","9B, 1, Vallabh Bhai Rd, near Vadamalayan Hospital, Reserve Police Line, Chinna Chokikulam, Madurai, Tamil Nadu 625002, India","094441 54551",4.3,172
+"V Bose Dental Care","236 South Veli St, Chinna Kadai St, South Gate, Periyar, Area, Madurai, Tamil Nadu 625001, India","093452 44555",4.9,569
+"Britestar Dental Solutions","E Veli St, Near Federal Bank, Mahal Area, Madurai Main, Madurai, Tamil Nadu 625001, India","098848 64267",5,3
+"Aristo Speciality Hospital","50B, Bypass Rd, opp. Aparna Towers, Ponmeni, Madurai, Tamil Nadu 625016, India","083444 11127",4.1,336
+"ANBU DENTAL CLINIC Nelpettai","231, E Veli St, Nelpettai, Madurai Main, Madurai, Tamil Nadu 625001, India","081108 11044",4.9,93
+"Madura Dental Clinic","No 278, Goods Shed St, near Railway station, Madurai Main, Madurai, Tamil Nadu 625001, India","099447 24564",4.9,651
+"Madurai Dental Centre","No: 239, Kamarajar Road, Gandhipettai Bus Stop, Near Alankar Theatre, Madurai, Tamil Nadu 625009, India","0452 232 6297",4.1,22
+"VSG Dental Care","17-B, Tirupparankunram Rd, Andalpuram, Madurai, Tamil Nadu 625003, India","099943 99321",5,9
+"SMILE STYLE Dental clinic","12A/59A, Kuruvikkaran salai, 1st, Jawahar Cross St, Anna Nagar, Shenoy Nagar, Madurai, Tamil Nadu 625020, India","073730 47575",4.9,431
+"GRACE DENTAL CLINIC","46, Netaji Rd, Madurai Main, Madurai, Tamil Nadu 625001, India","N/A",5,10
+"Toothzone Dental","A4/2, KK Nagar Main Rd, opp. to Bata Showroom, next to Apollo pharmacy, Mellur, KK Nagar, Naganakulam, Tamil Nadu 625020, India","0452 439 3943",4,22
+"VasuRam Dental Care","No 71, Thiruvapudaiyar kovil bus stop Palam Station Road, and, near Muthoot Finance, opposite to Minnal Kalyana Mandapam, Sellur, Madurai, Tamil Nadu 625002, India","097876 99066",4.8,26
+"Deen Dentofacial Clinics - branch 1","S Veli St, South Gate, Periyar, Madurai Main, Madurai, Tamil Nadu 625001, India","0452 436 5787",5,1
+"Shanker Dental and Craniofacial Centre","17/33 Rajaji Street, Gandhi Nagar Walkable distance from Anna, Bus stand, opposite Asirvatham Speciality hospital, Shenoy Nagar, Madurai, Tamil Nadu 625020, India","097884 73879",5,4
+"Prabhu Oral Surgery Centre","503, W 2nd St, Mellur, KK Nagar, Naganakulam, Tamil Nadu 625020, India","091590 69078",4.3,6
+"Smile Bright Dental Care","1st floor, indian bank colony, Siva Complex, NH 785, Mahalakshmi Nagar, Madurai, Tamil Nadu 625014, India","0452 268 2262",4.6,10
+"The Smile Care, Dental Clinic","Madurai Citi centre, 137, 93, Kamarajar Salai, Pankajam Colony, Kamarajar Salai, Madurai, Tamil Nadu 625009, India","N/A",4.8,8
+"Agaram Dental Clinic","First Floor, Agaram Dental Clinic, Petrol Bunk, Bypass Rd, near Vajra Apartments, above Sakthi medicals, Ponmeni, Madurai, Tamil Nadu 625016, India","093448 55157",4.9,378
+"TOOTH DENTAL CARE","73 a, Vakkil New St, Arajar Salai, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001, India","N/A","No rating available","No reviews"
+"A.A. Dental Care","bus stop, 92, N Veli St, near simmakkal, Arajar Salai, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001, India","097897 75363",4.9,419
+"Balaji Ortho Clinic","60, Dhanappa Mudali Street, near Mayura Complex, Madurai Main, Madurai, Tamil Nadu 625001, India","0452 234 2010","No rating available","No reviews"
+"Dentes Dental Clinic","Dentes Dental clinic, 207, E Veli St, Kamarajar Salai, Madurai Main, Madurai, Tamil Nadu 625001, India","080980 04142",4.9,286
+"MURUGADOSS DENTAL HOSPITAL","no 4 ,east marret street, 4th lane, Kamarajar Salai, Madurai Main, Madurai, Tamil Nadu 625001, India","099439 94522",5,69
+"DENTAL CARE","Sellur, Madurai, Tamil Nadu 625002, India","N/A","No rating available","No reviews"
+"Siva Dental Clinic","8,Ponnagaram Broadway, 1st St, Ponnagaram, Arappalayam, Madurai, Tamil Nadu 625001, India","099949 31178","No rating available","No reviews"
+"Sree Parvathi Dental Clinic","99, Palam Station Rd, Sellur, Madurai, Tamil Nadu 625002, India","094427 03011",5,7
+"White Pearl Dental Care","W4MG+447, Suyarajyapuram East Main Street, Sellur, Madurai, Tamil Nadu 625001, India","097902 99787","No rating available","No reviews"
+"SURYA MULTISPECIALITY DENTAL CLINIC","Paetai, pallivasal complex, bus stop, Pallivasal St, near goripalayam, Goripalayam, Madurai, Tamil Nadu 625002, India","088071 51047",5,658
+"Dr.Nadha’s aestheticz","9, Chavadi St, Goripalayam, Madurai, Tamil Nadu 625002, India","N/A",5,2
+"ELITE DENTAL CLINIC","first floor, 12 a, E2E2 Rd, above Valli Medical shop, 1st street, Narimedu, Madurai, Tamil Nadu 625002, India","N/A",5,6
+"Zaara Dental Clinic","68, near, Munichalai Rd, adjacent to Apollo Pharmacy, Munichalai, Madurai, Tamil Nadu 625009, India","0452 452 0066",4.9,1917
+"MEGHA DENTAL CARE","3A, Arappalayam Main Rd, opposite to Sandhya hospital, near Thirumalai naicker statue, Ponnagaram, Arappalayam, Madurai, Tamil Nadu 625016, India","N/A",5,9
+"Noor Dental Clinic and Orthodontic hospital","41-B, PT Rajan Rd, opposite to O.C.P.M BACK GATE, Narimedu, Madurai, Tamil Nadu 625002, India","084892 99299",4.9,1353
+"D - CARE Speciality dental clinic","No 156, 1st floor, E Marret St, Panthadi Area, thavittusandai, Madurai, Tamil Nadu 625020, India","N/A",4.9,8
+"RAJU DENTAL CLINIC","Narimedu, Madurai, Tamil Nadu 625002, India","N/A","No rating available","No reviews"
+"THU DENTAL CARE","South Gate, Periyar, Madurai Main, Madurai, Tamil Nadu 625001, India","099765 55333","No rating available","No reviews"
+"Sathesh Hospital and Honey Dentistry","New 326,Old 137, East Marret Street,, Thavittusanthai bus stop(West),, Panthadi Area, Madurai Main, Madurai, Tamil Nadu 625001, India","095004 99650",4.8,17
+"Subha Dental Clinic & Implant Center","147, E Veli St, Thavittu Sandhai, Madurai Main, Madurai, Tamil Nadu 625001, India","098942 83906",4.9,9
+"Surya Ortho Care","99, TPK Road, Near Malai Murasu, T P K Road, Periyar, Madurai Main, Madurai, Tamil Nadu 625001, India","N/A","No rating available","No reviews"
+"Joy Orthotics","3-A, Vaidhyanatha Iyyar S, Shenoy Nagar, Elango School Back Side, Shenoy Nagar, Madurai, Tamil Nadu 625020, India","0452 260 0550",4,1
+"PUGAL DENTAL CARE","Arapalayam main road, jallikattu statue round, near arapalayam, Ponnagaram, Padi Thurai, Arappalayam, Madurai, Tamil Nadu 625016, India","063691 59310",5,9
+"Twinklers Dental Care","Narimedu, 5A, Avaiyar Street, B B Kulam, Madurai, Tamil Nadu 625002, India","096778 69954",4.6,18
+"Sumathi Dental Clinic","625001, 17, New Mahalipatti Rd, Mahalipatti, Madurai, Tamil Nadu 625001, India","097912 66792",4.8,23
+"Dr. M.MOHAN KARTHIKEYAN","Madurai, Tamil Nadu 625009, India","N/A","No rating available","No reviews"
+"Jeyadev Impex","99/20, West Ponnagaram, 8th Street, West Ponnagaram, Pethaniapuram 2, Arappalayam, Madurai, Tamil Nadu 625016, India","0452 450 0343","No rating available","No reviews"
+"SH Dentz - Speciality Implant Clinic","179 A, First Floor, Kamarajar Salai, near Chamber of Commerce, opposite to Meenakshi Fan House, Madurai, Tamil Nadu 625009, India","090435 88772",5,11
+"ஐ ஸ்மைல் பல் மருத்துவமனை","Sarvodaya Nagar 5th Street, New Ellis Nagar, Ellis Nagar, Madurai, Tamil Nadu 625016, India","063816 93409",5,40
+"White Pearl Dental Care","2nd gate, PT Rajan Rd, opp. to Kendriya Vidyalaya School, next to Union Bank, Madurai, Tamil Nadu 625002, India","097902 99787",4.9,35
+"Dakshin Dental Solution ( P ) Ltd","39,T.B. Road, Arasaradi, Old Dindigul Rd, North Gate, Somasundaram Nagar, Thomas Colony, Madurai, Tamil Nadu 625010, India","096593 02151",5,1
+"Chaithanya Speciality Dental Clinic","1st Floor, Avinash Complex, Airport Rd, Yeyyadi, Mangaluru, Karnataka 575008, India","0824 222 4222",5,2
+"Dr. Dhiraj's Dental & Invisible Braces Clinic","1st Floor, Tiwari bhavan, above SLV Book House, church hall, Jail Rd, Opp, Bejai, Mangaluru, Karnataka 575004, India","094481 64160",4.9,87
+"INSMYLE FAMILY DENTIST - Kadri","VVJ6+GQ2, KMC Mercara Trunk Rd, Kadri, Mangaluru, Karnataka 575002, India","0824 222 2337",3.9,7
+"The Dental Specialists","VVJ5+6G7, Shivabagh, Kadri, Mangaluru, Karnataka 575005, India","0824 222 1125",4,14
+"Dr. Siddarth Shetty (Shetty Orthodontics)","First floor, Medicare Centre Complex, next to Hotel AJ Grand, Boloor, Hampankatta, Mangaluru, Karnataka 575003, India","099800 44933",5,31
+"The Dental Care Clinic","1st Floor Alake Centre, Kambla Cross Junction Opp. Ullal, General Hospital, Alake, Kodailbail, Mangaluru, Karnataka 575003, India","098456 91849",5,20
+"Saldanha Anjali Therese Dr","Falnir ""beauliev"", Mullakad, Konchady, Mangaluru, Karnataka 575001, India","0824 242 9480","No rating available","No reviews"
+"Bhat Ganapathy Dr S","Kudupu, Mullakad, Konchady, Mangaluru, Karnataka 574508, India","0824 241 4303","No rating available","No reviews"
+"Multi Speciality Dental Care Centre","Kavoor, Mangaluru, Karnataka 575015, India","N/A","No rating available","No reviews"
+"T32 Dental Care Clinic & Implant Centre, [ Dentist ] , Mangalore","Kavoor, Mangaluru, Karnataka 575015, India","099006 12350",4.9,190
+"Dr. Chethan Dental Clinic","1st floor, Saptagiri, Kavoor, Mangaluru, Karnataka 575015, India","N/A",4,7
+"Happy Teeth Dental Clinic","Airport Road opposite Ramashrama primary school, Yeyyadi, Konchady, Mangaluru, Karnataka 575008, India","097420 89944",5,23
+"The Dental Studio. A Multi Speciality Dental Clinic","Jeevan complex, Padavinangady junction, Cons store building, Jeevan Complex, Airport Rd, Padavinangady, SBI Colony, Mangaluru, Karnataka 575008, India","N/A",4.3,30
+"COMFORT DENTAL CARE","Airport Rd, opposite hotel trishna, Padavinangady, Mangaluru, Karnataka 575008, India","N/A",5,2
+"Dentistry","WVF7+HXR, Airport Rd, opposite petrol pump, Marakada, Kavoor, Mangaluru, Karnataka 575015, India","N/A","No rating available","No reviews"
+"Dr. Rao's Orthodontic Speciality & Dental Care","#G-5, Pam Arcade, First Floor, Kottara, Mangaluru, Karnataka 575006, India","0824 411 1124",5,58
+"Smile Dental Clinic","Kottara cross junction, near, Bejai Kavoor Rd, behind bus stop, Bejai, Mangaluru, Karnataka 575004, India","094493 89571",4.7,23
+"Satyashri dental clinic","Sequeira Jewel Appartment, opp. Infosys Ltd. 575006 building, Kottara, Mangaluru, Karnataka 575013, India","098869 70917",5,5
+"The Dental Lounge","The Dental Lounge, Ground floor, store, Titian eye plus building, bus stop, near urwa, Urwa, Mangaluru, Karnataka 575006, India","096114 32982",4.8,73
+"Tiny Teeth- Children, Teens & Special Needs Dentistry","Shop no 8, Ventura Apartments, Museum Rd, Mallikatte, Bejai, Mangaluru, Karnataka 575004, India","098193 62853",4.9,143
+"Dr. Chaitanya Shanbhag's Dental Care Centre","Kulur Ferry Rd, Chilimbi, Ladyhill, Mangaluru, Karnataka 575006, India","0824 245 0296",3.7,11
+"Dental Aarogya","Ganesh nagar, Kodikal Rd, Kottara, Mangaluru, Karnataka 575006, India","098863 49726","No rating available","No reviews"
+"Dental Speciality Clinic (Dr Rajesh K S Mds)","1st, Grace Towers, Bejai - Kapikad Rd, Bejai, Mangaluru, Karnataka 575004, India","0824 221 2093",4.6,16
+"Dr Kamya Fernandes Vas","SmileVille Orthodontic and Multi-speciality Dental Clinic Shop no G3, Aryan building, market Complex, opp. Bejai, Bejai, Mangaluru, Karnataka 575004, India","N/A",5,6
+"SmileVille Orthodontic and Multi-Speciality Dental Clinic","G3, Aryan Building, Bejai, Mangaluru, Karnataka 575004, India","0824 428 2509",4.9,76
+"Mangaluru Dental Care Clinic","First Floor, Krishna towers, Kulur Ferry Rd, near Shirdi Sai Baba Mandir Road, Ladyhill, Mangaluru, Karnataka 575006, India","N/A",5,1
+"Vk Dental Speciality And Periodontal Clinic","Marian Paradise Avenue 1st Floor No 105 Bikarnakatte, Nanthoor Jct, Kadri Hills, Kadri, Mangaluru, Karnataka 575005, India","N/A",5,8
+"Eira Dental ™ Exclusive Invisalign® Centre","Third Floor, Inland Business Park, 308, Bejai Main Rd, Mallikatte, Kadri, Mangaluru, Karnataka 575004, India","089714 05648",5,4
+"Chandramathi Dr K","Kadri Temple Road Mangalore, Kadri Temple Road, Kadri, Mangaluru, Karnataka 575002, India","0824 241 6501","No rating available","No reviews"
+"Smile Care Orthodontics & Specialty Dental Clinic","2nd Floor, Shree Krishna Prasad Building, Complex, MG Rd, Lalbagh, Mangaluru, Karnataka 575003, India","098425 21386","No rating available","No reviews"
+"Dr Ravi MS ORTHODONTIC and Dental clinic","Lalbagh, Mangaluru, Karnataka 575003, India","098452 21386",4.6,9
+"Dr. Edwin Dias. A","circke, near lady hill, Ladyhill, Mangaluru, Karnataka 575006, India","098451 41115","No rating available","No reviews"
+"DIVINE SMILES DENTAL - Best Dental Clinics in Mangalore","12 M C C COMPLEX,OPP,SAIBEEN COMPLEX, MG Rd, Lalbagh, Mangaluru, Karnataka 575003, India","0824 245 4672",4.7,16
+"Kiran Dental Clinic (Dr. Karan Giriyan)","1-19-1471, Urwa Marigudi Rd, Urwa Market, Urwa, Mangaluru, Karnataka 575006, India","083174 82851",5,10
+"Dr Ayisha Moureen","Shivabagh, Mallikatte, Kadri, Mangaluru, Karnataka 575002, India","N/A","No rating available","No reviews"
+"Dr Sanjay Nayak's Dental Speciality Clinic","Ashok Nagar Rd, opp. Marigudi Temple, Urwa Market, Ladyhill, Mangaluru, Karnataka 575003, India","098450 85835",5,108
+"Dental Studio","Opp Kalpane Bus Stop, Kulshekar Main Road Kulshekar, Bikarnakatte Kaikamba, Mangaluru, Karnataka 575005, India","097317 57274",5,202
+"Maple Dental Clinic & Implant Center, Mangalore","Emelia"" Ground floor, opp, St Agnes College Rd, Mallikatte, Bendoor, Mangaluru, Karnataka 575002, India","096066 62282",4.7,28
+"One Dentistry - Braces & Invisible Aligners (Dr. Shourya Hegde)","Dr Shourya Hegde, 3 Floor, Lotus Paradise Plaza, next to St. Theresa's School, Bendoor, Mangaluru, Karnataka 575002, India","099888 14444",5,52
+"Elite Dentistry","2nd floor , 212 , Balmatta, milestone 25, collectors gate, Collectors gate, junction, Mallikatte, Kadri, Mangaluru, Karnataka 575002, India","099026 08077",5,282
+"Cardiac Care and Dental Care","Collectors Gate, Milestone 25, Mallikatte, Kadri, Mangaluru, Karnataka 575002, India","094487 23151",5,33
+"Excellence Dental clinic","3rd Floor, The Trade Center, near Hotel Woodlands, Hampankatta, Mangaluru, Karnataka 575003, India","090080 08040",4.4,24
+"Dr.Shailesh Shenoy's Pediatric & Multispeciality Dental Clinic","The Trade Center, Bunts Hostel Rd, opp. Hotel Goldfinch, Floor, Hampankatta, Mangaluru, Karnataka 575003, India","099168 20253",5,97
+"Sovereign Dental Speciality Clinic","Sharada Vidyalaya Road, Kodailbail, Mangaluru, Karnataka 575003, India","0824 249 2628","No rating available","No reviews"
+"Dr. Akshatha G Kamath | Best Dentist in Mangalore","Room no.009, 2nd floor,KMC Hospital, R Ambedkar Circle, Dr.B, Hampankatta, Mangaluru, Karnataka 575002, India","1800 102 4647",5,2
+"Dr. K. Nillan Shetty","1st Floor, Oberle Towers, opposite Juice Junction, Balmatta, Mangaluru, Karnataka 575002, India","0824 244 8815",5,5
+"Smile M Braces","1st Floor, Oberle Towers, opp. Juice Junction, Balmatta, Mangaluru, Karnataka 575002, India","094814 46634",5,6
+"Dr. Mallya's 32 Pearls Dental Clinic","1-C 1st Floor Kumudavathi Building Balmatta Road, Balmatta, Mobile: 9945677760, Bendoor, Mangaluru, Karnataka 575002, India","N/A",5,51
+"Dr Silva’s Dental Clinic in Mangalore","1st Floor, Kumudavathi Building, Balmatta Rd, Bendoor, Mangaluru, Karnataka 575001, India","072042 06494",4.8,24
+"Dr Geena's Multispeciality Dental Clinic","Pilikula Rd, Vamanjoor, Mangaluru, Karnataka 575028, India","094828 17928",5,11
+"Smile Dental Care","No 42/A, Ground floor, Sriranga complex, Vishwamanava Double Road, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570009, India","N/A",4.7,805
+"Apollo Dental Clinic, Mysuru - Best Dental Clinic in Bangalore - Root Canals, Aligners, Implants, Crowns and Veneers","Apollo BGS Hospitals, Adichunchanagiri Road ,Kuvempunagar, Kuvempu Nagara, Mysuru, Karnataka 570023, India","081234 31714",4.8,309
+"Life Care Dental Clinic","2979, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India","098860 37522",4.9,436
+"Complete Dentistry - Dental Clinic and Implant Centre","# 175 , 6th cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India","0821 419 4867",4.8,25
+"Dr Paras. Mysore Smile :) Dental Clinic","No. 2689, Near Mallappa Flour shop. V V Mohalla 8th Cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India","098458 54977",4.9,89
+"whYte dental","Adipampa Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570001, India","070907 00790",4.8,745
+"Smile ARC Dental Clinic","Vijyanagar, Vijayanagara 3rd stage, Mysuru, Karnataka 570017, India","098863 48062",5,3
+"Mysore Dental Care & Implant Center","# 581, off, Kalidasa Rd, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017, India","098452 35853",4.8,528
+"Parvathi Dental Clinic","PARVATHI DENTAL CARE - 446,446/1, 1ST STAGE Buddha Marga, opposite to DFRL, Siddhartha Layout, Mysuru, Karnataka 570011, India","098867 85810",4.8,149
+"Sumanth Speciality Clinic","1211, New Kantharaj Urs Rd, Chamarajapura, Chamarajapuram Mohalla, Lakshmipuram, Mysuru, Karnataka 570004, India","N/A","No rating available","No reviews"
+"White Lily Dental","2857, 2nd Main Rd, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570014, India","093115 87749","No rating available","No reviews"
+"Thomas Multi Speciality Dental Clinic","35/A,S No 375/B,Ramaswamy Circle, 1st Floor, Chamaraja Double Road, opposite Sri Krishna Bakery, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570024, India","0821 242 7242",4.4,12
+"THE DENTIST","437, Chamaraja Double Road, Sunnadakeri, Rahmania Mohalla, Mysuru, Karnataka 570004, India","N/A","No rating available","No reviews"
+"Pancham Dental Clinic","155, New Kantharaj Urs Rd, Basaveshwaranagar, Sharadadevi Nagar, Kuvempu Nagara, Mysuru, Karnataka 570022, India","098444 04044",4.9,8
+"Kateel Dental care","#CH 15/2, 3rd cross, 5th Main Rd, Saraswathipuram, Mysuru, Karnataka 570009, India","099729 12662",4.9,34
+"Dental Surgeon","Chikkahally Village, Varuna, Hobli, Hobli, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570010, India","0821 259 9557","No rating available","No reviews"
+"Vinayaka dental clinic X Ray and Specialist Centre","1774, P and T Block, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023, India","N/A",5,2
+"Fernandes Multi Speciality Dental Clinic & Implants Centre","Chamaraja Double Road, Subbarayanakere, KR Mohalla, Chamrajpura, Mysuru, Karnataka 570024, India","0821 244 2406",4.2,24
+"My DENTIST, Foundation Of Preventive Dentistry","118, Panchamantra Rd, Kuvempu Nagara, Mysuru, Karnataka 570023, India","N/A",3.5,6
+"ART OF BRACES DENTAL CARE","7JVH+G6H, Saraswathi Rd, Kuvempu Nagara, Mysuru, Karnataka 570023, India","N/A","No rating available","No reviews"
+"Dr. R.Vijaylakshmi - Best Perio Dentist in Kuvempunagar Mysore","No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India","073289 03499",5,1
+"Dr. Shadakshari - Best Dental Implant Doctors in Kuvempu Nagar Mysore","No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India","073289 03499","No rating available","No reviews"
+"Dr. Mukta Jain - Best Dentist in Kuvempunagar Mysore","No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India","073289 03499",5,1
+"Dr. Arun J Kumar","No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India","073289 03499",5,1
+"Dr. Vijayalakshmi R - Best Children Dentist in Mysore","No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India","073289 03499","No rating available","No reviews"
+"Dr. Suma - Best Dental Braces Dentist in Mysore","No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India","073289 03499",5,1
+"Dr. Jyothishree PV - Dentist in Kuvempunagar Mysore","No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India","073289 03499",4,1
+"Dr. Shaswath - Best Teeth Braces Specialist in Kuvempu Nagar Mysore","No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India","073289 03499","No rating available","No reviews"
+"Bk Dental Clinic","12th main, 5th Cross Road, Saraswathipuram, Mysuru, Karnataka 570009, India","077950 76422",5,1
+"Dr. Chandrika's Clinic","174/1, 11th Main Road, Saraswathipuram, Mysuru, Karnataka 570009, India","N/A",3.8,4
+"DENTO DESIGNS","#448 SBN COMPLEX M.G.ROAD, Chavadi St, Agrahara, Fort Mohalla, Mysuru, Karnataka 570004, India","N/A",5,1
+"Endo Care Dental Clinic","Agrahara, 1, Veerashiva Anathalaya Building, Circle, 5th Cross Rd, Agrahara, Ramachandra Agrahara, Mysuru, Karnataka 570004, India","N/A",4,2
+"Ortho lab Mysore","8J5W+PFC, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570001, India","099808 95417",5,1
+"Ora dental care mysore","99, D Devaraj Urs Rd, above CARAT LANE showroom, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570001, India","080957 90359",4.9,330
+"Dr Arun Kumar K S, Dental surgeon","1st floor, Adichunchanagiri Road, near appolo hospital, M-Block, Kuvempu Nagara, Mysuru, Karnataka 570023, India","N/A","No rating available","No reviews"
+"Dr Nalini G Kulkarni - DENTIST","No. 38, Near KUVEMPUNAGAR COMPLEX, Opp. More Supermarket, Udayaravi Rd, next to Cadabams, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India","089706 32985",5,2
+"Dr. Deepa's Dental Care and Implant Centre","627/B, First Floor, New Kantharaj Urs Rd, A & B Block, Kuvempu Nagara, Mysuru, Karnataka 570022, India","N/A",4.3,3
+"Sharan Dental Clinic","MIG 27,1st Floor, Nrupatunga Rd, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India","0821 256 1222",3,14
+"Sarathi Dental Clinic","Udayaravi Rd, E&F Block, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India","0821 246 0461",4.3,64
+"V k Enterprises","Subbarayanakere, Shivarampet, Mysuru, Karnataka 570001, India","N/A","No rating available","No reviews"
+"Shree Dental Clinic","building, Maruthi Temple Rd, Gangothri Layout, Mysuru, Karnataka 570009, India","076195 18795","No rating available","No reviews"
+"Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center","no.449, 1st floor, sthira building, New Kantharaj Urs Rd, TK Layout, Mysuru, Karnataka 570023, India","097708 81765",5,6
+"Anvi Dental Clinic Kuvempu Nagar Root canal Best Dentist for Cap crownMysuru","682, M Block, Nrupatunga Rd, 2nd Stage, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India","094482 40070",5,20
+"B.k Dental Clinic","Namana Park, opposite D block, Vivekanandana Nagar, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India","094481 01254","No rating available","No reviews"
+"NAYANA ADVANCED DENTAL CARE","71, Sahukar Chennaiah Road, Kuvempunagara North, Tonchikoppal 4th Stage, Saraswathipuram, Mysuru, Karnataka 570009, India","094817 87791",5,2
+"Dr.N. Chandrabhan Singh","8M72+RX8, B N Rd, behind Chamundeshwari Talkies, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001, India","N/A","No rating available","No reviews"
+"The Dental Centre","shop number 28, and 29, MUDA Shopping Complex, Block A, Ramakrishnanagar, Mysuru, Karnataka 570023, India","0821 254 2071",5,3
+"TruShine dental clinic","1788 MBM Lehar complex, Sayyaji Rao Rd, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570021, India","N/A",5,1
+"Kalanara Multi-Speciality Dental Clinic","976/A, Main Rd, Aravinda Nagar, Vivekananda Nagar, Mysuru, Karnataka 570023, India","N/A",4.6,13
+"SMILE PLEASE STUDIO","7JGG+82M, High Tension Line Rd, Aravinda Nagar, Vivekananda Nagar, Mysuru, Karnataka 570023, India","N/A","No rating available","No reviews"
+"Shree Siddhivinayak Cosmetic and Dental implant Clinic","Office No.: 15, 1st Floor, Viraj Corner, Canada Corner, Near BSNL Telephone Exchange, Sharanpur Road., Church Rd, Sharanpur, Nashik, Maharashtra 422005, India","0253 231 2378",2,1
+"Dr. Patani's Smile N Braces Dental & Orthodontic Clinic","103, Ronak Heights, Sharanpur Rd, behind Kulkarni Garden, near Soni Paithani sarees, Racca Colony, Jejurkar Wadi, Sharanpur, Nashik, Maharashtra 422002, India","094222 70051",4.9,42
+"Care32 Dental & Implant Centre","Suyojit Modern Point, Sharanpur Rd, opp. Police Pared Ground, Old Pandit Colony, Police Staff Colony, Nashik, Maharashtra 422005, India","097649 81926",4.9,972
+"Dr. Bonde's Dental Speciality Clinic","Govind Bhuvan Appartments, 1st Floor, Panchavati Karanja Rd, above Mahalaxmi electronic shop, Panchavati Karanja, Panchavati, Nashik, Maharashtra 422003, India","0253 258 2638",5,1030
+"Child Smile Care","Woodland Tower, Gangapur Rd, Old Gangapur Naka, Shreerang Nagar, Nashik, Maharashtra 422013, India","0253 257 8768",4.9,16
+"Omkar Teeth Care","11, Amrut Sagar Park, Kathe Ln, Near Bankar Chowk, Dwarka, Nashik, Maharashtra 422011, India","0253 250 1983","No rating available","No reviews"
+"Parth Dental Clinic","Flat no 3, ratnaprabha residency, opp. Raje shivaji margadarshan kendra, near SSK hotel, Tidke Colony, Nashik, Maharashtra 422002, India","099756 41693",4.9,59
+"Dugad Dental Implant Institute & Research Centre","Ground Floor,Lele Hospital Building,Opp.Soni Paithani,Near Kulkarni, Garden,Sharanpur Road,, Racca Colony, Sharanpur, Nashik, Maharashtra 422002, India","098505 52460",3.7,7
+"Kalakiran Dental Clinic","KALAKIRAN Dental clinic , A-3, Chandrakiran park appartment, New Era School road, Mumbai Naka, Govind Nagar, Nashik, Maharashtra 422009, India","095527 98826",4.9,119
+"Elegant Dental Clinic","Shop no 12, First Floor, Laxmi Vihar Complex, beside Sant Nirankari Satsang Bhavan, Mumbai Naka, Govind Nagar, Nashik, Maharashtra 422009, India","099757 11277",5,71
+"32 Sparkles Dental Clinic","Hirawadi Rd, near janakalyan bank, Adgaon Naka, Panchavati, Nashik, Maharashtra 422003, India","099707 83582",5,101
+"Advanced Orthodontic Clinic","Shop No. 103, Business Court, Ring Road, Radha Vasudev Batavia Nagar, Govind Nagar, Nashik, Maharashtra 422009, India","098601 65773",4,2
+"Dr.Bonde's Dental Speciality Clinic","1st Floor, H.P.T, Dattatray Darshan, College Rd, opp. Vijan Hospital & Big Bazar, Yashogandha Society, Patil Colony, Canada Corner, Nashik, Maharashtra 422005, India","098812 57003",5,975
+"Smile Architect Orthodontic Center and Dental Clinic","3 Aradhana Bunglow, Patil Lane 4 , Vidhya Vikas Circle, Gangapur Road, Pumping Station Rd, Yashwant Colony, Patil Colony, Canada Corner, Nashik, Maharashtra 422003, India","095454 55007",4.9,356
+"Dr. Aphale's Dental Concepts in Nashik","1st Floor, Parijat Sahnivas, opp. Patanjali Store, Samartha Nagar, Parijat Nagar, Nashik, Maharashtra 422005, India","088068 07124",5,141
+"Shree Siddhivinayak Cosmetic & Dental Implant Clinic","Renuka Plot no 45, Siddhivinayak Township, Behind Ayodhya Nagari, Amrutdham, Nashik, Maharashtra 422006, India","098901 54498",4.4,8
+"Jeevak Dental Clinic & Implant Center","Sinhastha Nagar, 1, chandrabhaga Apt, Ganesh nagar road, near swimming tank, Cidco, Nashik, Maharashtra 422009, India","077208 60555",4.7,3
+"Aashay Dental Colinic","1st Floor, Nashik Road, Bytco Point, Above Sanjay Medical Stoar, Bytco Point, Lokhand Bazar, Koknipura, Nashik, Maharashtra 422214, India","0253 246 7045","No rating available","No reviews"
+"Chauhan Prithviraj Jaisingrao Dr","208, Sona Shopping Centre, 60 Ft Road, Ganjmal, Ganjmal, Lokhand Bazar, Koknipura, Nashik, Maharashtra 422001, India","0253 250 9214","No rating available","No reviews"
+"Bhat Dr Raghvendra","8, Hal Bunglow, Cidco, Near Sbi, Cidco, Lokhand Bazar, Koknipura, Nashik, Maharashtra 422008, India","0253 237 4657",5,1
+"Umrao Dental Clinic","behind kokni darbar hotel, Koknipura, Nashik, Maharashtra 422001, India","0253 250 7692",5,3
+"Dental Clinic & Implant Centre","2Q2R+MHV, Bhadrakali, Koknipura, Nashik, Maharashtra 422001, India","N/A","No rating available","No reviews"
+"Asher Aesthetics & Multispeciality Dental Clinic","1089, 2nd Floor, Dighe Building, Main Rd, opp. Chitramandir Talkies, Shalimar, Nashik, Maharashtra 422001, India","N/A","No rating available","No reviews"
+"Deep Dental & Orthodontic clinic","Shop no.4, patel chambers, near, Zilla Parishad Rd, Mohan Nagar, Nashik, Maharashtra 422001, India","0253 250 6400",4.5,74
+"Abbad Dental Clinic and Implant Centre","2055, dahi pool nehru chowk, next to Sandeep kutt piece, Naikwadi Pura, Panchavati, Nashik, Maharashtra 422001, India","097134 35111",4.9,174
+"Dr. Milind Rajpathak","Near Central Bank, Dhumal Point, 2Q3P+WWW, Tilak Path, Ambedkar Colony, Raviwar Karanja, Panchavati, Nashik, Maharashtra 422001, India","094222 56962","No rating available","No reviews"
+"दातांचा दवाखाना डॉ. अनिल वि. रुपवते","Mirajkar Nagar, Dr.Homi Bhabha Nagar, Nashik, Maharashtra 422011, India","N/A","No rating available","No reviews"
+"Glowdent Dental and Aesthetic Clinic - Dentist Near Me | Dental Clinic | Skin and Hair Care Clinic","Shop No.1, Paradise Ocean, Wadala Rd, near Sahyadri Hospital, Mirajkar Nagar, Dr.Homi Bhabha Nagar, Nashik, Maharashtra 422011, India","093702 68662",5,3
+"KIDS’ DENTISTREE (Exclusive Pediatric Dental Clinic)","61, Pradhan Park, 3rd floor, M.G.Road, Mahatma Gandhi Rd, Ashok Stambh, Raviwar Karanja, Panchavati, Nashik, Maharashtra 422001, India","077096 93217",5,28
+"Kankaria's Multispeciality Dental Clinic","118, Abhankar Towers, M G road, Ashok Stambh, Raviwar Karanja, Panchavati, Nashik, Maharashtra 422001, India","0253 231 1049","No rating available","No reviews"
+"Rutu-Dent","38, 2 nd floor, Pradhan Park, Mahatma Gandhi Rd, Ashok Stambh, Raviwar Karanja, Panchavati, Nashik, Maharashtra 422001, India","0253 257 7389",4.8,17
+"Aditya ortho store","7/8, 1st Floor, Meher Signal, Sindekar Plaza, Dawa Bazar, Gole Colony, Nashik, Maharashtra 422002, India","0253 231 7860",4.3,7
+"Dr. Abhijit Tambe Best Prosthodontist/ Dr. Renu best Dentist in Nashik @ Pearls 32 and You dental clinic, Ashokstambh","202; Space Cosmos Tower, Ashok Stambh, Raviwar Karanja, Panchavati, Nashik, Maharashtra 422001, India","0253 231 4231",4.9,25
+"Astha Dental Clinic(Dr.Sonal Chaudhary)","Astha clinic, samraat nucleus complex, ground floor, Besides sanskriti hospital, Bhabha Nagar, Mumbai Naka, Mirajkar Nagar, Dr.Homi Bhabha Nagar, Nashik, Maharashtra 422011, India","080076 65040",5,42
+"Sarthak Health Clinic","Mumbai Naka Tajane Anusaya Complex Shop No 5 to 8 Above SBI insurance, Mumbai Naka, Renuka Nagar, Nashik, Maharashtra 422001, India","0253 259 3344",4.4,27
+"Dr. Shekhar Shashi Amale | Say Maternity Hospital","Shy Maternity Hospital, behind Kalika Mandir, Matoshree Nagar, Nashik, Maharashtra 422002, India","N/A",4.3,6
+"Dr. Ravikiran Patil","6, 1st Floor, Anant Chambers, near Ganapati Mandir, Ashok Stambh, Shivaji Nagar, Nashik, Maharashtra 422002, India","0253 257 9797","No rating available","No reviews"
+"Dr Rahul Ahirrao MDS (Maxillofacial Prosthodontist & TMJ Disorder - Cranio-facial pain treatment specialist)","Suyojit City Centre, G-8, below Shatabdi Hospital, Mumbai Naka, Renuka Nagar, Nashik, Maharashtra 422002, India","096040 44982",4.4,68
+"Center for artificial eye, ear, nose & Jaw | Prosthetic Dental","Shop no G-8, Suyojit city centre, below Shatabdi Hospital, Mumbai Naka, Renuka Nagar, Nashik, Maharashtra 422002, India","077985 30423",5,2
+"Noble Smile Multispeciality Dental Clinic Implant & Braces centre ( Branch 1)","BRANCH 1 : Shope 1, Nayantara co. Op. Society, Mumbai Naka, Bhagwant Nagar, Dr.Homi Bhabha Nagar, Nashik, Maharashtra 422003, India","090116 77735",5,43
+"Kalpadant Implant & Cosmetic Dental Clinic","617, 6th floor, Lotus Capital Ashok Stambh, road, Ashok Stambh, Gangapur, Nashik, Maharashtra 422002, India","096898 93544",5,10
+"Dr. Nakod's Dental Clinic","F1, 'B' Wing, Bus Stand, Suyojit City Centre, Landmark:, opp. Mahamarg CBS Office, Mumbai Naka, Govind Nagar, Nashik, Maharashtra 422002, India","0253 250 0224",3.8,5
+"DR. PAHILWANS DENTAL CLINIC","SHOP NO3, Varunaditya Apartment, APT RD, Bhabha Nagar, Mumbai Naka, Bhagwant Nagar, Dr.Homi Bhabha Nagar, Nashik, Maharashtra 422011, India","086239 55514",5,45
+"Nirmal Dental And Ayurved Clinic","Nirmal Dental Clinic 201, Business park, bus stand, next to Mahamarg, opposite to shatabdi hospital, Mumbai Naka, Gaikwad Nagar, Nashik, Maharashtra 422001, India","080 4807 3692",4.9,34
+"Asher Aesthetics & Multispeciality Dental Clinic","2nd Floor, Suyojit Modern, Sharanpur Rd, above Soni Jewellers, Old Pandit Colony, Police Staff Colony, Nashik, Maharashtra 422002, India","0253 231 9774",4.2,10
+"Orasurge Dental Clinic","G-9, Ground Floor, Suyojit Modern Point, Sharanpur Rd, opp. Police Pared Ground, Old Pandit Colony, Police Staff Colony, Nashik, Maharashtra 422002, India","090969 70797",5,4
+"Suryawanshi Eye & Dental Hospital","Shri Hari Narayan Kute Marg, opp. Nehete Hospital, next to Sopan Hospital, Mumbai Naka, Matoshree Nagar, Nashik, Maharashtra 422002, India","093594 92403",4.8,39
+"Dr. Ganorkar Hospital","XQQJ+7RH Bus Stand, Mumbai Naka Cir, behind Mahamarg, Mumbai Naka, Gaikwad Nagar, Nashik, Maharashtra 422001, India","N/A",3.6,118
+"Dr. Soham Doshi","3rd Floor, NIROG Superspeciality Clinic, Shreeji Bizz World, Kathe Ln, above Kotak Mahindra bank, opposite Domino's Pizza, signal, Dwarka, Nashik, Maharashtra 422001, India","072767 71234",4.9,361
+"Royals Dental Clinic and Implant Center in Nashik","B1, Shri Ramkunj Housing Society, Takli Rd, Dwarka, Nashik, Maharashtra 422011, India","089897 32751",4.8,36
+"RAIPUR DENTAL CLINIC","ground floor, Dixit Complex Shastri bazar road Baijnathpara landmark : Evergreen chowk, to, Malviya Rd, Shastri Market, Raipur, Chhattisgarh 492001, India","N/A",4.7,3
+"Rathor Dental Hospital","FF03, First Floor, Suraj tower, Main Road, Bhawani Patna, Ramsagar Para, Jawahar Nagar, Raipur, Chhattisgarh 492001, India","099071 33106",4.8,25
+"Chirayu Superspeciality Dental Clinic","Modern Complex, Road, beside Agrawal Mithaiwala Sweets, Moti Bagh, Shastri Market, Raipur, Chhattisgarh 492001, India","077147 00297",4.9,242
+"Smile N Shine Dental Clinic","Near Muslim hall, beside Sirat Maidan, Baijnathpara, Shastri Market, Raipur, Chhattisgarh 492001, India","099938 60207",4.9,42
+"Chhattisgarh","Chhotapara Rd, near City, Kotwali Chowk, Janta Colony, Raipur, Chhattisgarh 492001, India","077140 16000",4.5,215
+"Malik Implant Centre","Shop No. 4, Block C, Vineet Estates New Shantinagar, P.O, Geetanjali Colony, Shankar Nagar, Raipur, Chhattisgarh 492007, India","077140 57490",4.1,59
+"DENTAGLAM","First Floor, Thakur Singh Bhawan Acharya Narendra Dubey Marg, Chowk, Maitri Nagar, Sunder Nagar, Raipur, Chhattisgarh 492001, India","078691 78309",4.9,57
+"Dr. Khemka Dental Clinic","Shop No. 2&3, AT Plaza, Geetanjali Colony, Shankar Nagar, Raipur, Chhattisgarh 492001, India","098271 62237",4.1,17
+"Royal Smile Dental Care","Sanjay Nagar Main Road, Infront of govt school Sanjay nagar main Road Raipur, Sanjay Nagar, Tikrapara, Raipur, Mathpurena, Chhattisgarh 492001, India","074158 19445",3.7,3
+"Raipur Dental Clinic","J/17 Street 1 Shri ram nagar - Phase 1, Khamhardeeh sarover, opp. TV. Tower, P.O, Shankar Nagar, Raipur, Chhattisgarh 492007, India","098272 04002",5,3
+"City Dental Care & Implant Centre","12, Avanti Vihar, Shankar Nagar, Raipur, Chhattisgarh 492001, India","099816 96948",3.2,11
+"Bardia Dental Care","Shop No: 105, First Floor, Lalganga Business Park, New Dhamtari Rd, Navjeevan Society, Pachpedi Naka, Raipur, Mathpurena, Chhattisgarh 492001, India","077149 05234",4.8,105
+"CITY DENTAL CARE & IMPLANT CENTRE","Opp. Ashoka Ratan,(Gate No. 2), Khamardih Extension, Vidhan Sabha Road, VIP Estate, Shankar Nagar, Raipur, Chhattisgarh 492001, India","077140 59205",4.4,9
+"Dr Khan Dental Care","Main Road, Chhotapara Chhotapara, Janta Colony, Station Road, Moudhapara, Raipur, Chhattisgarh 492001, India","077122 26264",1,1
+"SITA DENTAL CARE & IMPLANT CENTER","7J2H+8WQ, Subhash Rd, Janta Colony, Station Road, Moudhapara, Raipur, Chhattisgarh 492002, India","N/A","No rating available","No reviews"
+"Dr.ankit Khandelwal","Main Rd, Bhawani Patna, Ramsagar Para, Jawahar Nagar, Raipur, Chhattisgarh 492009, India","080588 12220",5,1
+"Dr. R. K. Khandelwal","6JXJ+2H8, Moudhapara, Raipur, Chhattisgarh 492009, India","N/A",5,1
+"Apurv Dental Traders","Malviya Road, near City Kotwali, Janak Bada, Moudhapara, Raipur, Chhattisgarh 492001, India","077125 46270","No rating available","No reviews"
+"Dr Khemka Dental Clinic & Implant Centre | Best Dental Clinic in Raipur","Satyanarayan Dharamshala, Station Rd, Nahar Para, Station Road, Moudhapara, Raipur, Chhattisgarh 492001, India","098271 62237",4.5,8
+"KHUSHI DENTAL CARE","6JVJ+V3M, Titya Para Rd, Badaipara, Ramsagar Para, Jawahar Nagar, Raipur, Chhattisgarh 492001, India","N/A",5,1
+"DR.AJAY SINGH THAKUR(THAKUR DENTAL CLINIC)","STATION, Telghani Naka Rd, Sahupara, Raipur, Chhattisgarh 492001, India","077140 45454",5,3
+"Om Sai Dental Care","7/110 near GANGA MEDICAL STORES Opposite LAXMI MEDICAL HALL, opposite Axis Bank Branch, Sukrawari Bazar, Gudhiyari, Raipur, Chhattisgarh 492001, India","097708 45500","No rating available","No reviews"
+"Dr. Sunita Chhatre","Labh Complex, Chowk, near Dakshin Swad Hotel, Fafadih, Raipur, Chhattisgarh 492001, India","077140 60414",2.3,3
+"Chhatre Dental Clinic - Multi speciality Cosmetic, Dental Clinic","Labh Complex, Fafadih Chowk, near Dakshin Swad Hotel, Sai Vihar Colony, Raipur, Chhattisgarh 492001, India","077140 60414",3,2
+"आर.एम.होम्योपैथिक सेन्टर","Devendra Nagar, Raipur, Chhattisgarh 492001, India","N/A","No rating available","No reviews"
+"Tiwary Dental Clinic","Tatyapara, Nayapara, Raipur, Chhattisgarh 492001, India","077140 33605",3.3,3
+"Om Dental Hospital and Implant centre","H. No 117, 117, Samta Colony Main Rd, near IDBI bank, opposite Punjab National Bank, Samta Colony, Raipur, Chhattisgarh 492001, India","083059 48040",3.9,10
+"RheumaDent Speciality Care | Multi-speciality Dental Clinic | Rheumatologist In Raipur | Endodontics","Shop No 12, Nagdev Plaza, opposite City hospital, Kutchery Chowk, Devendra Nagar, Raipur, Chhattisgarh 492001, India","N/A",4.9,17
+"Dr.rajendre Parganih","shop no 5, Great Eastern Rd, Moudhapara, Raipur, Chhattisgarh 492001, India","074892 05244","No rating available","No reviews"
+"Samyag Dental Clinic","Azad Chowk Rd, opposite Sai Mandir, Aminpara, Raipur, Chhattisgarh 492001, India","072240 11183",4.9,64
+"Prime Dental Care - Best Dental Clinic in Raipur | Best Dentist in Raipur","Lig 16, opposite Bharat Mata Chowk, Gudhiyari, Raipur, Chhattisgarh 492001, India","091607 34567",4.9,44
+"फतनानी पॉली क्लिनिक","6JRC+8FH, Great Eastern Rd, Ganjpara, Gurunanak Chowk, Jawahar Nagar, Raipur, Chhattisgarh 492001, India","N/A","No rating available","No reviews"
+"Dr. Vivek Agrawal","Redaint Dental Clinic Gurughasidas Complex, G E Road, Amapara Near Vishal Nigha Math &, opposite R D Tiwari School, Aminpara, Raipur, Chhattisgarh 492001, India","N/A","No rating available","No reviews"
+"SRIJAN DENTAL CLINIC","7J6R+H48, near parag hospital, R.V.H. Colony, Jagriti Nagar, Fafadih, Raipur, Chhattisgarh 492004, India","N/A","No rating available","No reviews"
+"Pathak Dental Hospital","PATHAK DENTAL HOSPITAL, OPPOSITE LANE NO 4, Main Rd, R.V.H. Colony, Jagriti Nagar, Fafadih, Raipur, Chhattisgarh 492001, India","095758 00235",5,5
+"Shashwat Eye & Dental Hospital- Opthalmologist Doctor, Dentist In Raipur","Survey No -214/04, Devendra Nagar Main Rd, opposite New Timber Market Road, Sector-3, Jagriti Nagar, Paras Nagar, Raipur, Chhattisgarh 492001, India","081034 22230",5,1
+"Dr. Tamrakar's Dental Clinic","R.C. Tower, opposite to Bus Stand, Pandri, Raipur, Chhattisgarh 492001, India","093994 43074",4.9,73
+"B.N Dental Care","Kankalipara, Raipur Dham, Kalyani Bhawan, near Kankali Talab, Budhapara, Raipur, Chhattisgarh 492001, India","N/A",4.4,5
+"Dr Sana Khan","Main Rd, near Masjid, Chhotapara, Raipur, Chhattisgarh 492001, India","077122 26264",4.8,32
+"Flosswork Dental Clinic","6, South Ave, Geeta Nagar, Choubey Colony, Samta Colony, Raipur, Chhattisgarh 492001, India","083540 88822",4.8,40
+"BAJAJ DENTAL CLINIC","BAJAJ DENTAL CLINIC, CHOWK, Lakhe Nagar, Raipur, Chhattisgarh 492001, India","N/A",4,4
+"Visharad Dental and Maxillofacial Clinic","Visharad Hospital, V Y City Centre, opposite Subhash Stadium, Moti Bagh, Raipur, Chhattisgarh 492001, India","N/A",5,1
+"Kumra Dental Solutions","C-77, Sector 2, Jagriti Nagar, Devendra Nagar, Raipur, Chhattisgarh 492001, India","081205 66666",5,13
+"Vrinda Dental Clinic & Implant Centre - Best Periodontist in Raipur | Dental Clinic in Raipur | Dentist in Raipur.","Opposite, Durga Mandir Rd, near Shyam talkies chowk, Budhapara, Raipur, Chhattisgarh 492001, India","N/A",4.7,49
+"Sparsh Skin & Dental Clinic|Dr Vartika Sahu - Best Orthodontist Raipur|Dr Ajit Kumar - Skin Clinic In Raipur","2/2 Govind nagar, Bus Stand, near guru hotel, opposite pandari, Pandri, Raipur, Chhattisgarh 492001, India","097952 24877",5,50
+"Super Speciality Clinic","beside Mahant College, opp. Rang mandir, Chottapara, Gandhi Chowk, Raipur, Chhattisgarh 492001, India","078288 29715",4.9,76
+"Prestige Dental Care","First floor, 7A, Baban Prasad, Mishra Marg, near Naresh Trading, Ravi Nagar, Govind Nagar, Raipur, Chhattisgarh 492001, India","089620 81008",4.9,344
+"Dr. Kalpana Jain","Chottapara, Gandhi Chowk, Raipur, Chhattisgarh 492001, India","N/A",5,3
+"Dr Neeraj Chandraker - CFI Dental Clinic & Implant Center, Dentist In Raipur, Best Dentist, Dental Clinic, Raipur, CG","beside Axis bank, Pandri, Raipur, Chhattisgarh 492001, India","N/A",4.8,65
+"Dr Vartika Sahu (Orthodontist in raipur)","Pandri Rd, Pandri, Raipur, Chhattisgarh 492001, India","N/A","No rating available","No reviews"
+"Smiles Central","Kadru Main Rd, near Gate No. 1, Ashok Kunj, Kadru, Ashok Nagar, Ranchi, Jharkhand 834002, India","087976 71414",4.8,158
+"Dr MEENAKSHI SINGH","9856+7MW, Kadru - Kumhartoli Rd, Harmu Housing Colony, Nizam Nagar, Hindpiri, Ranchi, Jharkhand 834002, India","0651 320 0701",3,8
+"Meenakshi Netralaya","HI 157 Housing colony Harmu Near new AG Co-oprative colony, Nizam Nagar, Harmu, Ranchi, Jharkhand 834002, India","092047 97111",4.8,1564
+"Perfect 32 Dental Clinic and Implant Centre","Sahajanand chowk, HI-208, Harmu Housing Colony, Tongritoli, Ranchi, Jharkhand 834002, India","062045 22473",4.9,263
+"Dr Manmohan K Akhouri Dental Surgeon","985G+C99 HCG CURRIE ABDUR RAZZAQUE ANSARI CANCER INSTITUTE, Kanka, Irba, Ranchi, Jharkhand 834003, India","093083 55914",4.3,11
+"Dr. Achala Raman","Lake View Apartment, Lake Road, near Seva Sadan, Upper Bazar, Ranchi, Jharkhand 834001, India","095468 95253",4.9,164
+"Dr Bhagat’s Ideal Dental Clinic & Implant Centre (SINCE 1967)","Lalji Hirji Rd, near Madras Coffee House, Upper Bazar, Ranchi, Jharkhand 834001, India","082924 88812",4.5,212
+"S.I. Multispeciality Dental Clinic","1, New Barhi Toli, Ranchi, Jharkhand 834001, India","088640 49676",4.2,6
+"Esthetix Dental","107 , Phase I , Modi Heights, Ratu Rd, opposite All India Radio, Kumhartoli, Ranchi, Jharkhand 834001, India","076772 79977",4.9,145
+"Shri Vinayak Dental Clinic , Ranchi","Pahari Mandir Lane, Kumhar Toli, G-01 Panchratna Apartment, Kumhartoli, Ranchi, Jharkhand 834001, India","075491 28355",4.9,105
+"Dental Lifeline","Pradhan Tower, Harmu Rd, behind Lenskart.com, Kumhartoli, Ranchi, Jharkhand 834001, India","077628 88861",5,5
+"Dental Square","1st Floor, Amravati Complex, (icici Bank), near BIT Extension Center, Lalpur, Ranchi, Jharkhand 834001, India","098869 82522",4.8,86
+"Dr manmohan's Dental care & Oral Cancer Palliative Center","Shop No. F-1, Paras Complex, Oppositr Hotel Landmark, Circular Rd, P&T Colony, Lalpur, Ranchi, Jharkhand 834001, India","093083 55914",4.3,6
+"Ranjan Dental Clinic and smile gallery","110, 1st floor, Sumati Vihar Complex, Karamtoli Rd, opposite adiwasi hostel, near jail, Nagra Toli, Ranchi, Jharkhand 834001, India","077629 23480",3.7,6
+"DENTAL SOLUTIONS / Best Dental Clinic","2nd floor manjusha complex, Hazaribag Rd, near hotel arya, Lalpur, Ranchi, Jharkhand 834001, India","088040 28007",4.8,286
+"Vyas Oral Care Multi-Speciality Dental clinic","Ground & First ( 1st ) Floor, Surmil Complex, Khunti - Chaibasa Rd, Singh More, Hatia, Ranchi, Jharkhand 834003, India","088251 70775",4.8,762
+"D Mall Dental Clinic","Pratik Complex, S.N Ganguli Road, Mahatma Gandhi Main Rd, Upper Bazar, Ranchi, Jharkhand 834001, India","094307 31399",4.8,251
+"Mydentist Ranchi","88V7+RP6, mydentist Road, Gaurishankar Nagar, Shyamali Colony, Doranda, Ranchi, Jharkhand 834002, India","099399 55656",5,1
+"Dental care centre","3rd floor, Krishna mall, Central Ashoka Colony, Ashok Vihar, Ashok Nagar, Ranchi, Jharkhand 834001, India","090353 47904",4.8,66
+"M.K. Advance Dental Hospital","Saima tower Ist floor, opposite Bharat petrol pump, Kadru, Ranchi, Jharkhand 834002, India","090367 41595",4.8,38
+"DREAM SMILE DENTAL CLINIC","Num 201, 2nd Floor, HR Complex, Kadru - Kumhartoli Rd, Kadru, Ashok Nagar, Ranchi, Jharkhand 834002, India","099640 03750",4.9,133
+"Dr Anubhav Kumar ( Dental and Oral implant surgeon)","The smile architects, first floor, Kumar Complex, opposite Road Number 5, Ashok Kunj, Harmu Housing Colony, Delatoli, Ranchi, Jharkhand 834002, India","N/A",5,4
+"Just Clean Smiles Dental Clinic | Best Dentist in Ranchi","Sahajanand Chowk, C-103, near Patel park, Harmu Housing Colony, Delatoli, Ranchi, Jharkhand 834002, India","082103 41863",5,35
+"Kashyap'S Dental Clinic in Ranchi","Skyline Mall,#4006,4th Floor, opp. Lal's Hospital, Kadru, Ranchi, Jharkhand 834002, India","091995 33383",4.9,69
+"Maa Dental Clinic","Front of jp hyundai, Kadru, Ashok Nagar, Ranchi, Jharkhand 834002, India","082102 18446",4.8,155
+"Happy","No-47, AG Colony Rd, North Office Para, Shyamali Colony, Doranda, Ranchi, Jharkhand 834002, India","N/A",5,1
+"Dr. Priya Bharti- Orthodontics in Ranchi","Bharti Dental and Healthcare, Gopal Marketing Complex, Argora Chowk, Harmu Housing Colony, Delatoli, Ranchi, Jharkhand 834002, India","N/A",3,2
+"Dental Clinic","88VF+V9V, Diversion Rd, near Yuvraj Palace, Kadru, Doranda, Ranchi, Jharkhand 834002, India","N/A",4,2
+"RAKSHA DENTAL CLINIC","Pipartoli, Argora, Ranchi, Jharkhand 834002, India","N/A","No rating available","No reviews"
+"First Care Dental Clinic and implant center","1st floor, Harmu Rd, Bypass Rd, above Sajjan Medico, beside KFC, Shiv Dayal Nagar, Harmu Housing Colony, Harmu, Ranchi, Jharkhand 834002, India","086963 62040",5,111
+"Dr. Dipti's (MDS) Dental Clinic & Implant Center","140, near Sahajanand Chowk, Basant Vihar, Harmu Housing Colony, Delatoli, Ranchi, Jharkhand 834002, India","072184 48441",4.9,82
+"Dr Chen's Dental Clinic","Lower PP Compound Near Guru Nanak School, Hindpiri, Ranchi, Jharkhand 834001, India","086038 02618",4.7,90
+"Dr. Abhishek Mishra","Shree Sewa Dental Care, H4, opp. Bjp Headquarters, Harmu Housing Colony, Argora, Ranchi, Jharkhand 834002, India","N/A",4.7,13
+"LALS DENTAL CLINIC","Harmu Housing Colony, Delatoli, Ranchi, Jharkhand 834002, India","N/A","No rating available","No reviews"
+"Dr. Megha Singh","88J8+782 NPS, opp. UCO. Bank, Kilburn Colony, Hinoo, Ranchi, Jharkhand 834002, India","N/A",3,1
+"Dr. T. Ahmad (Ranchi Dental Clinic)","1st floor, J.N. Market, Tulsi Chowk, near Bank of Baroda, Doranda Bazar, Resaldar Nagar, Doranda, Ranchi, Jharkhand 834002, India","N/A",4,4
+"Aastha Dental Clinic","Hinoo Main Rd, Kilburn Colony, Shivpuri Colony, Hinoo, Ranchi, Jharkhand 834002, India","079039 06877",4.7,45
+"Dr ASHWINI PATHAK","Kilburn Colony, Shivpuri Colony, Hinoo, Ranchi, Jharkhand 834001, India","098359 17612",5,4
+"Radhya Dental & Aesthetic Center","Pathar Road, near Kathpul, Shivpuri Colony, Doranda, Ranchi, Jharkhand 834002, India","N/A","No rating available","No reviews"
+"Dental & Cosmo Kraft","RC Sahu complex 2nd floor, above HDFC Bank, Kilburn Colony, Shivpuri Colony, Hinoo, Ranchi, Jharkhand 834002, India","094730 88775",5,165
+"SMILE EXPERT DENTAL AND IMPLANT CENTER","PP Compound, Hindpiri, Ranchi, Jharkhand 834001, India","094303 03570","No rating available","No reviews"
+"White Cross Dental Clinic - Best Dentist - Dental Clinic in Ranchi","Pe Pee Compound, Hindpiri, Ranchi, Jharkhand 834001, India","099345 73009",4.6,14
+"RC Clinic ultrasound and dental office","Malabar tower, Railway Overbridge, beside Betar kendra, Nivaranpur, Forest Officers' Colony, Doranda, Ranchi, Jharkhand 834002, India","062007 06992",4.4,171
+"Sharan Dental Clinic","Kathal More Rd, near Durga Mandir, Chaputoli, Argora, Ranchi, Jharkhand 834002, India","093862 62409",5,1
+"Smile City Dental Clinic","88H8+J82, near PNB BANK, Old AG Colony, Hinoo, Ranchi, Jharkhand 834002, India","N/A",5,9
+"Dr. Ashish Dubey","Near Gokul Sweets, Hinoo Chowk, opp. Shri Hanuman Mandir, Shivdayal Nagar, Shukla Colony, Ranchi, Jharkhand 834002, India","094715 00380",5,41
+"nilam's dental care","l.s 23, beside Shri Shiv Mandir, Harmu, Harmu Housing Colony, coloney, Ranchi, Jharkhand 834002, India","070500 41880",5,9
+"First Choice Orthodontic Centre & Dental Clinic | Dr Monojit Dutta (Orthodontist & Implantologist)","First Floor, S.B Complex, near Hotel Crown Plaza, Hinoo, Ranchi, Jharkhand 834002, India","089418 51567",5,23
+"Dr Abhishek Bhattacharjee","Mahatma Gandhi Main Rd, Doranda, Ranchi, Jharkhand 834002, India","083103 96156",5,16
+"Bhushan Dental Clinic","shop no 14,15, Karma Oraon Complex, Birsa Chowk, next to Premsons Motor, Kathalkocha, Ranchi, Jharkhand 834002, India","080077 30263",4.9,579
+"M.C.M. DENTAL CLINIC","Top Floor, Kuthiala Building Main Market, Kasumpti, Shimla, Himachal Pradesh 171009, India","094180 84508",4.7,25
+"Kalra's Dental Clinic Shimla - Dentist in Shimla | Dental clinic in Shimla","Kalra Dental Clinic, The, Mall Rd, Bemloi, Shimla, Himachal Pradesh 171001, India","098163 52225",4.1,9
+"Dr. Sachdeva`s Dental Studio","Metropole Cottage Estate, near tourism Lift, Bemloi, Shimla, Himachal Pradesh 171001, India","0177 280 0223",4.8,86
+"Dr Gupta Dental Clinic","38/4, Mall Rd, Middle Bazar, The Mall, Shimla, Himachal Pradesh 171001, India","088941 33949",4.9,125
+"Arya dental clinic","453F+M6V, Middle Bazar, Lower Bazar, Shimla, Himachal Pradesh 171001, India","N/A",3.9,15
+"Suryoday Dental Clinic Shimla","Lower, Jakhoo Rd, Lakkar Bazar, Shimla, Himachal Pradesh 171001, India","N/A",5,3
+"Kapoor's family dental hub","9, Meghna Complex, Mall Rd, The Mall, Shimla, Himachal Pradesh 171001, India","098160 30684",5,8
+"Indu Dental Care - KNH/Chota Shimla Branch,Shimla/Best Dental Clinic Nearby","Bryston Lodge, opposite Kamla Nehru Hospital Road, beside Hotel Marina, Milsington Estate, Shimla, Himachal Pradesh 171001, India","078886 05294",5,48
+"32 t Dental Clinic","Byepass Road, 35QC+R88, near Hp State co-operative bank, Khalini, Shimla, Himachal Pradesh 171002, India","N/A",5,4
+"Pankaj Dental Clinic","4534+856, Chaura Maidan, Shimla, Himachal Pradesh 171004, India","093185 03661",5,4
+"Indu Dental Care - Sanjauli Chowk-Branch 2/Best Dentist Clinic Nearby","Ground Floor, Basin villa, Sanjauli Chowk, below Shri Hans Satsang Mandir, near Gurudwara Sahib, North Oak, Sanjauli, Shimla, Himachal Pradesh 171006, India","078886 05294",5,230
+"𝗦𝗵𝗶𝘃𝗮 𝗗𝗲𝗻𝘁𝗮𝗹 𝗖𝗮𝗿𝗲 & 𝗜𝗺𝗽𝗹𝗮𝗻𝘁 𝗖𝗲𝗻𝘁𝗿𝗲- Best Dentist/Implant Centre/Best Braces/Best Dental Clinic Shimla","bazzar Road, Sanjauli, Shimla, Himachal Pradesh 171006, India","094184 83160",4.9,306
+"ABHINAV DENTAL CLINIC","Chotta Shimla, Shimla, Himachal Pradesh 171002, India","N/A","No rating available","No reviews"
+"𝗜𝗻𝗱𝗲𝗿 𝗗𝗲𝗻𝘁𝗮𝗹 𝗖𝗹𝗶𝗻𝗶𝗰 - Best Dentist | Top Braces & Implant Center | Best Dental Clinic in Shimla","Inder Palace, Main Market, Housing Board Colony, Sanjauli, Shimla, Himachal Pradesh 171006, India","094180 87148",4.9,56
+"HIMACHAL DENTAL CARE","Near, ISBT Tutikandi, near Aangan Regency, Tutikandi, Shimla, Himachal Pradesh 171004, India","082195 71674",5,27
+"𝗪𝗘 𝗖𝗔𝗥𝗘 𝗗𝗘𝗡𝗧𝗔𝗟 𝗖𝗟𝗜𝗡𝗜𝗖","Above PNB Bank, Near Vishal Mart, Housing Board Colony, Sanjauli, Shimla, Himachal Pradesh 171006, India","098051 56566",4.9,229
+"THE DOCTOR STORM","CHAUHAN NIWAS , NEAR BSNL TOWER, UPPER CEMETERY , UPPER, Sanjauli Cemetery Rd, Cemetery, Sanjauli, Shimla, Himachal Pradesh 171006, India","N/A","No rating available","No reviews"
+"Dr Soni's Dental Clinic","Bhattakufer, Sanjauli, Shimla, Himachal Pradesh 171006, India","N/A",5,1
+"Orocraft Dental Clinic","35GM+67J, Kasumpti, Shimla, Himachal Pradesh 171009, India","N/A",5,3
+"CLASSIC DENTAL Arts","4657+222, NH 5, Dhalli, Shimla, Himachal Pradesh 171012, India","N/A","No rating available","No reviews"
+"Nivaran Dental Clinic","near east end hotel, Panthaghati, Shimla, Himachal Pradesh 171009, India","098571 34190",4.8,72
+"Innovate Dental Centre","101, Ornate House, Ring Rd, opp. flyover bridge, Athwa, Surat, Gujarat 395001, India","0261 247 0170",3.4,5
+"Kids Smile Care","Abhinandan Royal, 108-109, Bhatar Rd, opp. Raj Empire Multiplex, Swami Gunatit Nagar, Sanskar Nagar, Athwa, Surat, Gujarat 395001, India","0261 224 0045",4.9,348
+"My Dental Clinic","Shop No:110, Glamor Complex, Bhatar Rd, near Vaibhav Apartment, Bhatar, Athwa, Surat, Gujarat 395006, India","096626 70001",4.8,101
+"Rathi Dental Care Clinic-best dental clinic surat","Shanti Corner Apartment, 120 Feet Bamroli Rd, Kashi Nagar, society, Surat, Gujarat 394210, India","094297 59432",5,3
+"Amruta Hospital","2nd Floor, Raj Complex, Bhatar Rd, near Vaishnodevi Temple, Bhatar, Athwa, Surat, Gujarat 395001, India","N/A",4.6,328
+"Dr. Rathi's Cosmetic Dental Clinic","Ring Rd, behind Morcha Masjid, Udhana Darwaja, Rustampura, Surat, Gujarat 395002, India","093773 55583",4.1,14
+"Sabka dentist - Majura Gate","Office C/1, Mezzannine Floor, Swami Narayan Complex, H.No: 2, 1932/1, Majura Gate Rd, near International Trade Center Building, Kailash Nagar, Majura Gate, Surat, Gujarat 395001, India","090811 05511",4.6,1113
+"Dental Signature by Dr. Swapnesh Patel","303, Rajhans Bonista, Ghod Dod Rd, behind Shri Mahakaal Bhairav Temple, Ram Chowk, Adarsh Society, Athwa, Surat, Gujarat 395001, India","072010 58000",5,14
+"Adarsh Dental Care and Implant Center","86-A,, Athwalines, Adarsh Society, Athwa, Surat, Gujarat 395007, India","N/A",4,12
+"Insiyah Dental Clinic","4/3452, Noorpura Road, above Shibaam collection, opposite Sakina manzil, Zampa Bazaar, Zampabazaar, Begampura, Surat, Gujarat 395003, India","096870 04821",4.9,119
+"Dr.Mustafa K.Fakhri, MUSKAN Dental Clinic & Implant Centre","1st Floor, 9, Abhishek Plaza, 73, Kotsafil Main Rd, above Professional Couriers Street, opp. Air India, Gopipura, Surat, Gujarat 395003, India","090330 40277",4.9,37
+"Dental Clinic","shop no 228 capital square,TP 19, Godadara Naher Road, Maharana Pratap Nagar, Godadara, Near Kiran Motors, Intercity Twp Society, Yamuna Nagar, Surat, Gujarat 395010, India","0261 285 8585",4.3,6
+"OraCare Dental Clinic","M-15, First Floor, Bhagwati Ashish Complex, opp. Ashok Pan House, City Light Town, Athwa, Surat, Gujarat 395007, India","090330 12995",4.9,151
+"Dr.Mayur Dudhat","4th Floor H/402 Pramukh Doctor house, Parvat Patiya, Surat, Gujarat 395010, India","093759 63146",4.9,15
+"Children's dental home","M-1 Nariman point shopping centre, Rani Sati Mata Road, opposite suzuki show room, City Light Town, road, Surat, Gujarat 395007, India","074900 20852",4.9,206
+"The Advance Dental Care & Implant Centre","M/21 Krishna Complex,Gujarat Gas Circle, near Sardar Bridge, Krishna Nagar Society, Premjinagar Society-1, Gita Nagar, Adajan, Surat, Gujarat 395009, India","094263 93263",5,8
+"Surat Dental Implant hospital","1-Rangila park-1 Archana school road, parvat patia, puna, Kumbharia Main Rd, Shubhash Nagar, Parvat Patiya, Surat, Gujarat 395010, India","N/A",5,11
+"savani orthodontic clinic","2nd floor, doctor house, Unapani Rd, above rashmi medical store, Lal Darwaja, Varachha, Surat, Gujarat 395003, India","096873 38835",4.5,8
+"Dental Helpline India","4th A,Pramukh Building,Surat - Kadodara Rd, Parvat Patiya, Surat, Gujarat 395010, India","094299 90777",5,5
+"Bhagvati Dental Care & Orthodontic Centre","F-1 / Silicon Park,, Nr. Pramukh Doctor House,, Parvatpatiya, Parvat Patiya, Surat, Gujarat 395010, India","N/A",5,23
+"Narang Orthopedic Hospital & Dental Centre","324-326, Atlanta shopping Center Althan bhimrad, Althan Canal Rd, Apcha Nagar, Surat, Gujarat 395017, India","095121 82100",4.3,26
+"Shriji Orthodontics - Dr. Mukund Zalavadiya","A-107, Millenium Point, Opp- Gabani Kidney Hospital, Lal Darwaja Station Rd, Lal Darwaja, Varachha, Surat, Gujarat 395003, India","081289 54111",4.6,9
+"Dhami dental clinic","M-10, Anmol complex, beside Kantilal jewellers, near sargam shopping center, parle point , Surat :395007, Somanath Society, Umra Gam, Athwa, Surat, Gujarat 395007, India","095106 42759",4.9,7
+"NuFace Maxillofacial & Dental Hospital | Dr Purvi Patel","Plot No.2,Sai Nagar,Anand Mahal To Adajan Gam Road, Road, Sai Nagar, Adajan Gam, Adajan, Surat, Gujarat 395009, India","0261 273 1591",4.9,42
+"Trrue-Smile Dental clinic","5QXX+P24, New Rander Rd, Giriraj Society, Adajan, Surat, Gujarat 395009, India","0261 279 4222",5,1
+"The Dental Studio","208/209, Green Atria, Anand Mahal Rd, nr. Sneh Sankul Wadi, Giriraj Society, Adajan, Surat, Gujarat 395009, India","098250 98538",4.8,12
+"𝗥𝗮𝗷𝗽𝘂𝘁 𝗗𝗲𝗻𝘁𝗮𝗹 & 𝗜𝗺𝗽𝗹𝗮𝗻𝘁 𝗖𝗹𝗶𝗻𝗶𝗰 - Best Dental Clinic in Dindoli | Top Dentist in Dindoli","Mark Point, C-109/1, Jitesh Park Society, Sai Shiv Shakti Society, Dindoli, Surat, Gujarat 394210, India","096879 11454",4.9,30
+"Sabka dentist - Adajan (Surat)","U-1 Regent Square, Offc No 111, Abv. D-Mart, Gangeshwar Mahadev Temple Rd, Bungalow Society, Karan Park, Adajan, Surat, Gujarat 395009, India","096247 99333",4.5,882
+"'Precious Smile'","64, Subhash Nagar Society, Nr. Jamna nagar Bus Stop, Ram Chowk, Ghod Dod Rd, Miranagar Society, Athwa, Surat, Gujarat 395001, India","094998 82284",4.7,7
+"SMILE PHARMA OVERSEAS","5RCJ+3CV, Laxmi Nagar, Udhana, Surat, Gujarat 395017, India","N/A","No rating available","No reviews"
+"Signature Smile Dental Clinic","302, Zenon building, opposite Unique hospital, Near Sosyo Circle, Gandhi Kutir, Surat, Gujarat 395002, India","N/A",5,1
+"Smile Clinic","Udhana Village, Udhana, Surat, Gujarat 394210, India","N/A","No rating available","No reviews"
+"Reeva Dental Clinic","Tulsi Plaza, 13 14, S Zone Rd, near South Zone, below sarvottam restaurant, Udhana Village, Udhana, Surat, Gujarat 395002, India","097142 56006",4.8,30
+"Jivan Jyot Diagnostic & Health Center","3rd Floor Dream Honda,Jivanjyot Theatre Compound, Main, Udhana Main Rd, Shiv Nagar, Satyanagar Society, Udhana, Surat, Gujarat 394210, India","0261 228 1227",4.1,67
+"Dental diaries","Udhna 3 Rasta, Meeranagar Society, Udhana Village, Udhana, Surat, Gujarat 394210, India","099791 10748","No rating available","No reviews"
+"Radhe dental clinic and multispeciality hospital and implant center","Plot no.A-12,first floor, 120 Feet Bamroli Rd, Haridham Society, Pandesara, Udhana, Surat, Gujarat 394221, India","099138 79919",5,7
+"Innovate Dental Equipment","5R8Q+JWF, Dr Hedgewar Rd, Amber Colony, Harinagar, Udhana, Surat, Gujarat 394210, India","N/A","No rating available","No reviews"
+"Gandhi dental clinic","Udhana dena bank, udhana main road, Near Dena Bank, Hari Ichchha Industrial Society, Udhna Udhyog Nagar, Udhana, Surat, Gujarat 394210, India","094267 74158",4.2,6
+"Smile Medical","Siddhi Nagar, Gurunanak Hospital Gali, 5RF9+5F3, Bhatar Rd, near Ram Mandir, Sanskar Nagar, Athwa, Surat, Gujarat 395017, India","098799 05401","No rating available","No reviews"
+"Dr Parth Shah, SAACHI Children Hospital","Road, Kapadia Health Club St, Sanskar Nagar, Majura Gate, Surat, Gujarat 395001, India","098985 16877",5,58
+"Oraface Dental Clinic","205, second floor, milestone vibrant, opp. apple hospital, Udhana Darwaja, Aman Nagar, Surat, Gujarat 395002, India","096878 41274",5,14
+"Vital Dent Care","229, Vital dent care, rajhans olympia, Bhatar Rd, near rupali canal, Sanskar Nagar, Athwa, Surat, Gujarat 395007, India","099090 25362",4.8,52
+"Samol Multispecialty Hospital","Urmi Complex, Moti Lalwadi, nr. Civil Char Rasta, Lalwadi, Sagrampura, Surat, Gujarat 395008, India","080000 22044",4.6,305
+"Shree Rang Dental Care,Surat","105,106 Glamour complex, Co.Op Bank Nxt, Dk Park Society, to, Bhatar Rd, opp. Surat Dist, Bhatar, Athwa, Surat, Gujarat 395001, India","079843 88247",5,71
+"Care32 Dental Helpline","201, Vasudev Arcade, Vesu Canal Rd, near Rupali, above Surat Bajaj Showroom, Dinbandhu Society, Bhatar, Athwa, Surat, Gujarat 395001, India","N/A","No rating available","No reviews"
+"Hayat Dental Care","Aanjada Nagar, Aman Nagar, Surat, Gujarat 395008, India","N/A","No rating available","No reviews"
+"Dr. Ruchir Smart Dental Clinic","2/3, Rushabh Char Rasta, Singapuri Wadi, Rustampura, Surat, Gujarat 395002, India","N/A","No rating available","No reviews"
+"Vedansh Dental Care | Dr.Rachit Jain","5,6 kalp residency, Opp. Panchsheel Bank, Nr. Sabji Mandi, Kailash Nagar, Majura Gate, Surat, Gujarat 395009, India","095107 81177",5,21
+"Harsh dental clinic","E-3, Second floor, Swami Narayan Complex, Kailash Nagar, Majura Gate, Surat, Gujarat 395001, India","0261 247 4835",4.7,12
+"Rathod Radhey","124, Patelnagar, B/H, Harinagar, Udhana, Surat, Gujarat 394210, India","N/A","No rating available","No reviews"
+"Fresh Smile Multispeciality Dental Clinic","Pothujanam Ln, opposite A J Hall, Kumarapuram, Thiruvananthapuram, Kerala 695011, India","0471 406 6692",4.8,90
+"Sunshine Dental Clinic","Tc 14/376(1, Sunshine Dental & Orthodontic Centre, Sun Towers, Nandavanam Palayam Road, Panjapura Junction, Nandavanam, Palayam, Thiruvananthapuram, Kerala 695033, India","094952 42969",4.2,24
+"SKC Total Dental Care.","GWPV+43M, Near M. G. College, Next to Bata, Sree Nagar, Paruthippara, Thiruvananthapuram, Kerala 695025, India","0471 254 0506",4.3,22
+"Trivandrum Dental Specialists Group","Lekshmi Nagar, Pattom, Thiruvananthapuram, Kerala 695004, India","0471 254 5455",4.6,96
+"iSmile Dental Care & Advanced Orthodontic Centre","Kesavadasapuram-Ulloor Rd, near Ulloor Bridge, Aiswarya Nagar, Ulloor, Thiruvananthapuram, Kerala 695004, India","082813 50442",4.9,92
+"Prathyusha Dental Care, Head Office","GW8Q+VQ2, Pattom Pottakuzhy Rd, Pottakkuzhi, Thiruvananthapuram, Kerala 695004, India","094470 60374",3,2
+"Kids Dent","Pattom- Kumarapuram road, Murinjapalam, near to GG hospital, Murinjapalam, Thiruvananthapuram, Kerala 695011, India","094963 43206",4.1,45
+"Apollo Dental Centre","Vellayambalam - Sasthamangalam Rd, Althara Nagar, Vellayambalam, Thiruvananthapuram, Kerala 695010, India","0471 272 0666",4.8,453
+"Kamala Dental Speciality Hospital","Sree Mulam Club, T.C 29/4638, Junction, near Centre Plaza, Nandavanam, Vazhuthacaud, Thiruvananthapuram, Kerala 695014, India","095260 66001",4.8,768
+"Chitra MultiSpeciality Dental Clinic Trivandrum","opposite to Elamkulam mahadeva temple and SBI, Sreekariyam, Thiruvananthapuram, Kerala 695017, India","094474 78775",4.9,1173
+"Yaamis Multispeciality Dental Clinic","Opposite Artech Centrix,, Edappazhanji, Shasthamangalam P.O, CSM Nagar, Vazhuthacaud, Thiruvananthapuram, Kerala 695010, India","095263 37530",4.2,116
+"Modern Dental Specialists Centre","Penta City Tower, Killipalam, Killipalam, Overbridge, Chalai Bazaar, Chalai, Thiruvananthapuram, Kerala 695002, India","0471 234 5757","No rating available","No reviews"
+"Rysa Dental Clinic - Best Dental Clinic In thiruvananthapuram","TC 36, 1001, TR Sukumaran Nair Rd, Perunthanni, Pazhavangadi, Thiruvananthapuram, Kerala 695008, India","086062 11119",4.6,37
+"Trivandrum Smiles Multispecialty Dental Care","First floor, Asset Business Center, Maruthumkuzhi Jn., GX7H+78G, Maruthumkuzhi Junction, Kanjirampara, Thiruvananthapuram, Kerala 695030, India","096335 23322",4.9,29
+"Access Dental Care & Endodontic Centre","TC 2/3031(6), Dallys Apartments, Chalakuzhy Lane, Pattom Palace Post, Pottakkuzhi, Thiruvananthapuram, Kerala 695004, India","0471 255 5511",5,1
+"Spring Garden Dental Care","Opp: Square One Homemade Treats, 3rd Floor, Spring Garden Health Care Building, T.C. 15/4238/3, Lekshmi Nagar, Kesavadasapuram, Thiruvananthapuram, Kerala 695004, India","094470 48561",4.7,80
+"Dr. Jobin's Dental Clinic","Kakkanad Ln, Kesavadasapuram, Thiruvananthapuram, Kerala 695004, India","098462 20649",5,378
+"GDC Dental clinic","GWHM+JQV, Kesavadasapuram, Thiruvananthapuram, Kerala 695044, India","0471 255 0208",3,2
+"Aashirwaad Multispeciality Dental Clinic","Main Road, opposite Kendriya Vidyalaya, A1, Pattom, Thiruvananthapuram, Kerala 695004, India","098471 71222",4.9,53
+"HLL CLINIC - Dental iDentiti Dental Care Services","3rd floor, Hindlabs Building ,Trida Sopanam Complex, Opp, Medical College, Chalakkuzhi, Thiruvananthapuram, Kerala 695011, India","070344 46783",4,47
+"Dr Greeshma's Dhivehi Multispeciality Dental Clinic","Ground Floor, SS Plaza, Medical College, Road, near Kerala Bank, Pattom, Thiruvananthapuram, Kerala 695011, India","096058 59020",5,39
+"Dr Johns Dental Centre - Best dental clinic in Trivandrum","Dr johns dental centre, Medical College, Pazhaya Rd, near Trinity Marthoma Church, opp. Hdfc Bank, P.O, Murinjapalam, Thiruvananthapuram, Kerala 695011, India","096459 45945",5,244
+"Braces4u - Best aligners provider in Trivandrum","Pazhaya Road, Medical College Kumarapuram Rd, P.O, Murinjapalam, Thiruvananthapuram, Kerala 695011, India","096459 45945",5,220
+"Prof.Dr.Harsha Kumar","Vaishnavam, NRA-12, Navarangam Lane, Medical College, PO, Murinjapalam, Thiruvananthapuram, Kerala 695011, India","094476 98633","No rating available","No reviews"
+"The Dentofacial Studio | Pattom","Ground Floor - Menathottam Chambers, Vrindavan Gardens, Thiruvananthapuram, Kerala 695004, India","094477 77010",4.9,244
+"Sangeeth","GWHH+G3J, Ulloor - Akkulam Rd, Ulloor, Kochulloor, Ulloor, Thiruvananthapuram, Kerala 695011, India","N/A","No rating available","No reviews"
+"NAIK AKSHAYA CLINIC (Dr B R Naik MDS)","Pattom, Thiruvananthapuram, Kerala 695004, India","0471 254 0020",2.2,5
+"Diva School Of Dental Assistance","Diva institute of Dental Assistance Ist floor ,Mansion diva, Ulloor - Akkulam Rd, PSC Nagar, Ulloor, Thiruvananthapuram, Kerala 695011, India","095672 60689",4.4,13
+"Kovoor Dental Clinic and Implant Centre,Near Bab Arabia and Tony &Guy essentuals,marappalam.","between Bab Arabia and Tony &guy essentuals, Vh 229, Pattom - Kowdiar Rd, Marappalam, Thiruvananthapuram, Kerala 695004, India","098470 47435",4.9,15
+"CRYSTAL DENTAL CLINIC AND ORTHODONTIC CENTRE","Sebia tower, First floor, Main Road, opposite Supplyco, Kochulloor, Ulloor, Thiruvananthapuram, Kerala 695011, India","095396 99966",4.7,40
+"GOKULAM DENTAL CLINIC AND ORTHODONTIC CENTRE","pananvila, GWPR+FWG, nalanchira, Paruthippara, Thiruvananthapuram, Kerala 695015, India","099466 77799","No rating available","No reviews"
+"Apolos Dental","GW9X+5X3, YMR Junction Plammoodu Rd, Marappalam, Thiruvananthapuram, Kerala 695003, India","N/A","No rating available","No reviews"
+"Dr. Roshni's Dental Clinic","GW7G+H5J, Poonthi Rd, Krishna Vihar, Kumarapuram, Thiruvananthapuram, Kerala 695033, India","N/A","No rating available","No reviews"
+"Vayalil Maxillofacial Centre: Dentistry | Face | Hair","Akshitam Tower, Muttada, Nalanchira, Junction, Thiruvananthapuram, Kerala 695025, India","099959 29917",4.9,82
+"Consultation Clinic Doctor","Opp Windsor Mansions,Above Muthoot Finance ,Kuravankonam jct, Pattom - Kowdiar Rd, Kowdiar, Thiruvananthapuram, Kerala 695003, India","0471 272 0740",4.3,30
+"Holy Family Dental & Medicare Centre","Avittom Rd, Junction, Kumarapuram, Thiruvananthapuram, Kerala 695011, India","097456 44652",4.7,12
+"Dr Rajesh","Apollo Clinic Trivandrum, Tc 12,1235-1, Law College Junction Vikas Bhavan, University of Kerala Senate House Campus, Palayam, Thiruvananthapuram, Kerala 695033, India","1860 500 1066","No rating available","No reviews"
+"Dr. VIPIN S - Best Periodontist in TRIVANDRUM","Apollo Clinic Trivandrum Tc 12,1235-1, Law College, Junction, Vikas Bhavan Rd, University of Kerala Senate House Campus, Palayam, Thiruvananthapuram, Kerala 695033, India","1860 500 1066","No rating available","No reviews"
+"Dr. Nasim V. S. - Pediatric Dentist","Raahath, No. 5 Friends Nagar, Poonthi Road, Medical College Kumarapuram Rd, P.O, Friends Nagar, Kumarapuram, Thiruvananthapuram, Kerala 695011, India","082813 35901",5,11
+"Dr Rasha Nasim","Raahath, No. 5, Friends Nagar Poonthy Road ( Kumarapuram - Lulu Mall, Road, Medical College Kumarapuram Rd, P.O, Friends Nagar, Kumarapuram, Thiruvananthapuram, Kerala 695011, India","094953 91171",5,25
+"MERRAKKI","Friends Nagar, Kumarapuram, Thiruvananthapuram, Kerala 695011, India","N/A","No rating available","No reviews"
+"Dr Rajesh S","House, 440, Prasanth Nagar, Ulloor, Thiruvananthapuram, Kerala 695011, India","N/A","No rating available","No reviews"
+"Dr Mittu - Dental Clinic","Madathuvilakom Rd, Kuravankonam, Thiruvananthapuram, Kerala 695003, India","N/A",4.9,15
+"Finesse Smile Multispeciality Dental Clinic & Implant Centre","TC 13, Ground, Karunz Building, 2016 (6, Kannammoola, Thiruvananthapuram, Kerala 695011, India","098474 44026",4.9,8
+"OrthoSmileCraft Trivandrum","695011, BN-4, opposite Mary Nilayam Senior Secondary School, Bapuji Nagar, Ulloor, Thiruvananthapuram, Kerala 695011, India","062386 59597",5,66
+"Uthara dental care","GWP9+P53, Puthukottah Ln, Bapuji Nagar, Pongumoodu, Thiruvananthapuram, Kerala 695011, India","N/A",5,2
+"METRO MULTISPECIALITY DENTAL CARE","Kurisadi Junction, Nalanchira, Paruthippara, Thiruvananthapuram, Kerala 695015, India","094473 50707",5,4
+"Captains Dental Care","Sowparnika TC 24/691 (1) Brahmins Colony A 5 Kowdiar, PO, Toll Junction, Kowdiar, Thiruvananthapuram, Kerala 695003, India","094470 34646",4.8,20
+"RK Dental clinic & implant centre","Kurishadi, Nalanchira, Paruthippara, Thiruvananthapuram, Kerala 695015, India","097787 11532",4.8,28
+"Global Dental Solutions","Multi Speciality Dental Clinic, 2nd Floor, Ali Building, near ICICI Bank ATM, Pandits Colony Extension, Kowdiar, Thiruvananthapuram, Kerala 695003, India","0471 236 0277",4.8,130
+"Haripriya Dental Clinic","KT Rd, opp. Income Tax Office, Bhavani Nagar, Tirupati, Andhra Pradesh 517501, India","098494 99459",4.8,253
+"Vinuthna Speciality Dental Hospital","No: 8, 117, RC Road, beside Canara Bank, Telugu Nagar, Royal Nagar, Tirupati, Andhra Pradesh 517501, India","094402 09009",3.7,3
+"CARE DENTAL CLINIC","Bhavani Nagar Ln, opposite AirTel office, Nehru Nagar, Tirupati, Andhra Pradesh 517501, India","099494 61633",4.3,15
+"Chandana Dental","18-2-150, opp. CS Cinemas 4K DOLBY Atmos, Ashok Nagar, Korlagunta, Tirupati, Andhra Pradesh 517501, India","0877 225 1616",4.9,43
+"Anu's Dental-అనూస్ డెంటల్","19-11-18 Sarada Nagar, Tiruchanoor Road, Kakatiya Nagar, Tirupati ph 7569999199, Tirupati, Andhra Pradesh 517501, India","0877 222 4440","No rating available","No reviews"
+"DURGAPRASADDENTALHOSPITAL","JUNCTION, Tirumala Bypass Rd, near Leela Mahal Circle, next to CITY UNION BANK BESIDES VASU CARDIAC CARE, Srinivasa Nagar, Shiv Jyoti Nagar, TIRUPATHI, Tirupati, Andhra Pradesh 517507, India","N/A",3.7,45
+"Dr. Suresh Dental Clinic","Opp. Rhythu Bazar, Rayala Cheruvu Road, JCG8+8Q5, Royal Nagar, Tirupati, Andhra Pradesh 517501, India","098496 71363","No rating available","No reviews"
+"Balaji Dental & Orthodontic Hospital - Tirupati | Invisalign Provider","# 10-2-176 T.K. STREET Opp to R S JUNCTION, Varadaraja Nagar, Tirupati, Andhra Pradesh 517501, India","079817 49754",4.9,19
+"Dr Bhargav, Best Root canal specialist in Tirupati","First floor, upstairs of jain plywoods shop, 10-5-244, 10-5-244, Dodda Puram St, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501, India","094944 03236",5,2
+"Gowtham Dental Hospital | Best Dental Clinic in Tirupati","1st Floor, 10-12-411, Tilak Rd, opp. sri devi complex, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501, India","099494 00006",4.9,909
+"Crystal rsr dental care","122b, Air Bypass Rd, SBI Colony, Royal Nagar, Tirupati, Andhra Pradesh 517501, India","N/A",5,48
+"Sree Gana Dental hospital - Best Dental Clinic in Tirupati","Kotakommala St, beside ntr blood bank, Reddy & Reddy's Colony, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501, India","085558 00972",4.9,38
+"Dr. G.R. Poorna Chandra - Best Dentist in Tirupathi","1st floor, Sandeep Towers, Plot No: 10, Air Bypass Rd, New Balaji Colony, Tirupati, Andhra Pradesh 517501, India","088001 12842","No rating available","No reviews"
+"Dr. M Reddi Narasimha Rao - Best Dental Implant Doctors in Tirupathi","Plot No: 10, 1st floor, Sandeep Towers, Air Bypass Rd, New Balaji Colony, Tirupati, Andhra Pradesh 517501, India","088001 12842","No rating available","No reviews"
+"AJ Dental Care and Implant Center (Dentist in Tirupati)","10-3-206/C3, KK Layout, near Dr Yugandar Skin Hair Laser Clinic, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501, India","085230 72778",5,45
+"Praveen Dental Care(Dr Praveen's Dental And Implant Specialities)","10/13/541a, Reddy & Reddy's Colony, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501, India","098852 92472",5,270
+"Apple Dental Care","302, Prakasam Rd, Vesyalamma Gudivadhi, Balaji Colony, Tirupati, Andhra Pradesh 517507, India","N/A","No rating available","No reviews"
+"Sri Sai Balaji Dental Clinic","138/7,, Theerthakatta Street, Tirumala, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517504, India","0877 222 2160",4.6,9
+"Sagar Dental Care and Orthodontic centre","10-13-503/1, Reddy & Reddy's Colony, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501, India","N/A",4.9,16
+"Kommineni Super Speciality Dental Hospital","Reddy & Reddy's Colony, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501, India","0877 222 2877",4.9,311
+"New Global Dental Clinic","First Floor, Above Yamaha Showroom, Air Bypass Rd, opp. Hangout, near MR palli, Circle, Tirupati, Andhra Pradesh 517502, India","098666 18236",4.8,66
+"Smile Dental Care","18-1-601, VV Mahal Rd, Bhavani Nagar, Tirupati, Andhra Pradesh 517501, India","0877 222 3822",4.3,18
+"Sri Sai Rama Dental Clinic & Implant Center","JCCC+7WH, Bairagipatteda Rd, STV Nagar, Tirupati, Andhra Pradesh 517501, India","088860 00060",2,2
+"Dhruvi Advanced Dental Care","18-1-622A, VV Mahal Rd, RS Gardens, Bhavani Nagar, Tirupati, Andhra Pradesh 517501, India","N/A",5,12
+"Dr SHANTI PRIYA MDS BEST ROOT CANAL SPECIALIST/ ENDODONTIST IN TIRUPATI","1st floor, VV Mahal Rd, above Fastrack, Bhavani Nagar, Tirupati, Andhra Pradesh 517501, India","078158 37836",5,64
+"Dr. MAHESH - BEST ORAL & MAXILLOFACIAL SURGEON / IMPLANTOLOGIST Tirupati","1st floor, 625, VV Mahal Rd, RS Gardens, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501, India","086397 77097",5,2
+"SUDARSHAN SUPERSPECIALITY DENTAL HOSPITAL","Besides KANCHEEPURAM PERUMAL SILKS, 625, 1st floor, VV Mahal Rd, above Fastrack, RS Gardens, Tirupati, Andhra Pradesh 517501, India","098854 08900",4.9,842
+"Implantologist in tirupati","18-1-636(1st Floor), Municipal office junction, Opp. Khazana Jewellery, RS Gardens, Tirupati, Andhra Pradesh 517501, India","0877 664 4464","No rating available","No reviews"
+"Dr. Kakarla Subbaraju","air by passroad, tirupathi, tirupathi, 517501, beside passport office, Ashok Nagar, Tirupati, Andhra Pradesh 517501, India","N/A","No rating available","No reviews"
+"Dr. Veera Kishore Kumar Reddy - Best Children Dentist in Tirupathi","Plot No: 10, 1st floor, Shamanya Towers, Air Bypass Rd, New Balaji Colony, Tirupati, Andhra Pradesh 517501, India","088001 12842",5,3
+"Apollo Dental Clinic & Hospital- Best Dentist & Dental Clinic in Tirupathi Andhra Pradesh","Plot No: 10, 1st floor, Sandeep Towers, New Balaji Colony, Air Bypass Road, Tirupathi, New Balaji Colony, Tirupathi, Tirupati, Andhra Pradesh 517501, India","073289 03499",4.5,8
+"PJ Dental & Aesthetics","Korlagunta Main Rd, Ashok Nagar, Korlagunta, Tirupati, Andhra Pradesh 517501, India","091481 18616",5,63
+"Neem Tree Dental Care - An Evidence Based Dental Practice","1 st FLOOR, MR Palli Rd, above DCB bank, near collector bungalow, Amaravathi Nagar, Padmavathi Nagar, Tirupati, Andhra Pradesh 517501, India","079956 21509",5,81
+"Sree multispeciality dental clinic","Door No 19-12-347/A, opposite to padmavathi park, beside 5 star car wash service center, Telephone Colony, Lingeswar Nagar, Bairagi patteda, Tirupati, Andhra Pradesh 517502, India","094811 66033",5,20
+"Tirupati Helps - Taxi, Cab and Car Rentals in Tirupati","Lakshmi Puram Circle,Near RTC, Bus Stand, STV Nagar, Tirupati, Andhra Pradesh 517501, India","099859 98480",5,10
+"ROYAL DENTAL CARE","DBR Hospital Rd, near BOTH HOSPITAL, Korlagunta, Maruthi Nagar, Tirupati, Andhra Pradesh 517501, India","091602 24488",5,90
+"Dr. Ankanna - Dentist in Andhra Pradesh | Dental specialist Doctor","# 19-9, 29/2A, Tiruchanoor Rd, Sankarambadi Circle, Tirupati, Andhra Pradesh 517501, India","1860 500 1066","No rating available","No reviews"
+"Avasa Dental Hospital","18-2-268/13, second line, Abbanna Colony Rd, opp. T.V 9 Office, Korlagunta, Tirupati, Andhra Pradesh 517501, India","088867 22203",5,35
+"Kritika dental clinic | best dental clinic in Tirupati","1st floor, diamond collection, beside canara bank, Korramenugunta, Tirupati, Andhra Pradesh 517501, India","090593 67001",4.9,90
+"Ravi Chandra dental clinic","D/no. 7, 136/2, MR Palli Rd, Balijagadda, Tirupati, Andhra Pradesh 517501, India","N/A",5,18
+"RK","18-1-73,Yashodanagar, KT Rd, Srinivasa Nagar, Tirupati, Andhra Pradesh 517501, India","N/A","No rating available","No reviews"
+"Vasu Cardiac Care","20-3-123/4a Leela Mahal Circle, Karakambadi Rd, near SBI BANK, Shiv Jyoti Nagar, Tirupati, Andhra Pradesh 517501, India","093478 30894",4.7,176
+"Dr.Himaja's clinic","23/2-128/5 1st floor Opposite Apollo pharmacy, arch, MR Palli Rd, near Vaikunta Puram, Balijagadda, Tirupati, Andhra Pradesh 517501, India","063030 00749",5,43
+"Yekollu Padmavathi Children’s And Dental hospital","20-3-124L/1, yerramitta,Ontimaddimanu,Akkarampalli Road Leela mahal circle ,lane opp to 4 th and 5 th pillar, 3rd building on, the left, behind Punjab sind Bank, inside the lane, Korlagunta, Tirupati, Andhra Pradesh 517501, India","088978 05891",4.8,127
+"Dr.Mrudula Dental Clinic | Best Dental Hospital near me | Dr. Mrudula Reddy Dental Smile","Door No :6-1-70-1,1st Floor, Opposit MORE SUPER MARKET, KT Rd, near AnnaRao Circle, Srinivasa Nagar, Varadaraj Nagar, Tirupati, Andhra Pradesh 517501, India","096425 57969",5,19
+"GK DENTAL CLINIC DR.V.HARIPRIYA MDS (ENDODONTIST) 20% discount in all dental procedure","18-1-39, Street 1, near Annarao circle, Srinivasa Nagar, floor, Khadi Colony, Tirupati, Andhra Pradesh 517501, India","N/A",4.9,17
+"Madhuri Dental Clinic","6-7-559, 4th Floor, Hare Krishna Rd, Srinivasa Nagar, Varadaraj Nagar, Tirupati, Andhra Pradesh 517501, India","070973 73730",5,4
+"Specialists Dental","6-8-1000a, near Kapileswara Prakrutivanam, Srinivasa Nagar, N G O Colony, Tirupati, Andhra Pradesh 517507, India","098852 92472","No rating available","No reviews"
+"Dr.Dinakar Reddy KVR DENTAL CLINIC & IMPLANT CENTRE","6-9-1276, LIGH-14, Srinivasa Nagar, A P Housing Board Colony, Tirupati, Andhra Pradesh 517501, India","N/A",5,1
+"Praveen Dental Care","Near Nandi circle, Kapilateertham Raod,Tirupati,Andhra Pradesh,517507,India Near Nandi circle, Kapilateertham, Raod, Srinivasa Nagar, N G O Colony, Tirupati, Andhra Pradesh 517507, India","098852 92472",5,3
+"Dr. Ritu's Orthodontic, Dental & Implant Care (Invisalign specialist)","27,28, Indraprasth Complex, Delhi Gate Cir, near L.I.C.Building, Opposite Indraprastha Complex, Near delhi Gate, Shakti Nagar, Udaipur, Rajasthan 313001, India","094141 55512",4.9,479
+"Bansal Orthodontic Center & Dental Clinic","Anugrah, 53, near Hindustan Zinc Colony, Moti Magri Scheme, Zinc Park, Udaipur, Rajasthan 313001, India","095304 03311",3.8,155
+"Mani Dental Clinic","Building,Ground floor, Tourist Hotel, 21, City Station Rd, Toran Bawri, Jawahar Nagar, Udaipur, Rajasthan 313001, India","099833 99913",4.1,17
+"Smilez Dental care and Implant Centre","307 - 308, RKay Mall,, Panchvati, Panchwati, Udaipur, Rajasthan 313001, India","094141 58071",4.3,18
+"Dental Plus","18- New, 100 Feet Rd, near St. Gregorios School, New Ashok Vihar, Ashok Vihar, Udaipur, Rajasthan 313001, India","099822 86884",4.9,73
+"Dr. Prakash Sharma Hospital and Dental Unit","117, Bapu Bazar, Bapu Bazar Main Rd, Bapu Bazar, Nada Khada, Udaipur, Rajasthan 313001, India","094142 34656",4.9,176
+"Mumbai Dental Clinic & Implant Centre I : Best Dentist in Udaipur","opposite ICICI Bank, Madhuban, Udaipur, Rajasthan 313001, India","081072 59893",4.9,354
+"Apple Dental Clinic Udaipur","1st Floor, opposite HDFC Bank, Chetak Circle, Madhuban, Udaipur, Rajasthan 313001, India","098295 56699",5,23
+"Apex Neosmile Dental Clinic","near celebration garden, Navratna Complex, Pulla Bhuwana, Mahaveer Colony Park, Udaipur, Rajasthan 313001, India","082334 50100",4.8,18
+"Dr Anjali Saraf","784A, Alkapuri, Hotel Lakend, Ayad, Shakti Nagar, Udaipur, Rajasthan 313001, India","N/A",5,24
+"Satellite Dental Clinic","Jain mandir ke pas, Nagda Restaurant, Pipal Wali Gali, Keshav Nagar, Pahada, Udaipur, Rajasthan 313001, India","097844 95155",5,22
+"Dr. Kirti Dental Studio","1st Floor Gokul Plaza, University Rd, near Aishwariya College, Pahada, Udaipur, Rajasthan 313001, India","097837 30999",4.8,242
+"Vinayak Dental Lab & Care","khara kuwa, Nand Bhawan, road, New Bhupalpura, Pahada, Udaipur, Rajasthan 313001, India","098295 07376",1,1
+"Dr. Saurabh's Dental Clinic & Implant Center","Shop No 1-B, Vinayak Residency, University Rd, Keshav Nagar, Pahada, Udaipur, Rajasthan 313001, India","099822 69698",4.8,175
+"Dr Garima Agrawal -Aarogya Dental n Skin Udaipur/Best skin treatment","12, Roop Sagar Rd, Shanti Nagar, Pahada, Udaipur, Rajasthan 313001, India","098877 71242",5,3
+"Aarogya Dental & Skin Clinic","12, Roop Sagar Rd, Shanti Nagar, Pahada, Udaipur, Rajasthan 313001, India","094141 66002",4.8,73
+"Dr.vipul's Dental Care","96 gandhi nagar, near nehru hostel, Sector 3, Azad Nagar, Central Area, Udaipur, Rajasthan 313002, India","099822 24400",5,1
+"fernsnpetals","102, 100 Feet Rd, near ASHOKA PALACE, Shobhagpura, Udaipur, Rajasthan 313001, India","N/A","No rating available","No reviews"
+"Dr. Shalu Agrawal l Best Dentist","St. Taresa Hospital, University Rd, near Teresa school, pushpgiri, Udaipur, Rajasthan 313001, India","N/A",5,1
+"Silver Smiles","Shop B, Lahar Apartments, 102, near Bansi Paan & Math, Bhupalpura, Udaipur, Rajasthan 313001, India","081078 68862",4.5,4
+"LAKECITY DENTAL CLINIC","Peepli Chouraha, Tekari, Gayariawas, CITY, Udaipur, Rajasthan 313001, India","096023 41112",4.4,8
+"LIFE SMILE","Village Roop Sagar, Pahada, Udaipur, Rajasthan 313001, India","N/A","No rating available","No reviews"
+"Chhabra Dental clinic","8c, ziniret Chowk, inside surajpole, Danmandi, Bapu Bazar, Nada Khada, Udaipur, Rajasthan 313001, India","097994 13377",4.2,5
+"Tooth Diaries Dental Care","5, abhay niwas, Residency Rd, near Hanuman temple, Sardarpura, Bhopalpura, Udaipur, Rajasthan 313001, India","096641 72921",5,19
+"Metro Dental Clinic & implant centre/ Best dental clinic/ RCT/ Implant","813, Main Rd, near commerc hub classes, Vasant Vihar, Sector 4, Gayariawas, Hiran Magri, Udaipur, Rajasthan 313002, India","080949 49411",4.9,372
+"Dr Malot Dental Laser Clinic & Implant Centre","1st floor,24-C, Sohan Bhawan, Post Office Rd, opp. Madhuvan Head, Chetak Circle, Madhuban, Udaipur, Rajasthan 313001, India","098284 23669",5,67
+"Dr Porwal's Dental Park, Dental Implant and Laser Centre","54 Ashwini Bazar, opposite, Hospital Rd, [no name], Basti Ram Jiki Badi, Udaipur, Rajasthan 313001, India","N/A",5,5
+"PERFECT DENTAL HOSPITAL","Akashdeep, 81, Chetak Rd, opposite Hotel Ashish Palace, Chamanpura, Udaipur, Rajasthan 313001, India","088528 88946",4.1,14
+"Samridhi Dental Care","opposite JK Paras hospital, Shobhagpura, Udaipur, Rajasthan 313001, India","063504 52249",5,4
+"Saatvik Cosmodent Dental & Maxillofacial Clinic, Udaipur","New Shobhagpura Bypass, 100 Feet Rd, opp. Ceremony Resort, Shobhagpura, Udaipur, Rajasthan 313001, India","082397 41741",5,43
+"TRIDENT DENTAL CARE | Dr. HITANSH PUJARI | DENTAL CLINIC","Shobhagpura Circle, Fatehpura Road, near Govt. Primary School, Pulla Bhuwana, Shobhagpura, Udaipur, Rajasthan 313011, India","099294 00566",5,39
+"Amit Dental Clinic","Riddhi Siddhi Complex, 3 M-23-A, Hiran Magri Main Rd, opposite Suzuki Showroom (Guru Naman Motors, near Axis Bank, Sector 5, Prabhat Nagar, Hiran Magri, Udaipur, Rajasthan 313002, India","098877 90414",4.9,942
+"Bharat Dental","Manva Kheda Rd, New Vidhyanagar, Sector 4, Manva Kheda, Udaipur, Rajasthan 313001, India","N/A",5,30
+"R.K. DENTAL CLINIC","Kishanpole, Jawahar Nagar, Khanjipeer, Udaipur, Rajasthan 313001, India","098879 43876","No rating available","No reviews"
+"Mewar Dental Clinic","52, near Fitness Plus Gym, Kishanpole, Jawahar Nagar, Khanjipeer, Udaipur, Rajasthan 313001, India","N/A","No rating available","No reviews"
+"HARAMRIT DENTAL CLINIC","Hotel Baba Palace, Udaipur, Surya Marg, Jagdish Chowk, Rao Ji Ka Hata, Udaipur, Rajasthan 313001, India","N/A",4.6,10
+"Dermadent Clinic","Shobhagpura, B Block 60, 100 Feet Road, near Akme Paradise, Meera Nagar, Udaipur, Rajasthan 313001, India","093520 82112",4.7,1598
+"Dr. Rohan Bhatt- Dentist In Udaipur","MUKTA DENTAL CLINIC, New Satellite Hospital Rd, Prabhat Nagar, Hiran Magri, Udaipur, Rajasthan 313002, India","N/A",5,2
+"House of Dental Solutions","53, Suncity Delight, Lane, behind Celebration Mall, near Bhuwana, Pulla Bhuwana, Bhuwana, Udaipur, Rajasthan 313001, India","N/A",5,1
+"MUKTA DENTAL CLINIC","New Satellite Hospital Rd, near Gayatri Sewa Sansthan, Prabhat Nagar, Hiran Magri, Udaipur, Rajasthan 313002, India","090245 74745",3,2
+"BESTCDENTAL CLINIC","42,Manwakheda, shree ram vihar colony, opposite dev kirti apartment, near savitri vatika, Sector 4, Hiran Magri, Udaipur, Rajasthan 313001, India","088528 88934",3.9,118
+"dharm raj devara","HMWM+W5P, Zinc Park, Udaipur, Rajasthan 313001, India","N/A","No rating available","No reviews"
+"Mehta Dental Clinic and Implant Centre","Indira Puri Street, 100 Feet Rd, Meera Nagar, Pahada, Udaipur, Rajasthan 313001, India","090248 68258",4.9,76
+"Hello Doctor Health Center","Sector No.11, Hiran Magri, Udaipur, Rajasthan 313001, India","N/A","No rating available","No reviews"
+"Dr Nahar's Dental Hospital","5/11, opp. DTDC COURIER, Fatehpura Chauraha, Pulla Bhuwana, Fatehpura, Udaipur, Rajasthan 313004, India","0294 245 4645",3.2,12
+"Dr. Prashant Nahar","Fatehpura Chauraha, Pulla Bhuwana, Fatehpura, Udaipur, Rajasthan 313001, India","098280 72717",3,4
+"NEW LIFE CARE DENTAL CLINIC","Bhuwana, Udaipur, Rajasthan 313001, India","099280 10988","No rating available","No reviews"
+"Dr. Purva's Dental Clinic - Your Smile Space | Best Dentist in Udaipur","16 A, Titrdi, Sector 9, Udaipur, Gordhan Vilas Rural, Rajasthan 313002, India","078912 34321",5,59
+"NXT Dental Clinic & Implant Centres","Navediya Bhawan, 705, Bedla Rd, near SHREE BALAJI BIKANER MISTHAN BHANDAR, Syphon Choraha, Fatehpura, Udaipur, Rajasthan 313001, India","073577 34811",3.7,3
+"Radiant Dental Care, Udaipur","Shop No-1, Rishabh Enclave, Kheda Cir, Sector 14, Hiran Magri, Gordhan Vilas Rural, Udaipur, Rajasthan 313001, India","094600 04193",5,168
+"Dr Amar Anupam Oral and Dental care","N-11 / 60B-23, Shri Krishna Nagar Colony, Mahmoorganj, Varanasi, Uttar Pradesh 221010, India","094159 90600",4.9,2926
+"Enamel Dental Clinic","D 63/6 B, 1 BC Shivajee Nagar Colony, Mahmoorganj, Varanasi, Uttar Pradesh 221010, India","097210 99390",4.6,10
+"Make My Tooth Sigra, Dr.Vineet Singh Best Dentist In Varanasi","Handloom House, Anant Complex, near Bharatsevasharam Ashram, Chhittupura, Sigra, Varanasi, Uttar Pradesh 221010, India","093361 20140",5,178
+"Deep Dental Clinic & Physiotherapy Center","Lahurabir, Jaitpura, Varanasi, Uttar Pradesh 221001, India","098893 26489",5,19
+"Make My Tooth Dental Clinic","Shiv Shakti, near uma marriage lawn, Pwd colony, Nadesar, Chaukaghat, Varanasi, Uttar Pradesh 221002, India","094515 80586",4.9,148
+"Apple Dental Clinic","Shop No. 5, Shiv Complex, opp. Tridev Apartment, near Rani Villa, Sundarpur, Nagwa, Varanasi, Uttar Pradesh 221005, India","088535 33059",4.7,41
+"Rajendra Nursing Home & Dental Clinic - Bone Fracture Hospital/Orthopedic Hospital/ Best Orthopedic Surgeon in Varanasi","S-24/7, Anaula Taktapur Contonment, Taktakpur, Orderly Bazar, Varanasi, Uttar Pradesh 221002, India","070845 81537",4.8,78
+"Smile Station- The Dental Clinic","Sa - 1/89, First floor, Near SBI, Pandeypur Varanasi, Uttar Pradesh, Pandeypur, Azamgarh Rd, Pandeypur Chauraha, Premchandra Nagar Phase - 2, Naibasti, Varanasi, Uttar Pradesh 221002, India","099361 55369",5,1577
+"Smile Dental Zone & Implant Center ( Smile Dental Zone)","H-31, VDA Flats, Pandit Madan Mohan Malviya Rd, Ravindrapuri Extension, Anandbagh, Lanka, Varanasi, Uttar Pradesh 221005, India","097937 75888",5,646
+"Navjyoti Dental Clinic Dr. A.K Singh - Best Dental Clinic | Root Canal Treatment | Painless Teeth Extraction in Varanasi","opposite Indiranagar colony,kanchanpur, Gokul Nagar, DLW Colony, Chitaipur, Varanasi, Uttar Pradesh 221006, India","094514 39841",4.7,53
+"Big Smile Microscopic-Dentistry & Implant Center","C-19/26-1-B, Gulab Bagh Colony, Opp. Sigra Police Station, Sigra, Badshahbag Colony, Ramakanth Nagar, Chetganj, Varanasi, Uttar Pradesh 221010, India","098893 87036",4.7,72
+"Dr. S. K. Agrahari","8X8F+Q3W, Lahartara Boulia, Bazardiha, Maheshpur, Varanasi, Uttar Pradesh 221002, India","083540 09021","No rating available","No reviews"
+"Dr Himanshu Dental clinic","C-33/208/28-C ,Chandua chhittupur, Chandpur, Chandua Chhittupur, Shivpurwa, Varanasi, Uttar Pradesh 221002, India","099191 13327",4.8,4
+"Kalyani Dental Hospital and Implant Centre","D, 65/486, Lahartara Boulia, Bazardiha, Maheshpur, Varanasi, Uttar Pradesh 221001, India","083182 38606",5,11
+"Sanskriti Dental Clinic","C33/210-A-5-K (Opposite Prince Club Ekta Park Gate Hari Nagar Colony, Landmark - Kushwaha Dharamshala, Lahartara Rd, near Sunbeam School, Chandua Chhittupur, Shivpurwa, Varanasi, Uttar Pradesh 221002, India","094541 60828",4.9,45
+"Maltee Dental Clinic","Lahartara Chauraha, Cantt Station Road, Bazardiha, Maheshpur, Varanasi, Uttar Pradesh 221002, India","N/A",4.9,10
+"Dr. Adarsh Dental Clinic","Ground floor, D-59, 365, G2, GHS, Jai Prakash Nagar, Shivpurwa, Varanasi, Uttar Pradesh 221010, India","N/A",4.9,114
+"AMAN DENTAL CLINIC","C 33 / 84- A-3, road, Madhopur, Indrapuri Colony, Jai Prakash Nagar, Shivpurwa, Varanasi, Uttar Pradesh 221002, India","099364 34639",5,47
+"the dental hub","6, 6, Mahmoorganj Rd, Jai Prakash Nagar, Mahmoorganj, Varanasi, Uttar Pradesh 221002, India","086606 10712","No rating available","No reviews"
+"Swastik Dental Clinic-(Dr.B.P.Singh)","माधोपुर चौराहा, हनुमान मन्दिर गली मे, Nagar Nigam Rd, Chhittupura, Sigra, Varanasi, Uttar Pradesh 221010, India","094511 37768",4.9,16
+"𝗡𝗮𝘃𝗷𝗲𝗲𝘃𝗮𝗻 𝗠𝘂𝗹𝘁𝗶𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘁𝘆 𝗗𝗲𝗻𝘁𝗮𝗹 𝗮𝗻𝗱 𝗦𝗸𝗶𝗻 𝗖𝗮𝗿𝗲- Root Canal Treatment/Dentist/Top Dental Surgeon/Best Dentist in Varanasi","Chandua Chhittupur, Sigra, Varanasi, Uttar Pradesh 221002, India","087076 93155",4.8,23
+"Ishwar Dental Clinic","Bhitari Rd, near Shree Govind Sweet and bakers, near Trends cloth showroom, lahartara, Bazardiha, Maheshpur, Bauliya, Varanasi, Uttar Pradesh 221106, India","094156 17362",4.8,29
+"BALAJI DENTAL CLINIC","Sigra, Varanasi, Uttar Pradesh 221010, India","N/A",5,1
+"RAMASHIL DENTAL","Englishia line thiraha, Vidyapeeth Rd, Irrigation Colony, Chandua Chhittupur, Shivpurwa, Varanasi, Uttar Pradesh 221002, India","N/A","No rating available","No reviews"
+"Dr Baranwal's Aesthetic Dental Clinic","D-63/7-A-2, Shop No. 24, Surya Complex 1, opp. to CAT-JEE, beside Shubham Lawn, Shivaji Nagar Colony, Phase II, Mahmoorganj, Varanasi, Uttar Pradesh 221010, India","083180 97225",5,40
+"Dr Lal PathLabs","Shastri Nagar, Sigra, Varanasi, Uttar Pradesh 221010, India","N/A",5,1
+"Make My Tooth Dental Clinic","8X7Q+CC4, Chhittupura, Sigra, Varanasi, Uttar Pradesh 221002, India","093361 20140",5,1
+"Unique Dental Care Centre ( Dr. Jyoti Agrawal )","Shastri market, C 19/ 134-M -19, near Feelings Mobile, Shastri Nagar, Sigra, Varanasi, Uttar Pradesh 221010, India","070078 13655",5,16
+"Dr. K.K. Singh","varunapuri colony, Phulwari Village, Varanasi cantonment, Varanasi, Uttar Pradesh 221002, India","N/A","No rating available","No reviews"
+"पी. एस डेन्टल क्लीनिक मंडुआडीह","Sushil katra, infront, off virat ms, Maduadih, Manduwadih, Varanasi, Uttar Pradesh 221103, India","094532 14005","No rating available","No reviews"
+"omkar agencies","b-21/115, Sigra, Varanasi, Uttar Pradesh 221010, India","098385 11112","No rating available","No reviews"
+"32 Stars The Dental Hub","D38, 83, Mahmoorganj Rd, Sri Nagar, Tulsipur, Mahmoorganj, Varanasi, Uttar Pradesh 221001, India","086606 10712",5,21
+"Saroj Cosmo dental clinic","8X5Q+P5P, Sigra - Mahmoorganj Rd, Sigra, Varanasi, Uttar Pradesh 221010, India","N/A",5,1
+"Dr Vivek Gautam Dental Clinic and Implant center","W H SMITH ROAD, Sigra Chauraha, Sigra, Varanasi, Uttar Pradesh 221010, India","099561 46144",4.9,80
+"Dr Baranwal's Aesthetic Dental Clinic | one of the best dental clinic in varanasi & Oral Surgeon","C-19/40, Fatman Rd, below SBI Sigra Branch, Kashi Vidyapith, Sigra, Varanasi, Uttar Pradesh 221010, India","076788 55556",4.6,8
+"ESTHER DENTAL CLINIC","8XCR+8FW, Fatman Rd, Kashi Vidyapith, Chetganj, Varanasi, Uttar Pradesh 221002, India","N/A","No rating available","No reviews"
+"Dr Neha Nainee - Best Dentist | Best Dental Surgeon | RCT Specialist | Cosmetic Dental Surgeon in Varanasi","B-38/56, Lane-4, Sheel Nagar, Tulsipur, Mahmoorganj, Varanasi, Uttar Pradesh 221010, India","073072 72241",4.9,89
+"Dentist Piyussh Kumar Pandey I Nadesar I Varanasi","S/O Ajay Kumar Pandey S-19/390-A, Jadid Bazaar Colony, near Taj Hotel Near ATM, Varanasi cantonment, Varanasi, Uttar Pradesh 221002, India","N/A","No rating available","No reviews"
+"Trading Monkey","Giri Nagar Colony, Varanasi, Uttar Pradesh 221010, India","N/A","No rating available","No reviews"
+"Vidushi dental clinic and implant center","B 38/9 K 3-1, Giri Nagar Colony, Varanasi, Uttar Pradesh 221010, India","N/A",5,1
+"Dr R K Upadhyay I Root Canal Treatment I Light Cure Filling in Nadesar","First Floor, Behind PWD Colony, West, above Make My Tooth Dental Clinic Close to Uma Marriage Hall, Varanasi cantonment, Varanasi, Uttar Pradesh 221002, India","N/A","No rating available","No reviews"
+"Reena Pandey Dental Clinics - the top dental clinics in Varanasi","Third Floor, SS-019ii/390-vj Near Mangalam Marriage Lawn Jadid Bazaar Colony, Cantt Rd, PWD Colony, Nadesar, Chaukaghat, Varanasi, Uttar Pradesh 221002, India","N/A","No rating available","No reviews"
+"Sunrise Dental Clinic(Dr Pragati Sachan)-Best Endodontist, Best Dentist in varanasi, Best Root canal expert(MDS IMS BHU)","Infront of SBI, Lahartara Rd, Manduwadih, Varanasi, Uttar Pradesh 221106, India","079056 94016",5,43
+"Dr Piyush Kumar I Oral & Maxillofacial Surgery I Teeth Whitening I Root Canal Treatment","Araji No.126, PP Shiv Shakthi Building, Jadid Bazaar Mangalam Marriage Lawn, behind King Restaurant, PWD Colony, Varanasi, Uttar Pradesh 221002, India","N/A","No rating available","No reviews"
+"Charu communication","Shivdas pur, 8X36+3RP, Maduadi, Lehertara Industrial Estate, Varanasi, Uttar Pradesh 221103, India","098385 81357",4.7,3
+"Dr Piyush Pandey I Root Canal Specialist I Teeth Whitening in Nadesar Varanasi","Ground Floor, West, behind PWD Colony, near Uma Marriage Lawn, Varanasi cantonment, Varanasi, Uttar Pradesh 221002, India","063070 95649","No rating available","No reviews"
+"Dental Clinic - Dr B N Banerji","37/35, Baladev, Kabir Road, Kabir Road, Giri Nagar Colony, Varanasi, Uttar Pradesh 221001, India","0542 239 3748","No rating available","No reviews"
+"Dr Anant Dental Care","D-57/51-B, Sidhgiribagh, Kasturba Nagar, Sigra, Varanasi, Uttar Pradesh 221010, India","093193 74179",4.7,63
+"Baghel Dental Hospital","plot no. 3, Mint House, Nadesar Rd, Patel Nagar, Nadesar, Chaukaghat, Varanasi, Uttar Pradesh 221002, India","084709 00684",4.9,198
+"i Smile Dental Clinic (Dr. Praduman Rai)","Sobnath Dhirendra Complex, Rathyatra - Mahmoorganj Rd, Rathyatra Crossing, Khanna villa Colony, Bhelupur, Varanasi, Uttar Pradesh 221010, India","N/A",5,4
+"Sri Sanjeevini Dental","59A-8/8-8 Maruthi Co-operative Colony Road number 1, Guru Nanak Colony Road, beside Cafe Coffee Day, State Bank Colony, Vijayawada, Andhra Pradesh 520008, India","094920 06624",4.9,300
+"Duhita Multispeciality Dental Centre","40-9/1-30, Swetcha Plaza, Vasavya, Nagar, Service road, Gurunanak Nagar, K P Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010, India","0866 247 4066",4.9,56
+"Lalitha Smile Clinic- The Premier Dental Clinic with the Best Dentist","29-5-5, Cherukupalli vari St, near Eluru Road, beside Saptagiri College, Governor Peta, Vijayawada, Andhra Pradesh 520002, India","098496 79454",4.9,290
+"Smile Arc Dental Care & Advanced Orthodontics","Shop No. 59-5-7/1, Pallavi Apartment ITI Road, Ramesh Hospital Road Opposite M.R.F. Tyres, Bus Stop, near I.T.I, Siddhartha Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010, India","095539 58866",5,252
+"DENTYSTREE DENTAL HOSPITAL","beside hdfc bank, next to fashion factory, Chandra Mouli Puram, Sriram Nagar, Vijayawada, Andhra Pradesh 520010, India","080082 20040",5,388
+"GLOBAL DENTAL CARE","#33-25, 34, Bellapu Sobhanadri St, Moghalrajpuram, Kasturibaipet, Vijayawada, Andhra Pradesh 520010, India","094400 56357",4.5,8
+"Andhra Super Specialty Dental Hospital Vijayawada","Eluru Rd, Seetharampuram, Sitharamapuram, Vijayawada, Andhra Pradesh 520002, India","099085 04974",5,957
+"Sky Dental / sky kids dental hospital","31-24-09,1st floor, Sri Lakshmi Narasimha Icon, kollipara Sri Ramulu Street, Seetharamapuram Junction, Eluru Rd, beside SBI Bank, Kothavanthena Center, Durga Agraharam, Arundalpet, Governor Peta, Vijayawada, Andhra Pradesh 520002, India","070138 09070",5,346
+"32 Smile Concepts - Dental Clinic in Vijayawada","Prakasam road CSI-DYVA KRUPA COMPLEX, Buckinghampeta, Vijayawada, Andhra Pradesh 520002, India","099499 49030",5,81
+"Obul Reddy oro dental hospital","First Floor, 30-22-9, Eluru Rd, beside Sonovision, Vijayatakies Centre, Governor Peta, Vijayawada, Andhra Pradesh 520002, India","096404 31666",4.5,52
+"Dr. Naresh's Capital Dental Clinic","Shop No 12, St. Joseph Complex, Shopping Complex, opp. Ramgopal Theater, Lurdhunagar, Gunadala, Vijayawada, Andhra Pradesh 520004, India","079890 27474",5,169
+"Yashwanth's Lotus Dental Care","Lotus Landmark Internal Road, Lotus Landmark, Kedareswar Pet, Vijayawada, Andhra Pradesh 520003, India","090325 55844",5,407
+"Indian advanced dental @ COSMETOLOGY CLINIC","beside college kederesrao pet, Main Rd, Andhra Prabha Colony, Kedareswar Pet, Vijayawada, Andhra Pradesh 520003, India","092939 22363",5,503
+"Dr.Leela Krishna Basal Implantologist |Dental Implant Clinic In Vijayawada","29-19-58, Dornakal Rd, adjacent to Bhargav Thyroid, New Giri Puram, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002, India","098662 36245",5,90
+"Aswani Dental Hospital","GJ4X+F6M, J P Road, near A C Y Reddy House, Mogalrajapuram, Christurajupuram, Vijayawada, Andhra Pradesh 534202, India","0866 247 1950","No rating available","No reviews"
+"Dr Annapurna T","33-25-36, Smile Dental Clinic, Kothapet, Kothapet, opposite to Safe Hospital, Mogalrajapuram, Christurajupuram, Vijayawada, Andhra Pradesh 520010, India","0866 243 0535","No rating available","No reviews"
+"Dr Mohan Prasad GV","GJ4X+G67, Moghalrajpuram, Christurajupuram, Vijayawada, Andhra Pradesh 520010, India","0863 257 4965","No rating available","No reviews"
+"Chowdari DR M S","GJ4X+G76, Moghalrajpuram, Christurajupuram, Vijayawada, Andhra Pradesh 520010, India","0866 556 4639","No rating available","No reviews"
+"Dr Siva Rama Krishniah S","GJ4X+H7C, Moghalrajpuram, Christurajupuram, Vijayawada, Andhra Pradesh 520010, India","0863 243 6154","No rating available","No reviews"
+"DR KISHORE DENTAL CARE","PVP Square Mall lane, Jammi chettu road, MG Rd, Mogalrajapuram, Shanti Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010, India","063033 70125",4.9,224
+"Kids and Teens Pediatric Dental Care","40/7/26, Pvp square mall road,Near RR Durbar, Moghalrajpuram, Shanti Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010, India","063033 70125",4.9,36
+"Dr. Rohitha","Apollo Dental Near LEPL INOX, APOLLO WHITE DENTAL, Gayatri Nagar Main Rd, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520008, India","080 4696 1837","No rating available","No reviews"
+"Dr Ravithej Borugadda","Apollo Dental Near LEPL INOX, APOLLO WHITE DENTAL, Gayatri Nagar Main Rd, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520008, India","080 4696 1837","No rating available","No reviews"
+"Dr. Vimala Sai Manne, Treated 15K+ Patients | Best Dentist in Krishna | RCT | Wisdom Teeth Removal","Apollo Dental Near LEPL INOX, APOLLO WHITE DENTAL, Gayatri Nagar Main Rd, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520008, India","080 4696 1837","No rating available","No reviews"
+"Best Dentist - Dr. Dharani | 8+ Yrs of Exp. | Krishna","Apollo Dental Near LEPL INOX, APOLLO WHITE DENTAL, Gayatri Nagar Main Rd, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520008, India","080 4696 1837","No rating available","No reviews"
+"Best Dentist - Dr Rajiv | 13+ Yrs of Exp. | Krishna district","Apollo Dental Near LEPL INOX, APOLLO WHITE DENTAL, Gayatri Nagar Main Rd, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520008, India","080 4696 1837","No rating available","No reviews"
+"Dr Ram Chand Bandla | Best Dentist in Krishna | RCT | Wisdom Teeth Removal","Apollo Dental Near LEPL INOX, APOLLO WHITE DENTAL, Gayatri Nagar Main Rd, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520008, India","080 4696 1837","No rating available","No reviews"
+"Dr Salluri V. Prathyusha, Treated 11K+ Patients | Best Dentist | Dentist Near Me | Best Dentist | Root Canal Treatment","Apollo Dental Near LEPL INOX, APOLLO WHITE DENTAL, Gayatri Nagar Main Rd, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520008, India","080 4696 1837","No rating available","No reviews"
+"Dr Chalasani Anish Kumar","Apollo Dental Near LEPL INOX, APOLLO WHITE DENTAL, Gayatri Nagar Main Rd, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520008, India","080 4696 1837","No rating available","No reviews"
+"Dr Sri Dharani Donavalli","Apollo Dental, APOLLO WHITE DENTAL, Gayatri Nagar Main Rd, near LEPL INOX, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520008, India","0141 493 1241","No rating available","No reviews"
+"Dr Javed Ahmad Md","Revenue colony, near Fortune Murali Park, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010, India","N/A",5,5
+"Dr. Vallamsetty Prabhu Kanth - Orthodontist and Invisalign Provider","Murali Forthune road sushma plaza, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010, India","N/A",5,49
+"Dr Sunnam Swetha, Oral and Maxillofacial Surgeon, Vijayawada","Asian Dental, 1 floor, sushma plaza, opp fortune Murali park in-gate, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010, India","N/A",5,1
+"Alignhub - Best Invisible Braces | Clear Aligners","near, MG Rd, opp. Fortune Murali Park, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010, India","090591 94529",5,76
+"Asian Dental Vijayawada - Best Super Specialty Dental Hospital","Door No : 40-6-31 First Floor Sushma Plaza, Opposite:, Park, Fortune Murali Park, MG Rd, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010, India","070758 75299",4.9,821
+"Sri venkat sai Dental speciality clinic","#58-1-18/1,patamata centre, Bunder Rd, Labbipet, Vijayawada, Andhra Pradesh 520010, India","N/A",5,1
+"Care Dental and implant center","# 34-2-47, Beside Anubhava Sweets, A. S.Ramarao Road,, Moghalrajpuram, Kasturibaipet, Labbipet, Vijayawada, Andhra Pradesh 520010, India","099664 02223",4.8,65
+"Victory dental clinic","GJ5P+2R7, Vemula Syamala Devi St, Buckinghampeta, Vijayawada, Andhra Pradesh 520010, India","063013 73177","No rating available","No reviews"
+"Madhu Dental","Nirmala Convent Rd, Beside Allahabad Bank, Near, Benz Circle, Vijayawada, Andhra Pradesh 520010, India","0866 247 4346",5,18
+"Smile Dental Clinic","31-4-1, V, Gadde Purnachandra Rao Street, Maruthi Nagar, Machavaram, Vijayawada, Andhra Pradesh 520004, India","094401 74181","No rating available","No reviews"
+"Aditya Multispecialty Dental Clinic","kothagundla plaza, D.No. 33-21-32, Eluru Rd, beside Ramcor, Seetharampuram, Sitharamapuram, Vijayawada, Andhra Pradesh 520004, India","093918 94628",5,62
+"Yangala International Dental","GJ9X+79W, Eluru Rd, Beside Vijaya talkies, Machavaram, Vijayawada, Andhra Pradesh 520002, India","N/A","No rating available","No reviews"
+"Dr. Shilpa Pamidimukkala","Sri Krishna Children And Dental Hospital, Suryaraopeta, Vijayawada, Andhra Pradesh 520002, India","080 4696 1837","No rating available","No reviews"
+"Dr Sudhir Babu","GJ8R+R44, Sitharamapuram, Moghalrajpuram, Vijayawada, Andhra Pradesh 520002, India","0866 244 2969","No rating available","No reviews"
+"Dr. ANIL KANCHARLA","FMX5+GPQ, Panta Kaluva Rd, Old P&T Colony, Patamata, Benz Circle, Vijayawada, Andhra Pradesh 520010, India","N/A",5,1
+"Sibar Dental Care","29-19-81, Dornakal Rd, above Indian Bank, Suryaraopeta, Vijayawada, Andhra Pradesh 520002, India","0866 243 3336",4.8,172
+"INDIAN ADVANCED DENTAL CARE","beside rcm school, Rani Gari Thota, Balaji Nagar, Krishna Lanka, Vijayawada, Andhra Pradesh 520002, India","N/A",5,4
+"Praveen Whites","Satya Narayana Nagar, Krishna Lanka, Vijayawada, Andhra Pradesh 520013, India","N/A","No rating available","No reviews"
+"Krishna Sai Dental implant & aligner clinic Vijayawada","3, Dornakal Rd, Suryaraopeta, Moghalrajpuram, Vijayawada, Andhra Pradesh 520002, India","092462 35666",4.8,358
+"Kiran's Dental Clinic","Door no.29, 10-18, Dornakal Rd, near Family Hospital, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002, India","0866 243 7171",5,9

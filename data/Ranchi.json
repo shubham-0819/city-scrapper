@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Smiles Central",
+    "address": "Kadru Main Rd, near Gate No. 1, Ashok Kunj, Kadru, Ashok Nagar, Ranchi, Jharkhand 834002, India",
+    "phone": "087976 71414",
+    "rating": 4.8,
+    "number_of_reviews": 158
+  },
+  {
+    "name": "Dr MEENAKSHI SINGH",
+    "address": "9856+7MW, Kadru - Kumhartoli Rd, Harmu Housing Colony, Nizam Nagar, Hindpiri, Ranchi, Jharkhand 834002, India",
+    "phone": "0651 320 0701",
+    "rating": 3,
+    "number_of_reviews": 8
+  },
+  {
+    "name": "Meenakshi Netralaya",
+    "address": "HI 157 Housing colony Harmu Near new AG Co-oprative colony, Nizam Nagar, Harmu, Ranchi, Jharkhand 834002, India",
+    "phone": "092047 97111",
+    "rating": 4.8,
+    "number_of_reviews": 1564
+  },
+  {
+    "name": "Perfect 32 Dental Clinic and Implant Centre",
+    "address": "Sahajanand chowk, HI-208, Harmu Housing Colony, Tongritoli, Ranchi, Jharkhand 834002, India",
+    "phone": "062045 22473",
+    "rating": 4.9,
+    "number_of_reviews": 263
+  },
+  {
+    "name": "Dr Manmohan K Akhouri Dental Surgeon",
+    "address": "985G+C99 HCG CURRIE ABDUR RAZZAQUE ANSARI CANCER INSTITUTE, Kanka, Irba, Ranchi, Jharkhand 834003, India",
+    "phone": "093083 55914",
+    "rating": 4.3,
+    "number_of_reviews": 11
+  },
+  {
+    "name": "Dr. Achala Raman",
+    "address": "Lake View Apartment, Lake Road, near Seva Sadan, Upper Bazar, Ranchi, Jharkhand 834001, India",
+    "phone": "095468 95253",
+    "rating": 4.9,
+    "number_of_reviews": 164
+  },
+  {
+    "name": "Dr Bhagat’s Ideal Dental Clinic & Implant Centre (SINCE 1967)",
+    "address": "Lalji Hirji Rd, near Madras Coffee House, Upper Bazar, Ranchi, Jharkhand 834001, India",
+    "phone": "082924 88812",
+    "rating": 4.5,
+    "number_of_reviews": 212
+  },
+  {
+    "name": "S.I. Multispeciality Dental Clinic",
+    "address": "1, New Barhi Toli, Ranchi, Jharkhand 834001, India",
+    "phone": "088640 49676",
+    "rating": 4.2,
+    "number_of_reviews": 6
+  },
+  {
+    "name": "Esthetix Dental",
+    "address": "107 , Phase I , Modi Heights, Ratu Rd, opposite All India Radio, Kumhartoli, Ranchi, Jharkhand 834001, India",
+    "phone": "076772 79977",
+    "rating": 4.9,
+    "number_of_reviews": 145
+  },
+  {
+    "name": "Shri Vinayak Dental Clinic , Ranchi",
+    "address": "Pahari Mandir Lane, Kumhar Toli, G-01 Panchratna Apartment, Kumhartoli, Ranchi, Jharkhand 834001, India",
+    "phone": "075491 28355",
+    "rating": 4.9,
+    "number_of_reviews": 105
+  },
+  {
+    "name": "Dental Lifeline",
+    "address": "Pradhan Tower, Harmu Rd, behind Lenskart.com, Kumhartoli, Ranchi, Jharkhand 834001, India",
+    "phone": "077628 88861",
+    "rating": 5,
+    "number_of_reviews": 5
+  },
+  {
+    "name": "Dental Square",
+    "address": "1st Floor, Amravati Complex, (icici Bank), near BIT Extension Center, Lalpur, Ranchi, Jharkhand 834001, India",
+    "phone": "098869 82522",
+    "rating": 4.8,
+    "number_of_reviews": 86
+  },
+  {
+    "name": "Dr manmohan's Dental care & Oral Cancer Palliative Center",
+    "address": "Shop No. F-1, Paras Complex, Oppositr Hotel Landmark, Circular Rd, P&T Colony, Lalpur, Ranchi, Jharkhand 834001, India",
+    "phone": "093083 55914",
+    "rating": 4.3,
+    "number_of_reviews": 6
+  },
+  {
+    "name": "Ranjan Dental Clinic and smile gallery",
+    "address": "110, 1st floor, Sumati Vihar Complex, Karamtoli Rd, opposite adiwasi hostel, near jail, Nagra Toli, Ranchi, Jharkhand 834001, India",
+    "phone": "077629 23480",
+    "rating": 3.7,
+    "number_of_reviews": 6
+  },
+  {
+    "name": "DENTAL SOLUTIONS / Best Dental Clinic",
+    "address": "2nd floor manjusha complex, Hazaribag Rd, near hotel arya, Lalpur, Ranchi, Jharkhand 834001, India",
+    "phone": "088040 28007",
+    "rating": 4.8,
+    "number_of_reviews": 286
+  },
+  {
+    "name": "Vyas Oral Care Multi-Speciality Dental clinic",
+    "address": "Ground & First ( 1st ) Floor, Surmil Complex, Khunti - Chaibasa Rd, Singh More, Hatia, Ranchi, Jharkhand 834003, India",
+    "phone": "088251 70775",
+    "rating": 4.8,
+    "number_of_reviews": 762
+  },
+  {
+    "name": "D Mall Dental Clinic",
+    "address": "Pratik Complex, S.N Ganguli Road, Mahatma Gandhi Main Rd, Upper Bazar, Ranchi, Jharkhand 834001, India",
+    "phone": "094307 31399",
+    "rating": 4.8,
+    "number_of_reviews": 251
+  },
+  {
+    "name": "Mydentist Ranchi",
+    "address": "88V7+RP6, mydentist Road, Gaurishankar Nagar, Shyamali Colony, Doranda, Ranchi, Jharkhand 834002, India",
+    "phone": "099399 55656",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dental care centre",
+    "address": "3rd floor, Krishna mall, Central Ashoka Colony, Ashok Vihar, Ashok Nagar, Ranchi, Jharkhand 834001, India",
+    "phone": "090353 47904",
+    "rating": 4.8,
+    "number_of_reviews": 66
+  },
+  {
+    "name": "M.K. Advance Dental Hospital",
+    "address": "Saima tower Ist floor, opposite Bharat petrol pump, Kadru, Ranchi, Jharkhand 834002, India",
+    "phone": "090367 41595",
+    "rating": 4.8,
+    "number_of_reviews": 38
+  },
+  {
+    "name": "DREAM SMILE DENTAL CLINIC",
+    "address": "Num 201, 2nd Floor, HR Complex, Kadru - Kumhartoli Rd, Kadru, Ashok Nagar, Ranchi, Jharkhand 834002, India",
+    "phone": "099640 03750",
+    "rating": 4.9,
+    "number_of_reviews": 133
+  },
+  {
+    "name": "Dr Anubhav Kumar ( Dental and Oral implant surgeon)",
+    "address": "The smile architects, first floor, Kumar Complex, opposite Road Number 5, Ashok Kunj, Harmu Housing Colony, Delatoli, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "Just Clean Smiles Dental Clinic | Best Dentist in Ranchi",
+    "address": "Sahajanand Chowk, C-103, near Patel park, Harmu Housing Colony, Delatoli, Ranchi, Jharkhand 834002, India",
+    "phone": "082103 41863",
+    "rating": 5,
+    "number_of_reviews": 35
+  },
+  {
+    "name": "Kashyap'S Dental Clinic in Ranchi",
+    "address": "Skyline Mall,#4006,4th Floor, opp. Lal's Hospital, Kadru, Ranchi, Jharkhand 834002, India",
+    "phone": "091995 33383",
+    "rating": 4.9,
+    "number_of_reviews": 69
+  },
+  {
+    "name": "Maa Dental Clinic",
+    "address": "Front of jp hyundai, Kadru, Ashok Nagar, Ranchi, Jharkhand 834002, India",
+    "phone": "082102 18446",
+    "rating": 4.8,
+    "number_of_reviews": 155
+  },
+  {
+    "name": "Happy",
+    "address": "No-47, AG Colony Rd, North Office Para, Shyamali Colony, Doranda, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr. Priya Bharti- Orthodontics in Ranchi",
+    "address": "Bharti Dental and Healthcare, Gopal Marketing Complex, Argora Chowk, Harmu Housing Colony, Delatoli, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": 3,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Dental Clinic",
+    "address": "88VF+V9V, Diversion Rd, near Yuvraj Palace, Kadru, Doranda, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": 4,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "RAKSHA DENTAL CLINIC",
+    "address": "Pipartoli, Argora, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "First Care Dental Clinic and implant center",
+    "address": "1st floor, Harmu Rd, Bypass Rd, above Sajjan Medico, beside KFC, Shiv Dayal Nagar, Harmu Housing Colony, Harmu, Ranchi, Jharkhand 834002, India",
+    "phone": "086963 62040",
+    "rating": 5,
+    "number_of_reviews": 111
+  },
+  {
+    "name": "Dr. Dipti's (MDS) Dental Clinic & Implant Center",
+    "address": "140, near Sahajanand Chowk, Basant Vihar, Harmu Housing Colony, Delatoli, Ranchi, Jharkhand 834002, India",
+    "phone": "072184 48441",
+    "rating": 4.9,
+    "number_of_reviews": 82
+  },
+  {
+    "name": "Dr Chen's Dental Clinic",
+    "address": "Lower PP Compound Near Guru Nanak School, Hindpiri, Ranchi, Jharkhand 834001, India",
+    "phone": "086038 02618",
+    "rating": 4.7,
+    "number_of_reviews": 90
+  },
+  {
+    "name": "Dr. Abhishek Mishra",
+    "address": "Shree Sewa Dental Care, H4, opp. Bjp Headquarters, Harmu Housing Colony, Argora, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": 4.7,
+    "number_of_reviews": 13
+  },
+  {
+    "name": "LALS DENTAL CLINIC",
+    "address": "Harmu Housing Colony, Delatoli, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr. Megha Singh",
+    "address": "88J8+782 NPS, opp. UCO. Bank, Kilburn Colony, Hinoo, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": 3,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr. T. Ahmad (Ranchi Dental Clinic)",
+    "address": "1st floor, J.N. Market, Tulsi Chowk, near Bank of Baroda, Doranda Bazar, Resaldar Nagar, Doranda, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": 4,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "Aastha Dental Clinic",
+    "address": "Hinoo Main Rd, Kilburn Colony, Shivpuri Colony, Hinoo, Ranchi, Jharkhand 834002, India",
+    "phone": "079039 06877",
+    "rating": 4.7,
+    "number_of_reviews": 45
+  },
+  {
+    "name": "Dr ASHWINI PATHAK",
+    "address": "Kilburn Colony, Shivpuri Colony, Hinoo, Ranchi, Jharkhand 834001, India",
+    "phone": "098359 17612",
+    "rating": 5,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "Radhya Dental & Aesthetic Center",
+    "address": "Pathar Road, near Kathpul, Shivpuri Colony, Doranda, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dental & Cosmo Kraft",
+    "address": "RC Sahu complex 2nd floor, above HDFC Bank, Kilburn Colony, Shivpuri Colony, Hinoo, Ranchi, Jharkhand 834002, India",
+    "phone": "094730 88775",
+    "rating": 5,
+    "number_of_reviews": 165
+  },
+  {
+    "name": "SMILE EXPERT DENTAL AND IMPLANT CENTER",
+    "address": "PP Compound, Hindpiri, Ranchi, Jharkhand 834001, India",
+    "phone": "094303 03570",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "White Cross Dental Clinic - Best Dentist - Dental Clinic in Ranchi",
+    "address": "Pe Pee Compound, Hindpiri, Ranchi, Jharkhand 834001, India",
+    "phone": "099345 73009",
+    "rating": 4.6,
+    "number_of_reviews": 14
+  },
+  {
+    "name": "RC Clinic ultrasound and dental office",
+    "address": "Malabar tower, Railway Overbridge, beside Betar kendra, Nivaranpur, Forest Officers' Colony, Doranda, Ranchi, Jharkhand 834002, India",
+    "phone": "062007 06992",
+    "rating": 4.4,
+    "number_of_reviews": 171
+  },
+  {
+    "name": "Sharan Dental Clinic",
+    "address": "Kathal More Rd, near Durga Mandir, Chaputoli, Argora, Ranchi, Jharkhand 834002, India",
+    "phone": "093862 62409",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Smile City Dental Clinic",
+    "address": "88H8+J82, near PNB BANK, Old AG Colony, Hinoo, Ranchi, Jharkhand 834002, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 9
+  },
+  {
+    "name": "Dr. Ashish Dubey",
+    "address": "Near Gokul Sweets, Hinoo Chowk, opp. Shri Hanuman Mandir, Shivdayal Nagar, Shukla Colony, Ranchi, Jharkhand 834002, India",
+    "phone": "094715 00380",
+    "rating": 5,
+    "number_of_reviews": 41
+  },
+  {
+    "name": "nilam's dental care",
+    "address": "l.s 23, beside Shri Shiv Mandir, Harmu, Harmu Housing Colony, coloney, Ranchi, Jharkhand 834002, India",
+    "phone": "070500 41880",
+    "rating": 5,
+    "number_of_reviews": 9
+  },
+  {
+    "name": "First Choice Orthodontic Centre & Dental Clinic | Dr Monojit Dutta (Orthodontist & Implantologist)",
+    "address": "First Floor, S.B Complex, near Hotel Crown Plaza, Hinoo, Ranchi, Jharkhand 834002, India",
+    "phone": "089418 51567",
+    "rating": 5,
+    "number_of_reviews": 23
+  },
+  {
+    "name": "Dr Abhishek Bhattacharjee",
+    "address": "Mahatma Gandhi Main Rd, Doranda, Ranchi, Jharkhand 834002, India",
+    "phone": "083103 96156",
+    "rating": 5,
+    "number_of_reviews": 16
+  },
+  {
+    "name": "Bhushan Dental Clinic",
+    "address": "shop no 14,15, Karma Oraon Complex, Birsa Chowk, next to Premsons Motor, Kathalkocha, Ranchi, Jharkhand 834002, India",
+    "phone": "080077 30263",
+    "rating": 4.9,
+    "number_of_reviews": 579
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Pearl 32 Dental Spa & Cosmetic Clinic",
+    "address": "Dr. Dilip Sethia, Railway Gate, Anupam Building, 8, Assam Trunk Rd, Bharalumukh, Guwahati, Assam 781009, India",
+    "phone": "094354 47788",
+    "rating": 4.5,
+    "number_of_reviews": 153
+  },
+  {
+    "name": "Metropolis Dental Clinic & Implant Center",
+    "address": "Kachari Basti Rd, South Sarania, Lachit Nagar, Guwahati, Assam 781007, India",
+    "phone": "088110 82782",
+    "rating": 4.2,
+    "number_of_reviews": 16
+  },
+  {
+    "name": "Crystal Smile Dental Aesthetic & Orthodontic Clinic",
+    "address": "Krine Vista Opposite Anil Plaza, Ananda Nagar, Guwahati, Assam 781005, India",
+    "phone": "076620 45612",
+    "rating": 4.4,
+    "number_of_reviews": 57
+  },
+  {
+    "name": "Smartcity Dental Clinic",
+    "address": "DEBABRATA ENCLAVE, Lokhra Rd, near V-Mart, opp. Subham Garden, Bhaskar Nagar, Gopinath Nagar, Binowa Nagar, Kala Pahar, Guwahati, Assam 781018, India",
+    "phone": "099576 75780",
+    "rating": 5,
+    "number_of_reviews": 25
+  },
+  {
+    "name": "Denta Life Multispeciality Dental Clinic",
+    "address": "Pragati Tower, Lokhra Rd, opposite Vishal Mega Mart Colony Bazar area, Bhaskar Nagar, Gopinath Nagar, Binowa Nagar, Kala Pahar, Guwahati, Assam 781018, India",
+    "phone": "094355 58286",
+    "rating": 4.9,
+    "number_of_reviews": 40
+  },
+  {
+    "name": "omkar gift center",
+    "address": "5P2H+3QQ, Dhirenpara, Guwahati, Assam 781009, India",
+    "phone": "093656 48151",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "R S Dental Clinic",
+    "address": "M Market, Dhirenpara, A K Deb Road, 25, Dhirenpara, Fatasil Ambari, Guwahati, Assam 781025, India",
+    "phone": "060018 68643",
+    "rating": 4.4,
+    "number_of_reviews": 46
+  },
+  {
+    "name": "Apollo Dental Dispur",
+    "address": "5P3Q+GVC, Binowa Nagar, Kala Pahar, Guwahati, Assam 781018, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "City Dental Clinic",
+    "address": "Binowa Nagar, Kala Pahar Guwahati, Assam 781001, near Indian Oil Petrol Pump ,Das Service Station, Binowa Nagar, Kala Pahar, Guwahati, Assam 781018, India",
+    "phone": "098640 13770",
+    "rating": 4.6,
+    "number_of_reviews": 109
+  },
+  {
+    "name": "Healing Aid Medicine & Wellness Center",
+    "address": "4QQ2+WWF, Odalbakra, Kahilipara, Guwahati, Assam 781034, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr. Nandita's Dentcare clinic",
+    "address": "4QH2+6MH, Sonaighuli, Guwahati, Assam 781034, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Confident Dental Clinic",
+    "address": "AK Dev Rd, near Bajaj Showroom, near SBI ATM, Katahbari, Dhirenpara, Guwahati, Assam 781035, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 22
+  },
+  {
+    "name": "MANASHI DENTAL CARE",
+    "address": "Kahilipara Main Rd, Jatia, Kahilipara, Guwahati, Assam 781006, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Klove",
+    "address": "176, FA Rd, Kumarpara, Guwahati, Assam 781001, India",
+    "phone": "N/A",
+    "rating": 4.6,
+    "number_of_reviews": 21
+  },
+  {
+    "name": "Dr Nikita Modi Dental Clinic Guwahati | Best Dentist in Guwahati, Athgaon",
+    "address": "1st Floor, Ahmed Complex, above cake.com, Kumarpara, panchali, Guwahati, Assam 781009, India",
+    "phone": "070023 13756",
+    "rating": 5,
+    "number_of_reviews": 107
+  },
+  {
+    "name": "AGARWAL DENTAL CARE & TOBACCO CESSATION CENTRE",
+    "address": "Ulubari, Guwahati, Assam 781008, India",
+    "phone": "N/A",
+    "rating": 3,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Dental vacancy",
+    "address": "Kotabari 1, AKHK Medicos, No Masjid, GARCHUK, Guwahati, Assam 781035, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Dr. Pawan's Bright Smile Dental Care | Best Dentist in Guwahati, Bharalumukh",
+    "address": "F A Road, Kumarpara Pachali, Bharalumukh 1st floor, House No. 184/3, Rehmania Building, above Car Decora, Bharalumukh, Guwahati, Assam 781001, India",
+    "phone": "070020 84818",
+    "rating": 4.9,
+    "number_of_reviews": 73
+  },
+  {
+    "name": "Dr rounak Jains dental centre/ braces implants/ best dentist guwahati",
+    "address": "1st floor, Siddha Point, opp. Marwari Hospital & Research Centre, Athgaon, Guwahati, Assam 781001, India",
+    "phone": "088129 69559",
+    "rating": 4.9,
+    "number_of_reviews": 629
+  },
+  {
+    "name": "Swagat Dental Clinic & Implant Centre",
+    "address": "Swagat Endolaparoscopic Surgical Research Institute, A Unit of Swagat Hospital, Assam Trunk Rd, Santipur, Guwahati, Assam 781009, India",
+    "phone": "070026 86709",
+    "rating": 4.9,
+    "number_of_reviews": 25
+  },
+  {
+    "name": "S-thetix Dental (Guwahati)",
+    "address": "R. K. Choudhary Road, Bharalumukh, Guwahati, Assam 781009, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 157
+  },
+  {
+    "name": "Dr.Kuhina's Dental and Skin Clinic",
+    "address": "Lokhra -Lalganesh Road, Haricharan Das Path, near City Elite School, Lokhra, Guwahati, Assam 781034, India",
+    "phone": "086384 01476",
+    "rating": 4.9,
+    "number_of_reviews": 57
+  },
+  {
+    "name": "Care32 Dental Clinic",
+    "address": "no.7, Care32 Dental Clinic, near Railway Gate, Bharalumukh, Guwahati, Assam 781009, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 10
+  },
+  {
+    "name": "Lions Club Dental Care Unit",
+    "address": "Goshala, Lions Eye Hospital & Dental Care Unit, near KC Das College, Oppostie, Guwahati, Assam 781008, India",
+    "phone": "070860 12109",
+    "rating": 5,
+    "number_of_reviews": 23
+  },
+  {
+    "name": "Serenity Family Dentistry",
+    "address": "1 st floor, Sharma and kalita assocites building, Assam Trunk Rd, Bharalumukh, Guwahati, Assam 781009, India",
+    "phone": "078380 01589",
+    "rating": 4.9,
+    "number_of_reviews": 98
+  },
+  {
+    "name": "Dr. Sumi Choudhary- Dentist in Guwahati",
+    "address": "Dental plaza ground floor Raj, DGP Office, Dr BK Kakati Rd, Ulubari, Guwahati, Assam 781007, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Orthodontist",
+    "address": "Dr Keshans Clinic, Dr BK Kakati Rd, South Sarania, Ulubari, Guwahati, Assam 781007, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Capital Healthcare Dental Clinic",
+    "address": "2nd floor, Capital health care, Madhuban Plaza, Lokhra Rd, Lokhra, Guwahati, Assam 781040, India",
+    "phone": "094359 73300",
+    "rating": 5,
+    "number_of_reviews": 41
+  },
+  {
+    "name": "DR PAUL'S DENTAL CHAMBER",
+    "address": "P.P. ROAD ,REHABARI , MILANPUR, HOUSE NO 55, near PEARL VALLEY SCHOOL, Manipuri Rajbari, Ulubari, Guwahati, Assam 781008, India",
+    "phone": "084860 65451",
+    "rating": 5,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "The Dental Care Clinic",
+    "address": "Allahabad Bank Annexe Hem Baruah Road opp. ASTC Bus Stand, Machkhowa, Guwahati, Assam 781009, India",
+    "phone": "069012 54950",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr. Nabanita Baruah ( Dental Superspeciality Clinic ) - Best Orthodontist In Guwahati",
+    "address": "GS Rd, Srimantapur, Chilarai Nagar, Guwahati, Assam 781006, India",
+    "phone": "088222 01201",
+    "rating": 5,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "Aesthetics & Smiles Makeover Clinic (Medicity Guwahati)",
+    "address": "AM Rd, near Arya Hospital, Manipuri Rajbari, Ulubari, Guwahati, Assam 781008, India",
+    "phone": "084864 83479",
+    "rating": 4.8,
+    "number_of_reviews": 325
+  },
+  {
+    "name": "Bhagadutta Path",
+    "address": "4QRF+6HG, Janakpur Rd, Kahilipara, Guwahati, Assam 781019, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 2
+  },
+  {
+    "name": "Dr Sharad Jhingran’s Dental Clinic",
+    "address": "KC, S Chowdhury Rd, Tokobari Satra, Guwahati, Assam 781008, India",
+    "phone": "099540 85156",
+    "rating": 5,
+    "number_of_reviews": 4
+  },
+  {
+    "name": "The North East Dental Lab - Best Dental Lab in Guwahati Assam",
+    "address": "Chila Rai Nagar Path,1st Floor, Opp. ICICI Bank, GS Rd, Bhangagarh, Guwahati, Assam 781005, India",
+    "phone": "0361 246 1776",
+    "rating": 3.8,
+    "number_of_reviews": 6
+  },
+  {
+    "name": "The Urban Dentist | Braces & Implant Specialists",
+    "address": "3rd Floor, NH Centre Point Building, GS Rd, opposite Bora Service Station Complex, South Sarania, Ulubari, Guwahati, Assam 781007, India",
+    "phone": "097072 98280",
+    "rating": 4.9,
+    "number_of_reviews": 211
+  },
+  {
+    "name": "The dental clinic",
+    "address": "ABC, Near Rajiv Bhawan, Bhangagarh, Guwahati, Assam 781028, India",
+    "phone": "078969 45427",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "CareVale Dental - Dental Clinic in Guwahati",
+    "address": "Boraj Arcade, GS Rd, opposite VIP showroom, South Sarania, Ulubari, Guwahati, Assam 781007, India",
+    "phone": "095083 92120",
+    "rating": 4.9,
+    "number_of_reviews": 40
+  },
+  {
+    "name": "Smart City Dentistry",
+    "address": "AK Azad Rd, opposite City Heart Hotel, opposite Talukdar chat house, Rehabari, Guwahati, Assam 781008, India",
+    "phone": "091136 04185",
+    "rating": 4.9,
+    "number_of_reviews": 118
+  },
+  {
+    "name": "Modern Dental Clinic",
+    "address": "Kanaklata Path, Hatigaon, Guwahati, Assam 781038, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Precision Dental Clinic & Implant Centre",
+    "address": "1st Floor, Roushan Complex, Dr BK Kakati Rd, near Ulubari, Chariali, Ulubari, Guwahati, Assam 781007, India",
+    "phone": "075768 50744",
+    "rating": 4.5,
+    "number_of_reviews": 19
+  },
+  {
+    "name": "Regional Dental Clinic",
+    "address": "3rd Floor, Bordoichila Bhawan, Shillong Road, Bhangagarh, Guwahati, Assam 781032, India",
+    "phone": "N/A",
+    "rating": 5,
+    "number_of_reviews": 1
+  },
+  {
+    "name": "Dr. Aalisha Kanodia",
+    "address": "Orthodontic Centre and Dental Clinic, 2nd floor, Prag Plaza Complex 100, Shillong Road, Bhangagarh, Guwahati, Assam 781005, India",
+    "phone": "099026 39295",
+    "rating": 5,
+    "number_of_reviews": 116
+  },
+  {
+    "name": "METRO DENTAL CARE",
+    "address": "Hatigaon, NOTBOMA , Near LP school,Guwahati,Assam,781034,India Hatigaon, Near L.P. School, Notboma, Guwahati, Assam 781034, India",
+    "phone": "060034 90599",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  },
+  {
+    "name": "Tooth Buddy Children's Dental Care",
+    "address": "Room no.02, First floor, Prag Plaza, GS Rd, Bhangagarh, Guwahati, Assam 781005, India",
+    "phone": "077807 28794",
+    "rating": 4.9,
+    "number_of_reviews": 52
+  },
+  {
+    "name": "Solitaire Dental Clinic & Implant Centre",
+    "address": "Bora Service Station Complex, by lane, near allen solley show room, South Sarania, Lachit Nagar, Guwahati, Assam 781007, India",
+    "phone": "060027 89594",
+    "rating": 5,
+    "number_of_reviews": 15
+  },
+  {
+    "name": "Dr. Kaushik Bhowmick",
+    "address": "Surekha Square, Lachitnagar, South Sarania, North Guwahati, Guwahati, Assam 781007, India",
+    "phone": "088849 02011",
+    "rating": 5,
+    "number_of_reviews": 5
+  },
+  {
+    "name": "Dr.Dipjyoti Baruah (MDS, Orthodontist)",
+    "address": "Surekha square, 4th floor, Lachit Nagar, South Sarania, Ulubari, Guwahati, Assam 781007, India",
+    "phone": "091011 86983",
+    "rating": 4.9,
+    "number_of_reviews": 264
+  },
+  {
+    "name": "Dr. Nipan Patgiri DENT-TALES Dental Clinic & Implant Centre",
+    "address": "1st floor, B2, AGP complex, Assam Trunk Rd, adjacent Icici bank, Opposite Police Reserve, Guwahati, Assam 781001, India",
+    "phone": "097400 12832",
+    "rating": 5,
+    "number_of_reviews": 11
+  },
+  {
+    "name": "স্বাগতম বর্ণালী বিউটি পার্লাৰ",
+    "address": "4P95+685, AK Dev Rd, Garchuk Chariali, Dhirenpara, Guwahati, Assam 781035, India",
+    "phone": "N/A",
+    "rating": "No rating available",
+    "number_of_reviews": "No reviews"
+  }
+]

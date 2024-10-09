@@ -2,7 +2,6 @@ const axios = require("axios");
 require("dotenv").config();
 const cities = require("./cities.js");
 const fs = require("fs");
-const { log } = require("console");
 
 const apiKey = process.env.GOOGLE_API_KEY;
 const nearbySearchUrl =
@@ -26,8 +25,11 @@ async function fetchClinics(
 
   try {
     const response = await axios.get(url);
+    console.log("Status:", response.data);
+    
     const results = response.data.results;
-
+    console.log("Results:", results.length);
+    writeToFile(results, city.name+"-list");
     for (const place of results) {
       if (clinicCount >= MAX_CLINICS_PER_CITY) {
         // Stop fetching if we have reached the maximum limit
@@ -65,19 +67,24 @@ async function fetchClinics(
 
 // Function to fetch detailed information about a clinic
 async function fetchClinicDetails(placeId) {
-  const url = `${placeDetailsUrl}?key=${apiKey}&place_id=${placeId}&fields=name,rating,formatted_address,formatted_phone_number,user_ratings_total`;
-
+  const url = `${placeDetailsUrl}?key=${apiKey}&place_id=${placeId}&fields=name,rating,formatted_address,formatted_phone_number,user_ratings_total,photos`;
+  
+  // console.log(photos);
+  
   try {
     const response = await axios.get(url);
     const clinic = response.data.result;
-    console.log(clinic.name);
-    
+    // const photos = clinic.photos.slice(0, 10).map((photo) => photo.photo_reference);
+    // console.log(clinic.name);
+
     return {
-      name: clinic.name,
-      address: clinic.formatted_address,
-      phone: clinic.formatted_phone_number || "N/A",
-      rating: clinic.rating || "No rating available",
-      number_of_reviews: clinic.user_ratings_total || "No reviews",
+      ...clinic,
+      // name: clinic.name,
+      // address: clinic.formatted_address,
+      // phone: clinic.formatted_phone_number || "N/A",
+      // rating: clinic.rating || "No rating available",
+      // number_of_reviews: clinic.user_ratings_total || "No reviews",
+
     };
   } catch (error) {
     console.error("Error fetching clinic details:", error);

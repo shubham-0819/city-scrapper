@@ -1,0 +1,2909 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3165096,
+        "lng": 78.0268597
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3178539802915,
+          "lng": 78.02821348029151
+        },
+        "southwest": {
+          "lat": 30.3151560197085,
+          "lng": 78.02551551970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bansal Dental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118402111423114292820\">Bansal Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DN3Decr_Hi25gM-2XtSonhRLMIyUVjNd8_Z9CKeIU7HF6MHUfbKdERQgQ8nMVyrXXxNc9NnuHyAYjI2IGyXOdvWCOlXw29v0O0b-UnriOAvhsq9jnCqNHEohU49EVfS4QFiVCeDdrtGjA-Tn1FhK1JcFYh1cr2om4C7Ax5Zx40AAzA",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJhfFCTO0pCTkR-69MsMsbTRU",
+    "plus_code": {
+      "compound_code": "828G+JP Dehradun, Uttarakhand, India",
+      "global_code": "8J2W828G+JP"
+    },
+    "rating": 4.7,
+    "reference": "ChIJhfFCTO0pCTkR-69MsMsbTRU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 77,
+    "vicinity": "62, Saharanpur Road, Arhat Bazaar, Lakkhi Bagh, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.316068,
+        "lng": 78.02605199999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3173894302915,
+          "lng": 78.02743793029151
+        },
+        "southwest": {
+          "lat": 30.3146914697085,
+          "lng": 78.02473996970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Sneha Sarin's SmileCraft Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109598367046056488686\">Dr. Sneha Sarin&#39;s SmileCraft Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNA9OxmlaDF59kNVy4_jBVp6_0h3yzOYi4HPf9sCE8JSDKa1UQcRlShQjgX2DEc54mQU0EOr_TVCKObAh5711bCuo7HuRybMDeeWizO2Lb53G1DIi-M_rzyMWeFl-yxptWQSdsIScrX_vSIiKFplUn7FmBsvNBga-LwAn9qNrs-JV3L",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJTQMiEowpCTkRtGzkNPu8XOk",
+    "plus_code": {
+      "compound_code": "828G+CC Dehradun, Uttarakhand, India",
+      "global_code": "8J2W828G+CC"
+    },
+    "rating": 4.7,
+    "reference": "ChIJTQMiEowpCTkRtGzkNPu8XOk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 62,
+    "vicinity": "168 - Arhat Bazaar, Opp. Hotel Narula, Saharanpur Road, Laxman Chowk, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3234289,
+        "lng": 78.03296739999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3247767302915,
+          "lng": 78.0343590302915
+        },
+        "southwest": {
+          "lat": 30.3220787697085,
+          "lng": 78.03166106970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Perfect Smile Dental Care & Implant Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 360,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108346770881642452686\">Perfect Smile Dental Care &amp; Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPnrrdahLkYpFfA90nCbUXHT9Xt9-JMk9msCEwZg1TRsgggchEOrn1xWFIoGGs4TlT6BVCLxD4mKU2pI_IymDBborWCeadWF7yjZVwbY_4KhKDaU8zx96tC741Y22Vg6KqoUrnP02uzuL7ioZ2Y1DWFTf1pdxDznL8d-1f94EQIAvgg",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJM4onEO0pCTkRWdBXepPH2nI",
+    "plus_code": {
+      "compound_code": "82FM+95 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82FM+95"
+    },
+    "rating": 4.8,
+    "reference": "ChIJM4onEO0pCTkRWdBXepPH2nI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 91,
+    "vicinity": "Near Silver bells school, 25, Tilak Road, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3270236,
+        "lng": 78.0353291
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3283871302915,
+          "lng": 78.0366378802915
+        },
+        "southwest": {
+          "lat": 30.3256891697085,
+          "lng": 78.03393991970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AGRAWAL DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 380,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109663291658442871056\">AGRAWAL DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DO71kLCllhe0Zi2bqh-uHsHyJQjbf-eGsglX5mhrLuPVmcEIYV24wMZoP1Qu6okZJPveM6Ru_Cj7RP0gjzySIl1OGce77bb45MizUg_TIQxvbfpWLOupmvcM6mqeHzCmp-4LNj9x51RTGVyiBmXKH0-s3H5VgOLem4K6iXoV2k8VvJ0",
+        "width": 676
+      }
+    ],
+    "place_id": "ChIJtQJSH-wpCTkRadOx0x8GrKo",
+    "rating": 4.8,
+    "reference": "ChIJtQJSH-wpCTkRadOx0x8GrKo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 621,
+    "vicinity": "Rajshree Complex, near CHARAK PATHOLOGY, near Nari Shilp Girls Inter College, Chakrata Road, Tagore Villa, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3276535,
+        "lng": 78.0486724
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3290692302915,
+          "lng": 78.0499609802915
+        },
+        "southwest": {
+          "lat": 30.3263712697085,
+          "lng": 78.0472630197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.Patil Dental Implant and Laser Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118207772981006766022\">Dr.Patil Dental Implant and Laser Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOJvZbdlHXhSklCKL1VhWRnX5Sgau6-YuUa00R232APd0SAI8y5riUikgc3wAS97Y7ISDjkf_w2oEkuqEEeipdb-DOlvwXPqviOgvO3ZYUWMXO7Yb6ckH2TPGwzgrRUgfkY5Y86y5MN0ZCq8T4HnXEu4KVhG23cAC-sjehXIea50ZJK",
+        "width": 3723
+      }
+    ],
+    "place_id": "ChIJqaBFsMYpCTkR2RFahpbofZU",
+    "plus_code": {
+      "compound_code": "82HX+3F Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82HX+3F"
+    },
+    "rating": 3.5,
+    "reference": "ChIJqaBFsMYpCTkR2RFahpbofZU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "Subhash Road, Irigation Colony, Karanpur, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3105908,
+        "lng": 78.0081568
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3119269802915,
+          "lng": 78.00953183029151
+        },
+        "southwest": {
+          "lat": 30.3092290197085,
+          "lng": 78.0068338697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DENTOCARE DENTAL AND IMPLANT CENTRE",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100087085678202407350\">DENTOCARE DENTAL AND IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DMN2JA_DUe8e1R6MoFJwf-wTAaFPFHqYLQ5xOrMxd1JlSInOXvQzY4B8sPHlI7lV4MmHHrcFjS5OdqNEWyKnIOc6d8RE-jboI9uajzYJ6UVkj24bT9Z8UmxeHMN4sNXju7Vn4r7sb0MYqJEHRkelWbCuaiCSx8Q4cKua2caLn_Ocek",
+        "width": 458
+      }
+    ],
+    "place_id": "ChIJx4jOazQqCTkRsif6CDpqeXw",
+    "plus_code": {
+      "compound_code": "8265+67 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W8265+67"
+    },
+    "rating": 4.9,
+    "reference": "ChIJx4jOazQqCTkRsif6CDpqeXw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 144,
+    "vicinity": "460, GMS Road, Engineers Enclave, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3368469,
+        "lng": 78.0564045
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3382396302915,
+          "lng": 78.0577090302915
+        },
+        "southwest": {
+          "lat": 30.3355416697085,
+          "lng": 78.0550110697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Rastogi’s Dental Clinic - Best dentist & Dental Implant Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 483,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107723160452988773553\">Dr Rastogi’s Dental Clinic - Best dentist &amp; Dental Implant Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO8RYRxXTGoa9wkHx15ArfQOusIZt4pFcpEAMhFVTMqU-B8UA_LtYY-2GCGLhP7fEdsszqk6Xg8W39IAmwAbnp9kDeW_rm7qfz60LB2ieui9SP5sz4FV3xcKvPkHRe2sG73yE3VilsEaGIiu3BiKfZKvHro36ZY89c0N0XebTniMNd9",
+        "width": 652
+      }
+    ],
+    "place_id": "ChIJHftbb8zXCDkRgUh3BrSfZXc",
+    "plus_code": {
+      "compound_code": "83P4+PH Dehradun, Uttarakhand, India",
+      "global_code": "8J2W83P4+PH"
+    },
+    "rating": 4.3,
+    "reference": "ChIJHftbb8zXCDkRgUh3BrSfZXc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 110,
+    "vicinity": "Shop No. 4, Chanakya Towers, Dilaram Bazar, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3241735,
+        "lng": 78.0064395
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.32558868029149,
+          "lng": 78.00782988029151
+        },
+        "southwest": {
+          "lat": 30.3228907197085,
+          "lng": 78.00513191970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile Zone Dental Care Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108944837439644705182\">Business View India 4</a>"
+        ],
+        "photo_reference": "AdCG2DMxKFt_TYcrW4R30Au5Q4sivKDjT-Fc-uhKP7JUuyk9eDTp3HQpmIBLIoRqo9PHXyAYGwT1PdvQktv00GwYmqW9w4F9qLa5UfKdRhaLIb3gCtjT9RXaPD9mRhU4SRSbyait5c1PPCZeCP54UlLkb1pd5wlBnPaiPYGs-cQ-rIwD22ka",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJH3xoy8orCTkR7mUVKTli4yA",
+    "plus_code": {
+      "compound_code": "82F4+MH Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82F4+MH"
+    },
+    "rating": 4.7,
+    "reference": "ChIJH3xoy8orCTkR7mUVKTli4yA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "near Punjab National Bank, Anurag Chowk, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.2893179,
+        "lng": 78.02423979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.2906169302915,
+          "lng": 78.0256998302915
+        },
+        "southwest": {
+          "lat": 30.2879189697085,
+          "lng": 78.0230018697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Parish dental clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103672211589981254427\">tushar raturi</a>"
+        ],
+        "photo_reference": "AdCG2DPq3JkVlgpbBrd7VZm6-JOJO3ub6gt8wR4V-vsOwyI4lZyLNb8CdHSUSzoyfuD5r0yKsn5ufmyJmF2RcWzWjVDGWpC20wzWM9Mgg7prt8xWbl6rDHlbOEbgk-VjerSLntmfiNxTh7s6fU7zHk55A6o6TkPqmRXILwerUl-j4SoG4gpl",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJqalme3wpCTkRnBLa9zeAwTU",
+    "plus_code": {
+      "compound_code": "72QF+PM Dehradun, Uttarakhand, India",
+      "global_code": "8J2W72QF+PM"
+    },
+    "rating": 4.5,
+    "reference": "ChIJqalme3wpCTkRnBLa9zeAwTU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "SHOP NO-4,RR-TOWER, Kargi Road, Dehradun"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 30.3335656,
+        "lng": 78.01242719999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3349036302915,
+          "lng": 78.0137772802915
+        },
+        "southwest": {
+          "lat": 30.3322056697085,
+          "lng": 78.01107931970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentist Dehradun",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107974279775541851135\">Rohit Anand</a>"
+        ],
+        "photo_reference": "AdCG2DPq2-pzptD-ME2Qhb3znAgxOgGxbQvkMtJ7KvT0hIAQdplNQhPHwLvumn-RI1epcWt135L-XgEDN9IYQ5U5c0fUWssyEVt5kX3J0dYkOi7t_YzpwHFT-iyzbteVCFnWKBS4qxVaZjr7jUB0Zdx7H8Blji9vhcqbRiLkJjTcymQFL9JH",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJQxqskQIqCTkRMOjNDTt5RCw",
+    "plus_code": {
+      "compound_code": "82M6+CX Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82M6+CX"
+    },
+    "rating": 5,
+    "reference": "ChIJQxqskQIqCTkRMOjNDTt5RCw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "First Floor, Victory Point, 34, Ballupur Road, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.29453929999999,
+        "lng": 78.0488155
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.2958838302915,
+          "lng": 78.05018663029152
+        },
+        "southwest": {
+          "lat": 30.2931858697085,
+          "lng": 78.0474886697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Health Column",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJMYSsiw4pCTkRoR2KrcJTjJs",
+    "plus_code": {
+      "compound_code": "72VX+RG Dehradun, Uttarakhand, India",
+      "global_code": "8J2W72VX+RG"
+    },
+    "rating": 4.3,
+    "reference": "ChIJMYSsiw4pCTkRoR2KrcJTjJs",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "physiotherapist",
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "33, Saket Colony, Ajabpur Kalan, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.2948864,
+        "lng": 78.0544251
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.29611343029149,
+          "lng": 78.0559179302915
+        },
+        "southwest": {
+          "lat": 30.2934154697085,
+          "lng": 78.0532199697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Plus Clinic / Dr. Jigyasa Bhardwaj",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101293134850459204480\">Dental Plus Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNz0xwuD4QX18dDwRr4WsBTGERVOGI6Pm7ebjQ_t-gJrqiUVsNjAD4Q0VxO3yAdCU1B5Gr435cjPv8IPOfnoWCtCucVayRX98pKHwZxuTraoE7GI0EX8MFBHbQcPaRsVYGXOFl4qsOei7O6WNC1bQzM9r4iILNoho0YjF8ImOPenfSl",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJYRrgaMEpCTkRd1qCUw8jewA",
+    "plus_code": {
+      "compound_code": "73V3+XQ Dehradun, Uttarakhand, India",
+      "global_code": "8J2W73V3+XQ"
+    },
+    "rating": 5,
+    "reference": "ChIJYRrgaMEpCTkRd1qCUw8jewA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "Dental Plus Clinic, Rispana Bridge, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3172069,
+        "lng": 78.0290493
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3186303802915,
+          "lng": 78.0304771302915
+        },
+        "southwest": {
+          "lat": 30.3159324197085,
+          "lng": 78.0277791697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Kanika Kohli Dental Surgeon",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107711891154550954028\">Dr Kanika Kohli Dental Surgeon</a>"
+        ],
+        "photo_reference": "AdCG2DNEqIwa6rSHNzUUoaSxRQw_VisWPrlEm-ZP45wDfNXM0M2h6L2516B5tZAkQzi16JFrOpCkkJXX_bT9dtItrZqgczA1ur9raG5V4LAiyP4uFpDIn-ZpGp1pLSrIXaKZDe22m_JtrJ9GyZ3H7QdrjGQbWOLJpduhHAqF10n-EzICw1Q1",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJsa0Lu40pCTkRBFAZfQ_RKlE",
+    "plus_code": {
+      "compound_code": "828H+VJ Dehradun, Uttarakhand, India",
+      "global_code": "8J2W828H+VJ"
+    },
+    "rating": 4,
+    "reference": "ChIJsa0Lu40pCTkRBFAZfQ_RKlE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "35, Arhat Bazar Road, Jhanda Mohalla, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3179637,
+        "lng": 78.0287774
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3193260302915,
+          "lng": 78.0301616302915
+        },
+        "southwest": {
+          "lat": 30.3166280697085,
+          "lng": 78.0274636697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Nayti Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 885,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101103663806967515435\">Nayti Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOEXA_k1OL_RM2PalXoG_v_bwqAmgxHIKE7tOzKXcr2KbNAsqffOOrissYgPzCfcfKfQRoUsVG7j6MXYZVwBmsxzVJJ879BMLJDDEZwARIC-Vz5pOl669KvEeEyZFKmcyx5BvpcX0x6bWMqrJvvckVSNzVwlYB1GqHGG9dQQmVB_rwd",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJ2yLeheIpCTkRJKoG-zcQN3k",
+    "plus_code": {
+      "compound_code": "829H+5G Dehradun, Uttarakhand, India",
+      "global_code": "8J2W829H+5G"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ2yLeheIpCTkRJKoG-zcQN3k",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "56/2, Kanwali Road, Saharanpur Chowk, Jhanda Mohalla, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.318841,
+        "lng": 78.0353385
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3202259302915,
+          "lng": 78.0366517802915
+        },
+        "southwest": {
+          "lat": 30.3175279697085,
+          "lng": 78.0339538197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile Please Dentocare & Implant Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102721863160598295713\">Smile Please Dentocare &amp; Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNuOSAD27JWFGb_yUhcXt3OhLoYGxU2fccFvJfsU4dY-rfoabA_AvFf8ZrgKoTEDK5_A69ewTN4ICL0MnNEMvc_hCB2iVpTNA0OLo0vbSFXYo3uXsXo7D_5Wzl44LAeyk11VL4l2TxKgJmmd8et8_jp7bu8aad-0Y8FMOxRvEg2UIUZ",
+        "width": 864
+      }
+    ],
+    "place_id": "ChIJw_3pU-opCTkRNAxX-2AYlj0",
+    "plus_code": {
+      "compound_code": "829P+G4 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W829P+G4"
+    },
+    "rating": 5,
+    "reference": "ChIJw_3pU-opCTkRNAxX-2AYlj0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "30, Kamal Market, Pipal Mandi, Dhamawala Mohalla, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3162363,
+        "lng": 78.0267107
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3176381802915,
+          "lng": 78.0280045302915
+        },
+        "southwest": {
+          "lat": 30.3149402197085,
+          "lng": 78.02530656970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Abhishek Vashist- Dental Surgeon in Dehradun",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104510398017937204898\">Dr. Abhishek Vashist- Dental Surgeon in Dehradun</a>"
+        ],
+        "photo_reference": "AdCG2DNAuYOmVo6AXOxEG_gPerFVYaVox-PBVphxJAi3yB3kNHVM7ZoO0JnRmYq8DZn51WVb47-oWP0oZtbiuOD1G7UCfbhm905UUhvIlF-YxcTlaLLMNdBHRyWU7zaSDiWm6e8OlluvYx_QkpCuvT7e173Psbn3RK34B1qDO1d86DC4dmW5",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJuRfQG_kpCTkRwwSDd_5htfo",
+    "plus_code": {
+      "compound_code": "828G+FM Dehradun, Uttarakhand, India",
+      "global_code": "8J2W828G+FM"
+    },
+    "reference": "ChIJuRfQG_kpCTkRwwSDd_5htfo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "My Dental Clinic 70, Uttrakhand Gramin Bank, Saharanpur Road, Arhat Bazaar, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3206033,
+        "lng": 78.0291202
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3219910302915,
+          "lng": 78.0304173802915
+        },
+        "southwest": {
+          "lat": 30.3192930697085,
+          "lng": 78.02771941970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Sunny Remedo",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105884647751803601048\">Dr. Sunny Remedo</a>"
+        ],
+        "photo_reference": "AdCG2DOs7fUCUi6lsLX_6yUbFqbav5AWn4-0MG-Lj2Wbug8zkKcuAd0kn30-vnQwld9QOpIu28grZdugsHC25hejfvmUogtnQK6s-35LKd1_J3S3Wh_yTELGpJ4SWOtoeO2WqVEb2xpfge-XSS--UmGe1zgdTzIE-DMWbJrtbDnn8J2LJBDa",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJ-ZeiygMpCTkRv67kP9whdrM",
+    "plus_code": {
+      "compound_code": "82CH+6J Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82CH+6J"
+    },
+    "rating": 5,
+    "reference": "ChIJ-ZeiygMpCTkRv67kP9whdrM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "10, Paltan Bazar Road, Jhanda Mohalla, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3170232,
+        "lng": 78.0380148
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.31818833029149,
+          "lng": 78.03959503029151
+        },
+        "southwest": {
+          "lat": 30.3154903697085,
+          "lng": 78.0368970697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Impression",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100577719422501394386\">One click Doon</a>"
+        ],
+        "photo_reference": "AdCG2DMOPp4XUGJVIgx_wk1HO6gG8QzK0uN0bTkq1Z-wsHWO6YjaEY0wmbqAgNAhxGBzn3Qv0jR5WRSNQfeaCtMwpPLllhBrM9RTfJ5MMFXrcy_QAqvgnaOtPj3GMcfNNJbBYG_R9vI3eggqPxyl6QHUq0Xc1_FSp-ya8Xf8qDAjsXa2KHn6",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJS0opJZQpCTkR5FANhtbswTk",
+    "plus_code": {
+      "compound_code": "828Q+R6 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W828Q+R6"
+    },
+    "rating": 4.5,
+    "reference": "ChIJS0opJZQpCTkR5FANhtbswTk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "Ground Floor, PLS Plaza, near SBI, BG 07, Gandhi Road, Dhamawala Bazaar, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.31990489999999,
+        "lng": 78.0275685
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3212428802915,
+          "lng": 78.0289010302915
+        },
+        "southwest": {
+          "lat": 30.3185449197085,
+          "lng": 78.02620306970847
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Alok Teotia",
+    "place_id": "ChIJQZCq24wpCTkR_InanChGt9A",
+    "plus_code": {
+      "compound_code": "829H+X2 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W829H+X2"
+    },
+    "rating": 5,
+    "reference": "ChIJQZCq24wpCTkR_InanChGt9A",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3219648,
+        "lng": 78.0340971
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3232952302915,
+          "lng": 78.0355086302915
+        },
+        "southwest": {
+          "lat": 30.3205972697085,
+          "lng": 78.0328106697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Dental Clinic | Dr. Priyanka Mittal | General Dental practitioner | Chukkuwala, Dehradun",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108459735375581860937\">The Dental Clinic | Dr. Priyanka Mittal | Genral Dental practitioner | Dehradun</a>"
+        ],
+        "photo_reference": "AdCG2DMq-rlzYpSCOUipiyptHPUJYBeW-Ok7CNTUmjwwQdOBPwTvML5p4hTIB2NL_U-mGbaNOVLV1DFOxekkuxAzc0au7t2qLo43HWgBfl4vmJ9aV6zBnN-IBDT-2wMBSzH6d57CZlpNRwI38EDdUv_XI_9fp3tF6aF_P_j2_rQ7UTLGip4u",
+        "width": 900
+      }
+    ],
+    "place_id": "ChIJsyhpEuMpCTkRq658KSkJxzI",
+    "plus_code": {
+      "compound_code": "82CM+QJ Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82CM+QJ"
+    },
+    "reference": "ChIJsyhpEuMpCTkRq658KSkJxzI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "near ICICI Bank, 40, Chakrata Road, Tagore Villa, Chukkuwala, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3206572,
+        "lng": 78.03765159999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3219798302915,
+          "lng": 78.03903753029151
+        },
+        "southwest": {
+          "lat": 30.3192818697085,
+          "lng": 78.03633956970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Rizvi Brothers",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ6UUyXMMpCTkROoNVtyuSzB4",
+    "plus_code": {
+      "compound_code": "82CQ+73 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82CQ+73"
+    },
+    "reference": "ChIJ6UUyXMMpCTkROoNVtyuSzB4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Shop-109, near Kotwali, Paltan Bazaar, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3172389,
+        "lng": 78.040235
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3185625302915,
+          "lng": 78.04169283029151
+        },
+        "southwest": {
+          "lat": 30.3158645697085,
+          "lng": 78.0389948697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentara - Best Dentist in Dehradun | Braces | Implants | Dental Clinic | RCT | Clinical Cosmetologist",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1514,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100634832768787132788\">Dentara - Best Dentist in Dehradun | Braces | Implants | Dental Clinic | RCT | Clinical Cosmetologist</a>"
+        ],
+        "photo_reference": "AdCG2DOczVvcTJq0nUqr-7c_fmE4IDwu_IsfUa8ntG36wbBrKWzgZS0EiE3FO9GKuALo4ofFLylEY6lJ_Sn_tew6CB0POXUbc-Y_dMayjpfr276oESXBILGN3SkaFrC0V91r6k_CbqY_UcbynIaVIo3w9bjnu8aB4WiuJGUxN9Cz3gnFyojr",
+        "width": 1599
+      }
+    ],
+    "place_id": "ChIJgRpUfr4pCTkRCfXJGiE53wA",
+    "plus_code": {
+      "compound_code": "828R+V3 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W828R+V3"
+    },
+    "rating": 4.9,
+    "reference": "ChIJgRpUfr4pCTkRCfXJGiE53wA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 124,
+    "vicinity": "opposite S.S.P Office, 39, Court Road, Race Course, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3244234,
+        "lng": 78.03642789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3257516802915,
+          "lng": 78.0377518802915
+        },
+        "southwest": {
+          "lat": 30.3230537197085,
+          "lng": 78.03505391970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SAI KRIPA DENTAL IMPLANT SOLUTIONS",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111616156893715104118\">SAI KRIPA DENTAL IMPLANT SOLUTIONS</a>"
+        ],
+        "photo_reference": "AdCG2DNPtU8UweKO9D5hl3XLqslf8kASH2RteaKZNP69zX15NwUv01u59lVX-KiQV_doj40dmUXxG5N26fpzTqjEIaCQqCKLUnm3uZDZVAqHkyZsbqaIbRzCKJC5_W5E05eVwZu4w0JIHCDdn8TyXI8pm742mvGoqy22wB09HtAanMoX2EVs",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ_9VWgOwpCTkR0LrO_099nbo",
+    "plus_code": {
+      "compound_code": "82FP+QH Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82FP+QH"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ_9VWgOwpCTkR0LrO_099nbo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "near MAA KAALIKA TEMPLE, 84/45, Ansari Marg, Paltan Bazaar, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3251962,
+        "lng": 78.0346543
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3264566302915,
+          "lng": 78.0359937302915
+        },
+        "southwest": {
+          "lat": 30.3237586697085,
+          "lng": 78.03329576970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "THE SMILE ESSENTIAL DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 743,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101469799742765650482\">Garima Vijan</a>"
+        ],
+        "photo_reference": "AdCG2DMnwnqFw42h1DvLifh4TfQRAVHrkg98eceFvrFDPBMHo7dJTT5uUEiEPS699i9_HQLoM4If_oLgdWC30ZCEhKlbS5Tu1vO3Z6qB34qlCkOPOezM-dATfTCJ2msOy1yhPM0qlNoRA2Uf9wHsUfdtkUKQaMJY9PUZ13rwmmcDhMDIPwun",
+        "width": 1170
+      }
+    ],
+    "place_id": "ChIJTd0FXgApCTkRs3JrbJZ3UfE",
+    "plus_code": {
+      "compound_code": "82GM+3V Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82GM+3V"
+    },
+    "rating": 4.9,
+    "reference": "ChIJTd0FXgApCTkRs3JrbJZ3UfE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 95,
+    "vicinity": "63, Ansari Marg, Machhi Bazar, Connaught Place, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3196299,
+        "lng": 78.0421507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.32109128029149,
+          "lng": 78.0436091302915
+        },
+        "southwest": {
+          "lat": 30.31839331970849,
+          "lng": 78.0409111697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rawat dental clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJWRUgN74pCTkRRAcwik1yohs",
+    "plus_code": {
+      "compound_code": "829R+VV Dehradun, Uttarakhand, India",
+      "global_code": "8J2W829R+VV"
+    },
+    "rating": 4.7,
+    "reference": "ChIJWRUgN74pCTkRRAcwik1yohs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "Near Government Doon Medical College Hospital, 6, New Road, Race Course, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.31532750000001,
+        "lng": 78.0430576
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3166279802915,
+          "lng": 78.0444895802915
+        },
+        "southwest": {
+          "lat": 30.3139300197085,
+          "lng": 78.04179161970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Hari Ram Kohli Memorial Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101537986052846588533\">Hari Ram Kohli Memorial Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DPbaFxDEosd42wi8D7lY92AEh7ELZkyXmThwqBpmi7NBmcDRvba0Eols9dEtjcNB1Wwzhf1ftE1_c8g2BW-JN4kU4j-M9UtxWQh6l_Y6AJrcTkct4uCo9s0hz5sHozmOrOJcovw_Opj4tce5vYFC0z7pc_MbvFRaNIj67qqLdOMrprf",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJz7KZmZYpCTkR9e1HgUGHEu8",
+    "plus_code": {
+      "compound_code": "828V+46 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W828V+46"
+    },
+    "rating": 3.9,
+    "reference": "ChIJz7KZmZYpCTkR9e1HgUGHEu8",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 200,
+    "vicinity": "6,2b, Haridwar Road, Shiv Nagar, Old Nehru Colony, Dharampur, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.32593669999999,
+        "lng": 78.03647099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3272856302915,
+          "lng": 78.0378606302915
+        },
+        "southwest": {
+          "lat": 30.3245876697085,
+          "lng": 78.0351626697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Aradhana Dental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJDbiY8_IpCTkR2GumFAoI7f0",
+    "plus_code": {
+      "compound_code": "82GP+9H Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82GP+9H"
+    },
+    "reference": "ChIJDbiY8_IpCTkR2GumFAoI7f0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "58 A New, Connaught Place, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.32597209999999,
+        "lng": 78.0276272
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.32731998029149,
+          "lng": 78.0289773302915
+        },
+        "southwest": {
+          "lat": 30.3246220197085,
+          "lng": 78.02627936970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Vineet Verma- Dentist in Dehradun",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 270,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115553536831096121975\">Dr. Vineet Verma- Dentist in Dehradun</a>"
+        ],
+        "photo_reference": "AdCG2DMCjTE1uxcfWwJlZprHDE5BZ05aqbWsZmDCqttDFtMLcLjnUR4XWesoQL9GtvQJ1EyVx703EnMNpqvl51spTYB1vH18Nru1kUBuTCETiXMk4fR1vIQwQ8SL2rUqH_oKRdnFzTuLmnPuHH3rdXy-sJVF53BrC8VHey4crFGURreSpm2S",
+        "width": 479
+      }
+    ],
+    "place_id": "ChIJiY47YEIpCTkRsVlruD5mQ3g",
+    "plus_code": {
+      "compound_code": "82GH+93 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82GH+93"
+    },
+    "reference": "ChIJiY47YEIpCTkRsVlruD5mQ3g",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Sbi Bank, Ayushmaan Dental Clinic, C- 302, Govind Garh Road, Prakash Nagar, Yamuna Colony, Khurbura Mohalla, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.32265569999999,
+        "lng": 78.041698
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3238694802915,
+          "lng": 78.0430432302915
+        },
+        "southwest": {
+          "lat": 30.3211715197085,
+          "lng": 78.04034526970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Care Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 569,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100635683058066204487\">Dental Care Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOCZG6aySGQGFdRsJv0G8FFZENl0Ic0I0Yn9p6xz-V8IQwU2J87LM5GXfOHW9Z2RNMVnLX2kmHQnv0pr-kqZoBzBd8IpSeFyS4dzK9kOb2l4QEi4ZFO5hXZRaRR9becYGJ8zb4-FFE_KCzZulSRAOcQKYagiPlksIoVD80XHDWZpD5l",
+        "width": 750
+      }
+    ],
+    "place_id": "ChIJcUuk62IpCTkR1WO_K1L3DVA",
+    "plus_code": {
+      "compound_code": "82FR+3M Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82FR+3M"
+    },
+    "rating": 4.2,
+    "reference": "ChIJcUuk62IpCTkR1WO_K1L3DVA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "Dispensary Road , K C City Centre , opp Gandhi inter college, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3271414,
+        "lng": 78.03251449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3285711302915,
+          "lng": 78.0339761802915
+        },
+        "southwest": {
+          "lat": 30.3258731697085,
+          "lng": 78.03127821970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "32 Whites - Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJCbyg2O0pCTkRGwiNHbdSuT8",
+    "plus_code": {
+      "compound_code": "82GM+V2 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82GM+V2"
+    },
+    "rating": 5,
+    "reference": "ChIJCbyg2O0pCTkRGwiNHbdSuT8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "1, Omkar Plaza, Bindal Bridge, Clock Tower, Chakrata Road, Bindaal Tirahya, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3259843,
+        "lng": 78.0385319
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.32722903029149,
+          "lng": 78.03985073029149
+        },
+        "southwest": {
+          "lat": 30.3245310697085,
+          "lng": 78.03715276970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "BELWAL DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113993837737218705888\">Anant Belwal</a>"
+        ],
+        "photo_reference": "AdCG2DPg9z63DyfgI3eLe8jU5zNwp5igPZIRdPblzKJ4NlcDjYJsxToyT4ba34yfqpUnMfpxWwz9rRWmfjIhT28Rsa8y5ZZ_jX04Y8fxIlsZSqj9M-CCyjuHTOAgGli39yXT7IFvgbkuiCcbJiXkd6mbyI1du-seDMz0d_Nm_xqQUDh0724O",
+        "width": 1472
+      }
+    ],
+    "place_id": "ChIJoQ-9FQIpCTkRc_p3mSbZ9cE",
+    "plus_code": {
+      "compound_code": "82GQ+9C Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82GQ+9C"
+    },
+    "rating": 5,
+    "reference": "ChIJoQ-9FQIpCTkRc_p3mSbZ9cE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "opp. Prabhat Cinema, 3/233, Chakrata Road, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3249847,
+        "lng": 78.0403658
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3263025302915,
+          "lng": 78.04168183029151
+        },
+        "southwest": {
+          "lat": 30.3236045697085,
+          "lng": 78.0389838697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. U. C. Chandna",
+    "place_id": "ChIJQWxSWOopCTkR73zpeeeLH4A",
+    "plus_code": {
+      "compound_code": "82FR+X4 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82FR+X4"
+    },
+    "reference": "ChIJQWxSWOopCTkR73zpeeeLH4A",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3081412,
+        "lng": 78.04125789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.30939403029149,
+          "lng": 78.0427516302915
+        },
+        "southwest": {
+          "lat": 30.3066960697085,
+          "lng": 78.0400536697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Udant",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJj7gLmkspCTkRRFiEkYTWlm8",
+    "plus_code": {
+      "compound_code": "825R+7G Dehradun, Uttarakhand, India",
+      "global_code": "8J2W825R+7G"
+    },
+    "reference": "ChIJj7gLmkspCTkRRFiEkYTWlm8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "1, Race Course Road, Race Course, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.31433969999999,
+        "lng": 78.0452984
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3156080802915,
+          "lng": 78.0465871302915
+        },
+        "southwest": {
+          "lat": 30.3129101197085,
+          "lng": 78.04388916970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Krishna Prakash",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108753026801000145681\">Dr. Krishna Prakash</a>"
+        ],
+        "photo_reference": "AdCG2DOAg9wZ5Dhp6dmv4ZuWSI1TJMM26SjdrvAMr0hV4EQCJEGguRBPrStg61TTPCDeFxSwdCktWcL-KqiH2lrLG3MXD_XM8x51u5X7VU9o6C9LQFQy1llOaR3K9ykISWtlxzFp2EAW6D3c9VvA6K7bBePy29Ngj429Sfy1JceNB_WUPRbq",
+        "width": 670
+      }
+    ],
+    "place_id": "ChIJ-UVicespCTkRQ0qVXpQr-Mk",
+    "plus_code": {
+      "compound_code": "827W+P4 Race Course, Dehradun, Uttarakhand, India",
+      "global_code": "8J2W827W+P4"
+    },
+    "rating": 5,
+    "reference": "ChIJ-UVicespCTkRQ0qVXpQr-Mk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "105, Haridwara RoaEastern Canal Road, Dehradun Uttarakhand 248001 IN, adjoining Police Chauki, 65, Eastern Canal Road, Guru Nanak Vihar, Race Course, Araghard"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3085833,
+        "lng": 78.0221485
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.30994343029149,
+          "lng": 78.0234863302915
+        },
+        "southwest": {
+          "lat": 30.30724546970849,
+          "lng": 78.0207883697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Harish Joshi",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJncInOP4pCTkROl0LyyfiMi8",
+    "plus_code": {
+      "compound_code": "825C+CV Dehradun, Uttarakhand, India",
+      "global_code": "8J2W825C+CV"
+    },
+    "rating": 5,
+    "reference": "ChIJncInOP4pCTkROl0LyyfiMi8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Indraprasth Lane No. 8, Punjab National Bank, Ring Road, Nehrugram, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3175873,
+        "lng": 78.04572089999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3189183302915,
+          "lng": 78.04705738029152
+        },
+        "southwest": {
+          "lat": 30.3162203697085,
+          "lng": 78.0443594197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile Design",
+    "place_id": "ChIJN3Jyj74pCTkRx6RneFJiXW8",
+    "reference": "ChIJN3Jyj74pCTkRx6RneFJiXW8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "829W+27Q, New Road, Race Course, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3092399,
+        "lng": 78.0430873
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3106217302915,
+          "lng": 78.0443972802915
+        },
+        "southwest": {
+          "lat": 30.3079237697085,
+          "lng": 78.0416993197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Hub: Braces and Implant Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116983352900094786551\">Dental Hub: Braces and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DO40mpGt_SQwMrtLJJDGQh546UYOnI_b4dtLFRJc8omBiSf2jsnDxlvRRAljrUiHNDrOLXcE-ojHRTkN5TrXFy62RRbS0XR5psHrD4JDuWadfaKBEmJKmpXbbf1dZcXoN-DgCZpsT_w6ncxJPPFQvN8TOXdl_2bfxOVcWYMC4PotKqM",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJc1Fi8NspCTkRax5XqDs25LU",
+    "plus_code": {
+      "compound_code": "825V+M6 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W825V+M6"
+    },
+    "rating": 5,
+    "reference": "ChIJc1Fi8NspCTkRax5XqDs25LU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "opposite Axis bank, above beenos fast food, Suri chowk, Race Course, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3168357,
+        "lng": 78.0470272
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3181889302915,
+          "lng": 78.04837913029151
+        },
+        "southwest": {
+          "lat": 30.3154909697085,
+          "lng": 78.0456811697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.Mehta's Dental Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2340,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108634012226461536095\">deepak chamoli</a>"
+        ],
+        "photo_reference": "AdCG2DP_PXDaADMssyC1BL37fSpxbOKIWE_gtQRndVPVjqV9unU_hHJWtpBK5vWZaUqiW-31SE0qjDc99LmEBEFzuEhcQvdfihHPSAM3FdkMYvBYDexzGgASz-cmTF1WbcACVUdFEn1Mmwthq_kJZrFEMx21EEVjFgrMPLcb9SwRsE6q0TAM",
+        "width": 3114
+      }
+    ],
+    "place_id": "ChIJKfKiL74pCTkRNqwNijy360w",
+    "plus_code": {
+      "compound_code": "828W+PR Dehradun, Uttarakhand, India",
+      "global_code": "8J2W828W+PR"
+    },
+    "rating": 3.9,
+    "reference": "ChIJKfKiL74pCTkRNqwNijy360w",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "16 A, near Uttranchal Gramin Bank Head Office, near MKP crossing, 16A, New Road, Karanpur, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3220936,
+        "lng": 78.0187918
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3233599802915,
+          "lng": 78.02012273029152
+        },
+        "southwest": {
+          "lat": 30.3206620197085,
+          "lng": 78.01742476970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Vimal Paul",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117947462207682782353\">Dr. Vimal Paul</a>"
+        ],
+        "photo_reference": "AdCG2DMM0Tt3_DkMbuF7lyddwus0C14CwoiTB-fo-erzQC6vMHml2k7Z9Z3F8uBpHj_ADoZ2rblvxN52n11jrPoVjoW3EDYMVn_yjYENBuVDZEQEISm_PhLRHwCBOyjGoqimAJSqJXmUHOxvNUZraLSSQETOgaVjRC8FjvIaVyl5wm3C4z94",
+        "width": 964
+      }
+    ],
+    "place_id": "ChIJlehSLa4rCTkRS-fnK9LRm2A",
+    "plus_code": {
+      "compound_code": "82C9+RG Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82C9+RG"
+    },
+    "reference": "ChIJlehSLa4rCTkRS-fnK9LRm2A",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Kanwali Road, MDDA Colony, Govind Garh, Khurbura Mohalla, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3130139,
+        "lng": 78.0466179
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3144613302915,
+          "lng": 78.04805203029152
+        },
+        "southwest": {
+          "lat": 30.3117633697085,
+          "lng": 78.04535406970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Tanu Anand- Dental Surgeon in Dehradun",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102765407544337830335\">Dr. Tanu Anand- Dental Surgeon in Dehradun</a>"
+        ],
+        "photo_reference": "AdCG2DOL-6n9hBnE3IiyO6aEsx6E7g3JR9cEBbObPetecTn47U1Nht1__-TusTHdCljZJmdp1xXdCPbacDf5DC8CzWLBGxbEPUwcx2ssfQbELrTWqu1uSF09YH6xGPs_8eSgl9p7SVcc1xRxRTq3061jPm00PtXIYdSOJHJoCR9x9kb_Di07",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJJ8ctTU4pCTkRxhWeyhf7taQ",
+    "plus_code": {
+      "compound_code": "827W+6J Dehradun, Uttarakhand, India",
+      "global_code": "8J2W827W+6J"
+    },
+    "rating": 5,
+    "reference": "ChIJJ8ctTU4pCTkRxhWeyhf7taQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Dental Solutions, near sanjana pathology lab, 51/4-B, Haridwar Road, Race Course, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3155353,
+        "lng": 78.0473153
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3166617302915,
+          "lng": 78.04869348029149
+        },
+        "southwest": {
+          "lat": 30.3139637697085,
+          "lng": 78.04599551970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Kartikay Kasariya",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116303143599195216675\">dr kartikay kasariya</a>"
+        ],
+        "photo_reference": "AdCG2DPv_YqXVo8cj0UpMM92dYrwzX1cqVJmfbX7RNAkayWZOQw-Agy3Ya271j_7Y0IBJlZGKpvHC9UBxuMml-aZf7q_pLI_161bAMBAEPqGYTGCiBdO_YTtoZjGc3x9YP8BYDdmtW-__ui05lSr59i0rsZ0cQEmkbrDGJsMLAxtPArmTNkz",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJYSlCltIpCTkRFdkVIUs_H6w",
+    "plus_code": {
+      "compound_code": "828W+6W Dehradun, Uttarakhand, India",
+      "global_code": "8J2W828W+6W"
+    },
+    "rating": 5,
+    "reference": "ChIJYSlCltIpCTkRFdkVIUs_H6w",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "near Dwarka Store, New Road, Race Course, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3034443,
+        "lng": 78.0289262
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.30486658029151,
+          "lng": 78.0301650302915
+        },
+        "southwest": {
+          "lat": 30.30216861970851,
+          "lng": 78.02746706970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tooth Fairy kids & Family Dental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101084044097622707464\">Tooth Fairy kids &amp; Family Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DM8gbRa4MuzofqdVeNuP2G7sJqSfsw7BPv2t4D6Vf8oVSPmTLdqFJh9gdZ5rBrZw1Xyu6dZRBk8LREodV5q8UVnrBgxMacAY85Zitqph90BLaIFiXlFAqn4ngOdTGRlA2PldJC5xbBRWgSZLkyaBMHM_bjzffXJuT_1AlyoYVPTdGw3",
+        "width": 400
+      }
+    ],
+    "place_id": "ChIJb0Po5SMpCTkRM8Mpoua9ZbM",
+    "plus_code": {
+      "compound_code": "823H+9H Dehradun, Uttarakhand, India",
+      "global_code": "8J2W823H+9H"
+    },
+    "rating": 5,
+    "reference": "ChIJb0Po5SMpCTkRM8Mpoua9ZbM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 64,
+    "vicinity": "near Pathri bagh, opp. SLV Inter college, chowk, Patel Nagar, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3054938,
+        "lng": 78.04110419999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3067879802915,
+          "lng": 78.04234163029149
+        },
+        "southwest": {
+          "lat": 30.3040900197085,
+          "lng": 78.03964366970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "beyond smiles, dental clinic and implant centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109092561767600796983\">beyond smiles, dental clinic and implant centre</a>"
+        ],
+        "photo_reference": "AdCG2DO5P9tQqSM9E0xi8OoE2uHgSGPqQyQP9IaTZZxBcnUrebAA67strxdsH1BPJfLrSr6dJdSUJ6A0h4k1HMe6UYgn-cBRwXTqGDzDPrupWcN-4R_XlyoBmI_cJeIcf4hpjurwApIu4cOfRbw_Yc_GJjoRWpBbZh1r5BqWZdpWFRT3-tMz",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJEfZAtpgpCTkR0FLvZ7hMM-Y",
+    "plus_code": {
+      "compound_code": "824R+5C Dehradun, Uttarakhand, India",
+      "global_code": "8J2W824R+5C"
+    },
+    "rating": 4.8,
+    "reference": "ChIJEfZAtpgpCTkR0FLvZ7hMM-Y",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 114,
+    "vicinity": "d, opp. police line ground, 34, Race Course Road, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.32828869999999,
+        "lng": 78.0241501
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.32971183029149,
+          "lng": 78.0254039802915
+        },
+        "southwest": {
+          "lat": 30.3270138697085,
+          "lng": 78.0227060197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Ashish Negi",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJM7zIoUcpCTkRCevD6vpNL2w",
+    "plus_code": {
+      "compound_code": "82HF+8M Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82HF+8M"
+    },
+    "reference": "ChIJM7zIoUcpCTkRCevD6vpNL2w",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "near Hotel Sun Park In, General Mahadev Singh Road, Shakti Enclave, Kaonli, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3294334,
+        "lng": 78.038855
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.33078868029149,
+          "lng": 78.04021663029151
+        },
+        "southwest": {
+          "lat": 30.3280907197085,
+          "lng": 78.0375186697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. R.K. Verma",
+    "place_id": "ChIJr9s2DukpCTkRWXkYmlaQq5E",
+    "plus_code": {
+      "compound_code": "82HQ+QG Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82HQ+QG"
+    },
+    "reference": "ChIJr9s2DukpCTkRWXkYmlaQq5E",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3226671,
+        "lng": 78.0170571
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3239498802915,
+          "lng": 78.0183783802915
+        },
+        "southwest": {
+          "lat": 30.3212519197085,
+          "lng": 78.01568041970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Saleem Pahalwan",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJJV-rrB8qCTkRi7rcaG2fDU8",
+    "plus_code": {
+      "compound_code": "82F8+3R Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82F8+3R"
+    },
+    "reference": "ChIJJV-rrB8qCTkRi7rcaG2fDU8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Shree Ram Shopping Complex, Kanwali Road, Shriram Puram Colony, Kaonli Road, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3112485,
+        "lng": 78.0482409
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3126130802915,
+          "lng": 78.0496555302915
+        },
+        "southwest": {
+          "lat": 30.3099151197085,
+          "lng": 78.0469575697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Doon Family Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100744738083946348421\">Doon Family Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOt_UPZaQNY0Zq7-0ne6tFmSSEkOgrdKYNv9BDqMGi-lYEZCFm9Zf-KZLClE-7kAw-z2BgaDYyYYV95K84mci8WgVkN5jovxQFQcGYidQLATMR9YEzYvKCi_0vyUgbY4Op2iqV_jN3z3Id5_1n5753d3d7-8AjbYgphn1U1rW0L1-NG",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJaRdDqqQpCTkRgG4zwVWJ7T8",
+    "plus_code": {
+      "compound_code": "826X+F7 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W826X+F7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJaRdDqqQpCTkRgG4zwVWJ7T8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "near Doon Valley Nursing home, Haridwar Road, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3043983,
+        "lng": 78.04236449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.30582253029149,
+          "lng": 78.0437158302915
+        },
+        "southwest": {
+          "lat": 30.3031245697085,
+          "lng": 78.04101786970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Anjum Aggarwal's Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110323769188786723190\">Dr. Anjum Aggarwal&#39;s Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOQisEO9eeeI9_FNyFnl-KYZhTxSwHfaZhRXdWfOIaF7wC3ji1moK1lFPU3yheEmKlV8Ru_vMlZBEqMb41ZtZH7s3QF1pT4mW2i0V3ZADr4MvvdiCQTuocoCBTv5l5Ysh1iHXvIE13XojwkAP_7v19qI01YHB6XM__uf9Pg9H4eney-",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJIz9m_aEpCTkRh38gru2dmTo",
+    "plus_code": {
+      "compound_code": "823R+QW Dehradun, Uttarakhand, India",
+      "global_code": "8J2W823R+QW"
+    },
+    "rating": 5,
+    "reference": "ChIJIz9m_aEpCTkRh38gru2dmTo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "F-1, Race Course Rd, Near, Police Line, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3083291,
+        "lng": 78.0467972
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.30967608029149,
+          "lng": 78.04815403029151
+        },
+        "southwest": {
+          "lat": 30.30697811970849,
+          "lng": 78.0454560697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Ujjval Mehrotra",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJHcoG4j0pCTkRMGHq1_q5pUw",
+    "plus_code": {
+      "compound_code": "825W+8P Dehradun, Uttarakhand, India",
+      "global_code": "8J2W825W+8P"
+    },
+    "reference": "ChIJHcoG4j0pCTkRMGHq1_q5pUw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Araghar Chowk, Kushal Plaza, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3295804,
+        "lng": 78.0225257
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3309259802915,
+          "lng": 78.02388123029151
+        },
+        "southwest": {
+          "lat": 30.3282280197085,
+          "lng": 78.0211832697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. P.k. Panwar",
+    "place_id": "ChIJm4M1pvcpCTkRDrQx5aXGGc8",
+    "rating": 5,
+    "reference": "ChIJm4M1pvcpCTkRDrQx5aXGGc8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "82HF+R2J, Ballupur Road, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3294784,
+        "lng": 78.0426121
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3308352302915,
+          "lng": 78.0439796802915
+        },
+        "southwest": {
+          "lat": 30.3281372697085,
+          "lng": 78.0412817197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Udai Pratap Dental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJg9ZYdMIpCTkRQ3pok91rq0g",
+    "plus_code": {
+      "compound_code": "82HV+Q2 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82HV+Q2"
+    },
+    "rating": 5,
+    "reference": "ChIJg9ZYdMIpCTkRQ3pok91rq0g",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "271, Omkar Road, Chukkuwala, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3259734,
+        "lng": 78.0174703
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3272993302915,
+          "lng": 78.01884758029149
+        },
+        "southwest": {
+          "lat": 30.3246013697085,
+          "lng": 78.01614961970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "32 PEARLS DENTAL CARE",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111367041735430405091\">32 PEARLS DENTAL CARE</a>"
+        ],
+        "photo_reference": "AdCG2DPdqiyJ14p39u3OvvDTvDcCGecONNyzjKANzpHzBpnwBRtJFfYwP68H4Ip0Blqd9h5Pr3Rv3DIfM0_uMmhH-TGVrbXE1IopMYcaZpO9hCKs8jhGVXclFZyTeMqQSSUNTTOIK0kyhuJmbAwZvS2pit2tnVbxZerk7KH3Ro4x5V2xohsj",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJxfcMHvYpCTkRD62yqXYN58k",
+    "plus_code": {
+      "compound_code": "82G8+9X Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82G8+9X"
+    },
+    "rating": 4.7,
+    "reference": "ChIJxfcMHvYpCTkRD62yqXYN58k",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "Lane Number 13, Vijay Park Extension, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.33102580000001,
+        "lng": 78.0248414
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3323744302915,
+          "lng": 78.02615123029153
+        },
+        "southwest": {
+          "lat": 30.3296764697085,
+          "lng": 78.02345326970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile Walk Dental Clinic And Implant Centre Dentist in Dehradun",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116273989197722661326\">Smile Walk Dental Clinic And Implant Centre Dentist in Dehradun</a>"
+        ],
+        "photo_reference": "AdCG2DOXAa2Z153sqHkHciqZ0LbF3CSa7z1Z-hL4Zhy7oNkwxdvjh8tx5e4fACyo4Z8vP0niDOhiizL9c2GQjkErdR1KnTokf7VHvgSZP2guqYbUerXJw1LAq8b34ledqDqQzc3bMJR19XWfK_tdrMAL03JVBci6gk2Hvma3dcWtFMCVEbSN",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJcTlmflopCTkRE8a8Ghvee8Y",
+    "plus_code": {
+      "compound_code": "82JF+CW Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82JF+CW"
+    },
+    "rating": 5,
+    "reference": "ChIJcTlmflopCTkRE8a8Ghvee8Y",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "13/9, Ballupur Road, Sector 3, Deeplok Colony, Hemkunj Colony, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3074002,
+        "lng": 78.0473173
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3086391802915,
+          "lng": 78.0486162802915
+        },
+        "southwest": {
+          "lat": 30.3059412197085,
+          "lng": 78.04591831970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Tarannum Jahan",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ0VIFKxYpCTkRttC8IICuowE",
+    "plus_code": {
+      "compound_code": "824W+XW Dehradun, Uttarakhand, India",
+      "global_code": "8J2W824W+XW"
+    },
+    "reference": "ChIJ0VIFKxYpCTkRttC8IICuowE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "near Dhrampur, 179 Vidya Place, near Dhrampur, Mandi, Araghar, Dalanwala, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3074002,
+        "lng": 78.0473173
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3086391802915,
+          "lng": 78.0486162802915
+        },
+        "southwest": {
+          "lat": 30.3059412197085,
+          "lng": 78.04591831970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Vaishnavi Gwari Dentist In Dehradun",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103891690571227188481\">Dr. Vaishnavi Gwari Dentist In Dehradun</a>"
+        ],
+        "photo_reference": "AdCG2DPgT2k03TEf8plBXw_Bvdq0BShJiFRvazHO9nmPhMDbNWTPSUPMjaNbFMO3ajjjlrxf6KEQ9AYlg6I8_f5lq3Kc_5yaHZz4YjXu3LGMJV_gkeUH6nLlVh5Z2uHUKX0a40ApKZxiobw6pFnBjv6S5o8gn9y7CtHM6dT2ecLHOfjnsjBB",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJyywOluUpCTkRJhoZEAEqMZI",
+    "plus_code": {
+      "compound_code": "824W+XW Dehradun, Uttarakhand, India",
+      "global_code": "8J2W824W+XW"
+    },
+    "rating": 3,
+    "reference": "ChIJyywOluUpCTkRJhoZEAEqMZI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Vaishnavi's Clinic, Araghar, Dalanwala, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3151899,
+        "lng": 78.0508069
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3165800302915,
+          "lng": 78.05218528029151
+        },
+        "southwest": {
+          "lat": 30.3138820697085,
+          "lng": 78.0494873197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "We care multi speciality dental centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109373329122060716206\">We care multi speciality dental centre</a>"
+        ],
+        "photo_reference": "AdCG2DNWMjFDV1j0onsmCm6mIIcAiz47-E_RUIcxft-BIrlWmv9Nol8AHu9pDv8vi2P-68cUIpPb4W-VAonYRZkW8EscAS6N7K-tH6JWaS9AtapRdkuAn-JMMvtiJYmZ7rVOlFkG3O3LsJy23i6fMFXHvAbhtsnksnsDg2myKe7Uku4GzoHi",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJvWe8MAApCTkRrKa1reXPBdw",
+    "plus_code": {
+      "compound_code": "8382+38 Dehradun, Uttarakhand, India",
+      "global_code": "8J2W8382+38"
+    },
+    "rating": 5,
+    "reference": "ChIJvWe8MAApCTkRrKa1reXPBdw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "4/6, Inder Road, Dalanwala, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3087618,
+        "lng": 78.04869719999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3101086802915,
+          "lng": 78.05006763029151
+        },
+        "southwest": {
+          "lat": 30.3074107197085,
+          "lng": 78.04736966970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Pradeep Attri",
+    "place_id": "ChIJQw9LhqQpCTkRErac3VH1Bug",
+    "plus_code": {
+      "compound_code": "825X+GF Dehradun, Uttarakhand, India",
+      "global_code": "8J2W825X+GF"
+    },
+    "rating": 1,
+    "reference": "ChIJQw9LhqQpCTkRErac3VH1Bug",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "near Araghar, chowk, Haridwar Road, Araghar, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.32029320000001,
+        "lng": 78.01376979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3216384802915,
+          "lng": 78.0151329302915
+        },
+        "southwest": {
+          "lat": 30.31894051970851,
+          "lng": 78.0124349697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KARNWAL DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117495392889213386863\">KARNWAL DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DPX65J_EbWMlXNLNC7mE3WoWLqDg2nwnHiUM_Uxq6_0yqvBhXYTRigluFx6t6-zNBUV7oyqpZ2E5Cva3fOWMLjVMxRHGpDvri-9TP9KTW5EWM8g3sCfg4a3wtKe3t0ZONLbMkGxR56c9LqfIiyCdYu0vcuhhqSwtAiw7c3J_kBmy_Gw",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJT8nAshgqCTkREeaJJ75tlsQ",
+    "plus_code": {
+      "compound_code": "82C7+4G Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82C7+4G"
+    },
+    "rating": 5,
+    "reference": "ChIJT8nAshgqCTkREeaJJ75tlsQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "GMS Road, Shakti Enclave, Laxman Chowk, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3273283,
+        "lng": 78.0464763
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3286856802915,
+          "lng": 78.04781408029152
+        },
+        "southwest": {
+          "lat": 30.3259877197085,
+          "lng": 78.0451161197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Clinic, Dr. Vishwajeet Walia",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107535717618556689586\">Mr. Gautam</a>"
+        ],
+        "photo_reference": "AdCG2DOUrrVmnwpB-VFG6wx32XbIFHm1Xb6f9bvLHJwQTo1FT0024zp_e-w4nBaNVSxssW1hLu57hPTj5utT-Z3IMpeFXaR1u4z5zbaWYNf2rqEk4zv1_IJ5u3Ncu850zsc1bEeUc2AMJ_5Tcp1JjYosTsbI7N_BTaO2XBPYq4FCHuvM1oJR",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJ1cHlaMEpCTkRI_ec9tjqhOo",
+    "plus_code": {
+      "compound_code": "82GW+WH Dehradun, Uttarakhand, India",
+      "global_code": "8J2W82GW+WH"
+    },
+    "rating": 4,
+    "reference": "ChIJ1cHlaMEpCTkRI_ec9tjqhOo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "7,A, Ashtley Hall, Dehradun"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 30.3083028,
+        "lng": 78.0490968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.3096082302915,
+          "lng": 78.05041803029151
+        },
+        "southwest": {
+          "lat": 30.3069102697085,
+          "lng": 78.04772006970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "FACE MILE DENTOFACIAL CLINIC -DENTAL.MAXILLOFACIAL.IMPLANTOLOGY",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103813559734481898179\">FACE MILE DENTOFACIAL CLINIC -DENTAL.MAXILLOFACIAL.IMPLANTOLOGY</a>"
+        ],
+        "photo_reference": "AdCG2DPCoLb9MyuPXsYBnUtUu8UbkBqlWIxuHn5yFevWTpho9wYO_tVPisUg41YRrzREZcfk1sgPgDqzEsViZx6cBywCq8t-ZvLRqMtmwQaxA8jDIP-zOXLeN_VU_23ykoAFvHg1ZcfiGZrCDq58eLLMejx5VUEcEN8-0VS9FkiYo0WxU2dz",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJnzR955kpCTkRTrGOeOmlyKE",
+    "plus_code": {
+      "compound_code": "825X+8J Dehradun, Uttarakhand, India",
+      "global_code": "8J2W825X+8J"
+    },
+    "rating": 5,
+    "reference": "ChIJnzR955kpCTkRTrGOeOmlyKE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "shop no. 5, kushal plaza, Araghar, chowk, Dehradun"
+  }
+]

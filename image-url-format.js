@@ -1,0 +1,1 @@
+const imageUrl = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=${reference}&key=${API_KEY}"

@@ -1,0 +1,2799 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8984927,
+        "lng": 74.859816
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8998381302915,
+          "lng": 74.86108538029151
+        },
+        "southwest": {
+          "lat": 12.8971401697085,
+          "lng": 74.85838741970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chaithanya Speciality Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104260634307056970269\">Chaithanya Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNm8L_KoK4VVWadKhiYuMASevF8ToB6cEEDvd8vMSKOKTru0E8gwZNr1nHfBqM9DGoNW0X-6n2M5Lpf9auoSaxwG2kWQWaSR-a3ji5d9gnrhflp4XPeGXBbAoT8oIaJmS8dfps0MQ_u9PXJ4KLGUnbbIX5j5IRYAwJNmD5mC0upLsDr",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJTz_iSBBaozsRfiRxPieBGMk",
+    "plus_code": {
+      "compound_code": "VVX5+9W Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVX5+9W"
+    },
+    "rating": 5,
+    "reference": "ChIJTz_iSBBaozsRfiRxPieBGMk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "1st Floor, Avinash Complex, Airport Road, Yeyyadi, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8847339,
+        "lng": 74.8462627
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8859795302915,
+          "lng": 74.8476627302915
+        },
+        "southwest": {
+          "lat": 12.8832815697085,
+          "lng": 74.8449647697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Dhiraj's Dental & Invisible Braces Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101619537851811127973\">Dr. Dhiraj&#39;s Dental &amp; Invisible Braces Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPjWSFyaEgvCBCdy75QqoIS2tOJPZU63U1Rtk3A66QJgjzm_D3P-dUqRpE3vkBfYDcVRBmaYE0CLp8W80quStNM87A0ADcFWnD5RPOMbWMD8UuX8AWFdijhtwfv7lz_AhbjSXufAiuq58sy-mEPF0W5eV6KhGutLZGbZmnnd9titObu",
+        "width": 768
+      }
+    ],
+    "place_id": "ChIJXcO7eEhaozsREuspdMw87hE",
+    "plus_code": {
+      "compound_code": "VRMW+VG Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRMW+VG"
+    },
+    "rating": 4.9,
+    "reference": "ChIJXcO7eEhaozsREuspdMw87hE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 88,
+    "vicinity": "church hall, 1st Floor, Tiwari bhavan, above SLV Book House, Jail Road, Opp, Bejai, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8812726,
+        "lng": 74.86190100000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8825811302915,
+          "lng": 74.86322728029151
+        },
+        "southwest": {
+          "lat": 12.8798831697085,
+          "lng": 74.86052931970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "INSMYLE FAMILY DENTIST - Kadri",
+    "photos": [
+      {
+        "height": 2610,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115421540082679796192\">Suhaim K</a>"
+        ],
+        "photo_reference": "AdCG2DO4m987oijJsqZqveCz7Z7SCRH8V4wTW2uLZEQdwavYBXVnzDkUw0ENaG2YAD0CmGcAf9bi8x6dZwjA3YjMbU1RZE6BUmAcMeZMx8glsdkRg9yhmmL8eni7vb2Mg0Wf8ELdTN3xNFNeYIWcnQ-tjjKlGLvz_T8ThuzhVeFkM6TxJ6sr",
+        "width": 2610
+      }
+    ],
+    "place_id": "ChIJS1tQMTtaozsRQFzI2eeckNk",
+    "rating": 3.9,
+    "reference": "ChIJS1tQMTtaozsRQFzI2eeckNk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "VVJ6+GQ2, KMC Mercara Trunk Road, Kadri, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8805339,
+        "lng": 74.8588072
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8818339302915,
+          "lng": 74.86018428029149
+        },
+        "southwest": {
+          "lat": 12.8791359697085,
+          "lng": 74.85748631970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Dental Specialists",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111138518316216739982\">Joyer Jude Lobo</a>"
+        ],
+        "photo_reference": "AdCG2DPXIF1RCqgwfnAas-5Tsg5zVimOcJOlDpjLATc6lUaub5MRbAXrq2M6lGYJ6Uechfsk0UYnJwyO_2esqenlKr1h3uMRJ4CMsw5kJjtnwukN6Mk0V4WZnGDVgfHW_sEiSXCdq_0wk4sCmOwY-TvXjbucLaeYXt79c1KYgKxQ88QvTS4",
+        "width": 2340
+      }
+    ],
+    "place_id": "ChIJe_i5ujtaozsRc_K6qUV6tCI",
+    "rating": 4,
+    "reference": "ChIJe_i5ujtaozsRc_K6qUV6tCI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "VVJ5+6G7, Kadri, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8756717,
+        "lng": 74.846304
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8770224302915,
+          "lng": 74.84761998029151
+        },
+        "southwest": {
+          "lat": 12.8743244697085,
+          "lng": 74.84492201970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Siddarth Shetty (Shetty Orthodontics)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116098266639549149612\">Dr. Siddarth Shetty (Shetty Orthodontics)</a>"
+        ],
+        "photo_reference": "AdCG2DOj8eN8YA8y1LDyrOm9lQH2hXR8hy2j6KlS9SIXU2pfBE4DPGhHiKT6Eqb5tsotT1neI8w-ztr63pKRlj_a1Z1uCDjCX93OCDu4sb0W7giu2BayTSjarqym85UHtB5WgjQqXLmmgQ5Jk8o6XdI5iD-xPaidp3hdA1ljyT0S2Z6fr1Um",
+        "width": 6720
+      }
+    ],
+    "place_id": "ChIJ1deBkEhaozsRQAMsIhpAnVw",
+    "plus_code": {
+      "compound_code": "VRGW+7G Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRGW+7G"
+    },
+    "rating": 5,
+    "reference": "ChIJ1deBkEhaozsRQAMsIhpAnVw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "First floor, Medicare Centre Complex, next to Hotel AJ Grand, Boloor, Hampankatta, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8780299,
+        "lng": 74.83363290000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8793945802915,
+          "lng": 74.83505218029151
+        },
+        "southwest": {
+          "lat": 12.8766966197085,
+          "lng": 74.8323542197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Dental Care Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101140789792725486372\">The Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPyL3Sv7_u2L0X5E7m11suI0fshxo8__iZZs_-dc9t_sZMHVKNZO-Urf18k6HZIoR5TvJj05Jo1ULOVhCRwEDMAlQn12PSfrvCufikjaaDWFMFSQ0Tabc5CSgKU2WJbtVD5JdFEEulLpJg2c7SPagJQKmQteg3OJ5B9qMwd9j1DqN8u",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJBzLnLlpaozsR_YGEvn9Vd18",
+    "plus_code": {
+      "compound_code": "VRHM+6F Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRHM+6F"
+    },
+    "rating": 5,
+    "reference": "ChIJBzLnLlpaozsR_YGEvn9Vd18",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "General Hospital, 1st Floor Alake Centre, Kambla Cross Junction Opp. Ullal, Alake, Mangaluru"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 12.9141417,
+        "lng": 74.8559568
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9154869302915,
+          "lng": 74.85732618029151
+        },
+        "southwest": {
+          "lat": 12.9127889697085,
+          "lng": 74.8546282197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Saldanha Anjali Therese Dr",
+    "permanently_closed": true,
+    "place_id": "ChIJQ8olMKFQozsRL_bgnF8Xnno",
+    "reference": "ChIJQ8olMKFQozsRL_bgnF8Xnno",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Falnir \"beauliev\", Mangaluru"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 12.9141417,
+        "lng": 74.8559568
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9154869302915,
+          "lng": 74.85732618029151
+        },
+        "southwest": {
+          "lat": 12.9127889697085,
+          "lng": 74.8546282197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bhat Ganapathy Dr S",
+    "permanently_closed": true,
+    "place_id": "ChIJQ8olMKFQozsRBqKB60UVCjA",
+    "reference": "ChIJQ8olMKFQozsRBqKB60UVCjA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Kudupu, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.9240505,
+        "lng": 74.8583082
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9253672302915,
+          "lng": 74.85966363029151
+        },
+        "southwest": {
+          "lat": 12.9226692697085,
+          "lng": 74.85696566970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Multi Speciality Dental Care Centre",
+    "place_id": "ChIJZXb1DbtQozsR9ffblbjGczs",
+    "plus_code": {
+      "compound_code": "WVF5+J8 Mangaluru, Karnataka, India",
+      "global_code": "7J4PWVF5+J8"
+    },
+    "reference": "ChIJZXb1DbtQozsR9ffblbjGczs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.9240733,
+        "lng": 74.85898519999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9255899802915,
+          "lng": 74.8602102802915
+        },
+        "southwest": {
+          "lat": 12.9228920197085,
+          "lng": 74.85751231970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "T32 Dental Care Clinic & Implant Centre, [ Dentist ] , Mangalore",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DPweNh0OLnQ9m5ZT87Ic-KXLWK1eqWvyxAPDPWbANBZRcAEO914867LziVBwDUEOsaO-XxAampDHc0cVWd3_2S5Icmvk1CJ7krfKcDSv6MO8WNeyVc9Dn4K1Onl4fNnwuz6c_Uelizb_TXPB2AtggrXsK91p77LODvdFJLHrqMvm8N4",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJIxRyBbtQozsRe7l6d-_TyNE",
+    "plus_code": {
+      "compound_code": "WVF5+JH Mangaluru, Karnataka, India",
+      "global_code": "7J4PWVF5+JH"
+    },
+    "rating": 4.9,
+    "reference": "ChIJIxRyBbtQozsRe7l6d-_TyNE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 195,
+    "vicinity": "Kavoor, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.9032041,
+        "lng": 74.86136250000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9045845802915,
+          "lng": 74.86274373029151
+        },
+        "southwest": {
+          "lat": 12.9018866197085,
+          "lng": 74.8600457697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Happy Teeth Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101382546787159755125\">Ganesh Nelyadi</a>"
+        ],
+        "photo_reference": "AdCG2DNW-PMpXRzEp1d4I800bvvZde7owLNCGecx0VHE4lpMRABTafp4ceQR4iVe2ZT4pQN4BEQc0l5p9bNi6ZfOzxMsdl0TzkfATollEyoniN7qkR_rsA7-CQvMvbcePiPFYeT22dzeHkBDvXNq-XKH6EgO5s9Syep8UzMcgMgHnpPXSmfQ",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJCThybg9aozsRBB3qUVj6JiE",
+    "plus_code": {
+      "compound_code": "WV36+7G Mangaluru, Karnataka, India",
+      "global_code": "7J4PWV36+7G"
+    },
+    "rating": 5,
+    "reference": "ChIJCThybg9aozsRBB3qUVj6JiE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "Airport Road opposite Ramashrama primary school, Yeyyadi, Konchady, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.926538,
+        "lng": 74.8580869
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9278911802915,
+          "lng": 74.8595154802915
+        },
+        "southwest": {
+          "lat": 12.9251932197085,
+          "lng": 74.8568175197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Chethan Dental Clinic",
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103352765372687272445\">ONLY CPM</a>"
+        ],
+        "photo_reference": "AdCG2DMhivzBajA_fWTYqVElFmDmLlASdvFjwlXHKC7asQTW7KUwfdbX0kSZiHoRwLb3Aji7MuFSQlaDVSu9mfobhXinJOf5ogLIsagRlPDTyaqG8MTS415HJj_Giq5ygltA7wXD5PsA2C__WP6IpByMxkQXZLfHwhahUXn7dys4uwyZQFEh",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJLwE7lLtQozsRtTIYgjz9dZ8",
+    "rating": 4,
+    "reference": "ChIJLwE7lLtQozsRtTIYgjz9dZ8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "WVG5+J68, veda towers, Airport Rd, junction, Marakada, Kavoor, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.912324,
+        "lng": 74.8692425
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9136707302915,
+          "lng": 74.8706132302915
+        },
+        "southwest": {
+          "lat": 12.9109727697085,
+          "lng": 74.86791526970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Dental Studio. A Multi Speciality Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 870,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107781941602367475110\">The Dental Studio. A Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOmsXVjntWsw8suqCcF7WXzWDILC8YF3JduVqiSdbTdIqX2si_15pZHlGWgjDxZVWEf7tZhDA6P0xgRfocNChaOLb0cO3LNfVYyu8OX-V52bxLTAcDLeJzHohn_vYrTJa_OCHbvsGZOUtmX_aEzlE4AlfF_zWUgKvwahLanv8jIgSqu",
+        "width": 1160
+      }
+    ],
+    "place_id": "ChIJ-2ZVfnZRozsRhTVw3SPOZmo",
+    "plus_code": {
+      "compound_code": "WV69+WM Mangaluru, Karnataka, India",
+      "global_code": "7J4PWV69+WM"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ-2ZVfnZRozsRhTVw3SPOZmo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 31,
+    "vicinity": "Cons store building, Jeevan Complex, Jeevan complex, Padavinangady junction, Airport Road, Padavinangady, SBI Colony, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.9120024,
+        "lng": 74.8693134
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9133524802915,
+          "lng": 74.8706554802915
+        },
+        "southwest": {
+          "lat": 12.9106545197085,
+          "lng": 74.8679575197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "COMFORT DENTAL CARE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1092,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105074575183690909607\">COMFORT DENTAL CARE</a>"
+        ],
+        "photo_reference": "AdCG2DOmUTWgJXohbkw8pNfrrs8iEWxK3-ZoPMFI59nRC4DOWX3L0LCiBaM2ZZtv2tzUDyqjjFwtqdNjAj8cY-Tp0cmJeevHmcMTjqYkvxhsgHy5eud3QGVL41G6mzzXwVQltBaY1slTEO-YLrgtr0fiWyQ1PLAy4u6gzdN7pmb_72weSLYM",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ8arzPlZRozsRqoB2x7oSdbk",
+    "plus_code": {
+      "compound_code": "WV69+RP Mangaluru, Karnataka, India",
+      "global_code": "7J4PWV69+RP"
+    },
+    "rating": 5,
+    "reference": "ChIJ8arzPlZRozsRqoB2x7oSdbk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "opposite hotel trishna, Airport Road, Padavinangady, Mangaluru"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 12.9239834,
+        "lng": 74.8648958
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9253122302915,
+          "lng": 74.8662413802915
+        },
+        "southwest": {
+          "lat": 12.9226142697085,
+          "lng": 74.86354341970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentistry",
+    "permanently_closed": true,
+    "place_id": "ChIJsyXuUDxRozsRgAnr691TcAs",
+    "reference": "ChIJsyXuUDxRozsRgAnr691TcAs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "WVF7+HXR, opposite petrol pump, Airport Road, Marakada, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.9072962,
+        "lng": 74.8363385
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9086488302915,
+          "lng": 74.8376367802915
+        },
+        "southwest": {
+          "lat": 12.9059508697085,
+          "lng": 74.8349388197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Rao's Orthodontic Speciality & Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108521150992624195824\">Dr. Rao&#39;s Orthodontic Speciality &amp; Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DMU8OBuEav1DcZ91o1d8x5jCTKdE-N5RDgFFJWOYlQg3SBUSZQD32hkHMT8DkCRrXaP0ihWhztxJWwRN3T6IOEM__H6GBqKJFjkirYG4U0JQ25pLr01U3l0T5Uhe2C_QCE_jGhboV6mIgXFeq8FenX_81nBMSQ7Mf2mgIiO4Dq6DbMj",
+        "width": 602
+      }
+    ],
+    "place_id": "ChIJ16l7lHlaozsRbT6J6cbVrgw",
+    "plus_code": {
+      "compound_code": "WR4P+WG Mangaluru, Karnataka, India",
+      "global_code": "7J4PWR4P+WG"
+    },
+    "rating": 5,
+    "reference": "ChIJ16l7lHlaozsRbT6J6cbVrgw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 63,
+    "vicinity": "#G-5, Pam Arcade, First Floor, Kottara, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8969686,
+        "lng": 74.8420409
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8983307302915,
+          "lng": 74.84328243029151
+        },
+        "southwest": {
+          "lat": 12.8956327697085,
+          "lng": 74.84058446970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile Dental Clinic",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105452826767645212402\">Smile Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO3BGH-FEy6wWuy7_wxgGk9Is-LJp6Z8RJQNZnz3q54lb78B1JWxoO_tHxj1H2GwnEv63M49whNWhE731Si4P5XxlX9SVbDrK_FaXglYkE2vvhmJLyhiI5PBV1yN8DsH_W9jGyikv6NWHP_GjnTcjlV3jCqiCbUMdh0M3dd72ILZ6XR",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJEcWftVdbozsRKsnoE_ujVOA",
+    "plus_code": {
+      "compound_code": "VRWR+QR Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRWR+QR"
+    },
+    "rating": 4.7,
+    "reference": "ChIJEcWftVdbozsRKsnoE_ujVOA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "Kottara cross junction, behind bus stop, near, Bejai Kavoor Road, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.9048334,
+        "lng": 74.8353379
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9062198302915,
+          "lng": 74.83670213029151
+        },
+        "southwest": {
+          "lat": 12.9035218697085,
+          "lng": 74.8340041697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Satyashri dental clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115372089361288072756\">Satyashri dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DM13ahNElVDG4z5bEfXTA4CPHGSfs-kdq-3NqeDRrSL0d07C3ZjbzEOspALkPdiFmEnZJeaOGY8BdF7CEmyQWcOtursfxb6lx9tfx689oqIdtvjCtWefWaJWE4f3EjLaBEiuEie4sM-ZeIv-hGOYMnozN3yg0X_TYG1lydsVpO8ATb1",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJVVUBbnlaozsRm4cAYrpipYI",
+    "plus_code": {
+      "compound_code": "WR3P+W4 Mangaluru, Karnataka, India",
+      "global_code": "7J4PWR3P+W4"
+    },
+    "rating": 5,
+    "reference": "ChIJVVUBbnlaozsRm4cAYrpipYI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Sequeira Jewel Appartment, opp. Infosys Ltd. 575006 building, Kottara, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8992461,
+        "lng": 74.8356841
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9006006302915,
+          "lng": 74.83707713029149
+        },
+        "southwest": {
+          "lat": 12.8979026697085,
+          "lng": 74.83437916970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Dental Lounge",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116132226733058364052\">The Dental Lounge</a>"
+        ],
+        "photo_reference": "AdCG2DP4vCEfSOLtuVEFiT51YUju1eKgb9rXPWTkuQ_ErJ6vbRaYEHNpV3GkTTr5sFVXBlQVthuqbmfVApwNQqz6rsZVAt7GOgnfhJ8fVONk0_NlHUfg8t1yMxkrSL5PPuY94L9siNT7Z_RcyI8ucEcQVcSCWlyvHjnff85xsY1Hd63aQTOM",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJTUqc-c9bozsRQAkUjV8VZ9Q",
+    "plus_code": {
+      "compound_code": "VRXP+M7 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRXP+M7"
+    },
+    "rating": 4.9,
+    "reference": "ChIJTUqc-c9bozsRQAkUjV8VZ9Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 74,
+    "vicinity": "Ground floor, store, Titian eye plus building, bus stop, The Dental Lounge, near urwa, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8872738,
+        "lng": 74.8509049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8886724302915,
+          "lng": 74.8522291802915
+        },
+        "southwest": {
+          "lat": 12.8859744697085,
+          "lng": 74.8495312197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tiny Teeth- Children, Teens & Special Needs Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107247327580177888853\">Tiny Teeth- Children, Teens &amp; Special Needs Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DNVcRvM2o_S2CfvGAcg7tRe-NdYBjBwroY3aNzIoPE47qpwNS0l-FF_kYB3CtUa-qY1xTX34pvEh3jF0B8LgWiXfYTUGHOMvD372p4f7A5g2i-UiiQ3cTjWvVONC_l-mgUdmfdqsAPtetGN1aESVLJe9LPOBjmLjo1YBZHPzoPRARiz",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJXwGD-T9aozsRZpISj8SeOiY",
+    "plus_code": {
+      "compound_code": "VVP2+W9 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVP2+W9"
+    },
+    "rating": 4.9,
+    "reference": "ChIJXwGD-T9aozsRZpISj8SeOiY",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 145,
+    "vicinity": "Shop no 8, Ventura Apartments, Museum Road, Bejai, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8947746,
+        "lng": 74.8360603
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8961266302915,
+          "lng": 74.83738043029152
+        },
+        "southwest": {
+          "lat": 12.8934286697085,
+          "lng": 74.83468246970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Chaitanya Shanbhag's Dental Care Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110337389371573530424\">Arpita Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DOsbTIrnv1-VIvwPxr0lx8Y8ihkweGmjlY0QXZJ2lpsIu_G46gQBa9bI3rUdiGduwke_7d6SSrX-D8S-r6RwkKxvHwgtWXlMGtOE0eRviXp4BDIzn-Z05nsmUTWIx7t-SVfJZpMzfpG80soiyMVVVT2z3yzjsj7_nJa_kzdzRea5idf",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJGce7smVaozsRa3cksYk9eDg",
+    "plus_code": {
+      "compound_code": "VRVP+WC Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRVP+WC"
+    },
+    "rating": 3.7,
+    "reference": "ChIJGce7smVaozsRa3cksYk9eDg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Kulur Ferry Road, Chilimbi, Ladyhill, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.9034495,
+        "lng": 74.8299019
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9048053302915,
+          "lng": 74.83107588029151
+        },
+        "southwest": {
+          "lat": 12.9021073697085,
+          "lng": 74.8283779197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Aarogya",
+    "place_id": "ChIJF14O1n1aozsR-KQ56Gk7Rjk",
+    "plus_code": {
+      "compound_code": "WR3H+9X Mangaluru, Karnataka, India",
+      "global_code": "7J4PWR3H+9X"
+    },
+    "reference": "ChIJF14O1n1aozsR-KQ56Gk7Rjk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Ganesh nagar, Kodikal Road, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8886482,
+        "lng": 74.84127749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8900118302915,
+          "lng": 74.8427050802915
+        },
+        "southwest": {
+          "lat": 12.8873138697085,
+          "lng": 74.84000711970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Speciality Clinic (Dr Rajesh K S Mds)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112250632976026605634\">Prasuna V.A.L.</a>"
+        ],
+        "photo_reference": "AdCG2DOM6U1_6iRrYDj1IQEoGbr1ZtJUoFQeFutF5MQoR3IRYRgWDPjHWbLPRxj0vWFc3hKOHNSy2at3PObHItyMOTewGJGbZ_1VfyKAytvwBwQ9iy8i3aT1slVMqCxnc2Gx0l1A9MMKbSNub7o74SLxDwm0mw-thij3vhr-xl69INmN-FGM",
+        "width": 1836
+      }
+    ],
+    "place_id": "ChIJVVVVlWtaozsR9RUbDyaHLzU",
+    "plus_code": {
+      "compound_code": "VRQR+FG Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRQR+FG"
+    },
+    "rating": 4.6,
+    "reference": "ChIJVVVVlWtaozsR9RUbDyaHLzU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "1st, Grace Towers, Bejai - Kapikad Road, Bejai, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8854199,
+        "lng": 74.847275
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8866924302915,
+          "lng": 74.8486075302915
+        },
+        "southwest": {
+          "lat": 12.8839944697085,
+          "lng": 74.8459095697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Kamya Fernandes Vas",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJa9TWYR1bozsRXsdEvq3IlYk",
+    "plus_code": {
+      "compound_code": "VRPW+5W Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRPW+5W"
+    },
+    "rating": 5,
+    "reference": "ChIJa9TWYR1bozsRXsdEvq3IlYk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "market Complex, SmileVille Orthodontic and Multi-speciality Dental Clinic Shop no G3, Aryan building, opp. Bejai, Bejai, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8854309,
+        "lng": 74.8470164
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8867233802915,
+          "lng": 74.8483535302915
+        },
+        "southwest": {
+          "lat": 12.88402541970849,
+          "lng": 74.8456555697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SmileVille Orthodontic and Multi-Speciality Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112539858592269825608\">Robin Miranda</a>"
+        ],
+        "photo_reference": "AdCG2DNCP5WMSnyaFFR6NnXTIxx8R3Ubyz9b1G3OM1G6WX5ZF6pCWYyP6IwfCF7wnkiNdUoPBiNxKGVB8LFpFDI9l1DMdhbuf8UeSoOQSN4_QO-Y4bWRttW6uDezuXSE_J9EnTY6G4q_zzTXbaMwbps8ttp7lAhOcjyEBLIlouqHlBpZU-g3",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJbVuCVbtbozsRGhbDGISLp2U",
+    "plus_code": {
+      "compound_code": "VRPW+5R Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRPW+5R"
+    },
+    "rating": 4.9,
+    "reference": "ChIJbVuCVbtbozsRGhbDGISLp2U",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 77,
+    "vicinity": "G3, Aryan Building, Bejai, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8916927,
+        "lng": 74.8354179
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8930277802915,
+          "lng": 74.83684133029149
+        },
+        "southwest": {
+          "lat": 12.8903298197085,
+          "lng": 74.83414336970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mangaluru Dental Care Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100667181747379213824\">Mangaluru Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPBXkMAPEsSAADM9-9MPr8oXx3AaCQEL9OD9KzcC_1cpr6GIXnAui0pxXw-nstvV1iCpxhGy4Ug1w_hjmd_CWNGN9pfJIY_ggrp-cPdUjRBSjIExvFmbXfz0GQ8LUha4RHwiNk8HoKfFe4alnM-U--yoAaBjCcF2odKH2DRtw4Ogash",
+        "width": 9248
+      }
+    ],
+    "place_id": "ChIJ_ziGxPNbozsR6YFibCiCO7I",
+    "plus_code": {
+      "compound_code": "VRRP+M5 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRRP+M5"
+    },
+    "rating": 5,
+    "reference": "ChIJ_ziGxPNbozsR6YFibCiCO7I",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "First Floor, Krishna towers, near Shirdi Sai Baba Mandir Road, Kulur Ferry Road, Ladyhill, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8853042,
+        "lng": 74.8656779
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8865576802915,
+          "lng": 74.8668867302915
+        },
+        "southwest": {
+          "lat": 12.8838597197085,
+          "lng": 74.86418876970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vk Dental Speciality And Periodontal Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112699035858101653447\">Vk Dental Speciality And Periodontal Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO-zZxSlHO9eRPZnvHX6W7LPd1UAEXchaFbKlh-PPIAsR9-nTiUoEyJiGvpxJMFR5l62Zggty5_SKPcRfLLVxI6GOgm23it4jr2j1O_b1ljv45JK1b5889RmV8if0IjIbKxDj7PV_A3P6WfvOlxfr3fblSYXmU74CxelUfhuiY_3IQ",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJz6iSO4NbozsR2QpzNabn1RY",
+    "plus_code": {
+      "compound_code": "VVP8+47 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVP8+47"
+    },
+    "rating": 5,
+    "reference": "ChIJz6iSO4NbozsR2QpzNabn1RY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Marian Paradise Avenue 1st Floor No 105 Bikarnakatte, Nanthoor Junction, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8853691,
+        "lng": 74.84544489999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8868288302915,
+          "lng": 74.84682258029149
+        },
+        "southwest": {
+          "lat": 12.8841308697085,
+          "lng": 74.84412461970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Eira Dental ™ Exclusive Invisalign® Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112977702667394765209\">Eira Dental ™ Exclusive Invisalign® Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMCUBWfv3dsJQkCPQdoObXbVCJHTpPvWE5xalV5us31Xc-3e1ljwhjOcJ-m82vGCXKVaoGLlmvGZwbrZMfcCL9MVXkWjPdvR1nbYkLEvTc0Pq0bl-h0nKMcTMi3z2qGqvliPF7xAPd5sFGykF8hxy4bUndAimzf4q1G2HpTKKFDtRQS",
+        "width": 6048
+      }
+    ],
+    "place_id": "ChIJJdAZmgBbozsR4qh3bEUpXeg",
+    "plus_code": {
+      "compound_code": "VRPW+45 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRPW+45"
+    },
+    "rating": 5,
+    "reference": "ChIJJdAZmgBbozsR4qh3bEUpXeg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Third Floor, Inland Business Park, 308, Bejai Main Road, Mallikatte, Kadri, Mangaluru"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 12.882429,
+        "lng": 74.8554486
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8838062302915,
+          "lng": 74.85678998029151
+        },
+        "southwest": {
+          "lat": 12.8811082697085,
+          "lng": 74.85409201970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chandramathi Dr K",
+    "permanently_closed": true,
+    "place_id": "ChIJP6OBSzlaozsRUVkapjx9BtA",
+    "reference": "ChIJP6OBSzlaozsRUVkapjx9BtA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Kadri Temple Road Mangalore, Kadri Temple Road, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.886363,
+        "lng": 74.838312
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8877523302915,
+          "lng": 74.8397853302915
+        },
+        "southwest": {
+          "lat": 12.8850543697085,
+          "lng": 74.8370873697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile Care Orthodontics & Specialty Dental Clinic",
+    "place_id": "ChIJQ-mFT11aozsRPM53xRfSimQ",
+    "plus_code": {
+      "compound_code": "VRPQ+G8 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRPQ+G8"
+    },
+    "reference": "ChIJQ-mFT11aozsRPM53xRfSimQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "2nd Floor, Shree Krishna Prasad Building, Complex, MG Road, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8863353,
+        "lng": 74.838263
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8877410802915,
+          "lng": 74.8395287302915
+        },
+        "southwest": {
+          "lat": 12.8850431197085,
+          "lng": 74.8368307697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Ravi MS ORTHODONTIC and Dental clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100202668452252947427\">Dr Ravi M .S</a>"
+        ],
+        "photo_reference": "AdCG2DMSfvRKgm2gEIYJFrDi9WizYSNg1WxCsqm_VNqrO16iWkFbt9WGm_u1q6bflV4-ME_I-q5aUFsjTIc7QESGjU8Luhzo3_otLRBUFtmkRFX3TxZwh3SdqCpo1JGBXstHobnEa7y5nn2ecFJ-N6FrtlvDDAsyQ09ed65H5l9r5NOFmcv6",
+        "width": 4640
+      }
+    ],
+    "place_id": "ChIJiWRqUF1aozsRKCzqOGAdisc",
+    "plus_code": {
+      "compound_code": "VRPQ+G8 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRPQ+G8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJiWRqUF1aozsRKCzqOGAdisc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Lalbagh, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8888011,
+        "lng": 74.8346608
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8901770302915,
+          "lng": 74.83603038029149
+        },
+        "southwest": {
+          "lat": 12.8874790697085,
+          "lng": 74.83333241970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Edwin Dias. A",
+    "place_id": "ChIJfWk6FmdaozsRtB0bVt9CmoA",
+    "plus_code": {
+      "compound_code": "VRQM+GV Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRQM+GV"
+    },
+    "reference": "ChIJfWk6FmdaozsRtB0bVt9CmoA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "near lady hill, circke, Ladyhill, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8857227,
+        "lng": 74.83846559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8871027302915,
+          "lng": 74.8399505302915
+        },
+        "southwest": {
+          "lat": 12.8844047697085,
+          "lng": 74.83725256970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DIVINE SMILES DENTAL - Best Dental Clinics in Mangalore",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 421,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114425824189030204116\">Mr. Dawn Prakash</a>"
+        ],
+        "photo_reference": "AdCG2DNHevyutZdKHN72wNMR_t5drUjlgIZ5midTpcJcVMUvVd_Cmge8GF4M605Y_2LgHRuq0PbQEaUxlLI7vhKzWV867pX3g9-jnaa-bLSdHm0J93_dI9-s_6_zUDSSCV5Yc9RDJtt92Gi-tBnN9AJ4agOXEx1lYFuElZoo4sdaDTydoaON",
+        "width": 565
+      }
+    ],
+    "place_id": "ChIJH7j70DFbozsRxoN3z5ri4Ig",
+    "plus_code": {
+      "compound_code": "VRPQ+79 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRPQ+79"
+    },
+    "rating": 4.7,
+    "reference": "ChIJH7j70DFbozsRxoN3z5ri4Ig",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "12 M C C COMPLEX,OPP,SAIBEEN COMPLEX, MG Road, Lalbagh, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8918908,
+        "lng": 74.8301165
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8932402802915,
+          "lng": 74.8314211802915
+        },
+        "southwest": {
+          "lat": 12.8905423197085,
+          "lng": 74.82872321970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kiran Dental Clinic (Dr. Karan Giriyan)",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110410419958713246977\">Karan Giriyan</a>"
+        ],
+        "photo_reference": "AdCG2DOJvxqcV4IFzmnoWh3cNTnFszHhBwHsrOtIUZBsMrEuHhq3SpDl1ZO5uVnZT1mtSPxshF96SOKDB1JJ4GsZVAkeadsqgDBN4bymuAdFStR-jfAQVv5lRyrvYUhNA-EgB8f08_jhlpOILo3zDXWhI3S6ah1iWe9OHkFYu7mi4wysHtfb",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJjaIKFjtbozsRWbdDezqpAro",
+    "plus_code": {
+      "compound_code": "VRRJ+Q2 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRRJ+Q2"
+    },
+    "rating": 5,
+    "reference": "ChIJjaIKFjtbozsRWbdDezqpAro",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "1-19-1471, Urwa Marigudi Road, Urwa Market, Urwa, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8804608,
+        "lng": 74.85915779999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8818148802915,
+          "lng": 74.86048728029151
+        },
+        "southwest": {
+          "lat": 12.8791169197085,
+          "lng": 74.8577893197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Ayisha Moureen",
+    "place_id": "ChIJkRaE3NlbozsRlFV3k1qyopc",
+    "plus_code": {
+      "compound_code": "VVJ5+5M Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVJ5+5M"
+    },
+    "reference": "ChIJkRaE3NlbozsRlFV3k1qyopc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Kadri, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8909401,
+        "lng": 74.82991009999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8922879302915,
+          "lng": 74.83129713029149
+        },
+        "southwest": {
+          "lat": 12.8895899697085,
+          "lng": 74.82859916970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Sanjay Nayak's Dental Speciality Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101213569836370836473\">Dr Sanjay Nayak&#39;s Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNfuJnuTLA_T-WadOjCkQ4w78xKT4UGsfHog97UfnXFmbSNebzoP-oVOvS0vvx2c2znBLIP412ahVCz4drHLeKnvpt2G0gInxU90FFW9zlTqetcENHg2ZM2yyJ7V3d5q62EvOe8vMT19_xedIjoV2-MHdnsY_Kf2fqWeI2SygOYFKJW",
+        "width": 4016
+      }
+    ],
+    "place_id": "ChIJGQPbnmFaozsRNOKRlIycR6I",
+    "plus_code": {
+      "compound_code": "VRRH+9X Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRRH+9X"
+    },
+    "rating": 5,
+    "reference": "ChIJGQPbnmFaozsRNOKRlIycR6I",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 112,
+    "vicinity": "opp. Marigudi Temple, Ashok Nagar Road, Urwa Market, Ladyhill, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8847281,
+        "lng": 74.8773252
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8860726302915,
+          "lng": 74.87864703029149
+        },
+        "southwest": {
+          "lat": 12.8833746697085,
+          "lng": 74.87594906970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Studio",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105543958053052865031\">Dental Studio</a>"
+        ],
+        "photo_reference": "AdCG2DN5iyUWhtTcnR3wH_BCDjfSaWMNizoCu0R5D7u94gEGnxoQZ2nAYxWPhTwBHNxhgejq9B_wi-I0QL436jiwWdbbdsS7i9fcV_xDWiKEQ8HbnUvtsIszbHKpTmFhzjtuWPqYb1S-Ov8DCTtNhbvCZDg01eZHyhnqu8Yknc3SGAS7ZQJ9",
+        "width": 768
+      }
+    ],
+    "place_id": "ChIJdzIylgtbozsR1sr-7P2VOUs",
+    "plus_code": {
+      "compound_code": "VVMG+VW Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVMG+VW"
+    },
+    "rating": 5,
+    "reference": "ChIJdzIylgtbozsR1sr-7P2VOUs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 204,
+    "vicinity": "Opp Kalpane Bus Stop, Kulshekar Main Road Kulshekar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8775107,
+        "lng": 74.85700960000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8788431302915,
+          "lng": 74.85840948029151
+        },
+        "southwest": {
+          "lat": 12.8761451697085,
+          "lng": 74.8557115197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Maple Dental Clinic & Implant Center, Mangalore",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108038797246367053274\">Maple Dental Clinic &amp; Implant Center, Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DN3WeEdY0LhKXbM1kx4_bs-DBR_J8PAmI3TXdJp_bVC1bAXdTAQzuCd-Qe6CG5G69U1JMz-6kZVUfUdf2ZYSewUJcVgoXri3ek3p4-p6PO6tPkHtVQHCEfXGV3sUSqFJ6lujiEyXryv9kqtEbloh-LVzEgP0yaXz03FdwplA4PhA2u8",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ02OOfwpbozsRfxkipiTYy-k",
+    "plus_code": {
+      "compound_code": "VVH4+2R Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVH4+2R"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ02OOfwpbozsRfxkipiTYy-k",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "Emelia\" Ground floor, opp, Saint Agnes College Road, Bendoor, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8745913,
+        "lng": 74.85618269999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8760337802915,
+          "lng": 74.8575664302915
+        },
+        "southwest": {
+          "lat": 12.8733358197085,
+          "lng": 74.85486846970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "One Dentistry - Braces & Invisible Aligners (Dr. Shourya Hegde)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111878420541139252210\">One Dentistry - Braces &amp; Invisible Aligners (Dr. Shourya Hegde)</a>"
+        ],
+        "photo_reference": "AdCG2DO-FfBvZbc3JmyTP-bCL8zHddIjM8NEoMKL9bqmJ9412vYoMWX6rF-BD9OvpYU1ratydU_nxuav1-twd-0Fyty6blF6-6JvA1LKHyYNqYiJFj3waWcPgx8gSdcNHd_ACuxya2MRyfOsb0yzH9ErJcqJiM6uu-vkKB7Onqe5zwc3Qq2O",
+        "width": 1072
+      }
+    ],
+    "place_id": "ChIJ3YZ8z7RbozsRyrmd_UHY3yg",
+    "plus_code": {
+      "compound_code": "VVF4+RF Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVF4+RF"
+    },
+    "rating": 5,
+    "reference": "ChIJ3YZ8z7RbozsRyrmd_UHY3yg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 63,
+    "vicinity": "3 Floor, Lotus Paradise Plaza, Dr Shourya Hegde, next to St. Theresa's School, Bendoor, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8736409,
+        "lng": 74.8518911
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8749099802915,
+          "lng": 74.85325808029151
+        },
+        "southwest": {
+          "lat": 12.8722120197085,
+          "lng": 74.85056011970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Elite Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1702,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114477000545511741502\">Elite Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DNsy7f-NBk0KanveF_q_eS8wlVG9ZEV7zhRn9VDXRea-8RsGwMcDazWupMa70_-QE1GT5A0bhZtWjJgPjwKgBybMdzFFU8YoHMc73rlBFEzjJEZeFuQR-NZN3Bq6gBzAqoKRryhi1nqXxdhKzeuMt_PMSm2a-BFMC_HNKclwi7cxHCg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJtUsIeUlaozsRur8R494ZwZU",
+    "plus_code": {
+      "compound_code": "VVF2+FQ Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVF2+FQ"
+    },
+    "rating": 5,
+    "reference": "ChIJtUsIeUlaozsRur8R494ZwZU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 287,
+    "vicinity": "milestone 25, 2nd floor , 212 , Balmatta, collectors gate, Collectors gate, junction, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8735981,
+        "lng": 74.8517908
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8748769302915,
+          "lng": 74.85315973029151
+        },
+        "southwest": {
+          "lat": 12.8721789697085,
+          "lng": 74.8504617697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cardiac Care and Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117140527531255852155\">BV Manjunath</a>"
+        ],
+        "photo_reference": "AdCG2DNViUq37bT9iNFx-D6ol2ugZhfWPiwxoN3RAnj6JxpLo5r6JQI3PIkgSYDNl7nPLXIcx4y_Uh9MrlHOmiXKTaVxMX8dXxI2xrgTdduW1B_QMcCQj7hjBIkZLNmWET1gDMWwh23p6FhpCqD-SWbJMDKHO6mGZefC8y_t7Riqs-DlkY0A",
+        "width": 1560
+      }
+    ],
+    "place_id": "ChIJNWgVZjdbozsRXB6E_6_gp40",
+    "plus_code": {
+      "compound_code": "VVF2+CP Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVF2+CP"
+    },
+    "rating": 5,
+    "reference": "ChIJNWgVZjdbozsRXB6E_6_gp40",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "Milestone 25, Collectors Gate, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8737385,
+        "lng": 74.84835389999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8750565802915,
+          "lng": 74.8496966302915
+        },
+        "southwest": {
+          "lat": 12.8723586197085,
+          "lng": 74.8469986697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Excellence Dental clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2610,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114878585804589255918\">Anoop K P</a>"
+        ],
+        "photo_reference": "AdCG2DMLwC9NVNR_YKdC2OMzoBoKX2-9coL_Nsr09xTiUN-0qqWH04fhtsvjkm87RL-y8_BAtu0ekJceJ68mmk2PBDUUvWwslJ0w6nDFtG8qxeRYpa8iFPq7UoBxLuPVaKdxX9zSWRTXrK8QZtBkfVVAoNCu0bIONUMEDXxOTVIfANOcvgwG",
+        "width": 4640
+      }
+    ],
+    "place_id": "ChIJm00WUkhaozsR0LNkv09AEbU",
+    "plus_code": {
+      "compound_code": "VRFX+F8 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRFX+F8"
+    },
+    "rating": 4.4,
+    "reference": "ChIJm00WUkhaozsR0LNkv09AEbU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "3rd Floor, The Trade Center, near Hotel Woodlands, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.873791,
+        "lng": 74.848393
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8751130802915,
+          "lng": 74.84973653029151
+        },
+        "southwest": {
+          "lat": 12.8724151197085,
+          "lng": 74.8470385697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.Shailesh Shenoy's Pediatric & Multispeciality Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNbY-GEdmTu5XK8dsWUQcvB9Nk2462bTq21JMw8PWAL3P7C_Xkp9t6pMphJe9G0YCYOpmYUENHTo-H-FJAUswM_UZu6EUFFruqyQfcZ-5di4SdfHFeOriQ-qEHiAgq5wFl2uhXcshWgfusBcytaIj8S8h4djcX9wrHFmnHpUdehRliK",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJ4UsyrUlaozsRKjD8nDd1nBU",
+    "plus_code": {
+      "compound_code": "VRFX+G9 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRFX+G9"
+    },
+    "rating": 5,
+    "reference": "ChIJ4UsyrUlaozsRKjD8nDd1nBU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 97,
+    "vicinity": "The Trade Center, opp. Hotel Goldfinch, Bunts Hostel Road, Floor, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8761883,
+        "lng": 74.8398157
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8775911802915,
+          "lng": 74.84115088029151
+        },
+        "southwest": {
+          "lat": 12.8748932197085,
+          "lng": 74.83845291970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sovereign Dental Speciality Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DO5U0GLQrUgMtNoBQLwaphBhYm9YV003ZzaNMXy_iYFSQDjhgZ2OxRKBY-lpVJrtv_HeteZiiXLsnz4TcqE6sVuP6ilfqrtBUOZ3fyLTeIjwLKfPxk3VfGy136dYVfMHxvBCPxa75tv6bXCW3imbMJkUFu-kjshj6cIpbnNpi7TBfCj",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJYeuwV0VaozsR9B-32i_0Xeo",
+    "plus_code": {
+      "compound_code": "VRGQ+FW Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRGQ+FW"
+    },
+    "reference": "ChIJYeuwV0VaozsR9B-32i_0Xeo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Sharada Vidyalaya Road, Kodailbail, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.87373,
+        "lng": 74.84786
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8751186302915,
+          "lng": 74.8494104802915
+        },
+        "southwest": {
+          "lat": 12.8724206697085,
+          "lng": 74.84671251970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Akshatha G Kamath | Best Dentist in Mangalore",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105583742869824285877\">Dr. Akshatha G Kamath | Best Dentist in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DM2aYbQLAklVvm_lOYI5q0AzoM8sLLsJT8nhd-S_kftGX7ijKkVw8rKH0Gu_xSDBdlCJlBe9VTNK6dkRkFAlwSgqhG88aFchbByf3_ceBQKCWEyD0vzCPf58Og6uKPgEFT44BtvoPws5xlGgJpxKneUmC68sdr_G-hof3VKYH45CHCx",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJ6-pfdoFbozsRBJMSphtIQV0",
+    "plus_code": {
+      "compound_code": "VRFX+F4 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRFX+F4"
+    },
+    "rating": 5,
+    "reference": "ChIJ6-pfdoFbozsRBJMSphtIQV0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Room no.009, 2nd floor,KMC Hospital, R Ambedkar Circle, Dr.B, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.873165,
+        "lng": 74.851539
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8745224802915,
+          "lng": 74.8528898302915
+        },
+        "southwest": {
+          "lat": 12.8718245197085,
+          "lng": 74.8501918697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. K. Nillan Shetty",
+    "place_id": "ChIJLRfoOjZaozsRGyN3Y9bn-gY",
+    "plus_code": {
+      "compound_code": "VVF2+7J Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVF2+7J"
+    },
+    "rating": 5,
+    "reference": "ChIJLRfoOjZaozsRGyN3Y9bn-gY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "1st Floor, Oberle Towers, opposite Juice Junction, Balmatta, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8731113,
+        "lng": 74.8513711
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8744931802915,
+          "lng": 74.85277593029151
+        },
+        "southwest": {
+          "lat": 12.8717952197085,
+          "lng": 74.85007796970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile M Braces",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106069681774631205693\">Smile M Braces</a>"
+        ],
+        "photo_reference": "AdCG2DON00IujEe_wb1lIhU7wg0-MtqqGGGAHdGKluF-Pxl3g9E9j7vo6b0sZKSi3nlPkbA0dVwzYpldwgj-zIV08i3gj2maMk6_wwk-mGnB4X6aCtdSwj8vUeKdpVcL8CGfYpJpBAHjA-aCI5mrdXRQUXkyz3eclqAjQD6KZBg6oUf-D0Oz",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJU1VVBUhaozsR0WXe2KqEe94",
+    "plus_code": {
+      "compound_code": "VVF2+6G Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVF2+6G"
+    },
+    "rating": 5,
+    "reference": "ChIJU1VVBUhaozsR0WXe2KqEe94",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "1st Floor, Oberle Towers, opp. Juice Junction, Balmatta, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8729076,
+        "lng": 74.85009289999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8742977802915,
+          "lng": 74.8514288302915
+        },
+        "southwest": {
+          "lat": 12.8715998197085,
+          "lng": 74.84873086970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Mallya's 32 Pearls Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 362,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107406324490227295890\">Dr. Mallya&#39;s 32 Pearls Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMCXFOCaRpjswSwcH-RZTMCyS2uHjLHOCmQPn8DaNZszHiWSwym9DdWbl3f4m9w6ZTkmn2CETLt1eRuUAkbykxsqclEHVwTIJNyyXhYI4Eg5r38v2l-d7zUqawh44nT02OU3IQHZ7q0Kpoue-a6cVTWaglP6BasXG88CEX4sJrNHvnD",
+        "width": 642
+      }
+    ],
+    "place_id": "ChIJI3ZLw0laozsRzJrRlg5Cqmc",
+    "plus_code": {
+      "compound_code": "VVF2+52 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVF2+52"
+    },
+    "rating": 5,
+    "reference": "ChIJI3ZLw0laozsRzJrRlg5Cqmc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52,
+    "vicinity": "1-C 1st Floor Kumudavathi Building Balmatta Road Balmatta Mobile: 9945677760, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8728523,
+        "lng": 74.849955
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8742477302915,
+          "lng": 74.85128658029151
+        },
+        "southwest": {
+          "lat": 12.8715497697085,
+          "lng": 74.8485886197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Silva’s Dental Clinic in Mangalore",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DPOg-KVr9B394ngprwXBlWMtcldUNMlBav2d2pVLwqYrXzqui4wVu97M6dkpxZeZ_8jdeqKrisS0Ny3IV3qNomYOrHb-FJ6RYURGp71G-wSaVzUSS2pXhNJnyPw6QyxxDV6whsCMuOIdOU5nm4EYTDo53Agj9OAHzzRHah8fK20nKdZ",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJQ8olMKFQozsRIVpE-ApALGY",
+    "plus_code": {
+      "compound_code": "VRFX+4X Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRFX+4X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJQ8olMKFQozsRIVpE-ApALGY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "1st Floor, Kumudavathi Building, Balmatta Road, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.918542,
+        "lng": 74.8992619
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.9199744802915,
+          "lng": 74.9006809302915
+        },
+        "southwest": {
+          "lat": 12.9172765197085,
+          "lng": 74.89798296970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Geena's Multispeciality Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMEDAPGEofzQRDXhddVJuRtO1KVSbsPlnutGGcZ2Gv1YZeOqxxKVLuR8Xsyp-xC6Rdjh7booZrvcZkkf6sJhw4oA7XasQ6_ZM-PsDY_8cWN-7KJG99RU4vIL7I1fuwG7UAeTSj5Opy7PbeUCPl1It1A_2paoZDZEtw3-U4ksFmd_OY7",
+        "width": 6240
+      }
+    ],
+    "place_id": "ChIJT3sG8_5XozsRV9tFwefZ7zU",
+    "plus_code": {
+      "compound_code": "WV9X+CP Mangaluru, Karnataka, India",
+      "global_code": "7J4PWV9X+CP"
+    },
+    "rating": 5,
+    "reference": "ChIJT3sG8_5XozsRV9tFwefZ7zU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Pilikula Road, Vamanjoor, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.872169,
+        "lng": 74.84841
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8735684802915,
+          "lng": 74.8496990302915
+        },
+        "southwest": {
+          "lat": 12.8708705197085,
+          "lng": 74.8470010697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Gautham Hegde",
+    "place_id": "ChIJg0y5mUlaozsRjnTZUuzv5Po",
+    "plus_code": {
+      "compound_code": "VRCX+V9 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRCX+V9"
+    },
+    "rating": 5,
+    "reference": "ChIJg0y5mUlaozsRjnTZUuzv5Po",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "1st Floor, Tej Towers, Jyothi Circle, Balmatta Road, Balmatta, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8718493,
+        "lng": 74.8482744
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8731388302915,
+          "lng": 74.84955758029149
+        },
+        "southwest": {
+          "lat": 12.8704408697085,
+          "lng": 74.84685961970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Deepika Pai | Best Pediatric dentist in Mangalore",
+    "photos": [
+      {
+        "height": 350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105165492602776505064\">Dr. Deepika Pai | Best Pediatric dentist in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DOXS0YScG0Dl6AJYuARP-xxXakkp9kpD00NU8dZ8PllTuAo-OpaHe52egyk9B8lm5LyDuRZRd6yH0Oiz0mG7VkjF3aZ8XQZs_ujVEuWi6aRa2inU7KbFalExJcL9l6JvfUzZEVx_Vnz1X8XWFLEOiGIHd65n9cx-iODeF8mtgeFytpu",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJ85guichbozsRAf0_H3xXjqQ",
+    "plus_code": {
+      "compound_code": "VRCX+P8 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRCX+P8"
+    },
+    "reference": "ChIJ85guichbozsRAf0_H3xXjqQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Room no.13, 2nd floor KMC Hospital Dr, B R, Ambedkar Circle, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8738202,
+        "lng": 74.8405868
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8751796802915,
+          "lng": 74.8419428302915
+        },
+        "southwest": {
+          "lat": 12.8724817197085,
+          "lng": 74.8392448697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Savil's Denthil Clinic (Pediatric and Multispeciality Dental Clinic)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106631758597172130588\">Savil&#39;s Denthil Clinic (Pediatric and Multispeciality Dental Clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DOcqdQIiW0aqpOGSKrAJzxz_EaElGkD9Xe7HctdOOZP6bFYNsfWAHDiHejvckRbSMN1sHQZRr6doTfIsr4xIkv25IWdvtaAWjNYgXtw79PhLhxynpDa0Xe0o3dLPqOrgU19KzYKNyE5rWd6jAoChuvvgU4QYpWCbkyQF7UNRgZ2EEhy",
+        "width": 8192
+      }
+    ],
+    "place_id": "ChIJ6U6KBu9bozsR5zVrd5PeYgk",
+    "plus_code": {
+      "compound_code": "VRFR+G6 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRFR+G6"
+    },
+    "rating": 5,
+    "reference": "ChIJ6U6KBu9bozsR5zVrd5PeYgk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Prakash BD Building, near Passport Office, opp. Ram Bhavan Complex, KS Rao Road, Kodailbail, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8740215,
+        "lng": 74.8400185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8753295302915,
+          "lng": 74.8414309802915
+        },
+        "southwest": {
+          "lat": 12.8726315697085,
+          "lng": 74.83873301970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Supriya Nambiar | Best Orthodontics & Dentofacial Dentist in Mangalore",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105929244240588517954\">Dr. Supriya Nambiar | Best Orthodontics &amp; Dentofacial Dentist in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DOt35SvEqtGk848RI-YbiRvtsvlJFddp6FY9afYwzIong7ySGINwCOY-RujZTAiI3pRcSScBd8_XRQyMIH4tbXiTN7WA8K7gGjjrukm39uLYgfVGPSo2tc2hmKu86CthHphsaeYSz7esKVJgIKP0LYgH_prfTijWgtmLHwvLD6ykRN-",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJJWG79W9bozsRYc2flbPgtKQ",
+    "plus_code": {
+      "compound_code": "VRFR+J2 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRFR+J2"
+    },
+    "rating": 1,
+    "reference": "ChIJJWG79W9bozsRYc2flbPgtKQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "Room no.0010, 2nd floor,KMC Hospital Dr.B R Ambedkar Circle, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8708889,
+        "lng": 74.8570731
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8721515302915,
+          "lng": 74.85846163029152
+        },
+        "southwest": {
+          "lat": 12.8694535697085,
+          "lng": 74.8557636697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Caring Hands Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJJ2Vm-jNaozsRfUDLo6KLdnI",
+    "plus_code": {
+      "compound_code": "VVC4+9R Mangaluru, Karnataka, India",
+      "global_code": "7J4PVVC4+9R"
+    },
+    "rating": 3,
+    "reference": "ChIJJ2Vm-jNaozsRfUDLo6KLdnI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "1st floor, Presidency Zone 1, Bendoorwell, Bendoor, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8697325,
+        "lng": 74.85810819999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8709990302915,
+          "lng": 74.85948448029151
+        },
+        "southwest": {
+          "lat": 12.8683010697085,
+          "lng": 74.8567865197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Speciality Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 501,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110722786942148253054\">Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOBJHskvYTCNkshxLQjj7svq5QDX9cswXeKohBAscdqtvSNsbRkq2zToRhysvpjjs3yeP9FIHv8skiYefHrsN2fo9h_i1K914y3AfmvJNvkUPXlwgjv7ALGBr7UgFFUVip1Qym4IYPwHtGLGv9t581KlX1FuVwdMyn6GeeE7zG36Nwg",
+        "width": 755
+      }
+    ],
+    "place_id": "ChIJ5zF_vjNaozsRrwddkIUUPOM",
+    "plus_code": {
+      "compound_code": "VV95+V6 Mangaluru, Karnataka, India",
+      "global_code": "7J4PVV95+V6"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ5zF_vjNaozsRrwddkIUUPOM",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 224,
+    "vicinity": "Karavali Circle, Commercial Complex, 3rd Floor, Mangalore Gate, Solapur - Mangalore Highway, Kankanady, Mangaluru"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 12.8705998,
+        "lng": 74.8462808
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8718943802915,
+          "lng": 74.84769808029151
+        },
+        "southwest": {
+          "lat": 12.8691964197085,
+          "lng": 74.8450001197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Esthetic Speciality Dental Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116974489007892596561\">Esthetic Speciality Dental Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNsJeH0sS-N03VpVjfq9gR8C6rO6QlsvERMhUXwUmOX5Y27kSNUIDYnJlzH79tzQCOcRrtNIc_BUnOgHoDyoQTN9BMVVTA1nxhBo0PyxkQTplQCOd7gCO-xOUHyPGpRw0YMTmzKBrLnPKxlWsVR6TI30M47veMUHmdfVMIdFdNu-4Ge",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn1S74EtaozsRtJtChzc6UfM",
+    "plus_code": {
+      "compound_code": "VRCW+6G Mangaluru, Karnataka, India",
+      "global_code": "7J4PVRCW+6G"
+    },
+    "rating": 3,
+    "reference": "ChIJn1S74EtaozsRtJtChzc6UfM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "KMC Mercara Trunk Road, Hampankatta, Mangaluru"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 12.8695789,
+        "lng": 74.8573265
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.8710069802915,
+          "lng": 74.85870193029152
+        },
+        "southwest": {
+          "lat": 12.8683090197085,
+          "lng": 74.8560039697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Benny's Dental Clinic",
+    "permanently_closed": true,
+    "place_id": "ChIJMQ6EkTNaozsRMHt8CocT3Is",
+    "reference": "ChIJMQ6EkTNaozsRMHt8CocT3Is",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "VV94+RWP, Kankanady, Mangaluru"
+  }
+]

@@ -1,352 +1,2808 @@
 [
   {
+    "formatted_address": "1st Floor, Avinash Complex, Airport Rd, Yeyyadi, Mangaluru, Karnataka 575008, India",
+    "formatted_phone_number": "0824 222 4222",
     "name": "Chaithanya Speciality Dental Clinic",
-    "address": "1st Floor, Avinash Complex, Airport Rd, Yeyyadi, Mangaluru, Karnataka 575008, India",
-    "phone": "0824 222 4222",
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104260634307056970269\">Chaithanya Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMvKgT_UnWskMZ11SYE6PDKGZnhiiurt69VXWh_PdrvREJv3SRgTHrFzbLNF3CaB5QjAra1jHPUUmjc4vOYcZt5c1abCOyq9EzrjZcOqu5jpKnKQecVH3_hbJ0imHOSXiv4GziIMQtg-JOF7kqWJwG8dD_KADCxzRVWO2JAqBFdygk-",
+        "width": 4000
+      },
+      {
+        "height": 390,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104260634307056970269\">Chaithanya Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOSZZ8ghBkcyJrSfqiivnU4RgIuKMYHiHKS5HPrKNtLFj3d2rOZhsMdkw_k2OYy54ovtWoDYUf2ax7otutLVAbBaYAk0o8WeZIReF9UG5X1QPxRZjh0mGkRtJ2sQopJmL1h7VazPXUUA7tvRDi5ddb7a-wvY1NloyUVvzrSQhroPp85",
+        "width": 720
+      },
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104260634307056970269\">Chaithanya Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNoOQsR3oehmpELLxFzXGwJx-x-d3573jj5ZYur-Sd_NXUuY9V46p_pgNU97-ySxe-21-W5m6-wdQ8ZUrx1cbTBQ8IZ1bNY9kiX6jc_P8l2tJzxFf1BQqKeJva9D96MYOOmhBuP1d3lCt2IT5rPkO5borq7zWJ-WZ7DcOXRmELlW3AV",
+        "width": 4128
+      },
+      {
+        "height": 1485,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104260634307056970269\">Chaithanya Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPir1hV5HnHvz-rdv9GfngTK-n8DhyTIU2C1SkTVpRTXKKaTHlzbUN_8EUfSSxrM8qw68_meF4B043o44BnsEY0tK2cxKbC7W4UbkpSNFyOELSS-8kCEN9UiYTO07YawJDASj1WwTeTXBoB3K83KScDH9KxrDok9fm7PiloG8m9nEb9",
+        "width": 2100
+      },
+      {
+        "height": 1840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100384266628719287252\">Dr Rohith ND</a>"
+        ],
+        "photo_reference": "AdCG2DOO5ZU954Ev32Z5SY5RPhwW6Ko34GWtoRZsx3zi3p25_zPKQPLSWvpKqSpUguVkmiY0WEmbrwJEr0QzyHSQxSUjp0RQ0wS_6h9HH9De1DkdTf1K7zKYTPpkSkJoQj1OjbEouGuSkkbwmJAEq71MzfGLlA_PQ-D8QrzfjX3CAjPjxZIM",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104260634307056970269\">Chaithanya Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO2ZqkdoqBeGOwKBbnDJQuBTkM4s6XhjchPsg94KggwwYjQh7h3nSUUqrMnEdxMfyp-tehkndo7GmRmAW9V6TKDaVrvUvPg0DAckiwzFFdit-YaJIJ6fKSVK20KFlhjXc9JSCf5HUW49FpvMV6-v0vJCBQZI5IRqNhmHAMb9xMPtiv_",
+        "width": 3264
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100384266628719287252\">Dr Rohith ND</a>"
+        ],
+        "photo_reference": "AdCG2DNgz4rtSDku96W3iJSStHOUCjCe69iuU7hk6YfgDVaVc9qg1sH6PrY6nl4MoLMRtRbGnhDYKcS7uqMi1W2k0nlrSTN-McHMVvVNJYoLGcZMGUTOv9JUsSFGn9nxVJXeZjMlgBT-j8GGBRfGYTBic-aewe3xBJuciZCxDerVIqT69vXI",
+        "width": 2448
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100384266628719287252\">Dr Rohith ND</a>"
+        ],
+        "photo_reference": "AdCG2DP6NUcK4ycad_fuVLIk5TkYVlAojk_656r0Ir5fGRQpyCJZP7rasaICUvwi4jkUBuMt75ag_X4fTA0tgVTzwrpBu3Adhz_DizFsmWYfEdKO-P4rY5XQTNMHHQ2LzNHbUybuLu4ngfdUiyjWw8M2ONSaBRBc5yMFn5AZKubW0rsbtfPx",
+        "width": 3264
+      },
+      {
+        "height": 1479,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100384266628719287252\">Dr Rohith ND</a>"
+        ],
+        "photo_reference": "AdCG2DOZ_f5B0WkcWpjobf93Foh3j2tweBXWGR2mX0nDtxNSZ7CipOlwsUJSbRp1x7R5-H1ChU-oOyvfQFWy9inZr3wwT_TaqQm2i8n-es1F9TFta6rBHtWBdJ3AijmMRcmPAbMO6ekkYb4gwWCM5hS-CgmB-b6750sq-bVxb1qBy4m_yfHG",
+        "width": 4522
+      },
+      {
+        "height": 1496,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100384266628719287252\">Dr Rohith ND</a>"
+        ],
+        "photo_reference": "AdCG2DOzvbIAgq1ej4xaJ03cCojhg61uVs1LvwRRt1Uk0aDzLuOuL2Y2Z6vquv8jjoRIkZxxUsXtrrZFH9zjPz_u5L1I0E6MG8YD8MWImT4Il_ZeQ2jaYBEdbJvJRz_aS-kU5dAAS62tQ2OaA63A7Xh2BT2LJMP9AbaI_7uo40_c2Fn8QdWt",
+        "width": 4550
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
+    "formatted_address": "1st Floor, Tiwari bhavan, above SLV Book House, church hall, Jail Rd, Opp, Bejai, Mangaluru, Karnataka 575004, India",
+    "formatted_phone_number": "094481 64160",
     "name": "Dr. Dhiraj's Dental & Invisible Braces Clinic",
-    "address": "1st Floor, Tiwari bhavan, above SLV Book House, church hall, Jail Rd, Opp, Bejai, Mangaluru, Karnataka 575004, India",
-    "phone": "094481 64160",
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101619537851811127973\">Dr. Dhiraj&#39;s Dental &amp; Invisible Braces Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMf9cOFFVudMPfRgrzJbjzLPMV25MkcGcUQOZlRxSj1Sq5UYZ3Ju7b-nmV7ozxFLuCGo4kPdXbJ1syHc7LaECkLG2Hhidk27OgsL0Y7AEkCDn1xcoE21reSiB0i-RR91w_Kk6Pjuuwnm2X3tc0pqvqpgkEAeki67dp3LJo-ltZjhLoi",
+        "width": 768
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100676087177979517896\">merlin mascarenhas</a>"
+        ],
+        "photo_reference": "AdCG2DNcJ5oN67D55bD1nWrm8KTAReTMaC4_XDEjufa1Yi0w82obRu8vT4uPe6QCutSK-K0ThHeLaWQ2_6LIhfF6iL7pdLT4Fldiiu1REDD1WCOWKt_3tFAMh5pIXVdVnNP1Q8xMLJW5sqUz4lTdRlxI-qF1MUnyggRHGl1CDZw_wH-wS_IO",
+        "width": 3024
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101619537851811127973\">Dr. Dhiraj&#39;s Dental &amp; Invisible Braces Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOnQjPyQpOF8-zqzt7KQQkSWpO51boaNN0-mzibum453TyQgf8A0_ura28xMrmBfucYCNCfRPrMh6fPdZlT9AsOhZ6NGxepKS4Q_7vQhY6vp1GgE3uzk6Dxhqr_w9KpeuLIVTBSuM8vJfVSXzF-OZ-8pMJLMbLhS6VykcFMKUWxFNbY",
+        "width": 1024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100676087177979517896\">merlin mascarenhas</a>"
+        ],
+        "photo_reference": "AdCG2DNK9AV56fKb0Zz1LtMN0qI4gAc-LTwbEXY2tws2efkNfMQm9yDH1lVc8ipurIgixIlkVeIoXiBmbsBz9Mm6EVDLj_RQo6mASlCgwZPghW_V0lOL_avVEyyMLLxflA_XoKoTlDMrUWerouHelVQaecx1MtreJR5duwt7PlYJ7yxxwLez",
+        "width": 3024
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101619537851811127973\">Dr. Dhiraj&#39;s Dental &amp; Invisible Braces Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DP30z52f2lsxMSmKUIz3acyBtwY2ehm4QHDkPEoq6UeV3emDQ_cGgeXZgbCbenFyYBCt1L1g2iBEtQ8-OqEvlH5m1tZ3-DeBZDHJFiPFWp_px33W-o_XKuhZmcIL2FhMlGJWmJ07qLXqCAiJ9mOqpGVVmC024036y3MYApmK5vCPb1b",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101619537851811127973\">Dr. Dhiraj&#39;s Dental &amp; Invisible Braces Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOGOZVsBVGS2noJEOyCUM6kuZPL2H5TrxLcrISxIdtr0VSkVfnbrnCb3ag9TZ4gDX6ri0lBDKXBbcNli1GK0GqdzLJe_hHljYII5Gon9e3UDWmQuWugPpK2S-XnMRpxL5DOwj2MSI8_FQU9GTakPdQo2yAbuBa9UMrYJuHXfuJ4Innk",
+        "width": 1024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100676087177979517896\">merlin mascarenhas</a>"
+        ],
+        "photo_reference": "AdCG2DMg7Z4MUYhV8Oobha4umApIvgaWVRyYzkRNcTJqO6zPzsEMGOw1x6SNv7EL4Pe4c_FN7QGrwIv8fzGC4egvfbX3wj2aJiQmMx-6M1N6TaOn6aOqjXdttcx6VgO7Xeao2cmugFitjVReBCgg4IXlfOrQpNw4JldJOhJXjhAENZrWLzE7",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105994047931199784916\">My Diaries</a>"
+        ],
+        "photo_reference": "AdCG2DO9CCmmGlT3lrA6X2KEgQm-M7Y4Q50dD-dTVYvkDtOQ4HeoSQ_FyPQcUiDE2Otoz318HJf7tNFZgaREN8-iZ3LwI2Iafu8KOZqpj9O8w_22EAdeba-3VUqYIBbZxR7GAc0YQnU7_swAlX_81NLx-Ut2S7JvlqfZqZ95RMhK8FFHT8aJ",
+        "width": 3072
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105994047931199784916\">My Diaries</a>"
+        ],
+        "photo_reference": "AdCG2DNu8_4vSTJ6yyKh-cLiSMW0GjpIDmXlwGMuTAyKPWL9Ed1oPLsFx9bVJubv7eeY9oLW3AF6wkSezp5gDaDR0ZAOVKKy1k-hSAa-6JOVTptWQPWGTgu7k8Xp3Q7RY7lqsIjzTMK0TdKVBy5L1qrsZk9jk0SJT_Y2W6-eArmA63uqLCrN",
+        "width": 4128
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105994047931199784916\">My Diaries</a>"
+        ],
+        "photo_reference": "AdCG2DMgipNnmpNWaKS5jKkWrnSstACI5fjc5S9XYY0QjhD-GBq2A6vzS-gP10ymDLYyGmc0p7vBMZpwIpHNSrK0CNKSqyYm7-ZZAqZukNacYWqJj2pHJABJ619PdPUVc7dmc_K9PntkFYqtEWsB0T87br8LrOuEFC4fF9ui7kQ_N0ABmNmd",
+        "width": 3072
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 87
+    "user_ratings_total": 88
   },
   {
+    "formatted_address": "VVJ6+GQ2, KMC Mercara Trunk Rd, Kadri, Mangaluru, Karnataka 575002, India",
+    "formatted_phone_number": "0824 222 2337",
     "name": "INSMYLE FAMILY DENTIST - Kadri",
-    "address": "VVJ6+GQ2, KMC Mercara Trunk Rd, Kadri, Mangaluru, Karnataka 575002, India",
-    "phone": "0824 222 2337",
+    "photos": [
+      {
+        "height": 2610,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115421540082679796192\">Suhaim K</a>"
+        ],
+        "photo_reference": "AdCG2DO6cgY-aGkg5JfiuaCsHNgv4Jayoi-PRqZz3rI54jf7j1NSfCpONZzzc2A1qZm6o7Mk4wS5KQZoWc9y3zYJH1UG1LKPZ6PFzqtrDwz9cFR9624CXVuPblfBjRZ2p-nm7JpI6MFQ7MzLsTyUM-1S6xM96B0-SBL6q22jOjCLxBLi0ll4",
+        "width": 2610
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100741418919663785496\">NawAf AbDul</a>"
+        ],
+        "photo_reference": "AdCG2DOWHVbRIEvaZ4CvdYiwr-r1tSWpir9dppaU1MZMy4ERUgzG_0rExqvWEYMwsdzjeIt1vNBAHazAxcyZ7Y2rSzwh76rpyyRYZBHMJ_1rD50REimzxwNKaTbzGJ-I9mWPzjx8qs6zBewE0bHP1q_vtPsSyTDT0QW5KWs_e-Kv7fr-tpyM",
+        "width": 3000
+      }
+    ],
     "rating": 3.9,
-    "number_of_reviews": 7
+    "user_ratings_total": 7
   },
   {
+    "formatted_address": "VVJ5+6G7, Shivabagh, Kadri, Mangaluru, Karnataka 575005, India",
+    "formatted_phone_number": "0824 222 1125",
     "name": "The Dental Specialists",
-    "address": "VVJ5+6G7, Shivabagh, Kadri, Mangaluru, Karnataka 575005, India",
-    "phone": "0824 222 1125",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111138518316216739982\">Joyer Jude Lobo</a>"
+        ],
+        "photo_reference": "AdCG2DM4JFR4jNx1UWcAfGmpXy_sqPiLSSro1xMgrnoGL8X2jeIAZyZjbraNzW00IpdyWa2EYSxoqT28FEmW5-nTw_ltjaf-3nPXWaGGPwPhFvKelWUfmAs3N_T29j_9mbpnQidfBdvgpATNAItX56FlNGhdElnsTAmVUYecOpIJirWJdfI",
+        "width": 2340
+      }
+    ],
     "rating": 4,
-    "number_of_reviews": 14
+    "user_ratings_total": 14
   },
   {
+    "formatted_address": "First floor, Medicare Centre Complex, next to Hotel AJ Grand, Boloor, Hampankatta, Mangaluru, Karnataka 575003, India",
+    "formatted_phone_number": "099800 44933",
     "name": "Dr. Siddarth Shetty (Shetty Orthodontics)",
-    "address": "First floor, Medicare Centre Complex, next to Hotel AJ Grand, Boloor, Hampankatta, Mangaluru, Karnataka 575003, India",
-    "phone": "099800 44933",
+    "photos": [
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116098266639549149612\">Dr. Siddarth Shetty (Shetty Orthodontics)</a>"
+        ],
+        "photo_reference": "AdCG2DPy6W3C2ZYMrJlFonmSJBT0g--qowOwXlXf254-HkCiud4ptxrDBiGuwR4-X7f1R9DCuaSKRZL7igtsZamSC6EzPknzG8xu24JOt25WgKFfdyENKDj6rX4XP2MLiBIAqUcwCv5zIDDgwuR4uSNNZTt_F3ruT5_8WtdSNW1Pjz77QYs0",
+        "width": 6720
+      },
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116098266639549149612\">Dr. Siddarth Shetty (Shetty Orthodontics)</a>"
+        ],
+        "photo_reference": "AdCG2DNk7D3qYqpiF27HmP9DPkjqH0QXEtzo1NDJUPadsHbobBWfafrD3HtP9z1Iyy_u8UNe6k3vNRL2AfxMucJXtoUqrGUiwySq0pTQFtr_a-3c_tQQC31tUVeKHXdESLyO_QLuEa3wlx8zD7aEKSRHWoNmN6k76ez34CAczkdQ7GAhLhFF",
+        "width": 6720
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116098266639549149612\">Dr. Siddarth Shetty (Shetty Orthodontics)</a>"
+        ],
+        "photo_reference": "AdCG2DND4tl8sPK0aX-_XXDrOyqUpL8BjF9fKevRMEsjulcfmDQcKhOz9umHB8ae0ae8nCOASmE7PSRIx3qxxEq0Piid22zUc2vINCbZBfe-OqPr4HnNvrg3ilBcnfqDwvD98TPb189Hh8uxsQUB3-juOsPphadbo2m8ih9rtn8LMyXJKFva",
+        "width": 5760
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116098266639549149612\">Dr. Siddarth Shetty (Shetty Orthodontics)</a>"
+        ],
+        "photo_reference": "AdCG2DNj1i_oubFB_GKwomdP7zktOMWVE1NY2Qwm2Zbueso2dG0JPOxF4eIZiexmoPZ9WV4-swO-vIepCR-MQAX57L-rhTI5eBAwFwQwb6Jwf3U8KXTE156Vbz2EyPxmdsB3YWLcgzlmTvROjRNh3IZexI8cmnBI30YKFPcMClFoCmLEDskH",
+        "width": 1280
+      },
+      {
+        "height": 903,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116098266639549149612\">Dr. Siddarth Shetty (Shetty Orthodontics)</a>"
+        ],
+        "photo_reference": "AdCG2DNgd-LBKnnSHecvOZopNgXRvN4fdEpSF9fe8aIo6fS655gEbhq-NJIJcfGLmBYnu77qR7IoZDFJapLcVz7iE9S01xQWPqCFInqk2YL1AI60eMor1SbGu77Sfhhd2Z5nlYbMRO2Sa1keY29C0jMqKF1Tbvvl9RXiO_paXOVfbCggDC4o",
+        "width": 1629
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116098266639549149612\">Dr. Siddarth Shetty (Shetty Orthodontics)</a>"
+        ],
+        "photo_reference": "AdCG2DOlhsfROVUaSbwpJN7U7k6xp1_WB2fA46-3LnsqPnwXL3nitjWvnlbzaIP_iL2d0ScH0RfU2JDDQy0cu6Fz4IqT0KXRJudFOC8bwqpuylw0zpAq0xYOibkZz1xDAKthcP2PocvCa8SsLMipDpB6nrWWHfvEY15gL3dOFaXQnamu_czI",
+        "width": 5760
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116098266639549149612\">Dr. Siddarth Shetty (Shetty Orthodontics)</a>"
+        ],
+        "photo_reference": "AdCG2DMmqEqaQ9gELYEQTVHQRe7531t7atRaDsdMBTuujMIegfK6_qxtjVLP_DBekeI6po17Sb-INFOQaKrYtxQS_BrBhnfs4x9IRxqSSEgHf7PKTbgrpjSnCqGJBdVfIECY1oXkijQcuR4zdReVIhbl_6Gir0DhlBywGIOAPXn_MLRdi8ks",
+        "width": 5760
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116098266639549149612\">Dr. Siddarth Shetty (Shetty Orthodontics)</a>"
+        ],
+        "photo_reference": "AdCG2DNSIK4uf5FLikZZitaBx0m9CMgpfc81sf_0PiN30JDdHG2Dw6e48SPHRTM0CwU-fTHVNdDzeldtB4bZQNCph5OjoimODwikfSaBEdBP4cL6oJz4jzjE0GbDqai84Z7ImDSut7DrqV_i3iJXnI20m-Ob5RX9-xGomCGTX0tVshXtSuNx",
+        "width": 5760
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112625140930244727432\">Siddarth Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DPQMNFTQvMuj6aFs6XQK_YspJY34nstq31KlY-PdlNKOv6uZomSUdGNnf4a3a66hK0h9Fsoak-55z7LE2n7XO9gKoYC7XnxTJWjqD9B4_GKu6344z7NBOn2aDL6YT-fkZwPCSDFT_6V-Wi0cS7jXUhTq_-V7_4USOqirFOvjV5LgeeS",
+        "width": 5760
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 31
+    "user_ratings_total": 32
   },
   {
+    "formatted_address": "1st Floor Alake Centre, Kambla Cross Junction Opp. Ullal, General Hospital, Alake, Kodailbail, Mangaluru, Karnataka 575003, India",
+    "formatted_phone_number": "098456 91849",
     "name": "The Dental Care Clinic",
-    "address": "1st Floor Alake Centre, Kambla Cross Junction Opp. Ullal, General Hospital, Alake, Kodailbail, Mangaluru, Karnataka 575003, India",
-    "phone": "098456 91849",
+    "photos": [
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101140789792725486372\">The Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DM3vAcWEMA9w6stdy3vgs5b5CIyyoxGmSJYWlUCBHrwM52dX98mdJG--zipnmXhcOrUp2ZRtEUyU25MNBH5iol1gKrwCECtLtTV6kDO_IxM1uNccieIxj0spL3ztk2wNxQFoDqWHx69igiHm5vUsBwdaeYtWBmqf_CWQb7XC-7eBk4f",
+        "width": 3024
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101140789792725486372\">The Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN2H2x5MPYrUPiSFGOEce_oPiQt0fJlwYz9UZiqgDkXCi4Rw1f3L2Amfx3GO3GRDtj-p4qQfq-mE4uBxEJH1IyymZWjf0Ruo63Ammc--oKtlHRD6goQE79ETCjHqow3pKSyDLevG0iRAHOiDrHZmfpLZX3fctv7pYEZg2YqoujjxlxU",
+        "width": 3024
+      },
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101140789792725486372\">The Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMALhh3M5-_yZLWcbXMdh46bF9Yyv4bZM5VQc6P2zrcmzCT_t29H7Ni92ZcVeO_ehDJkz37NiZWRrOjABIvAzzZQo9VWMkM9VS6C6YOMxQTBD-dTBxCugJWNtyLD1s_YyC1Jbf9lhihdNBBP7TFguZlUNej5cy5P6pyBmHHlPQ01WVY",
+        "width": 3840
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115854948693490664773\">Naresh .C</a>"
+        ],
+        "photo_reference": "AdCG2DNzAlDoJk8P4fYv_n9IMbQQ8DmobNkeH7SQbc0-Nx8HLsM_F1yv90rIJ7bTILK8RqbQymMsf09kgoHkq8nukx4w-Ih2_6f67wY_Q9gCkRA4AzUKayN6Pxb1imD51lFAatbVTKa4z_dhcSGHB5PPtVe7q-lKj0cNrqvfb2snylXIoYnI",
+        "width": 3000
+      },
+      {
+        "height": 3480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118364987722496658184\">Krishna Acharya</a>"
+        ],
+        "photo_reference": "AdCG2DNdAxw6SW_zboaO5GVMwk2dIttMGGLH3kbFfVkFEVI4g7fShd-MXFGVy9XU4SkR9Qs6F9WQfM2gGh7R6RuOZTCNOP5Disx5Ba8RfUo3MBN5ba94BpkVa-VbnCwPc2Fl7-Jor2WReyKVAzhFyu0F96Fi7w2PFSbAcYWhWetEsPzIR_Kp",
+        "width": 4640
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115135796942871224968\">Dr Syed Imran Ali</a>"
+        ],
+        "photo_reference": "AdCG2DO8-xfLPe9kOUoCJrVTJDRJeBJA6xwLYKgujCDPjGDVv0I1pMSqrxUqT4T1RcXzqOEi4zXpMM6pROQaj0bZdovh8jGF6LQZqxRBIpZ8ZThNwks6A42eYpQ9EV911JD86szzNkTO-WFHPYfoUH48eAzkysVuT9gNbFXoAolodvRc_hWz",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115135796942871224968\">Dr Syed Imran Ali</a>"
+        ],
+        "photo_reference": "AdCG2DN5ykwXtqeNOVGiQHzEk0BXuG711jt1sj769RyiRy6khgJeJFh2nSkTfr88a-97cpYK2aSz9hB_a8rR4iMNUiGe_yMiRCxoU_rHs_LgIYVNh-iHrO3657xIIhgraUB3L3XF5s-F7wBuT7ARO_KAeZN1QYthDLUeF-OhGg3_wgFpYrzj",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115135796942871224968\">Dr Syed Imran Ali</a>"
+        ],
+        "photo_reference": "AdCG2DMkHpev-t41IJdLwRIGhLlV_vGExnjxTbAilJfir0A4q1_Le7t-a1jqqFFbu90mrpIacXkmB3rd1Q6W0GmwUfmPUSLF9whP6KgVB8G1HYrRYJeB8o9B_YXlCwLl_HFeqRvle6r8mVOJgzm0as0PtA7BN8mjp2sa9u-NmnOaP3YWgAN0",
+        "width": 1920
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101140789792725486372\">The Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMz9xVJubBCgMw4YS1NJFJNRyW6mu5DoZKihK8Oi9Wo_VViXAf4sd0Lgl6M5Wbc6HvujffsbKmasQGe-rJ5AMUCSNIMCYYw8lgL3DjhNEclO-twPuVm89hv7NJc188D6GucLRU54xoR-awhbBYUt990a14gMGcpcNA9naeMZPGPu8b4",
+        "width": 960
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101140789792725486372\">The Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO-RDlMtbh2uBdSy5xBnLXgzBbc-3POVHSBZ9atRprvPXLC4puI4yQERXYRVyi6HENgg2dprFQ2Nj_QXgB-eRq2oXvVyCYjZKG5m284vWfWDz7ii6yNtwNYFO8s9t2Dcm_sQ9h65qgAftQ1w8SPXxG8daJRyuNoq-e6AIu6wW_8UkNg",
+        "width": 1280
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 20
+    "user_ratings_total": 20
   },
   {
-    "name": "Saldanha Anjali Therese Dr",
-    "address": "Falnir \"beauliev\", Mullakad, Konchady, Mangaluru, Karnataka 575001, India",
-    "phone": "0824 242 9480",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "Falnir \"beauliev\", Mullakad, Konchady, Mangaluru, Karnataka 575001, India",
+    "formatted_phone_number": "0824 242 9480",
+    "name": "Saldanha Anjali Therese Dr"
   },
   {
-    "name": "Bhat Ganapathy Dr S",
-    "address": "Kudupu, Mullakad, Konchady, Mangaluru, Karnataka 574508, India",
-    "phone": "0824 241 4303",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "Kudupu, Mullakad, Konchady, Mangaluru, Karnataka 574508, India",
+    "formatted_phone_number": "0824 241 4303",
+    "name": "Bhat Ganapathy Dr S"
   },
   {
-    "name": "Multi Speciality Dental Care Centre",
-    "address": "Kavoor, Mangaluru, Karnataka 575015, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "Kavoor, Mangaluru, Karnataka 575015, India",
+    "name": "Multi Speciality Dental Care Centre"
   },
   {
+    "formatted_address": "Kavoor, Mangaluru, Karnataka 575015, India",
+    "formatted_phone_number": "099006 12350",
     "name": "T32 Dental Care Clinic & Implant Centre, [ Dentist ] , Mangalore",
-    "address": "Kavoor, Mangaluru, Karnataka 575015, India",
-    "phone": "099006 12350",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DMHTzJ_BNM64jT1Bbk2DLMaQwjn2s-yqiDZgbExaaRuoN3UW7HylnMQqaGnVUoyLJV63LByvCpGF09U24EpgIE8ZOXioAWgJEK-IsZ8UDuGGJgoeSlC2n4vMPvomYQlRVzCblywD2AnoK6Q3smoi3Zbs57GvIu1XpOH1GJd2r2Rnmrj",
+        "width": 5184
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104753142981321162203\">T32 Dental Care Clinic &amp; Implant Centre, [ Dentist ] , Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DOzGjeaL7UWEUBoGeAACxIVWLoY1VilV2AijKRxf7uBbY0Hq9OhCngfhVp_AY-qCZmMDgiGs045H0Put6iaTofus0HrzhOC5O0eOha_3fvpNakUkcsyfaet0VEC4jf6Dty-wlNmw8fc5KJz-jVc8jH4vp9SAe37jjV2I7VD6cpsqtF2",
+        "width": 4032
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104753142981321162203\">T32 Dental Care Clinic &amp; Implant Centre, [ Dentist ] , Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DPB_uso7zWkKkgOejylfBPoQ_C6Xa1SfVONHCOcFTf6ZT0eqT0bx9_ov_8RSThqrTTGmutYQqX33R_J1PhiuldRlsfm1Qi1N7Owh1Bsd9b1MTvJRsvA5g85YtKQpT5kcvsYPzTy8zXZLFmuaUqQLVZXZX48qf3Gskkx-gts1JKN23u7",
+        "width": 4000
+      },
+      {
+        "height": 2214,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104753142981321162203\">T32 Dental Care Clinic &amp; Implant Centre, [ Dentist ] , Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DODVEc2OTaS7ajIlZTUWREp247-OXudPkJaTnWMp0nGevRZWGz8LEzz37iEewUQQ5JfVd-QM4QaSIln9E7hIiEloOQRHzV7H-k-OyGCE2_mLoGBsn4Sv0yDSUrGkIfH10YM0J3XEFYJf9boA20m-Hwt-1Wa4U-f3tsyaI8xjxAtr3or",
+        "width": 3863
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DMnrKpHicP2Q2i_nOYwod_qFuBQIIWzFuIQf51boNIurGUxZ_3VHqxgFlrmF7q2SDlvDaNdpVB49AyuM3q094bfL9xlZmfrpUZzY0NR0KeFBdlb8P4-NE9Rq_17bg4ZkEbymmjpUaHlDXjFGf4tARJezKsXCQGKNs_UKZjr9gcL04vl",
+        "width": 5184
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104753142981321162203\">T32 Dental Care Clinic &amp; Implant Centre, [ Dentist ] , Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNsgeMNff16yuZNQM4l4ajG_-yhSwqAVKgytPgoRXIvom5m0CT4-YCdChrOSUCLhum47p0QIUkrZQiYBOyJB6QlZxi7pLt55xXS627EBmuP3sba_eA8qn4o_MKwZrZuXgrkT9EFVhqh5Jdb9leQTHNAwf7zcRxXfwJXwmshEvUyTueG",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104753142981321162203\">T32 Dental Care Clinic &amp; Implant Centre, [ Dentist ] , Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DN0JifZmPfVPwpo7I8AphOfYb9iuR3CEnUQ6VKBOXfmPaTBoNjShz8l6a7oBE0yjtCQ_5SSHoD6JJfYdsoKfjiT1-7pdvTSzW-RjFza8NEbKaiNtZ8HFNscQREKAQHbRO9TrquzhbpTGs45_2AEGlB-unVKXKMtJuGHWVgPpUuWfAhO",
+        "width": 3024
+      },
+      {
+        "height": 390,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104753142981321162203\">T32 Dental Care Clinic &amp; Implant Centre, [ Dentist ] , Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DOyFuQ7xn9n-6JkFjvPaWGhjJO68CCenBH1LZGpOUYrj7vge5V5TUG3Z-6vKtddO-iv8ttU5J4zs2R5q6zUxhXyDsjvVdIKuD7WUCaEooeaPYlOzybNw9CTtvBEgPqo2XOFc5WVQU0U4TqY05oS0T3tLP3EYU7rndcq2w0MqgBYP8Il",
+        "width": 390
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104753142981321162203\">T32 Dental Care Clinic &amp; Implant Centre, [ Dentist ] , Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DN508R0qvZtdKGUlUgDjT8CVFRUFuJvgopdo82DH9PcmmhTdLPn98Xeu39ajFwUIOKFRZ4_jDcelAjLg9p07q2coo95ekv36yQKq6Adprj3_kNMA1-UBD5bFuDoy6Poh1Jc9j2Mtqib1RNJTb2--4VjVLbQ3q7b_8Htu0_NGwmZPzs9",
+        "width": 1080
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DPzBOrKPNaLqWHE-L3EqwiYBId6gUQ1IzaMb_DRduuHknbyFsDivyNWJRSp95Y-jF97Ox4y4oCM7A0gfs7jOEGh1zA889U6jqdBhaQMDws7xKSy4giQQcjNh-Ei_4REK5yfklod9DDjCjk0wvANVSF7pPKez0_1o-9v377_7uYkDZ2c",
+        "width": 5184
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 190
+    "user_ratings_total": 195
   },
   {
-    "name": "Dr. Chethan Dental Clinic",
-    "address": "1st floor, Saptagiri, Kavoor, Mangaluru, Karnataka 575015, India",
-    "phone": "N/A",
-    "rating": 4,
-    "number_of_reviews": 7
-  },
-  {
+    "formatted_address": "Airport Road opposite Ramashrama primary school, Yeyyadi, Konchady, Mangaluru, Karnataka 575008, India",
+    "formatted_phone_number": "097420 89944",
     "name": "Happy Teeth Dental Clinic",
-    "address": "Airport Road opposite Ramashrama primary school, Yeyyadi, Konchady, Mangaluru, Karnataka 575008, India",
-    "phone": "097420 89944",
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101382546787159755125\">Ganesh Nelyadi</a>"
+        ],
+        "photo_reference": "AdCG2DNS9toT1cD1RoZdimi90I0XyIj6T2FI_JRY04ru9oOQ7NGRkTxyGP6yP9DunevxSg9F-0ROIu10yTEQsuYIxrGrI6NQu43MdPObL1Oz1eDbIeubDx-EURyy1hQtovCl0jCMjEl-834qceYnmkts-N6fdKZuzNSM9SbqActHHsj61gyl",
+        "width": 4096
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100638963135497784493\">Happy Teeth Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DP6AEiEvE8wZzC0_oKUuwhQ0k5QfjKLOtELS1rRJTdT5Jgg1vwKVfVoHSy57mnoFThc0HHA1uXO_FUE1YqgEcx8jajNNCGttuKpKVoes06UyaGz6hjPmdWsFUrduCIJlRJal617zTJIxKG537TQ6oZ3Hwk89PKmNjyQja7NPJqcZKVu",
+        "width": 1920
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100638963135497784493\">Happy Teeth Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPe8f7YwST1rGqcNHh5RF9kbMRVn_DYR1y13ul-Rm5_nmaKzuDpPCplxfAZqZc4qq1EBJHbI7pJb6fX5s-H31uk6hs3GOKfcnbgjj3mObc2cDtRIG4Q_GaNPCAEc4McNi8ypqyjhz6KkDUL7dsllVE7HA35ffoUj6dY-iOKokWw9Lul",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100638963135497784493\">Happy Teeth Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPXrGbWnYsNMOYyhMamQ9MDpeoqHVJkRmVLQC_mzuY4u0ctpc1ShoB1_U1WDP9WnR0zMtFkFK0ZaMNLRGu3VN87W8MsfmhoNlKNMtsFuXh8J8F0C6U32omOymgLAxErJCuPyAAqf5PoI9oBSV_5M09eAXap_ck1SxO6BfzYCwDipjrN",
+        "width": 1280
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101382546787159755125\">Ganesh Nelyadi</a>"
+        ],
+        "photo_reference": "AdCG2DP1uF8D7KzkOlAlLQYlJOyb0eKHT30H4cDOYn6uXSU99qh82ogVdvMoFvf_bDssECcBBtCGIR86P89RdU6jlQ3qNRZHTA2tM316VYkwegn2UM4U1dGyyd9wCkOUp0lBQo_4DsFoQOoPq4b9hkgchNLTNsCIxqFdM7ulnYF_1CN06eMl",
+        "width": 4096
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100638963135497784493\">Happy Teeth Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN4PRDopP7LdiYqABRlRLLFz3QhWcPwgAddt0CyU85kBODv-tGJ7YtSAtZU4c3bsuZb3IgVC8baeIViGh6imUd5hcZRLu8ZPEZadMhOelHzXAM-qi7uqeNyhJk9peIOEmWGrpmC0NHqlICHbWSKfWznhMQXsNUl8jDLQuywWSKagZFZ",
+        "width": 960
+      },
+      {
+        "height": 2200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100638963135497784493\">Happy Teeth Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOIA0JoPmRFMfaIINn0XDQwCAhAU_vJLc9qZY-hI6IsY-IyTYwTD1C5Wts5E2Om_dNcvAm6c3N9x7H1vJhCaWo6iDfEH_Mu4YTMgGHHVssPr_5uweFK1tuUVThg2ty5uDVIo4FAstuG_anad0CYkv_uKX4MaYJsCe6_tkqlei55QosX",
+        "width": 1700
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100638963135497784493\">Happy Teeth Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DM9ELDm8QYXsPLxRvVb9a6JBSeLdIsYS8O1OXUVJ9bFkrlNBbgH7DeKlFwSfPoPBh9OhdiEjElPwC77Mgxi1c7dc9V0BPJwLaJWe_ufqlcLmj1dvQDkzt7dEqYKCDgws02IxKo94kKsl-8qDndnAWqttLB44J-8mFWov1FpY14RPAap",
+        "width": 960
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100638963135497784493\">Happy Teeth Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOU_zaP0xfYmEzcbJyM7T89-F3zigoC-x8wMlV36VNYIH205ZpN7WR1zTI5zTCTazNSMjC-uJZeCk-FXw2e4n6mU5T7G4k1xSysEeErJchrobeO4ynDVcuFIubnosz8KmCS1A-8BGvOO-ppHgiNGgfsPivHqmAf6ML2Qqlo6XgKnDsA",
+        "width": 4160
+      },
+      {
+        "height": 2897,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100638963135497784493\">Happy Teeth Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOS6dZAUrv9wn7gKkrbw2rDtwl3MEFyUvpB1hDf5_e7MvsvY4ojR54Zva1qS4bmct9-8h2i__BrtLDTWEol6p_S4-dO6KFuUhPPNv4a1zf7WCZgayFWx0IMh3xTjf_sS74D79C0oVFW-JoGPr5OXz-YzPOrJyEfO_QqcZM8DNUS7Xrz",
+        "width": 3777
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 23
+    "user_ratings_total": 23
   },
   {
+    "formatted_address": "veda towers, Airport Rd, WVG5+J68, junction, Marakada, Kavoor, Mangaluru, Karnataka 575015, India",
+    "name": "Dr. Chethan Dental Clinic",
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103352765372687272445\">ONLY CPM</a>"
+        ],
+        "photo_reference": "AdCG2DOR9WK0K5DJPVXpKWQDfoUtS_mVLKgus5_t7kyrPByBKnAeInvnt01Aj-h_jEm9Ayw_ZwpmhySPWQ83qhz8Wu8XkoYW_HN663L76YnMgd3m3jlSNfN9t7WQFwFQma5J7u1boBCCQCiXvqv0l88vzuorh6xw6Dcqgg0J9sSl1GOI_BD0",
+        "width": 1600
+      }
+    ],
+    "rating": 4,
+    "user_ratings_total": 7
+  },
+  {
+    "formatted_address": "Jeevan complex, Padavinangady junction, Cons store building, Jeevan Complex, Airport Rd, Padavinangady, SBI Colony, Mangaluru, Karnataka 575008, India",
     "name": "The Dental Studio. A Multi Speciality Dental Clinic",
-    "address": "Jeevan complex, Padavinangady junction, Cons store building, Jeevan Complex, Airport Rd, Padavinangady, SBI Colony, Mangaluru, Karnataka 575008, India",
-    "phone": "N/A",
-    "rating": 4.3,
-    "number_of_reviews": 30
-  },
-  {
-    "name": "COMFORT DENTAL CARE",
-    "address": "Airport Rd, opposite hotel trishna, Padavinangady, Mangaluru, Karnataka 575008, India",
-    "phone": "N/A",
-    "rating": 5,
-    "number_of_reviews": 2
-  },
-  {
-    "name": "Dentistry",
-    "address": "WVF7+HXR, Airport Rd, opposite petrol pump, Marakada, Kavoor, Mangaluru, Karnataka 575015, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
-  },
-  {
-    "name": "Dr. Rao's Orthodontic Speciality & Dental Care",
-    "address": "#G-5, Pam Arcade, First Floor, Kottara, Mangaluru, Karnataka 575006, India",
-    "phone": "0824 411 1124",
-    "rating": 5,
-    "number_of_reviews": 58
-  },
-  {
-    "name": "Smile Dental Clinic",
-    "address": "Kottara cross junction, near, Bejai Kavoor Rd, behind bus stop, Bejai, Mangaluru, Karnataka 575004, India",
-    "phone": "094493 89571",
-    "rating": 4.7,
-    "number_of_reviews": 23
-  },
-  {
-    "name": "Satyashri dental clinic",
-    "address": "Sequeira Jewel Appartment, opp. Infosys Ltd. 575006 building, Kottara, Mangaluru, Karnataka 575013, India",
-    "phone": "098869 70917",
-    "rating": 5,
-    "number_of_reviews": 5
-  },
-  {
-    "name": "The Dental Lounge",
-    "address": "The Dental Lounge, Ground floor, store, Titian eye plus building, bus stop, near urwa, Urwa, Mangaluru, Karnataka 575006, India",
-    "phone": "096114 32982",
-    "rating": 4.8,
-    "number_of_reviews": 73
-  },
-  {
-    "name": "Tiny Teeth- Children, Teens & Special Needs Dentistry",
-    "address": "Shop no 8, Ventura Apartments, Museum Rd, Mallikatte, Bejai, Mangaluru, Karnataka 575004, India",
-    "phone": "098193 62853",
-    "rating": 4.9,
-    "number_of_reviews": 143
-  },
-  {
-    "name": "Dr. Chaitanya Shanbhag's Dental Care Centre",
-    "address": "Kulur Ferry Rd, Chilimbi, Ladyhill, Mangaluru, Karnataka 575006, India",
-    "phone": "0824 245 0296",
-    "rating": 3.7,
-    "number_of_reviews": 11
-  },
-  {
-    "name": "Dental Aarogya",
-    "address": "Ganesh nagar, Kodikal Rd, Kottara, Mangaluru, Karnataka 575006, India",
-    "phone": "098863 49726",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
-  },
-  {
-    "name": "Dental Speciality Clinic (Dr Rajesh K S Mds)",
-    "address": "1st, Grace Towers, Bejai - Kapikad Rd, Bejai, Mangaluru, Karnataka 575004, India",
-    "phone": "0824 221 2093",
-    "rating": 4.6,
-    "number_of_reviews": 16
-  },
-  {
-    "name": "Dr Kamya Fernandes Vas",
-    "address": "SmileVille Orthodontic and Multi-speciality Dental Clinic Shop no G3, Aryan building, market Complex, opp. Bejai, Bejai, Mangaluru, Karnataka 575004, India",
-    "phone": "N/A",
-    "rating": 5,
-    "number_of_reviews": 6
-  },
-  {
-    "name": "SmileVille Orthodontic and Multi-Speciality Dental Clinic",
-    "address": "G3, Aryan Building, Bejai, Mangaluru, Karnataka 575004, India",
-    "phone": "0824 428 2509",
-    "rating": 4.9,
-    "number_of_reviews": 76
-  },
-  {
-    "name": "Mangaluru Dental Care Clinic",
-    "address": "First Floor, Krishna towers, Kulur Ferry Rd, near Shirdi Sai Baba Mandir Road, Ladyhill, Mangaluru, Karnataka 575006, India",
-    "phone": "N/A",
-    "rating": 5,
-    "number_of_reviews": 1
-  },
-  {
-    "name": "Vk Dental Speciality And Periodontal Clinic",
-    "address": "Marian Paradise Avenue 1st Floor No 105 Bikarnakatte, Nanthoor Jct, Kadri Hills, Kadri, Mangaluru, Karnataka 575005, India",
-    "phone": "N/A",
-    "rating": 5,
-    "number_of_reviews": 8
-  },
-  {
-    "name": "Eira Dental ™ Exclusive Invisalign® Centre",
-    "address": "Third Floor, Inland Business Park, 308, Bejai Main Rd, Mallikatte, Kadri, Mangaluru, Karnataka 575004, India",
-    "phone": "089714 05648",
-    "rating": 5,
-    "number_of_reviews": 4
-  },
-  {
-    "name": "Chandramathi Dr K",
-    "address": "Kadri Temple Road Mangalore, Kadri Temple Road, Kadri, Mangaluru, Karnataka 575002, India",
-    "phone": "0824 241 6501",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
-  },
-  {
-    "name": "Smile Care Orthodontics & Specialty Dental Clinic",
-    "address": "2nd Floor, Shree Krishna Prasad Building, Complex, MG Rd, Lalbagh, Mangaluru, Karnataka 575003, India",
-    "phone": "098425 21386",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
-  },
-  {
-    "name": "Dr Ravi MS ORTHODONTIC and Dental clinic",
-    "address": "Lalbagh, Mangaluru, Karnataka 575003, India",
-    "phone": "098452 21386",
-    "rating": 4.6,
-    "number_of_reviews": 9
-  },
-  {
-    "name": "Dr. Edwin Dias. A",
-    "address": "circke, near lady hill, Ladyhill, Mangaluru, Karnataka 575006, India",
-    "phone": "098451 41115",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
-  },
-  {
-    "name": "DIVINE SMILES DENTAL - Best Dental Clinics in Mangalore",
-    "address": "12 M C C COMPLEX,OPP,SAIBEEN COMPLEX, MG Rd, Lalbagh, Mangaluru, Karnataka 575003, India",
-    "phone": "0824 245 4672",
-    "rating": 4.7,
-    "number_of_reviews": 16
-  },
-  {
-    "name": "Kiran Dental Clinic (Dr. Karan Giriyan)",
-    "address": "1-19-1471, Urwa Marigudi Rd, Urwa Market, Urwa, Mangaluru, Karnataka 575006, India",
-    "phone": "083174 82851",
-    "rating": 5,
-    "number_of_reviews": 10
-  },
-  {
-    "name": "Dr Ayisha Moureen",
-    "address": "Shivabagh, Mallikatte, Kadri, Mangaluru, Karnataka 575002, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
-  },
-  {
-    "name": "Dr Sanjay Nayak's Dental Speciality Clinic",
-    "address": "Ashok Nagar Rd, opp. Marigudi Temple, Urwa Market, Ladyhill, Mangaluru, Karnataka 575003, India",
-    "phone": "098450 85835",
-    "rating": 5,
-    "number_of_reviews": 108
-  },
-  {
-    "name": "Dental Studio",
-    "address": "Opp Kalpane Bus Stop, Kulshekar Main Road Kulshekar, Bikarnakatte Kaikamba, Mangaluru, Karnataka 575005, India",
-    "phone": "097317 57274",
-    "rating": 5,
-    "number_of_reviews": 202
-  },
-  {
-    "name": "Maple Dental Clinic & Implant Center, Mangalore",
-    "address": "Emelia\" Ground floor, opp, St Agnes College Rd, Mallikatte, Bendoor, Mangaluru, Karnataka 575002, India",
-    "phone": "096066 62282",
-    "rating": 4.7,
-    "number_of_reviews": 28
-  },
-  {
-    "name": "One Dentistry - Braces & Invisible Aligners (Dr. Shourya Hegde)",
-    "address": "Dr Shourya Hegde, 3 Floor, Lotus Paradise Plaza, next to St. Theresa's School, Bendoor, Mangaluru, Karnataka 575002, India",
-    "phone": "099888 14444",
-    "rating": 5,
-    "number_of_reviews": 52
-  },
-  {
-    "name": "Elite Dentistry",
-    "address": "2nd floor , 212 , Balmatta, milestone 25, collectors gate, Collectors gate, junction, Mallikatte, Kadri, Mangaluru, Karnataka 575002, India",
-    "phone": "099026 08077",
-    "rating": 5,
-    "number_of_reviews": 282
-  },
-  {
-    "name": "Cardiac Care and Dental Care",
-    "address": "Collectors Gate, Milestone 25, Mallikatte, Kadri, Mangaluru, Karnataka 575002, India",
-    "phone": "094487 23151",
-    "rating": 5,
-    "number_of_reviews": 33
-  },
-  {
-    "name": "Excellence Dental clinic",
-    "address": "3rd Floor, The Trade Center, near Hotel Woodlands, Hampankatta, Mangaluru, Karnataka 575003, India",
-    "phone": "090080 08040",
+    "photos": [
+      {
+        "height": 870,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107781941602367475110\">The Dental Studio. A Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPuTQieHRvEx5RrFzb7anocQN4xB4Jgwfh0xLl3dDuoQ5bTel8BglyWYOeKJ4IQQNYLYfqwl3dwpz1rWwpkQATWEJHuh6yRy6cHokpJCkIdQd6G1KxC0EZfA9sqtOGplF0utNThKN0JTTtScZZO8NJAoS3QOU2T_gRIfG_nxJnb36Fk",
+        "width": 1160
+      },
+      {
+        "height": 870,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107781941602367475110\">The Dental Studio. A Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMcmg-3qL00bK1I-vFHD1FNEfRyZ2gEtcmL02fT0NAtR5AEeLk90QbWyY9ujq1zkZl9ODKCVm6rcQrJRoHE_vPckunyN91xDhnKwWGwTAv2xbt9t3pGhlmvL2LzQQNjSkmJK6g4XsvNs7JHzo2xEeHp7g6hGA51FQMSnfMnSt22aqVC",
+        "width": 1160
+      },
+      {
+        "height": 870,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107781941602367475110\">The Dental Studio. A Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMl5C-dQ38tbsbhv6pvfJz3m2IjaqCantsfM3n8MCOfl2hnGqkPzihiR8DhTgPXJQ0Ya-jyn8t_Me5ua0W8OI4ccVxdLUr2mbk-iNg4e2C_RCex-WbwdSElYpF5NFUE2CCm1tJYPArh0it5SeqKUFacCXcH72nwBDFfO18NIXPn8NrA",
+        "width": 1160
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101845854069245205922\">Bharath D Kotian</a>"
+        ],
+        "photo_reference": "AdCG2DM6Lb-Uk6r6fwGT8rgB5agiyHP1kfEHSQDR3SkYolchUCyQpMuR1GAOuDPsF3hvcpjJXMKDa_X9dcKO0RO2-gj9clDMDIep9SzmUbQaK1qhyfFRXLzretBdzwXkJQnHv3TKvaafqef9oMKYr5_TmotJBYaabQ8JzaPsv8PQ-K8BHlk",
+        "width": 3024
+      },
+      {
+        "height": 1160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107781941602367475110\">The Dental Studio. A Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN0PceQGsWWqx2f8hXGaUdtZc5gnUikRgRHzIWEwPqrUzPXq43GvnQxl_QhP6Dql_YKMXWB46IpcDFu848oAMnLyTg2DXemaPxqxBwQrBRUXByR-VBysi6GIbhkQjQ-l8OnMfbB39MspmoBh3Pk927cQct5sZxAWmhxrd-XbDRPTfAI",
+        "width": 870
+      },
+      {
+        "height": 612,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108004763474676684062\">Sanath Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DOluSU8S2N2NOPrvWBl23vNuobNZRpXQdHMOm0KJPfHIGnpS0s8StodMj8KhymkbjusMaRRCE0hpAdciRjEX9NWnA2aMZ1WJ-197kdTca9C4OY8oKFIvlUbZ9iQbWB9AS0NPsfYSPxh9esAfD9YATLFH0X-zJ-mGSJXuEY7m3_ExrjZ",
+        "width": 700
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108004763474676684062\">Sanath Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DP79vrLmbjKeJxRSM64ixdbzYrWbfoXc0IpxnxMdmNw7d_vptjjxnzN__qK-0cuyhmHjukJs6fBZos78zPXjCy_4YhOiiGRXkz7q1jMAowWfrMNIT357dD09iEX40FsIbrKXPbc6UI5YQwJsBvY63UfDIrTbGLUmw2OM9lYTJ5FY-jy",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108004763474676684062\">Sanath Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DPBWYHYNdThoulQQd-lQBLQsMyWBv3P5uJ96AyDg0njxWQi3ohPOOXlX6s3TWOMRBLde5Hgoh0-G08KgcZ4xIkt7SpFbYsVUszBEq1OWxOWbQqMJIW7b7yyaGRO0ec6e6N23fiD-QvB5392QeQDatqKAZs-YRoXHHN_XuqXkVCSVlsY",
+        "width": 851
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107781941602367475110\">The Dental Studio. A Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMjS7UXfKwoXn71g1Y2QUaiHON_SA3ldjfpxjJgHqiFdCQrxTSpNazsvRy8plsLVmgxyxAV6jM6AzV7d_-GkBne5StfnWbmG5LJNdDSVaSz3R6gHM8dgHLUFAeB4Jnw1P93ZFDgdJdUgISnkYCnBfOPGt1A7gZAzyILQcLwxGxTIP2H",
+        "width": 1280
+      },
+      {
+        "height": 404,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107781941602367475110\">The Dental Studio. A Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DONX5LlmYh060s-qq5m96g5KyYdkWIL-fLGah5itcE84gqoJD0kjRZsMYEawI_-yK9z7lzggYMDuvmBzsD878lxiDHVITDzuis7xPW9ipuXUrctCtfPxjV7gjDCgqX1ZivrxheyG13Z5dTUSLIdil7pOmtCQOBWh81Tx_XNYrZUbpt_",
+        "width": 720
+      }
+    ],
     "rating": 4.4,
-    "number_of_reviews": 24
+    "user_ratings_total": 31
   },
   {
+    "formatted_address": "Airport Rd, opposite hotel trishna, Padavinangady, Mangaluru, Karnataka 575008, India",
+    "name": "COMFORT DENTAL CARE",
+    "photos": [
+      {
+        "height": 1092,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105074575183690909607\">COMFORT DENTAL CARE</a>"
+        ],
+        "photo_reference": "AdCG2DPwrGbNWkqJuZEsh2iSPdzVgE9Nw72BXQGDsyB9-5UdLEOjIVIrYnQdb0uTwdPxyEqkjmKZEQ9r5gx0CCxnRV9mAsKisQI9wvMMSuGubrVi-qLvDWopqbuq9bpl3i1xv0My4ayjp_8n4Os_5WS56hpDri9ehjp5wIsno4u1Et26ai74",
+        "width": 1080
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105074575183690909607\">COMFORT DENTAL CARE</a>"
+        ],
+        "photo_reference": "AdCG2DN8p02cnm2vRx6V5_hamAb0KSyfNaaVA6RdzwGYNCwJIonB-axSo-98bm4Nl6kD1omMwbcNaxSp5_SbmZrvAtgw1Lkvj6aitTkZErD-YJKxEWQPRHKKDsVzvu0gOfcqBFhjjZvJKA9HF_StZmgtERWRFEN0egKQB00vnwU9WxPwCh09",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105074575183690909607\">COMFORT DENTAL CARE</a>"
+        ],
+        "photo_reference": "AdCG2DP8eN_tW6CsZydJKH6HRyf52lJSkQZh-afu3BZrjDeB8QmTJzGCVvJbRMWsrW8ZKHkoYHNdmnqrJLeaDb6jVxicMU3Joq30U0dy3w_IW19ukvbEGZ3Y7DUVpKv4H3vNJIrpgWO4G1Ay5HPSFXRxENPjCvzmSO8MLwyIa-xvvGsnskHU",
+        "width": 4000
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "formatted_address": "WVF7+HXR, Airport Rd, opposite petrol pump, Marakada, Kavoor, Mangaluru, Karnataka 575015, India",
+    "name": "Dentistry"
+  },
+  {
+    "formatted_address": "#G-5, Pam Arcade, First Floor, Kottara, Mangaluru, Karnataka 575006, India",
+    "formatted_phone_number": "0824 411 1124",
+    "name": "Dr. Rao's Orthodontic Speciality & Dental Care",
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108521150992624195824\">Dr. Rao&#39;s Orthodontic Speciality &amp; Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DPuRF2tQu1YXK7Krp5iaYjYHd5PbxIlbGcMrCtzVPTOK_oigEAn4zU_aqfClguCxyH4NLqNZDhN93jnOqUWzLjsSAMtLi8U5zDTgwJQGSNiRCBWcCVoEr2Pcot005P-KrY8sssTOnwiYK4i_qkpINVc0i7mDtZVLp2Jyabm8y1LCziQ",
+        "width": 602
+      },
+      {
+        "height": 602,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108521150992624195824\">Dr. Rao&#39;s Orthodontic Speciality &amp; Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOGsg-rz3L7rL8NbuEdCRLtKKBSMpg6FY3lH8lwoNkGD01vmKH7xdPYcDx7CHW4bU3iZtdSl_VwT2P3pYJMi0KdZH-43lJ26ewGzfwz1iLTsH6KgsItu_ABxXfRuQdcqGzNJVMY1IC8mf6OuFj0vpD-L-DMw39RSIui2yQmJg3TYkKW",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108521150992624195824\">Dr. Rao&#39;s Orthodontic Speciality &amp; Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DPCP2BV1UXbu0Stgei_O8J17YyLydX94mzzSCiYAG1r0NJVc3a583doAGVfOI1Yw8SfCG8fp3VFQHMUjmCviMPh8hd-SFgb5DbtNjX7lvJFNz5CKEpUOhmIwak5b4W8mo0wSuvQmqYrdhoM6EUfDEWYN72tTfz_WmeNDABG6hVWF-Pi",
+        "width": 602
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108521150992624195824\">Dr. Rao&#39;s Orthodontic Speciality &amp; Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DNavqe82h0WTLxuwKdhjQ1Od142gKuZBguRQTsJ1papIRchwl1mZAD6kP3wYaqlcMJ986Lv4gfu9VQwyIvZbwy5M631bcx8K6w99vYG_uWOmQAAXZfudc2gpDdmzStAjQdl2lUFGDDfH95iHeKgUTWTSCODlKVxJfLEMgNp5P8caS4j",
+        "width": 6000
+      },
+      {
+        "height": 602,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108521150992624195824\">Dr. Rao&#39;s Orthodontic Speciality &amp; Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOvAIIH7zdOF5ql3OyiSRR0JY8Y-8tCuO-u6eEd7PKNgTIgUijflZSfz5NpB6zfeVoSrLc_O8c21hKGFs0ev7mnOJpLgcwleVEpBhe9oEy6yVE5rY3zsnNd06Pea837ipscf3iHPJjq9iMUogglvML8RvwFmy9Q8FPjsctBxqiP2IEe",
+        "width": 1280
+      },
+      {
+        "height": 602,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108521150992624195824\">Dr. Rao&#39;s Orthodontic Speciality &amp; Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DNvAaOW8wsOuM7llVQEhHJywnGUSeWkQc0aMqGA1Eyb5JcXE9e74VISfjKhpQcHLwqAEUL1bVXbAvexrGySWyaKFa-jFkj4cGRbO-mZhiGyLFO4pvF8FzZn3P1s6lQv0WLkCbpO3MAr8yf4x6y2FrWq3nUWCJa2q-niFK21HgrMdmKm",
+        "width": 1280
+      },
+      {
+        "height": 602,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108521150992624195824\">Dr. Rao&#39;s Orthodontic Speciality &amp; Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOHvuTsnW2BFnh_HEc6fKe-OaxI_Dm8w6VXD-ZlOFBBaAOlRrRLZ_rmXH0bMkS6VJNlzBrpkKBzhkcxRJrLxOGx20L7el3V_hMuamU638WMVlisb7MtuII9genpGYhEqvcsqkqeA31kuaMOs1xmIzSgW2fJX-JFlzo7SI6AAZVv1ogp",
+        "width": 1280
+      },
+      {
+        "height": 602,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108521150992624195824\">Dr. Rao&#39;s Orthodontic Speciality &amp; Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOZPadCeeBpIRb38FvQ2Uc6TiQ674F_zb2D5Tf7gHLN3Rth1ymJofPDqH4uyxDdhTzdo8fEfzTxuh7mevlTBcvOtxCleK27EIZw2XoJwYACzp-gSdJfjWEhuXxnjN-JpgmjoJ9CRBsGK1GucDf7tXJ2oa7ktA1VENHegGBp6jLTU8xh",
+        "width": 1280
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 63
+  },
+  {
+    "formatted_address": "Kottara cross junction, near, Bejai Kavoor Rd, behind bus stop, Bejai, Mangaluru, Karnataka 575004, India",
+    "formatted_phone_number": "094493 89571",
+    "name": "Smile Dental Clinic",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105452826767645212402\">Smile Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMW5CegOwDmtZR3liWbTB_AFJSH-76a1RHZ-R8koYs2LrhXPN4XF5oANBw-BOk0VRfbRv7UXII3lsGGqc1-Sjxuusj6T16gIAosIzPLaqtb68gizwapgW6vJa2vTy8GqmyLOMJIx96teve-u7MbRxsj4ym1ulx4K_lqQbcEbyJlwgKO",
+        "width": 6000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105452826767645212402\">Smile Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPDKzRZ3B66c8BvzeRfvpUfe5PC5KKa1KHm8GnEOv_EFCqyyJ5X9R-m2h3kCes-ZegzfHcAJbmKWtUqFewNKlACVX8pnm3zItNVe0aYS3FXqKASTVrXGj3Q2jGVbXwn_lwCN7gYnsErANF9N-DWPwmE5OxkQHSpwL4zZ99JLj1zfXVn",
+        "width": 6000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105452826767645212402\">Smile Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPKGiossbj1XfOgU3cgstE7CCComGftvdJOzZ6jHKcIyAPX1mSGDZoYJa7vIbdMPZyhfFDOizycGwQh0XSZR3gT6lIH5387ySbSAwog6XtjOyh8yHrza3TmyzdIJtjQMHZbhug6666DrA0pa-p8QYeZVTLZ6TVTmKzkKT6XBF8fb5ek",
+        "width": 6000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105452826767645212402\">Smile Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNwArP10zibuQTJSQlggZDVZBgfTPERdptEehCEyTHpI1CyxO63i1ijmAPBFtEZgmOLe0YBMUv0pm5W_zJpTEt_XxzvPmavOIAcy3_Il7cIQbE8eZ47pRVtdRdEGxg9Hk3zS6tA4oEtXJVOIdzHQlxuO3052kKOEVdxNPcmCtdodmfe",
+        "width": 6000
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102471631768363490849\">Vijay</a>"
+        ],
+        "photo_reference": "AdCG2DOhHCQcOAUcA3k5fx78nF_1XkqnXqhvuw1UHv-ElJhQPxp2yzVgTJuLEcNyFA42cLnFZcTyH-x1FPo4MGnFoi2_7AVXHR5eNNHqm9tksjtRY0S58CW6Ib4Hss0G_pszwiqrn67rKsT7px2O24Lfir0c-aOv85cwMc0s8BrrKFWsELMD",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105452826767645212402\">Smile Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPpc7WdV3p25wy406yL_IRWVzAMzS-PNn48DV2-40KOMSXPZnmjd9kxctbjWZUrPi2smoaYScTeT1Q92QPe72Gro62IpYn49JtCix7NoZaC7EHRkB7QRs426C4AQMMhR_LhX0mYOiXG8NyMyXxmycAAWJ68uzIDPXT46YiFYavOUlfO",
+        "width": 6000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117988609840790566746\">Girish Y R</a>"
+        ],
+        "photo_reference": "AdCG2DN_vi5sWcXQoAkHMM0HqpdFOPKktSDR41yVvZzZSfmU0oorDE3tSvSnNqizR8tAqxV3gTMS1K8aCNp-ehu2_ZzZdM-doNrgTpMn6iHY8YdFPlldMcK2-RItTgNIGnn89vB84UAPbfpUdkoFMO6cmeyCvdjZaH6JMMV01qnpj_uBmeeb",
+        "width": 3000
+      },
+      {
+        "height": 583,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117988609840790566746\">Girish Y R</a>"
+        ],
+        "photo_reference": "AdCG2DNfP3FdpiswjttXAMD9ojRYsykhJJiTyAhIVbu_2P8ZRqzk4HC-XZk122BOnAN7fzG7eh35GjFDtPl3LO02kw5KLlguh48Ek1reiq88E3GmEhDfkQie351WugJ3JKZBeup68wV8iO1DWqKZBH_hvuMWWhVUrh74exRRVBVmrHjltM52",
+        "width": 1280
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117988609840790566746\">Girish Y R</a>"
+        ],
+        "photo_reference": "AdCG2DNouUC2IJ-ROqaaBzUp5xifDhLhtv2AWHwMbAShrDzgbSGZjGP8F_qHdQdzeQGVrHRJ_8d2U2b69dkGcRRD0YypMHlOpAl7Q3pnLLtty8V-fIwuxqiK7FpbEEy-1xMT38ef4QbCVjuIzwlJRUQbpQERemIeIDUb1cvvXBhJ9wnsUqem",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117988609840790566746\">Girish Y R</a>"
+        ],
+        "photo_reference": "AdCG2DO7PogCyXW8fjyDSDSPqM3ZwoDfzipP0UHjpddFUwa6sAXdrXnLsLL-ZYwho2gcaGAl0c1Yfi8nZHl697O7Qi8cSyrdQ28-7VkKZHYMsIoL4ihVGS7tY3fLb2IGJ82FvPu7MOxVf9aRlcTAMuxhUI-SYhWCorWt08Wl-QhKRSO6XABm",
+        "width": 583
+      }
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 23
+  },
+  {
+    "formatted_address": "Sequeira Jewel Appartment, opp. Infosys Ltd. 575006 building, Kottara, Mangaluru, Karnataka 575013, India",
+    "formatted_phone_number": "098869 70917",
+    "name": "Satyashri dental clinic",
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115372089361288072756\">Satyashri dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DND3apLUbbRuiy-wK3CMvBq2Vw-USmXtuw67JoYTwOTB6w0P8L2PkhO2AC1sFE0KO-24VpP-2EDFjoLOmRfwTjSc7Y6cE8lHXZP0zYztvD7lVsPr34HIA0fu6U_l5O9EQrJaDP4vaDnrKeyLwyQ_PkP-dx6BDUG7nmI0DJLReW2Rg7A",
+        "width": 3072
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110338404504113992609\">Dipti Prabhu</a>"
+        ],
+        "photo_reference": "AdCG2DM0zvmrzVz1xCfosxjHWIaFNubpcsWEOSrkA7TDiFDfb0zG-1miHMA-XCkP2aRZbB868LL8hdYdd9NIPE-pC6aRHRglwSZeKcvgMd1S4hErNIepUzOfJZ4TRLbFY4EHMHEMaxrTfFYJtS_8QabGzucOnoLwBwDwdn8X7uwT9P73RWDu",
+        "width": 1920
+      },
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110338404504113992609\">Dipti Prabhu</a>"
+        ],
+        "photo_reference": "AdCG2DP0_yQjXnrPzEOhEX3D3VL3Uec1HL7FgD4IRj-Xbv6PciYl03T-dUB71OPAbzvU1VbxMlmLd3QeWgF5XMpXHRnjahDbuRChEXCB2J63y2N5rF8cehK_9tMFvOXwfLqSjRbg3DPOSoxzcxz5M2XvqJ7ODcin1emktACktomja7cRTpxS",
+        "width": 3072
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110338404504113992609\">Dipti Prabhu</a>"
+        ],
+        "photo_reference": "AdCG2DP4i4OgY787hAJ-c7CbgwRGMOsCgNkK1nIiJ0BYfMaKarAs2BOkOLcuRRApxa6hADznUqczHwbO_jxcquI8HfiVkxjxs9tz_CFtF7qupGrCoPKXzS__sQx0UJ3ocF4IrpMQM9ZvenUw3T2vXO42AKI94iJQnbPDsN_VrBI8fWmQ7U2T",
+        "width": 1920
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110338404504113992609\">Dipti Prabhu</a>"
+        ],
+        "photo_reference": "AdCG2DONhbkaXBquTrMALYksRlwHGPWNwr3n6dX3vFo0ozSLqrWIuzyPERludSsEB_WBDCySMf5NiiJKw55Iq4ZeHJ_L8JRjBBbNuY3aUKDC3Y6VVayIUb4I_A1rvPaP1VFhH1c8Ryj2vg99qd4y_7PMVxziaTAxzGhyBoz-LBBdNsbb2TJb",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110338404504113992609\">Dipti Prabhu</a>"
+        ],
+        "photo_reference": "AdCG2DPTidB5C-oKHRL7YEH8_9UvyaC6mUXLBKrzhyVuq_1VpTQ9Y1XCI0cG5wNr8NdsBl6m2quHU753c3Ke2hnsAW1uypxj_5F8HcwB1di4IhV8hZwe-J1aMphghWdJz6TQgEXcUedVxRW-utCxSp0QH2vpDQpc2zgfPo0tkPwhZ69qRFb4",
+        "width": 3072
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110338404504113992609\">Dipti Prabhu</a>"
+        ],
+        "photo_reference": "AdCG2DPX4-SGZwRagJlrMR1Hdo1GKGK9mqhmnmGcS7f1TYH-uL_0WjYMlb5PQCDTnS5NIvt4rC3Mgtj5gLy7FYWVrsWrSCInFZ2UFpK2t_GzPleYebvT1T2naZmE4BUvOqRYX32669tTxxcX7EtkTbiSEnQJC6Gpp2nGwLniOf8NmOT7cBiv",
+        "width": 1080
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110338404504113992609\">Dipti Prabhu</a>"
+        ],
+        "photo_reference": "AdCG2DNR6FVRo2Z0LjNlCb3i5VrREnLVu2tKZScDIvzK8yUTAdRWii48-h12QUCUa6HeM3mw7qwFbbOY9o3qJDC3haLZfG6EvpcdG40SRfJHhXg6_dzsgp-nkVxKZKN2DN0TMj3z32eLeEfqaqFUsYfGHyer9oa1j0zcP4Lu7_xpBhldsV43",
+        "width": 2248
+      },
+      {
+        "height": 2248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110338404504113992609\">Dipti Prabhu</a>"
+        ],
+        "photo_reference": "AdCG2DPxCiLiO3dPb1UPyCoN0quNZaU1tqOLezYIctFOCntw86Vvr0YHWn86g6Z6LxXQBC_gDgQgqrc0YsMd7qtNKjrrc4icsUsZcF0sPdBBQOEfqABERTJx5xoZZEmahKx3pcKjyD7-tMomjSWej8byn6g-wNB5_rHVMMGZcNVTF96slFdB",
+        "width": 4000
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 5
+  },
+  {
+    "formatted_address": "The Dental Lounge, Ground floor, store, Titian eye plus building, bus stop, near urwa, Urwa, Mangaluru, Karnataka 575006, India",
+    "formatted_phone_number": "096114 32982",
+    "name": "The Dental Lounge",
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116132226733058364052\">The Dental Lounge</a>"
+        ],
+        "photo_reference": "AdCG2DNecv_OPpvyWFPNnEh_IcpZAYob6eoG6_fZWZ_lUrGWIgIuZEtKG2Ti96tJoahKmyIBNqT666spFPlVazulHs2fA5AJcEsT7zjS-us_O5ZuU2OPQJpTAL6_vB9iFNUrezqLBc2BOmmrI1NMubiSNWJDttKk1LPVdtkQm7M50XGlylw8",
+        "width": 1280
+      },
+      {
+        "height": 2072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116132226733058364052\">The Dental Lounge</a>"
+        ],
+        "photo_reference": "AdCG2DNrz0kB0jMAEXEXPeVaKBU_97vFANaFT1pNEj6yAJ8GY36igicD7YmqNQFydymomwaRDlm7gva3JQGe9WDRVdup8P8XE1NAqECpDA9MVEBDTVEAkP71aqZOxWtmf8jizcgW5pKGeoOsAwckE6PwsMAFO7Q-4bgHq9Ei8pWIXhpKYVmL",
+        "width": 1657
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116132226733058364052\">The Dental Lounge</a>"
+        ],
+        "photo_reference": "AdCG2DMuDsrTey-9fgARr-CA2ntnFShRMkHjsTF9ZMWMe-fcF_KJ-8eGlQtWQP1XRkaLy2IXLYmG0flvr9ooqprZxQhygGMXnG5ZlEo1KKTSll92DwOadz0QubIaUpjQqCcckUQgbax59U3fzkAinAJX5A1M5vZJ0g99PpQTDNOBYiRKVfrs",
+        "width": 4032
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116132226733058364052\">The Dental Lounge</a>"
+        ],
+        "photo_reference": "AdCG2DMlTv6I0Hquhb2iQstm5uEpbz1FGYEqN-NlfUa31NjNnM1n1FUfeR-mvu8LNAW-q_0iAT3IixDZqNZErpWxRV6594X8IfyVUHAr6UB2agAha4ZSB25HYHOH8hKcI4I4y25tT1bSMSOYg8-yexCCod8BebfIyvs0uz54wP91jtqWWDbZ",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116132226733058364052\">The Dental Lounge</a>"
+        ],
+        "photo_reference": "AdCG2DNkzEhYshR5sPewAXnkdP_r-5nw4qdSt6HM9DoNb89RrieFX8J2rcehBURYRt4mN8tRxyMQIcY-QPKuhivSFfHnNSzmhnD_1XLXf4Uu2isxXb0jzUoJ9rjaN6JWU2PEJjnYZZAaRf4iWZePbgiVe7a3hcnRX14B-of_xu-aWJP6KmdV",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106405536283418456538\">pratham shetty</a>"
+        ],
+        "photo_reference": "AdCG2DNw4pLBULyKfXouwieid1NkgyQG0ArTQ2iaK73_lFveLj4ZJPj8VMzhz1gitztPaxg5Vzuv4Wcj9QNnZRnHrBVwgp9j1vSNgM7fjZOrjLVkijYswZNrE4I6EbsDptuolG99NdUFCs1J5Z0OayBp6s_uVHHniRgfI65r508eOADEKZop",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106405536283418456538\">pratham shetty</a>"
+        ],
+        "photo_reference": "AdCG2DOvrFBKmKzMCsWWSDg8R57W1qtpHH-5vfb2rHvXa-7LN-Fgzp3tCAIce2QrMA5IY2lThqux7PkZNAKAIzMhbRU2itfMDclQkvp9_IPfahn01nmxyTCFdEsNKJ0YNe2I22yzFnLn72G2kyn2xyN0T7rzWFpIcl6rS84LlYUdLe6X8ZV8",
+        "width": 4032
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103385788144855705152\">Sudheer Reddy</a>"
+        ],
+        "photo_reference": "AdCG2DPjJ8S2bSDyYBUJQX2tTqceLy2JDCcJvbGhBYTqQev_mZVmi_-P3e8chHf6qkRlMs-MRN30op3W1Zwhomvm_sNTs5r-Y8dHtgkx4vASmtTa27syQn5cbrJ2MNt9db1L4R0c4aCYlRoGyfzw6FVAYmpIYJO3i2mSOrEsrdI90dI2Qimv",
+        "width": 1504
+      },
+      {
+        "height": 5632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116132226733058364052\">The Dental Lounge</a>"
+        ],
+        "photo_reference": "AdCG2DNo3TBUMJF40sEA4JF6mZH-ai6mW8tyOPNbMpZQhAS-Vzr5TrIN_okzHqw92Oso5dVnAisJnnPl0ALRK3rsNrmHyXamFUjULRcBv7Sk1hLcfJX8WQG1XegD4FvnGA0reWdfrwlq0PRwzRjMAFdp95CLEVnRd4uN5PGb228iilsRrSUu",
+        "width": 11264
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116132226733058364052\">The Dental Lounge</a>"
+        ],
+        "photo_reference": "AdCG2DPbpSDYVAOjlUno6o2kipTpBxjmVxoT8uwxnALD2QDMF1t-40PHrsw3YSRS0eE3fZ9VzkhpWC_ThodaLY0sFspzyZ8iQFay6pWnUVEFq3M7WoRJ-FUFQriBB1vHOIHbI5Kw5OqD5Bt8tXxKBqHFP65JR963_E9_lwah8A-UevysGDUA",
+        "width": 1280
+      }
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 74
+  },
+  {
+    "formatted_address": "Shop no 8, Ventura Apartments, Museum Rd, Mallikatte, Bejai, Mangaluru, Karnataka 575004, India",
+    "formatted_phone_number": "098193 62853",
+    "name": "Tiny Teeth- Children, Teens & Special Needs Dentistry",
+    "photos": [
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107247327580177888853\">Tiny Teeth- Children, Teens &amp; Special Needs Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DPigcUmX2X9jtJL4wnaqp-6FArmkwgpy7lTUZXXPhAm521Cn5OwNwjbc5x2VuzmhxxqOU8A9sAZCYHbJ9qUZB8FsVHqhZfkKIaweVZxLvn7-CRwlZiWJGiCzB8e_8FuPWAGNaCLh_ROwcddVWeklm-5_Ink6-Jp9MYou5OU7vEF3lqM",
+        "width": 960
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112650852141583539733\">Arfeen Ahamed</a>"
+        ],
+        "photo_reference": "AdCG2DMtgmDhmymFB0zDTb7S9bwhQhyvy3AKk1aYhuhW6ZpBLyrjxowVSim8O_n5jlmlYLM3_1say0n7CikoHVkh13-bg7mbbm__zXkJ9H3ZcDavU9Ubxf6ZaR5lu3Zd0g4y9IoDJ1nSIipOU-svvq5BQW6E2H4PwxUkvFcoMHaDTplsAb_4",
+        "width": 3024
+      },
+      {
+        "height": 1884,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106657227881911934348\">Sheethal Seema</a>"
+        ],
+        "photo_reference": "AdCG2DOulWlI15uajJ0SgFfUu3ZvrEmQhXZ1Yoxe7G9F0z4X42DC_X7jwN6BerwHdTolH9EXyQ6H9mv60k1su8RDo608R4p_5oq6N8Z37GTcTkcYK4qwdj5tKa0QmY66XaxHLGc1eqp23m6CaPiFrwnQem6ohhoke-5IwjHISfirqEG4NA6b",
+        "width": 1080
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107247327580177888853\">Tiny Teeth- Children, Teens &amp; Special Needs Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DNs2c56MmcXIxyUeN4c-THWdLMoOyXvqgP-Sd1Ykxx3hHybXCEO3BSV1UYY34bK27eKihzdy0fVyS2iOjj20_ehheB3p3H-ASn5i_B9FHmIqQIudZ99s3joH4Hr8PSxxqc8s0U6ZbBv8FTNWaAVDLvBhMdd6peWTKNNyy2QMfIFpTuC",
+        "width": 540
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112650852141583539733\">Arfeen Ahamed</a>"
+        ],
+        "photo_reference": "AdCG2DMU0DxVJbPpyasD85XSn3T8kUVSuN4Lsgm3LUCAqofvGnE7T9aszad0_bykOkCm-aJ3T0Vj4MG0_y1CUEl1g60spQwv8pmWAMBxnkRUvJ_gfatv5zQpRAtmfFbFnDL-N5QE_VT6xJKdVBCb_mlWKCHSYxwpdg7JZiKRFKbtkqab9TZB",
+        "width": 3024
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102602616484397367287\">Kenneth Prasad</a>"
+        ],
+        "photo_reference": "AdCG2DOzvfNH3cLiyqOoE0zdudVnWMEUP494zz8sdDRWF0SWZh_lxS_Co0DOkq-2eu0Vigfez6K05GZ5A562yhZqH9SHxAg9ZZ7IrjFucN5fPpBbH5t2dXN2dEnf4jdxih69s99QolCwH3NbeoNfP52X-SGc6CoxciSeNJbDAmM6Hv3_3IDl",
+        "width": 1080
+      },
+      {
+        "height": 767,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107247327580177888853\">Tiny Teeth- Children, Teens &amp; Special Needs Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DMqiFaYMzBJaJbr7E4eXacg24aJ-XeVqca14bFogPX4WxYQ7E0pBCy3jdWqFrZCal5jFBb54IMQElQAoihyOranl1L-9xCdzanDgpI4Nq37T1-PLuPrjacYQHf556w-DcGI5ui7O4FNSvHihbviOxnJZblSSPdhIgtgVJphvpoEisbl",
+        "width": 775
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100798122711922451263\">Dayonara Joyce</a>"
+        ],
+        "photo_reference": "AdCG2DM2NSNbC3MhVQ7Pi7kuWBeeY5Ywyl8hTMc5TABUULOzU7b6wcSCRZRSOnV8HKg8xAtQALBt-OhRz4ApyfQTK5MTb30MSoAzkEXDOXRH_1dAfZ4Td50nnsu3ucbpC6K13WV8ymRQ-FmX8xWsLzN_5aZlBbpMyO3jyK1WvHrjD693g270",
+        "width": 1800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112650852141583539733\">Arfeen Ahamed</a>"
+        ],
+        "photo_reference": "AdCG2DMjz-172cwXVHOIsHc3eNK3d6AtjkonNcF3zhUCMSIyf9CVRwqjOSSR6aYO1W1qw3PZXIzdM1yiqtEsHkv6sX20ucPeE5b4rdzZgFdNL6VSd_8a_q6aP5GBgqGJNclvWadU1OGhvxicByMIoN8Dn9y1ywx7IhpCsXvpZXXHdztA4O5x",
+        "width": 3024
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107247327580177888853\">Tiny Teeth- Children, Teens &amp; Special Needs Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DOHj3aTdwxmnJC1eyQHqS5A3nWxRoDDODeX1oeefpgJXEdVND8tXiCwiWdetg61jdv-jEbNCZaOn8jfesLshbTLMPZGlyMyQzpaJhDid5RxPbg6f_JozRQMAlsJ6aHzOesH3LcbB0Ig88QXJFQgzNRmR_nkPYnTH8LDWs_LJjTY2aa0",
+        "width": 960
+      }
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 145
+  },
+  {
+    "formatted_address": "Kulur Ferry Rd, Chilimbi, Ladyhill, Mangaluru, Karnataka 575006, India",
+    "formatted_phone_number": "0824 245 0296",
+    "name": "Dr. Chaitanya Shanbhag's Dental Care Centre",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110337389371573530424\">Arpita Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DOdqggAwVDfKhIEY55hTdftEiZBxCXDVxzRjv839aWL5LDUWP-TJK6zBSI97K3fpuTLGzbbInfq5dcivUw-cej9QL989N8IkaIVdm8GTAgnW3kWg0SWO-J911cAXtHcaOHbA8rfM18SGGAUAbzPIJe7mkmPUckCgmBdOqkxyZD1BSek",
+        "width": 3024
+      },
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102935177565357005995\">Michael Rodrigues</a>"
+        ],
+        "photo_reference": "AdCG2DPCFLn7UuRQJT-RWvLU97d6Ufm-h019ckGWOEn5W6U5TpkCoDHmfhL_yvrblDxZYMKnO53dBx-2ziu7OX_-wgzy5DpQQn8AebrnxoPCHdmVaemnAyR_A0ZmUaijJcLztQY7vjHXlW6GVT5XMdsnTO8C0t0I3K4QklDzjf1P6jUtVQhM",
+        "width": 2976
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115664954197208762813\">irfan kandal</a>"
+        ],
+        "photo_reference": "AdCG2DNo8pPgwQD2NOQrqB6or1nc2XIP8f494AYwpkOAWp9X3w9pBo-seWGsEdEntH9BFvDN-pOk2scSD6Pxa6OSMWKh_Qw7dD9C6anMRFRgfFdfzg-HF6h55GNDlMxBetMBMM-b8AUCPWd8cjZlLSokf505N66CxsGKiQl9GTJ2sbxkRBnB",
+        "width": 2048
+      }
+    ],
+    "rating": 3.7,
+    "user_ratings_total": 11
+  },
+  {
+    "formatted_address": "Ganesh nagar, Kodikal Rd, Kottara, Mangaluru, Karnataka 575006, India",
+    "formatted_phone_number": "098863 49726",
+    "name": "Dental Aarogya"
+  },
+  {
+    "formatted_address": "1st, Grace Towers, Bejai - Kapikad Rd, Bejai, Mangaluru, Karnataka 575004, India",
+    "formatted_phone_number": "0824 221 2093",
+    "name": "Dental Speciality Clinic (Dr Rajesh K S Mds)",
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112250632976026605634\">Prasuna V.A.L.</a>"
+        ],
+        "photo_reference": "AdCG2DPj8kvVIFv2qEMYNj01922k1YYf_b1eX1J43M2DuyWG8r5M9NZH0UaK1bPsSXqJVBmvuf3uQOqoWcqAjH49EoCMUjFfDDBtXBsBjkBmmGjktJo9h-upmLqHIBjGxW2ENZkSsnuyB1hfPHzbJUqplVCzsA_3xPGF9VHSP4JPXbzOd09v",
+        "width": 1836
+      }
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 16
+  },
+  {
+    "formatted_address": "SmileVille Orthodontic and Multi-speciality Dental Clinic Shop no G3, Aryan building, market Complex, opp. Bejai, Bejai, Mangaluru, Karnataka 575004, India",
+    "name": "Dr Kamya Fernandes Vas",
+    "rating": 5,
+    "user_ratings_total": 7
+  },
+  {
+    "formatted_address": "G3, Aryan Building, Bejai, Mangaluru, Karnataka 575004, India",
+    "formatted_phone_number": "0824 428 2509",
+    "name": "SmileVille Orthodontic and Multi-Speciality Dental Clinic",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112539858592269825608\">Robin Miranda</a>"
+        ],
+        "photo_reference": "AdCG2DMePVMn4q0ZANsIx3Q245mLIz7YBFnncRG-5SFaatiycLzHPvO0_5dmnBjqay9Bvq7iFmlSA8mQaqRhGVyinYQ_f27maKCJn2X99dqfGWJw2urm5ijgG6MHmx9HCykIPzSQd4gAS3f82c0mQg57K1us3ibl3_tUFR8nrTca83-iYeJa",
+        "width": 3024
+      },
+      {
+        "height": 591,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116748102445718926244\">SmileVille Orthodontic and Multi-Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMMEHGCcC9RIPc1L24KS93r9Oaiw1-SqSTun8RpqhBuO_VcwIHj-XQKGLqykDMEDxGFWFu1m9LxeGs4xSaq5yJWVMi_zJFZM2xWyROZVz-7isnDIsaTJ4pE7MwnW8DP097aqbHaEO_7cF9PkJOSTUp1751yxa3TY5GmmdQxSQcxskJU",
+        "width": 591
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111548839703159389772\">Dr Abhishek R</a>"
+        ],
+        "photo_reference": "AdCG2DP6rt0dSN8y1rVVxpBn1Tmb05vn3gwyjVglZ2tSWsmBi-vixTdTn4FOv_y-QDt4g2TePlW52RyvmBomIQCl0iixbAYvRFeqd1XgWdrxM0nbC54wsXnugPP9p9VYtVveTDrPDYq7JmqSdiPRG9N8hfkI5EiQQHKIDuLb0nfpYFPgAGvl",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111548839703159389772\">Dr Abhishek R</a>"
+        ],
+        "photo_reference": "AdCG2DMeUaZdtErEckPMS4Z8Qtkm8JeNsEQLB9hTeUmWj9KI3MH8rzVANq0j2waMh0WMJMhDae14vlElbXj4S1nsV_e3BinxaVyi_HQK7DtXrG0VmON4Fd_cVxhO7R05ouxD5j8eNdYruZDu7OWL61hMkT8MbZqXw5f00LsaL66kneiaSrcP",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112539858592269825608\">Robin Miranda</a>"
+        ],
+        "photo_reference": "AdCG2DPeVv1yla0NYMiun_AM2r4hrsGTUAr6xmy_NXiUHPoqiYfyUYXEHq7yBxF217pX1XUKliOzg_agBncR48RNxVXdA9-xdn9jB6uZ89mNdWAGCSXHDKxoyGyDcsPmBV05-ihy65FFMvHf42XRVNvilrjZtxAYnDRVvF7gFGitW56bP6UI",
+        "width": 3024
+      },
+      {
+        "height": 1819,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116748102445718926244\">SmileVille Orthodontic and Multi-Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN9RRp80_RY8omyUpQdMtFD_DPvfXmccPLfyC3hPBMzqXtTj2bbHVKQH9yXiYYiGIM3ZDFIPay4BSgyA656IfzI9uDvPm_s5lmeFzsxXnrF6MaaNssgAEUDH8nAxTki5qB2f8GHC8oNuoLRJ1DYVkGb-dqqUL_RAvvrO8gabM5Y2ZJC",
+        "width": 1819
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111548839703159389772\">Dr Abhishek R</a>"
+        ],
+        "photo_reference": "AdCG2DOW-OWsj49QTMOj3XLa6Wu8zQDEm_Kk6pfFwVWxAIwUk_FDdU65jN4WUT3o7Tge5yigIWjdmfsLuFnkh4yc034XqhxOuV1BDOyAcDDu0F2PeQ6NT9gU-HsgnEJ9P_JqudfjTc5-6WiLxBZu7gzdpnVot-obv4ukkxl0FwzPcgA1L09M",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112539858592269825608\">Robin Miranda</a>"
+        ],
+        "photo_reference": "AdCG2DODNud89u2wSA_C-SsvVi9euOAEiobYrpJtQc4f-tYGNHze8KfA2bu-f0iKn-tIGdN_fs0ZEeALggoc3PCpte9EbjzLxx1tIa8mMeVo_T8kXsX-CcNKH0hELrgRP9u7t5_52PkN8sq1fF2qOx4FQ96yIob93JsAXtANtcv7v7pucCtH",
+        "width": 3024
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108362624233734312640\">I D Lobo</a>"
+        ],
+        "photo_reference": "AdCG2DN1YxWFb5d9ojGrSb-gzBbK0ydVGGVbND0FRJCctFC8U17wo3z6NUYNRwSAPmV_x7CMFTFitL-QXF1An_bwZw5u9_RZ0vols4a9JXlOhksnM0N86vn7wE_EQ_aY-5d0tzelkfKvEss3BhwE9qDB441GK7fwYXseJFdXRj7FIG_jUNxc",
+        "width": 4128
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109498934812405192104\">Mihir Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DOnvqWNk6-zYmFbthKAODF1_p40dMOhS4hhi6FDwLDP5Gc4q7BYWeDuUZgFL6AYpA3Ii8VGNUYskkYaz6Zc6dKT6fTkh1BuoH0vAjG9Ak6CzusFhlHWVRt5JApy6ZRQB45s2AIEVPf-piubzEm3GXDVKo2RXhttxbd77tAdNQkXUHy_",
+        "width": 1920
+      }
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 77
+  },
+  {
+    "formatted_address": "First Floor, Krishna towers, Kulur Ferry Rd, near Shirdi Sai Baba Mandir Road, Ladyhill, Mangaluru, Karnataka 575006, India",
+    "name": "Mangaluru Dental Care Clinic",
+    "photos": [
+      {
+        "height": 6944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100667181747379213824\">Mangaluru Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOGJRMAbZPmaPFSsQI3psehkr5PWPPg5hLiwinid-JOUdoGDIHDXrApUBi-ODr_PATseZA6HD2P60i-fut22T2-P6RRattMhVrArJHcOcBArDKAvXDQAuOubM_lA7KagHsT0Sv2CDuGWK4GUIOthrR3lIcQjrqifSbmFn8ICK2QN3-X",
+        "width": 9248
+      },
+      {
+        "height": 6944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100667181747379213824\">Mangaluru Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNIm-UkaXCq8QUMD75pkpTjH-ZuZgKX2zvvVpT_FBYuAG_i_lC83rWIMk3QFH1S74U7_lXNkNwomvS9VFnza6fOsD56p4XnyLvUiZIF2cl4l1PqdeTGr7IonHoZZ75pL9tKIglZGh4Qj03u_6Qr6agOUX1fuPf2Gz7v6IAOAwIMbNHT",
+        "width": 9248
+      },
+      {
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100667181747379213824\">Mangaluru Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNjGTCzZGdmttm7dXW8xT7f2aXTqM4wq-LWX6hOSaWkDV3puRvaJDSKhSg5tGO2AI7Uhfoc28uS1-WCQ01FAwu-CWf_Pm8hczleBw4lkZb6ILJdybv6EitwaXjfnOdbrTo0bvkMlC0wTjRpiJva2D-52jyfKreSMUqLMTvSj-t-01GM",
+        "width": 6944
+      },
+      {
+        "height": 6944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100667181747379213824\">Mangaluru Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNRsFdkLjltcQUkPUQo7IdAO85U5oDFCwq-3BGjSWM1cQz9z6Ju1kGFG53cifytFRtzcvkJeHDQjYhwBUz6UWtMLMlGwISJUpzRzVOoIiN1qG9_G8Ne9WnEIrSaV5NuCLjQnjnd2chQVYPXmkAhvZjlYtUDIXx9zFyyMp-u5XDlcg_z",
+        "width": 9248
+      },
+      {
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100667181747379213824\">Mangaluru Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNVwqhAwUXJsWnRtz70aRerW2Qd9ryiMAEtgO7vhBNIe75QAfySnweQg-CoqW5917vlOjjO5EZQbxrlAxuOhH9MdE2nHF6BmHx6b4Ci8laffJlk_bFlhzRTVsHdySSlIUOkvDjOxuuGf89jDRJ55jAin-VhG1u0YcCW6wTs7_1im19k",
+        "width": 6944
+      },
+      {
+        "height": 6944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100667181747379213824\">Mangaluru Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMk1dEvmhxthspvyIXOrdVzyuN0p8cQnrZu4luvDkxryxxMDmvhSgaoBwVEjZdYSq691a7PzWQfcFiwj4_yisLVbh5CtuXx2h1Ulj56xj99nhznq7AROaRfaqewnXXRBWRWkVRtxaYc5EGovT9uthMN8Z9H826NF9YRqeFlmNcagv4V",
+        "width": 9248
+      },
+      {
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100667181747379213824\">Mangaluru Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNgKyT_9odLypJXW3T-PaA6Km7L0H0g1t392ck8EFPPgbSta5ZJegNQMfOoN6WGLsXJve5oSMMO_ge6NM0LEOP_Q6pqoKnDSRqSQgsEwK369Y0aQdpej85by0ouimiibrZEGtZ-NGc-FP8n2B6gQp_onLCxrMYd91AEZtZNmcUzvbwB",
+        "width": 6944
+      },
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103365244491849261781\">mahesh 0467 (mahesh)</a>"
+        ],
+        "photo_reference": "AdCG2DMB4XqiNdAu-Bsf9dQiTw-_e2eGAx7iFMkpIuF0VkSaugiVtArK2CXy3-LLM_dDUewoigPWDgQfawrr5cpwf4vHIt19_IjnnNbsO0aaNH-NvPO2nLNHGqr-vHxtstKlFKCv_7lyTMqydfMVp8r7iLUcK6tf01FLpoivGvbv7wktmP4M",
+        "width": 4096
+      },
+      {
+        "height": 6944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100667181747379213824\">Mangaluru Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPheXv23oWmODWLXpmqfmwY4XndhdCSX-aSoAHIOd43VeI8vXUiFuBn1JubeKgDL1UUnljEI6dimh-xQf4oMlV8hUghSt7yYdGyP4d6ktnkWbt0XuaU5fxaizgSs3pp9_luh6ICh-oVFlyWXqGBnwnxE3CYhK6EfjLEW3xXV0vd7KdJ",
+        "width": 9248
+      },
+      {
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100667181747379213824\">Mangaluru Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMJtUHM5LAQj1hZfwxfJQl85QXpTRcOOJ_D4vJiGz3Hie0wwXF3y9L5FK9kmRea8JusnWO8G9v6Yt_ev87TuzfFGMP57IVMd4VKcWu7HBlFXMrhLuVnNOFPrwKsL1PWqDVn9e-GBoAO0poyqfMH6iSF_c8fiIVTydbkhfXJyhYp6xA5",
+        "width": 6944
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "Marian Paradise Avenue 1st Floor No 105 Bikarnakatte, Nanthoor Jct, Kadri Hills, Kadri, Mangaluru, Karnataka 575005, India",
+    "name": "Vk Dental Speciality And Periodontal Clinic",
+    "photos": [
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112699035858101653447\">Vk Dental Speciality And Periodontal Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNQ0tRJJtPLvufq9EsjJMANloh4VTkbIxA2UJQijkm46nVLVmehP-7rt7K4rmeNVgju0DMvSMMx95EF0jxYhcjVWXK0wleH4XnhqBBUFAC6BY4BGZd2Ddl8_pL-tNa6o59fiF07-8cRl8U9_j4_L0fTGn-mZgfiUWiBqJkuLT7Ep60",
+        "width": 4128
+      },
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112699035858101653447\">Vk Dental Speciality And Periodontal Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOCb2APfbwLVOa6DL1QtOZt3UU-KV4R1-jpPaZ8uSAJiMVDnK6uIXp2OB04bZRiqEoePLNo0gg9PNv6aeL-ZznuLkt9Rlvn8dnXFWMVUlprk3iZzFyesyLU9W2n6AbnCr5HRuU1l9hWxqvn8T6Xdw9t3cnD94c2V61hK6a0Ul4x0Zg",
+        "width": 4128
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112699035858101653447\">Vk Dental Speciality And Periodontal Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMb_08fbqhpN2yxgZ9NNO1APiQ4vu8f6xSDrjniIH7ICDnZAprhRjpjGBQ1bEQOG3dz6eo-1iKw60-oUv453E0sVWACeiv8J8pEn0W4wD90Qtgp5glY2Em0BEqSgMHi7XhMWslqERzQrhLLB-UnN95lZRyI8hU_5X0Jti5-qWX5R5c",
+        "width": 1280
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112699035858101653447\">Vk Dental Speciality And Periodontal Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMamfpKlem8IiEutiWbkoJF384zcoJEwYSbEwGfyEIJ13PXyP9F4hIngMI_5g1Uals9GugmTcKwX10N7_eeOsS72JrwsvPQMWK0hOe1QL-kZ5pG5W1Ro89mH_mps9IiVw65HwlOs7YQwzF1V3BOmyPqNNzeHEfiT8hdrp7x3lnpZ8Y",
+        "width": 960
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112699035858101653447\">Vk Dental Speciality And Periodontal Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO2Y4piC8sj8jO3p-bWgB5901x2fm-biAA4uixH2OTbOstO9eVvDi5_W9cyoeceG_7YdH4mpLnA5Wt0uJIZuyZHnq5uH8Arj5a9uQxfij67iCDJE5MhPev4MLToMAhCQZLcxsGcKU9TS_9YVpbMDu-8WSyW2tMFfMHnCrntm7Pw1G4",
+        "width": 1080
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 8
+  },
+  {
+    "formatted_address": "Third Floor, Inland Business Park, 308, Bejai Main Rd, Mallikatte, Kadri, Mangaluru, Karnataka 575004, India",
+    "formatted_phone_number": "089714 05648",
+    "name": "Eira Dental ™ Exclusive Invisalign® Centre",
+    "photos": [
+      {
+        "height": 4024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112977702667394765209\">Eira Dental ™ Exclusive Invisalign® Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNm7InvUSsuebsp0DnppKkYu3TDC8SLe8BtUCp8XDuaTVlpxB3qX-h9qPXbQkjoZ8OWdwfxDPpSEgKrQ9L5if9-q3Z_EjQo9LNLfiMh4JNIBJZwa1qZ6MtmY809mkU7LwmLMQB--6xjOLYzwz9VUFvfb3kS65XieCv_xoLP5tx84SUL",
+        "width": 6048
+      },
+      {
+        "height": 4024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112977702667394765209\">Eira Dental ™ Exclusive Invisalign® Centre</a>"
+        ],
+        "photo_reference": "AdCG2DO7RqAD7rq5lTXsFHhuJxlJ48LslL-VoIvmCBO41dNiJYnNZtKIkw4sERoIZGFds2_tWFzp4ve5tCAP990dLrfh2a1wupUzuB75_ixzAeIAGNzN9h0MenOo9EHLHjLJeZWyl29pXiXStR6D3IKKqeEd8nXoZWkBnjWTTACa1JZmw1dL",
+        "width": 6048
+      },
+      {
+        "height": 4024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112977702667394765209\">Eira Dental ™ Exclusive Invisalign® Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOpH49q5cWEGCBvLYw2swCqC16kosYlMv34ayKwC1z1IYFE01c-W-QhcVJjnRsWluXEHLI33TcY4-mTrfDXUre2H-92lliZwtl0AVxRyhtoAou59KEKSxA5apus-i7ZGl9Sk86-1rKGe8Si0ruqawnbOBqorf2gLO4cgkT1z9ZsIkjR",
+        "width": 6048
+      },
+      {
+        "height": 4024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112977702667394765209\">Eira Dental ™ Exclusive Invisalign® Centre</a>"
+        ],
+        "photo_reference": "AdCG2DM8NL6jpUOt9vS6i-uof6HFexwG6hos1CQJ3Yd9s-gmGzgjo-R3Je6AYVbkK2eJr7xN5rUjMd1VDMYok2Mvh_KBSib4cnKJnDXAmQ5uftzqorCk-Iu9P0O0pe-ZHXeMD7etu8Hw3O1J3PO7fTDJmjWCKda3ITgbInI7siD_9YlpVjCo",
+        "width": 6048
+      },
+      {
+        "height": 4024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112977702667394765209\">Eira Dental ™ Exclusive Invisalign® Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPo2ho3EmD67nM2x7zPzkLtaO2OBKAS4iHxZPOTBnq2j6hVje7ZOcnIhkdw0-bnWZ0gEMouswUjv3-Oc9UD6vqHhf2ViETtltCBeYLPmjOMuheZ2p06e1mXNs5wXHLmpGkD4QlFEoo3-sHmiFKNGLw_JaRKjk30eClHxaVvTg8bHdWA",
+        "width": 6048
+      },
+      {
+        "height": 6048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112977702667394765209\">Eira Dental ™ Exclusive Invisalign® Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMPMiIISd8jajyC3UDkAUqT0DPjWj1bAOFOOKM5KFy2tDmCNBoZQg81YYdRZxOyQTN6HRi2YFmnwG4xohpELdgaqDVblnN4paB5Ny9bdZ71ch-XwUKZumUFMP3vN1w0LE-f8I7HGpca1NhVzGShz7ktprbthkEj21xDTZgUTycbNgQp",
+        "width": 4024
+      },
+      {
+        "height": 4024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112977702667394765209\">Eira Dental ™ Exclusive Invisalign® Centre</a>"
+        ],
+        "photo_reference": "AdCG2DP3XxWUqOvIrKdt_TQdPtZcz62aNT8U60v_oTw2_vnS5smUl2DO5e_TeCmFS3SJghqRew7xuWxBiZ03WA_YzvtrnW_785QB9Rgrr5bnhYTIhtfF5Wqp0A92Yj4sAe10bSBZp2swkHwdIEcf8yCk11xG5Wcnx6UH7RNnTaEukPWGpbmc",
+        "width": 6048
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113695847509448126700\">Dhanushree Dhanu</a>"
+        ],
+        "photo_reference": "AdCG2DPuRbCRu6RNaQk3SgLY4tu9OsRYMFx3fz2zUSrABwcnLFpeAh0O9yRhg4S8QXE46FJ3Xjo0vWY_DkA4t1py9r1sqh5urlw8HHnb5jSelb8LYuJabISyNGKiCPhHq0xkNik1QWAdy5iXUqvmLCJvne1fXZrCtQHDgQdnFhS2U8VSLudd",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107583825372990632315\">Times of Kudla - No. 1 Tulu Newspaper</a>"
+        ],
+        "photo_reference": "AdCG2DOgstNj3R5h7Bc-OoY59I2NNUSMV_-253OPsbrAoRplArAVQZBb63lIi35f8dS9IKKDm-JEnoKJBvI26Cdm9pqNujgiYuLsplKCpS3BkJCTW3orq5A7wqTRE4HNROgmIZMRdXss5Zlc1tjmsvCtoT4Li0QVUEvqbZzAUNhLrFoIeLmZ",
+        "width": 1080
+      },
+      {
+        "height": 4024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112977702667394765209\">Eira Dental ™ Exclusive Invisalign® Centre</a>"
+        ],
+        "photo_reference": "AdCG2DM-8z6CbJRmktyVoHexgHExOFcJNLRCwJtXq5qYZ3DgzsEUjueC88kEY1MIhkGQoUH3NXn4sSw3JKyoI3dBxz9O7iMMKqmn_vEA58J_SFkjxZ-n03obb4iGKWb1XLbpwXoi5GloS4odHCnDeAXsngqEFGcRP3KjjrZpSQOqLaJfKN7t",
+        "width": 6048
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 6
+  },
+  {
+    "formatted_address": "Kadri Temple Road Mangalore, Kadri Temple Road, Kadri, Mangaluru, Karnataka 575002, India",
+    "formatted_phone_number": "0824 241 6501",
+    "name": "Chandramathi Dr K"
+  },
+  {
+    "formatted_address": "2nd Floor, Shree Krishna Prasad Building, Complex, MG Rd, Lalbagh, Mangaluru, Karnataka 575003, India",
+    "formatted_phone_number": "098425 21386",
+    "name": "Smile Care Orthodontics & Specialty Dental Clinic"
+  },
+  {
+    "formatted_address": "Lalbagh, Mangaluru, Karnataka 575003, India",
+    "formatted_phone_number": "098452 21386",
+    "name": "Dr Ravi MS ORTHODONTIC and Dental clinic",
+    "photos": [
+      {
+        "height": 3480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100202668452252947427\">Dr Ravi M .S</a>"
+        ],
+        "photo_reference": "AdCG2DPPLMOZ3-1rqm-S9owCa3IUeoMlYwMGR0wjaoMfcU3YI1TBuGPMuqPjF4ZveWJhHlEVS73SkxW2U_wfxrtqltpRbxJ6O4Rz9LVp48_qW9gog2fT00bE3zUgbbGbfrJrv1CAlRPcSFxjZxajjqx-tusOq3oy55Rf_wgidOFwoipxB5Of",
+        "width": 4640
+      },
+      {
+        "height": 3480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100202668452252947427\">Dr Ravi M .S</a>"
+        ],
+        "photo_reference": "AdCG2DNxG8hbaR4iH0sqEhWfwgPV5cHf_U-wIwABFe3Itvjf6jdkKfLdy19zFAVjcChoVTXLV0pltKRJFQLtF760HSgKJ80O4mYe5ykbe--oZuG4qVSQl28C_qyJtTmbWzp28hRZ0d1vYrhJqetb5mB0UXnLE-mSIObJlru96Lpo9nvEmW1Q",
+        "width": 4640
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101048458491702388090\">Dr Ravi MS ORTHODONTIC and Dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNCduMPX4tQaD2OPH-tDU1MoZzYp_scj2mSbaCeXXbsDDBJ47FTVX7Qt9boMO-VflXI5EwYFi1w2OKGw9oXAn0PTS066wzndF1hW28JH_TyM4rkpRzau00IiJnqACxzNtJyULk7EV5rpnZElsG2nEMmX3mLv6OrXsDejyJmG7D-UM56",
+        "width": 4032
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101048458491702388090\">Dr Ravi MS ORTHODONTIC and Dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPd5Vv055LZoodyqGkI78y4On_cVPv-znfjL-bKcRiHhBDwrJYEAljI8P6CuyJuub1YefW1_fkZm1Z4nvIlnKBX7Mt3-WbQUfrvurxrtrJSK6saERM3MRxSsYss7uPjg7DMrmbwsQHUSdjJodQf4T7Cp-uCgBdM-8sSK8qNR1p3OOmQ",
+        "width": 4000
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100202668452252947427\">Dr Ravi M .S</a>"
+        ],
+        "photo_reference": "AdCG2DP5NGDjA7tmwwSipIvIo1v-eLQAH6cX9iZyUateKRotcf5pjrKdPfHcGc-gcyzfRh5N04lMFx0PqCfOZWIAnBvh4OJkImsAxritt8IYlSTSOslLlX04DMhV66pbKQ2IMrwS99jljrS7FU2JVRsEtWJQHgBXRfqFdBSQdT6wgjLR7eJU",
+        "width": 4032
+      },
+      {
+        "height": 3480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100202668452252947427\">Dr Ravi M .S</a>"
+        ],
+        "photo_reference": "AdCG2DNw9u6OZSBYvGEpt6ZNxB_-md5lbVc7W9S3LJUKBLnx0ZFKbPBlBJXekjlJSP0wxVoHTVbjyVmR5DB68JiG2rMj6COkQvIW2Yhh1yi-xjO3pnKpNrA7Eragi-hXJcSV7b83auwGCvCPykl7hXEbQn5cyCP2W2jd0y_48zbm65C2yaEJ",
+        "width": 4640
+      },
+      {
+        "height": 3480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100202668452252947427\">Dr Ravi M .S</a>"
+        ],
+        "photo_reference": "AdCG2DMnZbyYBXm2WVHH5ULI8Q62bopo75CKD7SokXVcTHR7oOftpqXUl1-metC1DDyqzxvHWM20kaoOaVN1VLmhXTvUOTcZjAF6e89ahhCShTBLd1uNwao0ryyNAedlAp84l2q2AzR9smplTotBv4YyakWImIRn38PBY4zf_D9h-ioufVjy",
+        "width": 4640
+      },
+      {
+        "height": 3480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100202668452252947427\">Dr Ravi M .S</a>"
+        ],
+        "photo_reference": "AdCG2DN697bvxSw_bSxXAAZrNeDFBWY442xKAFYxeqnzz21Xuh-Oc0bNP0HV8gA8hioyMWp_lDrkkHtFhUCAFwmEML1S-PrvChr8o2CKFgSZrhB7zXHnX1izaXv-lRYl_dTyWKPLu7S27LqveYKiHS-tTK7jyFEmcIy3eQ7MOt7bMhJkk0KH",
+        "width": 4640
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101048458491702388090\">Dr Ravi MS ORTHODONTIC and Dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DP8oIT7Ayb8b6qpzrh3koiNsRg0Qpjgyajq58vzo5DuJDhza10b274sUsl_Ju6eBCZlpv3RN2v7Sd6ayKyTO3CHM3BhILkgmLFAsSks7bK7vGH_gIkrEmuq_oLNQMVO-fKALHVs8ls1np9NrdB1bHIO4J8MB2rSODdpCBJlzNbhCdvq",
+        "width": 4000
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100202668452252947427\">Dr Ravi M .S</a>"
+        ],
+        "photo_reference": "AdCG2DM-LMG9MXdnmxtjy3CLLWa4yn9V-PPIOrrAy4BwmI50kdDeryk70ADF79oFi-4gO7jojCactlOoZiKYEhhWry4450g_IODKVu6Q7XOwrOm-cawfMuW7asXUhtdgXmtLJg5MiuDfpzdmQH9XrkQ8mJMjNnQ3VQAcVtRQnZSkfZtI862t",
+        "width": 4032
+      }
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 9
+  },
+  {
+    "formatted_address": "circke, near lady hill, Ladyhill, Mangaluru, Karnataka 575006, India",
+    "formatted_phone_number": "098451 41115",
+    "name": "Dr. Edwin Dias. A"
+  },
+  {
+    "formatted_address": "12 M C C COMPLEX,OPP,SAIBEEN COMPLEX, MG Rd, Lalbagh, Mangaluru, Karnataka 575003, India",
+    "formatted_phone_number": "0824 245 4672",
+    "name": "DIVINE SMILES DENTAL - Best Dental Clinics in Mangalore",
+    "photos": [
+      {
+        "height": 421,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114425824189030204116\">Mr. Dawn Prakash</a>"
+        ],
+        "photo_reference": "AdCG2DNZfwgOw1jCmgs5SNpxaUiWherAle88B2kWILJSFkIXSX38LAyic9VWQwMwDS4yHJqwioXrcAymPSeE72qDx3BnrjhFvR1i-xzG79WimKawCerVLTCwUV0jb9nLIuJ0b71zfdXJaQbeV-U_niGe4p4fVvWyUFbvXHoKVK2NDQNpt0Yv",
+        "width": 565
+      },
+      {
+        "height": 448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114425824189030204116\">Mr. Dawn Prakash</a>"
+        ],
+        "photo_reference": "AdCG2DNYaaBaLZI2QA9SvLGEl7DxVyW4s1nsgC-WGpExvaXX2x1r1OnXJEIvlPnrY1VQ99DdSDVy-ehsrCj9j6F6hSeGbFV302N6k-jStNo6v0sze6ydNhezhj9slssyLoK2uMdagRVKuLo9BdHqEbiPzwpIyHchiJnfR2-d-yx1vTLhqSR2",
+        "width": 441
+      },
+      {
+        "height": 421,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114425824189030204116\">Mr. Dawn Prakash</a>"
+        ],
+        "photo_reference": "AdCG2DMG08MyPp1wI9Ki6ei_FbV5OFxLYCNctk7-wMf1_O38G9pQIeKgE8mIMqvzgZOpW5Lz1xLhsB7judVGJiZeTRgvabWbmfY_cqD82WaqhaosHUgcdSNhrMmQT1ZLSlQA29xWXwdaRHZjdtCgY5yTEtPoyhcoTGgMNgl29Sre8FD4CIR-",
+        "width": 565
+      },
+      {
+        "height": 581,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113064066917780894702\">DIVINE SMILES DENTAL</a>"
+        ],
+        "photo_reference": "AdCG2DN9kZOu4hwDGqvaCJwA1_zpV7NVAxGc3iI4FL0rD8liwD8eDXGq-D62Zk7FT2AjM5pZjFpRtLNr7XQRk1qpUcfUyKQEOt_jb-zP82IFf8JW_to9rUsvce6GkSQXyTxDHEwfR4nj1IsoY4BuIcWNtv0_LLT5bsjVUasFfAHtN_Wn25w",
+        "width": 791
+      }
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 16
+  },
+  {
+    "formatted_address": "1-19-1471, Urwa Marigudi Rd, Urwa Market, Urwa, Mangaluru, Karnataka 575006, India",
+    "formatted_phone_number": "083174 82851",
+    "name": "Kiran Dental Clinic (Dr. Karan Giriyan)",
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110410419958713246977\">Karan Giriyan</a>"
+        ],
+        "photo_reference": "AdCG2DNp4Zoe9lFrRhZLOOei6Fx-jSXb3PV9_N7D2fS7HaO0jQwONJcxYaQZ1zZ23-aRZkhh_-_nx_OTZMG_EVYuzFdKMSAikUiVpAM-Vrc1Ml4aptfaN7QV9ENLsAgp3v3Vcgc6v1Fk0rfsTRhy-9mJKJiEUQKaTm0EWkMn8dRj9R1ayLLm",
+        "width": 1280
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110773763773992075179\">venkatesh bhat</a>"
+        ],
+        "photo_reference": "AdCG2DMRrmWZvFde3T2m-b-FuVGGtL_xcpe0el3Eb7_jro-88QTaKOIS6f-65OxbZw15PgKbI-96pwBZ8-aoB7Y3mxRncDmzojT_TgzwXMUZ38h1jBv9IHlO1fXriGsi1bKrr3XYyA6e867xA8i-TPwsvc0SEQIuMFrqePT2LFRsHSmgzq8I",
+        "width": 4000
+      },
+      {
+        "height": 2880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105385035103024249961\">Kiran Dental Clinic (Dr. Karan Giriyan)</a>"
+        ],
+        "photo_reference": "AdCG2DNqVKhTMnL8Froet-oRk4SNW8cVAFFKPOVkE0xoxUBmg_8ONDUT3thLei-DANvOU_Es-4FVJ3GRheEE3BDSyKh6vWzofO8tdtkNuTvrKQuxRPgqpZPiegy0uyeoHhPaEciFmyUQmoLr5zAQRXZlxP7JhYUyK_IYvG1Wm706QfWmuUe-",
+        "width": 2880
+      },
+      {
+        "height": 2880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105385035103024249961\">Kiran Dental Clinic (Dr. Karan Giriyan)</a>"
+        ],
+        "photo_reference": "AdCG2DMgxlR1YUjejbOfjcq4NFZ9YR81ldtsR5cPKDFghlJ2t-P3YFK1symEy0MNX2JVZit57YESLPbzKC2V8w84VR4eCY9uNf2WRbmZ38ezIJljSOH-1aDXgbBNavKu8I8YLT2XELvHBNll1w2FcP86bozcjl5voQ28veAyYADly2JJsLcW",
+        "width": 2880
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105385035103024249961\">Kiran Dental Clinic (Dr. Karan Giriyan)</a>"
+        ],
+        "photo_reference": "AdCG2DPAsENcyYjBspdkkeHHErYm8YS8Xa6UQm7W8Ji4jM_wdFHA4fGj3zufhmPHs_PJ2uXBW-iDDtP6ijy5QihJ273DX6RMnF5v4FJo9qNNNx5JtXoQM-jz3f0dfBQCgTVrhWcfWnLf0OimHRv6xt_EjB1oa4Failto7wT8VlN7Onhvv2MC",
+        "width": 1080
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105385035103024249961\">Kiran Dental Clinic (Dr. Karan Giriyan)</a>"
+        ],
+        "photo_reference": "AdCG2DPJ-hmT-q-1YdX14VRtLZjJ9R2pQ7uxPniGxdanLcPHg2cokpXLnXJZuHmCdFhve7imBzM8EHCOMx_kO42Ovqu851meZJlB9A0iYaZPmI3vlK0oweREN-yYQkQaYGAshOaZKlq7aGGUcMqdkV3wMI4qFFLSiSXYcvuLoaew_AWQ0M34",
+        "width": 1414
+      },
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105385035103024249961\">Kiran Dental Clinic (Dr. Karan Giriyan)</a>"
+        ],
+        "photo_reference": "AdCG2DPOE1s26f8Jm0Kaw13CBbA_xWlWYRmRnjYHz1wyF5iq509hD49kG7XpPdookGjs_C26yQZDO4pPgv0LdhIm8kTM0c8ufJRRRUTUXV0XLIgZZMibBxg8gVTUTESJLb__1lS-91cAQbe6ndZVEwEmnYb3TdxjubRPkbVXsDj2OTHTPz93",
+        "width": 1440
+      },
+      {
+        "height": 2880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105385035103024249961\">Kiran Dental Clinic (Dr. Karan Giriyan)</a>"
+        ],
+        "photo_reference": "AdCG2DNetqPJd1IyOZz7f-_imJ5TZI0QFppHIOzwaHQN3eeH40R_W9KokSIsJjPCvlWgSEUWDxJMblRKCRPP8nRh4p8B4jMfxKcl_FanmDJCcDehkpZMYmyjRvVHcudTiEgUyLZcREVnJHgoWZOAFXQ9Aj7ZYTCiOodSdtNOpIe31y_wFtE_",
+        "width": 2880
+      },
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105385035103024249961\">Kiran Dental Clinic (Dr. Karan Giriyan)</a>"
+        ],
+        "photo_reference": "AdCG2DPy1NDE5DZQmibuLzeAIghV0aT7g9s7LP34C2D4kuwPmEM74lT-0M0d5pjtvc8Oo-ZGePylDC1Zt0l1ew4rAQOlvRMCPPvRxk_Dorky3wAJ9ToNUJMDPnmtalgyHerG-68dQm0vKf85wQhrgL2zuuO62_ntbC-yuIcTVG-AJ8PJZx8q",
+        "width": 3464
+      },
+      {
+        "height": 2880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105385035103024249961\">Kiran Dental Clinic (Dr. Karan Giriyan)</a>"
+        ],
+        "photo_reference": "AdCG2DOJ879ITLTH_07i6ZL9k3wABnKOoXA7CPXxX1DrxFDDBpYczyDHsbLAECMXsH1Pw07QU9XVFzjEmOvTCZ2jXtdVaZR3u9Cz_1CsnMrxtW2BphRYxlTv-iXaTApDHfqPncStxA-61GxiD-E1Gt6n9uy_-Wj6DTp9MgSNIn6FM8OoWD8s",
+        "width": 2880
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 10
+  },
+  {
+    "formatted_address": "Shivabagh, Mallikatte, Kadri, Mangaluru, Karnataka 575002, India",
+    "name": "Dr Ayisha Moureen"
+  },
+  {
+    "formatted_address": "Ashok Nagar Rd, opp. Marigudi Temple, Urwa Market, Ladyhill, Mangaluru, Karnataka 575003, India",
+    "formatted_phone_number": "098450 85835",
+    "name": "Dr Sanjay Nayak's Dental Speciality Clinic",
+    "photos": [
+      {
+        "height": 6016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101213569836370836473\">Dr Sanjay Nayak&#39;s Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMwOnVuvXxuKCmshqQWTk9O7YVoiPHZ9PVbAvOKngR3iC4rD6W12njsHcjW9ASMSvLODpygxWSsgEwypA4LBbtqSb3JaBGt-JwR6LAnPp_ZTdjg9K-HM1Ryqe3OBlfuZ1TNJWZhxeFmiI6wCQTbTrB1JjCUSpVwCyI6Dc_Jx4N1IamB",
+        "width": 4016
+      },
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101213569836370836473\">Dr Sanjay Nayak&#39;s Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOzIcWeeXZBtfBtXIDi0msrtdJZvrhsirr66fYuToEFwzLPfSbmAjAN5UQH70HSC4CO37VBYc2C7T2f-0-K5lFkLFSIHtbELTeF5rj1GDO0AtA_Fg0tR5Hc3lwiUtGNkX49pIX_Oerv2u-pYXxHH195S7AR6zfQ7oPfPADM44EjIUex",
+        "width": 4288
+      },
+      {
+        "height": 574,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101213569836370836473\">Dr Sanjay Nayak&#39;s Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNTfmjVGAcxR5-IqTXFq15eNtxvg4MML2vPL-st4jkfSXm6RwK_u3eH8kqclpa6sc7tELNTRcNwgPOg-c1GeWoLy2JRpeYzAHPnMjAGbpfj282nlLUsKGQfT9OOLmVO31kTZfgd4v6oEKoNghrGDIoxAH6i8fB1QcyY5O5Bq7u4ngki",
+        "width": 773
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101213569836370836473\">Dr Sanjay Nayak&#39;s Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOPL1gzLwrEjW2334YTIZ7vvGMc8XRMSzwq_xoA8pq2P4r--27W5MalZs4CJ-on9ie8J5JZXERbUft-tvTLflLq6VWWXan4gexkwhbtKj41d6LZXaRpduxB6kHEr2CiiWojT_FAb9C5IwWf17z0B0m3r-hu_F489ujXXAbgSYrZrOr2",
+        "width": 3024
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113781053240635600837\">Inflex Hydraulics</a>"
+        ],
+        "photo_reference": "AdCG2DMhInu0pqhGob6ckfVvELLBjV-pVLjrg5G9JcIP_2ezcT0N7ot7RSjNR7V8ktQsWGk61eFyHHLqi-eK7a9mKGiVWQjP7cOUw2ZcUZ3tfbYlZKALrUuJd-F09c5CjHUU139iP8noSmQaoOVrxEU0lHSXVzCJ3plPwuO3DFkgGsYf2hyq",
+        "width": 1024
+      },
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101213569836370836473\">Dr Sanjay Nayak&#39;s Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNH1M8S6_GaHICcJizRPU52hwVxMQFT1ue0iJnlMDOk5cs1zmFXAVwGURGYyczFvV06rHzpazZJNdODBh3p12jhSxI4_dh9TfiP8gtIRYxGErEa-MBCh8rYnRY47UtscLv5lfryXVPvdXKkj1NK25D6wv5hOeHsHPGaa_yYlVh7c09w",
+        "width": 4288
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101213569836370836473\">Dr Sanjay Nayak&#39;s Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMKSon3YgFT8brCHW_SDovUvY8ImNb0Vse5qcj-bXw1ZKAd-DUBtQItC_QM_9P6r6xbizbtiBU5OycXColu4hkV_1ucfJV5qMrbbmtj0qHtbko8Rixl-VgPJ_jAS4hmaFKOZcbeLjZBC51IqaNngsaKQ-p8-f8VABC2tPMNfeJLtD1X",
+        "width": 2250
+      },
+      {
+        "height": 3880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101213569836370836473\">Dr Sanjay Nayak&#39;s Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPM3145nfy_-vw4s1L6JN92Y3EDNsd9o8O8GXzI_pncHvirfN9nbQm8O3cZatQ26JRwhHex0SpOLksPOQAOZBl2Hze4h3UwV3AcpZh3V396lnNE51MuQxd9u_2iZa7JJ5loNORTEdWvtO1bh3B-CuFFKn7KIiVyKURAQfL17K_2cFyg",
+        "width": 5184
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117805984678951306739\">Vaman prakash Nayak</a>"
+        ],
+        "photo_reference": "AdCG2DPeRYmCrlCEQWMe5qLD48k2aXuiaoBqrxpvdkWnpF7g_CLgSyudPef2kCMeDvTajqEMwLnJ0sDMfHM7rX34vPTLvl0Eubmt_sjxe9X9j1AK6hc_wM0QP5rDveDgdrnHoDtSl1JW3BvokNmuTbgJ0-Xu4h29l2tJ7VMrak0tP7e5k7jo",
+        "width": 3024
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105625142920445604094\">Rajesh Kamath</a>"
+        ],
+        "photo_reference": "AdCG2DMgNHcVdZSics87nJ7Gf7WNinjC5x0HVH5kGTZbFVolX-ioA-IU-dvsuK4EEZXUtFsEGf8CRoXHqEqBjlNoTO7RgUa_LIMklV7fdLN68AN9iE5pAcTG6o2-88lJzbWaekp3Z6tNFuDKrZUSumdPdkwix6IBcFR_5JonjmQfMbiUODcu",
+        "width": 3456
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 112
+  },
+  {
+    "formatted_address": "Opp Kalpane Bus Stop, Kulshekar Main Road Kulshekar, Bikarnakatte Kaikamba, Mangaluru, Karnataka 575005, India",
+    "formatted_phone_number": "097317 57274",
+    "name": "Dental Studio",
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105543958053052865031\">Dental Studio</a>"
+        ],
+        "photo_reference": "AdCG2DPXPZZ9-rXOsAm_Ob7bTLubW3xNiJI3FJD61Ih7biFU2App9Op1UTA13L9A4r17Oa0Bvu6biRW3IyuO5MZiwsENcrmqo_S99508MraYdVRptERB_lxBitM83p3dYfssAfXxKbHSTw1Klj0dEs_xWO_MO2EjlfoBoclXBWQSoo6mpqqZ",
+        "width": 768
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105543958053052865031\">Dental Studio</a>"
+        ],
+        "photo_reference": "AdCG2DNhopwVrJVStLhjgVDBaSVnpBmhoTE7qs_ac38uVvXfDcZU9ZGzMO8TMtbZOUDyvNbafIEh23P3ntBVYPVygijxn7Vg2_Ht1_tECNmua12u8e6SYQpWDL-CjRd7Cm9Dz7q0Jyi1Jf7_mGGjZoFOeMzeokdIyXyE-QL1CBfDYx4fvybt",
+        "width": 4032
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105543958053052865031\">Dental Studio</a>"
+        ],
+        "photo_reference": "AdCG2DMtjOubFz3RndtrFkWFv9EXSwarrT8G10bwerVJJXgtRyudmzro7-PEKOnDqg-4mqQYIyZGAfeCodGgdda_5UaGBR_QfeNVKf2fTqQSyIPNGTI0gHGIRb2o6_qDuIMWXVgKKw9goTEtxC2T6tSOmJcN4qwVlMNDtygMcgzj-vAAkYiI",
+        "width": 1280
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105280426024739330259\">Arun Pais</a>"
+        ],
+        "photo_reference": "AdCG2DOp0CvyfDXA9SGNqrZQ5WbSUInCqk9hOyBLUvtE9uecLApM_CZf_U1Sw3UoAw5MaPPF93hU4whvMknH7OzmAUGybhG9ipOqXxdKvDkaFSKcKBCfkkht4cLSypeT-MbgmyrU0iWlR6qbTbN0bI2q4T-gJV93jCw3m7UbPai_6kHAyeO7",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105280426024739330259\">Arun Pais</a>"
+        ],
+        "photo_reference": "AdCG2DPKexmKfv1Nski36T6pr05lcTF7wAUCiCozznr_zLzt_ZatIsHoF-XH9OrTueXg7Wbs_wKULqQZPbqWBH-klNfqc5rqYQ9iBebyblzKBtHLUTnA1GGeU8sW8VLYymWn4otJt9WgnnZBJVKIcFYSqVvmrB5W63_l2IJADs6LICRUc2nZ",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105280426024739330259\">Arun Pais</a>"
+        ],
+        "photo_reference": "AdCG2DPKYDAXncKRY1Uiqbwj0KFqh-mjtZgb4A5kjOJLD9dm0U-3v6f6Hq0q6jBagUfKvAHRvXq5nt_krSplr1tiAg638Bgxcyg3TLxEFpXdqpAMxx3Ik6yvtS9br2976ItoUNmwhw-HEmFoGKws2Ou7CIEB4N6oj_ofuPv2HmyHpflL-yag",
+        "width": 4032
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105543958053052865031\">Dental Studio</a>"
+        ],
+        "photo_reference": "AdCG2DMYXpjup4pTccWCx0OF-CqayFApG-By4yZlfl0evKbiGZCOGIwIuzjjJm6A9qTfqgr8YJNcgr6GAIxnMc6FiqsiGDevoCVsMZxLbkDa2EJI0FMSyCI7LbHqEqJdhCS7AzxgERWbPf1AsSeye1Tuw50UZxp4EnysWvbptKYL39wUB4It",
+        "width": 918
+      },
+      {
+        "height": 1432,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105543958053052865031\">Dental Studio</a>"
+        ],
+        "photo_reference": "AdCG2DNZpz0_4oJuy3vHMziO_w2uacmcWM5325f6o0suFboYBWzWKr9aFUAqhjVcuEvV8J1aroadlmcpsVln0IDGx2SVjWQtrGh_ruUyPiLMDoWV767BAENNORKFKErHtIpBqZDkw1x9fkDtTIwEiBpNaqh709HP4NJspe5rN7C18TrHB9wv",
+        "width": 1080
+      },
+      {
+        "height": 1424,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105543958053052865031\">Dental Studio</a>"
+        ],
+        "photo_reference": "AdCG2DOZUXnO3W0Q7jxMmkkKLSAfp3DPXKIM8TQtKJ7RMIowatz0Y4VZzvkL5sA2mmI9YxCPUJrpNcxekBSZF5kVD5BE2nLuj46W9oc34CwkKSNfFlVksElxibe-yu7-dPythgg2m_miSSqLLiQeeJJXWolcmKSMYYvQlPBbLzTziIcTGJuL",
+        "width": 1080
+      },
+      {
+        "height": 1298,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105543958053052865031\">Dental Studio</a>"
+        ],
+        "photo_reference": "AdCG2DN0JE2GrMADZBuTtTLnqBDA34iRCEajQNowZdUoxD9NYBqvc6Ofaoj66vRylKhX4N4TXBmcemN4nRj0PePa3Oozw94VWA66dpuoFLVLnBoMrsmbPDZQPiwoKxYAWQ_TeBCQS_pxbfIoQ3Rw50VuMj02fAzEBWV1s5RdYy5hDPU7T5vB",
+        "width": 1080
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 204
+  },
+  {
+    "formatted_address": "Emelia\" Ground floor, opp, St Agnes College Rd, Mallikatte, Bendoor, Mangaluru, Karnataka 575002, India",
+    "formatted_phone_number": "096066 62282",
+    "name": "Maple Dental Clinic & Implant Center, Mangalore",
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108038797246367053274\">Maple Dental Clinic &amp; Implant Center, Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DPaVl0NveqzLNcrbcxi-uc2aF8yLmWK_8669Akrmn9pU2nCUikLLg6fYCB9998pqoaGIQ-G0p0PNRjKru62D44rdJbpX9W73q5Bjt-RNsNN5WmnmyMHAEB8Ye5_QEBDN1tJBrAvUlmLxLJl5dYlz-sSIDppPkUoeJ4w2w_g5GnJsABu",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108038797246367053274\">Maple Dental Clinic &amp; Implant Center, Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNiCxKpLo3CD-W5E6yyhKs6SdTW3TvJ0XhxnqSpaU9Eh5azkcoSXiJlaiRtNkDnJCe5EtK-CsIWSJ9PhifPvcoR9yW4XRDtPmrzkD9Val4ImwzVe87wamfgGOPQQH_RgYgHFYC83lTSn1wI79F6V4v6SR6f_unFd-IKZiCFw69lKL1w",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108038797246367053274\">Maple Dental Clinic &amp; Implant Center, Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DPfwgLWGuUFNRNqEBTZK55WDXHJTLiFKiJVNoPKbwhgTa5FBpLAPeGhg58ECE5Axtr2ixb6wDjHX1aYhXZ53FWl79wp7EFeLs-YKAY_d1JPXa9dFRbpu3znWAWtqOee9SuYlSxjs87fzqiTUGP3iNtiuCTDLdFsGClI5Y_PIuLTEbla",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108038797246367053274\">Maple Dental Clinic &amp; Implant Center, Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNsP1pm078FK0fd9JfK0ZPf1XSeo3oVCxN-d6ZIS9rtHtWf--8klRyf1o_rDew7P1VEZ8bcUKks5EoUPvUOQ1szSvkduRkvK1lLzDPsA1bhnx9jXrTNT9Ix4DO5zt4TwNQ-MPYgxaCqu2Tit8qOaNk53Vws4EORT4yxjVTKMfwcHKqH",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108038797246367053274\">Maple Dental Clinic &amp; Implant Center, Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNMJNwY7ZwxSNt2hpGucSFY5b39z4G8WoRQkJcx2Yx0lRGKAOE5gDyRogweO2w4D_bQ1MMnUJMTwQ0Y_7BtHaXsPXotY-suT6Kz851natc0sLCKG54T6gxnSU2Bcd0lym7MvLaqVsLAGv52hxvIazJMh9YZnNY0DkD_P_Tl0C4sQAKD",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108038797246367053274\">Maple Dental Clinic &amp; Implant Center, Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNtRmU75l7OFmeI39fR4zvwaS1AYaS0On3YBDP5tSgOiE1ZjV3aUkIYtfJB1A36cQ-6KU619gY4rcLfOtBdvKX_WgM5wjvoVARY2MPQSlJjeu3FVuRYsJMazpZzkt8vDKX29i_0eE2bX5SL2xRc9zkpIaqAVc4UMEU9tPKQPz3Sbe_v",
+        "width": 1280
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103185335954763986570\">dipina dipzz</a>"
+        ],
+        "photo_reference": "AdCG2DNUzXiZomJY561BvCfLtnooNM6-39BcSc43DywZxIqs8S0bjKAUxTSWPR1Zrh5xfqWhT5nyBdXAu4vAtshLW0Sy3JxYauIh9MpiMCPl-400foni2q65TAgexQp9knmR6wN2y5b2qmpeavm1uQDGbLGwDJDqO4FsXKyqSElxQ-jbxXGK",
+        "width": 3024
+      },
+      {
+        "height": 438,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108038797246367053274\">Maple Dental Clinic &amp; Implant Center, Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DPX9Cft5vzTJTa84otUi2VjUHWNX5Bh6KGi3149spIYC561CJP4NmTkx38jP99sUIhZxcF4So_F96cPXiYhGXTa98JYbCr1gcs984uDj7KF3r22DjMPXuzFeUw_Vuhybf-iWB3R9Kdh4EmLYCQGRINqGX8KAV6VEzWYp9ji8x4WPNh-",
+        "width": 348
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108038797246367053274\">Maple Dental Clinic &amp; Implant Center, Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DMLaGegcSlZC1EKFnDwhSLRHhF13uTXonTN6ApfDShYKCPfH2DqzV-tZbpJAcdiCgKi7w-dQQM_kU0Si1QvOqoee5RL3S5BsbEUrQ1zO18aAc_C2V2THzWzzNDY7MymVgcN846ZWtM56HDvmeauI3t3TLNkqIOor-5JdHuJknUJv3vJ",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108038797246367053274\">Maple Dental Clinic &amp; Implant Center, Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DOOqV98OeAA__R0qBz9MPrsx9tznLuZAVYz0HwKXfKiclog0xjpMUCrWvQAsbJ4BvtkBsIBqpHAFDQdfiwJhIVIIyNcG0h4dD2Fd7pCGc6wO2e6YOHXSxPebyYmQuKWL6AggnB7UFkVdBBzRS8K-o6tmiLOQHXkYuEdzzg8WmZJbpbD",
+        "width": 1280
+      }
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 28
+  },
+  {
+    "formatted_address": "Dr Shourya Hegde, 3 Floor, Lotus Paradise Plaza, next to St. Theresa's School, Bendoor, Mangaluru, Karnataka 575002, India",
+    "formatted_phone_number": "099888 14444",
+    "name": "One Dentistry - Braces & Invisible Aligners (Dr. Shourya Hegde)",
+    "photos": [
+      {
+        "height": 712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111878420541139252210\">One Dentistry - Braces &amp; Invisible Aligners (Dr. Shourya Hegde)</a>"
+        ],
+        "photo_reference": "AdCG2DOxdav6v0r5v95VctzfzCBe1Xz0G6_c0jBE1Df6s4UwaEG5gzrDNKNmpnSoE5xpb-_vh7MrgtThPVL46MYDVNRSYIuVCaroVsh5xZzZGcaT9BCnT0k7sFnPLDiHL5AWzOfpAvSOZksplbN1IFFMY98DqCxsCHIcgIzoVAH7hR8Eg2aF",
+        "width": 1072
+      },
+      {
+        "height": 712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111878420541139252210\">One Dentistry - Braces &amp; Invisible Aligners (Dr. Shourya Hegde)</a>"
+        ],
+        "photo_reference": "AdCG2DObWOF0yNw8QYbYn_tBwnSAt8Wwm_H4YqOxhA07INMky-7J6Apb66prByHu4VOofVL3NnBrGYowGXiNTkmo0JipPRocws3LxDPA9tbFfh72_QgL3JLrbLCDjN83ETSQoxj8CCtJopP3s7uZe1UTAYLxwmBoch4oCohl97v6c6t_aXbi",
+        "width": 1072
+      },
+      {
+        "height": 712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111878420541139252210\">One Dentistry - Braces &amp; Invisible Aligners (Dr. Shourya Hegde)</a>"
+        ],
+        "photo_reference": "AdCG2DPitrwzxHXEO73GKVALbK3STC2xw-HI461VuNPkUICsb3RxUCzzyEXylb2kKhjEdM_l1dlehCAIZ05Zpwujgl76AnGaW6-x_fYA6oWqXWjGqeom2U-D3bLY6u7xiMMCMeOXCm-Wfdv-6jMlmIW-0nEwjfNZY1gCg-jaRQKjt58Q2DCt",
+        "width": 1072
+      },
+      {
+        "height": 2877,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111878420541139252210\">One Dentistry - Braces &amp; Invisible Aligners (Dr. Shourya Hegde)</a>"
+        ],
+        "photo_reference": "AdCG2DOGZNV9QU_iMSXvrdpgB9VnvEZlpQ2qKgyY7OakL6f1GZ_8ek3LNZbtdjwlz2J6ubuAc9T9ApfzXczgkFglviFYTomE0kK8NUvHdg9QrDxo7Rhac440XLxa_Wm8HzrTG5CVet4P4wnwJSNC1Hzqo1C5YIQpGr9kXTq7npz6PB61bW7F",
+        "width": 11000
+      },
+      {
+        "height": 712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111878420541139252210\">One Dentistry - Braces &amp; Invisible Aligners (Dr. Shourya Hegde)</a>"
+        ],
+        "photo_reference": "AdCG2DNUjx65zA2wapF_liYGEURV38zNkCPnuuCQSjw9vxo9PjIMIyXeAGl5dBHsJAYftnhW5Ue2PR1yVTnIup7MkA1YZmP9vlx1w3qALComvddkrK2kxTVa7BRiC663QxIdAYN9Vwc0f_DVDfPWJYx9_zuZmmuNza2FL14foM3qpM-VzZDr",
+        "width": 1072
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 63
+  },
+  {
+    "formatted_address": "2nd floor , 212 , Balmatta, milestone 25, collectors gate, Collectors gate, junction, Mallikatte, Kadri, Mangaluru, Karnataka 575002, India",
+    "formatted_phone_number": "099026 08077",
+    "name": "Elite Dentistry",
+    "photos": [
+      {
+        "height": 1702,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114477000545511741502\">Elite Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DN4YWrPTPlniUSjxDG3iW1Z5ATha_irxBltVzxpBz3pObn_JXzCFfoAhaagkr9bxfdq7TvdBtIB0AGbE3zaT0Dxo_93ulu9R0IlWMytcuZiH3nn3GwYmZX40kOd6nMQXIOZdW2FsmFwTWaSUyp9cM5sXOAFIvA4Z6fbb5vawXu1RcNO",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114477000545511741502\">Elite Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DPBp64WpT4Ijbvn8hvNpQoa73s8MEvkfIgpQV7SJLcwy2sBfZjxiuUs_CWZCtBnXX7sVag3dcZYnZoNkmG3TQAGq18yBY9Jlz_XtEn04HFyvcmWwZzy33I15mKbjwDQSujj0ROEk3fJxK2PZ3kcRDB5ydB0Mr5E6sN7vfEcR-boBxxb",
+        "width": 3024
+      },
+      {
+        "height": 721,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114477000545511741502\">Elite Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DOgwsAQU_hrO-xR0OTJeOsNLKMqui--eQ4qEcHsior22acXZGvEr3rw-5HCfPXozK_U98svaWq9qsoFTOLmoBJ4khMhw_I8SOrHsI_NXoSmIN6n2SxuCc5pqKqD3JBMZ_SBS0suJjR_ntsLlJO4lkMM632qSOVqbdNYNwcmnPLnJv9I",
+        "width": 1280
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114477000545511741502\">Elite Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DPkyZkCH4NW4lDpHgflslo_ys_DHyCwSuPeVtz_Rn3k5kFvqbfa-HoqcqvyTACcxK7Z7azZatiDKV5Akh8tNX7S5aw-HODYK3BJXL3X93GPuNTcVChDxhekdcnZmhsesv79Hnb_Zeu_OnTWvkHnyWg5pW2PuhsN3HeMtivpXFwStAYb",
+        "width": 3024
+      },
+      {
+        "height": 1081,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114477000545511741502\">Elite Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DN1HL6TSCga79TOklh6ywZCQiOfHHv2dY9C1VoiBQ9jLbgLMkjQDkGA-tT8Spk3nAY6vcvbNZeUcgd8lvscuYKyPR_2dq7dhdM57Yct_YpyJVIcR5fzVBh9O5HvmZZ60zeDzL2okTWuMhb93IOoznsJm0pHOY64Mq-RLk0U4Vj-xjmr",
+        "width": 1080
+      },
+      {
+        "height": 772,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114477000545511741502\">Elite Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DOjxoDP0Mr8V_8ohSaiB1qvzk7aPuTX31bIUXh-h5zuMRbY5uG1VBEO_1ZeqBzgA7-LDiGsCkDMjHF8PcmZUAEYRExQFHxNhqASilS2aip1o_RNIz9KfT6PVGVB1MCy1Ng5a6eP4g2o_AOqNNsfgDKj88CObJ-udbXX4C9dLbbVnr9K",
+        "width": 1241
+      },
+      {
+        "height": 747,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101363043339740354413\">Dr Nandish Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DMAvlcEoFmoDmPx1BLTRBCXAPJLYRB_deA2Chp9rExxHPaJDT6UKmLu5OuUTdMnmXcNMHmrNfKAmkTOUUqgqCIc_LhcBOqO4pjl6NHgo8ItKI45eX1Mt8yjj4uo5uLDEhl8Ps9164duZGwpOJlq1mDZYcVedYQxaV_aodC9auByR2k",
+        "width": 1242
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107630386482247675882\">Ontibile Amantle Mphoni</a>"
+        ],
+        "photo_reference": "AdCG2DPCRfBHEHK_W_LKjkaZ02n_8rC8UIxWTKJHd4hcB54ShzIo-4bo4NFwCJUZ5l8_BG1Y00YZGaviFRDXSjsDATLh9_8Gm794aRnISTjHh2OF5v3iylFXjOo4c8-OeAqzZ9uIQeXG-YQLsUAi9efjseuOsWXsexpxHp08u4MUBWGMB-gG",
+        "width": 960
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101363043339740354413\">Dr Nandish Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DOXJE5LHvNUZbcv0RrpEpqyo-Ka4ovm42HpgpPq8h0J_5mHXpQ1uYSWAGTTloeLgghAluOdvYFu-UybJFxdK-MDvbIdqAfJH2Rqs3x-1vsJIWXTrT3qs9pvvAnrsSSWqIjoZO8UDl80anmryFKdXPJ4Iw8VLXSvTs0g50VK2Bf9zkI",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101363043339740354413\">Dr Nandish Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DPGcIDInwBUou5I995yc4AMLwuFTobDeQulTlTbRUrek5saEniW7EqA9DPtXVICtOh2cZeK0qjNoN3gYps4A6P8iszrZB8ic89rPxCsI2v1SdiEiz2r5lwV7pxYY2CzJ5zdYBphmwpLutlA4qLSa-GWqlwEwmbHTVky7Sl6_5xpxbI",
+        "width": 3024
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 287
+  },
+  {
+    "formatted_address": "Collectors Gate, Milestone 25, Mallikatte, Kadri, Mangaluru, Karnataka 575002, India",
+    "formatted_phone_number": "094487 23151",
+    "name": "Cardiac Care and Dental Care",
+    "photos": [
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117140527531255852155\">BV Manjunath</a>"
+        ],
+        "photo_reference": "AdCG2DMocukX2okTzmJARSjwkTZlVNPe4LMJV1ivwYY-TNMeKKqKwbUzl1WEYCdaGuOK0LQRxjjpmRQMD2Du95cAXgMJAvopV6bTPnYPSSK74xmXn3M9FRlsi59-yRJtljXM5FMh59HoTsfpu23ClY81mhsMJMXkAdlkYJaL4p2qQLsURK5W",
+        "width": 1560
+      },
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117140527531255852155\">BV Manjunath</a>"
+        ],
+        "photo_reference": "AdCG2DMy-RWdMVK8W2zEJV6zGds_XkGTHA2QZ2hphArZP89zvtmHXbpFrSgfrtj1wyuP0N9lr1iJqGbECzC38DLywXAs9VMWkwxAOYh7SFlWjBzv91LqSOkVuzyiwE1md7xhpqQnIiT2msfuvPLe3uIARAU9mPSawrBOurkfsYeX09fCE_XG",
+        "width": 1560
+      },
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117140527531255852155\">BV Manjunath</a>"
+        ],
+        "photo_reference": "AdCG2DP0Q1EZ_NOiNideEE7u-F_3iUMOkICxQa-Ymy7ZMVG8TBqe1b4dWJ8SEEagDrY9iu9RYTmqseFVZU_27N54AyV6GeFKMyxIAmlXOsNNk0_1RNieI7JoF8aEBcQblAeMICPN-JUNzSV-DlnfyjPKgheH2ZhLwVZS5iBqtTwi_CXvWVUF",
+        "width": 1560
+      },
+      {
+        "height": 904,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117140527531255852155\">BV Manjunath</a>"
+        ],
+        "photo_reference": "AdCG2DNGyn95MS3rJnjfdffYZYoOPE1eTNMmexX5IV6gZWrQV-OK6EoAqplVYb8XgaetAFNi0tiMiH3qFeVyUz4Sdsn-eDaqyt_YyeAroJg1EcEf2bRu4JnVjq8gXozoMCt4MsnGPz5kKPrMJ104KjE0mG6udBkWqJ5vWBOAwOmQ1U5T7r6V",
+        "width": 1488
+      },
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101299392794174209731\">RK Arala</a>"
+        ],
+        "photo_reference": "AdCG2DNFRhs09TW6lJTbk6KG44pXPxvtA-FGaYeqCSVhlqArR_O9Vd5luD4Jb2cPfJH_a_5nSSnRUSdpGrPeeiOpgeLF7VzpDaCEnyP5vgnhJXcKNGgzgotUGcnrwgwaFA8Lsz_Bj1RX4cE4BVGsXSKXpM0EvlqhYHjIEAIvGLiWKoTsFtOm",
+        "width": 4624
+      }
+    ],
+    "rating": 5,
+    "user_ratings_total": 33
+  },
+  {
+    "formatted_address": "3rd Floor, The Trade Center, near Hotel Woodlands, Hampankatta, Mangaluru, Karnataka 575003, India",
+    "formatted_phone_number": "090080 08040",
+    "name": "Excellence Dental clinic",
+    "photos": [
+      {
+        "height": 2610,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114878585804589255918\">Anoop K P</a>"
+        ],
+        "photo_reference": "AdCG2DMsvsqw2sNJe7NCuL5LhOEeBT5-faBIJ3NpKmnid1nF2Ss7CKdxobYBn3PAVw6hBNgetl04VUHFXndFhyVsSSWXpaVLfJyKQvSV4DsXfvGWRuP0KlBWRyNMYY4XwXD1hrUJstbGbxfhzoaPtRikASexINe1x226XAf0TP4OizjaIvKi",
+        "width": 4640
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106393590923080060943\">Karthik Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DOjNruif7mVEjR4y-N9ESHxQm-eXc9R2-qn3akdTIamRVHjvld8eDAjL4lVEIQ4RthCuyIVeW3lzQBf8Kdm7yc8JiMPkRqcfyNoiQTdAs1EzbgOrEjvTxcKkGM76NVYvl4P9mnR0yB02BG7HZd0BI0B74k3-YEKQHx2TVRTemGjRvH4",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106393590923080060943\">Karthik Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DO0wEKnp4XmNEUMIfyBR9rLUTcmKRwPKaZfEXw-5e8UsKMD6_MPB4u_aosXhgW5GwYvTCsiCk-1nvdvXhJKZVDPp6v9YfH-hErnxFvEwb_scSwzVh51N2KLaZIKkBTcTAS1jzp4tSwKXDHM6672xxgLjCEEctpeTQdTD_g1BDjDSC4R",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106393590923080060943\">Karthik Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DPu9p7ukLjCN9gj9T583YRJaSqFHfRFR8mHluWsZNqMdYcV9DM_2LC3dj5hO4lLDXItg7V-fSQl93heh4ZGLca2m-b1GS3_PgihVeoY74Yt-rXnNFAmsUis8616qN-Nxd7blZ2U-vr8w6QQ4ynZvlidsDee_IoT8H4H_ZECbMo8SIl-",
+        "width": 1200
+      },
+      {
+        "height": 2610,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114878585804589255918\">Anoop K P</a>"
+        ],
+        "photo_reference": "AdCG2DMvSZNkFsX233xYsTnZTUURiKoSIIjEcyr3LI6Z8HAnbKtLTEtAC1ufKIIeYpz1jib97wD4yUpcMKK0Wbv5e34rKfKDTV93bxMEJsEEFwaefR4enbN6eYDObu-WM6tV15T1HnpOTLQnNLRr2Dn9f8tvLOXvt_gn-gR7NGJzkYUBoG0f",
+        "width": 4640
+      },
+      {
+        "height": 633,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106393590923080060943\">Karthik Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DOWlNTwyefgJILK7hNhBUYMsqWfC1X_P271ouUyfptXr1Wkqf-lzNbzt01KGJDSkGo_OxpobdGuPE8S83-zNJv7HSUwUMFNwVpLchpAB08OVZJv8XIjPazSqtzU6JK4-DnCZRQGSXgyLYMidj58gdh2Y9v3d13KI-Ars-lnuawhyJFd",
+        "width": 1116
+      },
+      {
+        "height": 1733,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106393590923080060943\">Karthik Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DMs_BiI0etwVJ26ohoU8L_sA5fkgokFqtOUvRbVzPWUF0D0ghUmA3NvRvg_jjTpTQsjvsSRR-gKdVHlaWn3rrfe26L2xcqRpEQWuacDR2H-4gTiCZHV3xOXPrOX-eOAqf4Pi5Utamtdv2bHeBol_SZG7J00Pduop8tF0-tPbzrihCvy",
+        "width": 1157
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106393590923080060943\">Karthik Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DPIB4nvcdyuu1mg-r6tNLKIERv9N6h8FIv6R6Lj7hyvjYv--uA1Wk4rS_d3sqS3RbhHh4XbkPr61N31P1sqJIWkTbE-Mj_Jq5mKVfbr-AXDoE5c8PH2uq0M5y05c2QLuckQElpkGNH14A1UgHbelOUAgjzdFFSeNMeGLf2uWdTd0ner",
+        "width": 1200
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106393590923080060943\">Karthik Shetty</a>"
+        ],
+        "photo_reference": "AdCG2DOxXHG9SuFioPZ0mALBezl_8wOvYUkden8ewDOjxGTboqYDwx39kL1XViWDz8fkLcfIjuGtOO6ABF-v9jhx_6p7SDEWdKbokFKnA_igBpscdx75EIvoyK5Fuvb5gvuIeU_rWVhGwdj0shpP0M3icPzpH1JbCe42XxMPjXgsDzfKJsh9",
+        "width": 1200
+      }
+    ],
+    "rating": 4.4,
+    "user_ratings_total": 24
+  },
+  {
+    "formatted_address": "The Trade Center, Bunts Hostel Rd, opp. Hotel Goldfinch, Floor, Hampankatta, Mangaluru, Karnataka 575003, India",
+    "formatted_phone_number": "099168 20253",
     "name": "Dr.Shailesh Shenoy's Pediatric & Multispeciality Dental Clinic",
-    "address": "The Trade Center, Bunts Hostel Rd, opp. Hotel Goldfinch, Floor, Hampankatta, Mangaluru, Karnataka 575003, India",
-    "phone": "099168 20253",
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNL2oIv8rPiKZZuqSLqcV2kI-NttfhXfH1DcfG29hnYb9wX-hiDDaPqGpDt5ZXcxFxivlxy-TvqKdm_uuEb25AupNjAEdKjkJEjsweeED3wGgPehGiz4EWeMBMWzNnX1XolCiYmAWmNfSFWYIWpBTiOns6vBqWgS330Q3gN7zcxUmC-",
+        "width": 4096
+      },
+      {
+        "height": 1036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNrlXPKUnMxZb5h-StC70V9MA35lqIXz8ajeO8bVH0uMjllsZfWW_WDQFgz6_x-DT1Jcri6P85itVhH_u78Km8hG2zDl9mXDY3_nKKGX58cVUzxtXh9lhWEro3QFRmawX-aZxoBuCkGrZ6_7rCbhTaayln2llzYF8CGI8dS5lttnitT",
+        "width": 975
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNIYRC1-Qn212szLd0FfK4SwH1IuzSGSJIsowIo5fsOlKAREalk1GINgRz0tPQATrnv7xxQdSRw1-i0k8T4SkoM_Qfg3ho9fr4rGJT2himCZLKSJhNgU4JDnm-6JWTZ5C-q0kcX8T7BT-FTkaJg2tazeWZUe70cUTNrNABq-IGBiqfW",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DP5Yf_gxP7jq7pJDyCtJHXURDpvl5drKzbLEIOuZXOzhTVvdQGGoUIRAPEwBrkLyz5a1w475MGqUYHFa8UjfstjZECHeQ2Ko2XIwP3cVUf15Aa9ceBOCDc_ietfRdjhUIYdOsXSV9zJqYjXH2cocniD19bbcBeVBGhqgGZ2MrYL72Hs",
+        "width": 3024
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPCr-N8l2KGz7EIsEiRV_scXNYpmxoGw1n0loCmI9NszW4bxtWUvXxfxJqSNCDGbjK06NBrByYuyqv-DymxzAZ1i-IpSq1PPJOJw3nCds-t1fLrSHpV-lSfvbIoRtpTWWUflokUKX68U3q_Us-aS0BckOpsoEMF48nvjMC-hUa38D7a",
+        "width": 2048
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMtJgKKYbbMR03O4UEiRVxeLvaagkkmB-DHsJPx9vbsNAa_JZNwZiMTjL2ZVy1qN7DE1VVqmyWhJg1g9-oRvFwnF5lF7PVIafoVNsJNOQgy6lNQfO1CgrOKbo-fVYZecVLv-UDa9ulhK2teD88JzdjJljChWafUnKaLGzU9-AC0jLbq",
+        "width": 1944
+      },
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNaTYJtviJoYNmf9zL3HoHL0WwWkeqD1z8TOmrcbWtJy0IYQAGyTA3Ha7tEP3cv_gLedXSBGMQc59NH1o9dDQJYDwaV1_OM58xRqb0SGPFFcWsbpCZh5g3lXsPC6MTzww-tSQgWe2ilucYPTD1cZJwQ3aENIOHXI-h0m8PHlm45URyX",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPuEivksIP4fE6xWDYyfc0RfIHcDm_IAcsmHm7q6iHxW7SNhP4xk09nXXqpdyZtoxw7VFg1z6LnJlPU7T7VqAEnraG8cYQdpgfIhiF9LlVw4HuNr_MMEfnfpbRb3-XK-OnzviAwniUwrz4TPGSlrHUxUzpgyEfuVEMh1IcoasyGf6Ao",
+        "width": 4096
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOCwK_ZS-OVvY1ivp7YM8ePFbnpXG0HOL79UWrAd3ti56XftqQxP7q1oHr-ceVAc5adNaUVGbcRuYUCDM7lAIgNxNq1noo7A0nLEpGBdHRufWKZoB6ptb9nONRTOJhhhGG-vqqvd9GGqGO5Tlqs7wWEO8-UQrwb0lXKm3cAhgStqGs8",
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113634590268559686323\">Dr.Shailesh Shenoy&#39;s Pediatric &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNAnS9PIrkdP5Kc4Sl3WSeajgk898NcfgbriJyf4BF8dxhoIGRkdHv6LMPAW8dudEacQQ9UH7zIqexAs7nuO5frLrASjVcxpzJrQNws4dM-GvjyCpmzjlu9IGnzeh-mshTQnGuRCrJ8E1Do8LxRYRjSn1qoTsxpCGofLlyYCIdne_5z",
+        "width": 1080
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 97
+    "user_ratings_total": 97
   },
   {
+    "formatted_address": "Sharada Vidyalaya Road, Kodailbail, Mangaluru, Karnataka 575003, India",
+    "formatted_phone_number": "0824 249 2628",
     "name": "Sovereign Dental Speciality Clinic",
-    "address": "Sharada Vidyalaya Road, Kodailbail, Mangaluru, Karnataka 575003, India",
-    "phone": "0824 249 2628",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DONlsJoItR3pQtWfQIp9P9DKQ4qWAw2NCuGitKRUlRdhRzf960LTsiD6grsxkmPjTUrL_P0QglzrMvLLSXxJPfAHbM9BWRt6EvlhtUMlCxHLOs9_6f17_BRbOrKhddhohivTAWFnfTFVRV1Xag9bUpxiYT3iHiHwIFdN7mHdLgvQGqT",
+        "width": 5184
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DP6WNfuHalp7DvdSJxoXd_4P9L0wkNgEEqifGiY3_k1tQh0J4yNoyGU2jXDVdlxAz9m9zxiY661IMeV8KNABhPoIbIyD4RDdG2peEgeK2dXQytNK25VtkdajzCgsrsdOzc7cexVIv1BAypO14izdB0ZtjgLTLM0ehDcHtVb1C0v5FJ1",
+        "width": 5184
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DPprjXnCWhlSqGuDJDBwvebp4IYkgEtFdkXXa6NQAdsJudJKU1J1NREYyMvMfHnh--R7ezlltpgN_Iio0SOIiVXAMa18vUIOBuz4WRzcMvD2wF5r9I_ET1vb1DlueO1UfCVp7nKIw6jUTO_BovRsm63I_jjS0ZalN2b0piVThdV0USf",
+        "width": 5184
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DNk6Ey2ulAsylbiwcZJBKUsQCbLKe4k5kQZ7OrWxmUPhj1tcRfhVFk8nzORPwSu5A6VU4Io65EO6MW2DzbDR16kyWSUYJKhEvejShOTogtcTNL45-PH713yOzyO_xAR2mXXchh3IoAEFCr7-1cgkQdkzq8a5izvXnwJ16e7PqsIoLbN",
+        "width": 5184
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DMzWvPCq-9KbXNnl4rYnouhkK8QkNpV_qZNe0Vt5Inb1Kx1f_3Fd1hnQ00aIRUzFY2V8s_2lRlbctZhmCn8spDBBOwR4YH_9wp0R7vp_-WC8Ofd16wyaQ5g6bvPkpmjgnSxWbwcHdD0H-1nGj2rXob-0zt3AWXKddytQ54opzKSDAdK",
+        "width": 5184
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DNox2TJ0r1ah06TGS3_XqIePn7MgDSDJczDWmLi4ugp5kIaeAywUc_OWTfkh9T-1VazqI8O1wV2HOvroxak80GSrdNTQU4KqlELtzGmzhOt04lf2N5OdLeLiysUxl2U2KGhuDDL_yQuiHExBBtGy6ziDyEJVqKx9W5azTMk-AZOjqbW",
+        "width": 5184
+      },
+      {
+        "height": 5184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DPmJQZR5ddxv0BqnD09r_Nul-RWr8IBu3hnhG9iKscjw9BqbRgino673DWtT5DuKVFjZTf3ojubDudJGsJR0z3hhMPE6D6AluvOriqX6wJLnV_eCjZZs3NKsPbviyPXhLC4Tad7c5s-Eet4O_ticN7cpIhq7o5H8jSMSsjWwJa8_UxO",
+        "width": 3456
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DN9Qd0SDRMSZswqHDVWIpMhgoSHIvXGWKl_xHttVa03BS3dVhsHsVF4GjwIBGUpPkz5oUj1XVVQFVc40pVl4sPWKLDumULbYWVuyjbBlPkJ7_nUpRdpoxVeYh28tImKU5m1bXUkueI62RC_D6rWMd7WMbcn5pDVTNWMIEXDP9eAj_zu",
+        "width": 5184
+      },
+      {
+        "height": 5184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104741285788836466436\">G360 India</a>"
+        ],
+        "photo_reference": "AdCG2DMFvbjQLqSonFtwgKXoR-rv0v_OZnk0SToAEubKwGpFwBzM1UIodyE3d5BS37mEQcO6pMbB5VGtmZup2vlWsU9JOgyrv3DVEAlhddjVjNUeJeJCeNMem8Nc-VPOC99oEUVVC6AByQhe8nf1VobfIGkQGcTuSMu47xKGdifvIlrSfZUk",
+        "width": 3456
+      },
+      {
+        "height": 650,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102640932114257801488\">Sovereign Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOIwIWrvnZUqWvBqUD8lCD2iD3kcN09sGI6moQhgTJYUeGW5SRmlnTMrOAVns8VLrdgqSuztrYPv8MgGI8HbeCeradG4fGZSQafJa_aVAY9nX_HkGUWHqkDKeM9RPZOay5cNa-6yJCZC5EmNXN_6spkYTHtRL1RqW3OLquCErdrRHxM",
+        "width": 650
+      }
+    ]
   },
   {
+    "formatted_address": "Room no.009, 2nd floor,KMC Hospital, R Ambedkar Circle, Dr.B, Hampankatta, Mangaluru, Karnataka 575002, India",
+    "formatted_phone_number": "1800 102 4647",
     "name": "Dr. Akshatha G Kamath | Best Dentist in Mangalore",
-    "address": "Room no.009, 2nd floor,KMC Hospital, R Ambedkar Circle, Dr.B, Hampankatta, Mangaluru, Karnataka 575002, India",
-    "phone": "1800 102 4647",
+    "photos": [
+      {
+        "height": 350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105583742869824285877\">Dr. Akshatha G Kamath | Best Dentist in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNb6GKdWyaAYIGUkyKuW0K05prT2fkLZ9p3DiBHnjcO0UfOiqrY9r57cib1KNItqOvNuvN7CmzzxjvMxYBePXQ6VcU8PlvPCGd1Hf8SrshFeT6OIMYTgSLDlJnOmwVBYDCFUSScSIEtDF__Y3tcdRZL6BI_2p-dRcb6HBH1--CzO6Pp",
+        "width": 500
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
+    "formatted_address": "1st Floor, Oberle Towers, opposite Juice Junction, Balmatta, Mangaluru, Karnataka 575002, India",
+    "formatted_phone_number": "0824 244 8815",
     "name": "Dr. K. Nillan Shetty",
-    "address": "1st Floor, Oberle Towers, opposite Juice Junction, Balmatta, Mangaluru, Karnataka 575002, India",
-    "phone": "0824 244 8815",
     "rating": 5,
-    "number_of_reviews": 5
+    "user_ratings_total": 5
   },
   {
+    "formatted_address": "1st Floor, Oberle Towers, opp. Juice Junction, Balmatta, Mangaluru, Karnataka 575002, India",
+    "formatted_phone_number": "094814 46634",
     "name": "Smile M Braces",
-    "address": "1st Floor, Oberle Towers, opp. Juice Junction, Balmatta, Mangaluru, Karnataka 575002, India",
-    "phone": "094814 46634",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106069681774631205693\">Smile M Braces</a>"
+        ],
+        "photo_reference": "AdCG2DPlyDAC4tQYPvvzkNzcocaMsGwpEswOoX0j0LDpf-T4Ab6ttYRTx8rHJeNqVOayQKpwBTv-tZSgH198gsfECQJ5F0QQCWaxX-sQs9YFxYVabcZv80bu66p9sUyy-JiQYM_OD0df7nJrUXCj8CMQsG5EpanIbJn2rnCoAn4wrPX-7qyl",
+        "width": 6000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106069681774631205693\">Smile M Braces</a>"
+        ],
+        "photo_reference": "AdCG2DPerwU8OMgCEAPG2KYyHZWXrMzxEGFq4NG51eU8g4vbJgvBgdT5ePL4EfkwNztB4HbVIfNpTJ0gncOi54zAJeTf1E3L2JJFNLDBlyUpS8h2Is-EvinVH1oy3A3C6NjmVRHcdeWmY65LifyP1FuKm2gKGzY9Sf2lPzEmHAyILQL_mVJg",
+        "width": 6000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106069681774631205693\">Smile M Braces</a>"
+        ],
+        "photo_reference": "AdCG2DM9JFHHAx_uA4yqb4gIEYBHDWfsm4HS0lcOq4WR_p7E8oCyIP5FqVR-8KoEmi2yJG8EWkqQhZzZ3S7YjWl-2O1Jh50mlgVXs3rZw1PrT-ufFiv1K-OrNumUEO_tE6yMPVDkNABW_Wk4OAvjL7O37Qtm7pgm3YBzeTMz1lesZF3xZHH5",
+        "width": 6000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106069681774631205693\">Smile M Braces</a>"
+        ],
+        "photo_reference": "AdCG2DPaoOlDI5BZN9Al0u3AoWLIKLic2radLv_awxxP-9-_bOus6koD5918sx7EEx5G3r4ateyJ0NYE4jlJ6Uj_s34g8JzDeLTxj7-TivytNoNwDXh-jcEFw3huwkDwLv0-agkeKq4Ij56a84jqmXSc35e5s-OPw0g_KvF2K9qKW5jYM7JD",
+        "width": 6000
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106069681774631205693\">Smile M Braces</a>"
+        ],
+        "photo_reference": "AdCG2DP9NtbQOxh_2aJBVFmK2UJ9D0MOVMJsUro1XI5OEXSmdDk6FLw3T9PDdxq5yrSF1jhiMvZ3x6r2mc98EgidHol8HL0LalsV9xw1qo3wvYT8rruWZTj4uccQ42eoYZ-FzKt37pFumedfOEPTBsyP95-eblRNMr5iDEQGCvvAWUujqLy0",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106069681774631205693\">Smile M Braces</a>"
+        ],
+        "photo_reference": "AdCG2DOuZtRFW8h25AZVIYx4nwrE76ZIlS63cxQj2JvFhwcj6xWSgaBwO6ZBA-ys_KyB5HNoNX4X42IznLSgFXNCzMnvpI8wT98Xzq2d7YZ9Lj04J4L0idH4lYuHB0N7NZa5_qALR42DhAFL7vn-QcJE9nE4sd9NJtXNo3f5NCCslcHBVL-y",
+        "width": 6000
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106069681774631205693\">Smile M Braces</a>"
+        ],
+        "photo_reference": "AdCG2DOHl1sauDv0T3LFRC1OfImUMtEB_1Osvgss2a_qHkfUNpkxC8E8h5a2ZUozNcKCYCWdcOeDCy3pzZedyjJ-P6j0CJUJlLqO7gKhnd21v_-RbhQsgE8tsRJQqJtl2OAQuBTCLOV8rq7a327b8OsbX1D6iFA-mXhU6I4IS0-zXFNnAJHJ",
+        "width": 1920
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106069681774631205693\">Smile M Braces</a>"
+        ],
+        "photo_reference": "AdCG2DN9fGiPw30hwwvMmlQ6dRwhlhKS6CvhJEXCIh6OOhjdUUXtgZ72JyZ8ga0H7hpGltlCPSjkvWLi8AM9ZBVmHUhkCVwiEiOt0HTkLnQRLDjIOeWTdLZQh0EpoHpzDGVAEAddLpsdrhyWkKJAodqPBgkEcq4L_NjemF4aL4Zign3NhfIg",
+        "width": 6000
+      },
+      {
+        "height": 3008,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105207428543641702504\">nillan shetty</a>"
+        ],
+        "photo_reference": "AdCG2DNbvJQ3fSBmxRY4PFF-bE1OipRkD5Qg10Xxr8ndgYOOPChYzAU8pf_fTZc6jKpZt5jS2VsZ77Lgw-vcZn_0rp_pFP1likpCyrHInlhqjXap2LhEetg2wk5Dm2qXtWwAQ1-njPi5pkTWkWc8aAwYNdZsSUPgAUtCOnX9UhG_sOkulfsP",
+        "width": 4000
+      },
+      {
+        "height": 3616,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106069681774631205693\">Smile M Braces</a>"
+        ],
+        "photo_reference": "AdCG2DOZyQ9_1pKrWjGZSSRIBFrfZf8bJdNbNi9PXVkUEJ8lYWK486AWp9iL_bTzBMqBu884ML8IQsQFQuA6KtMeJKfV3sf75xBQqP7WMK3W7iPQE43sFqBsdMYtv55BvX2SWr12wM40k1FmOHTwl7Kbbd21LKqSrNjrMhx_NVr3dxyXVvWa",
+        "width": 2448
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 6
+    "user_ratings_total": 6
   },
   {
+    "formatted_address": "1-C 1st Floor Kumudavathi Building Balmatta Road Balmatta Mobile: 9945677760, Bendoor, Mangaluru, Karnataka 575002, India",
     "name": "Dr. Mallya's 32 Pearls Dental Clinic",
-    "address": "1-C 1st Floor Kumudavathi Building Balmatta Road, Balmatta, Mobile: 9945677760, Bendoor, Mangaluru, Karnataka 575002, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 362,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107406324490227295890\">Dr. Mallya&#39;s 32 Pearls Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMiYSAa5vljUzEaw5nmxznY159Vmy37Q7zbEkFh2BnazpGqa5bi1DfES0_tCo3vH5zjvm63h71nzBseoVLprCpscQKIqTAnkgy_Gn3_8ULb4rrLhLI36iaYvSGNbh1NAEKEz71CHQJ_fJj4zpmR_DNOriv1R1TaQreJmQpjbr4ZDbZo",
+        "width": 642
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102792266815680284051\">Dr Laxmish Mallya</a>"
+        ],
+        "photo_reference": "AdCG2DOVb9OgmPjHq2MquLaIzv712zeVwT0bYA_8sQY2eioI6IerIcDH51P9vkb_NK_1Prv_-ipS-SwjvO4Wsb1IRJ5mH_jCWIjtM8lHdbHc9_sBZkgO1kU5fGhiiZPBo8qX4S8OmLwv7anLXeTvrMTYbpigMLoSQR6vikVkUuv-2BH4SETi",
+        "width": 3456
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102792266815680284051\">Dr Laxmish Mallya</a>"
+        ],
+        "photo_reference": "AdCG2DPb0dmhA-Lhay9dnAV55hIp80DhcRcLe_1leoY-pGOT1UCdseg05lns7k8jyT05zBQsqZMRIh6kDzMHCjgKOCJg1nyldsY_72mnzcWqz2OvVOh_0oP_Fnqgs-SSZOnj2oyU987niSQqObCqRnMb30FvUR2DMAH2iW5iUojmr3jkEE0C",
+        "width": 3456
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107406324490227295890\">Dr. Mallya&#39;s 32 Pearls Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN7PF5PwtINdRnqdHdOwYnu3ywqzhxaABtV6Zu97EF6fUVMvO4defvkuNOkDtKPD7WMq3Q8qjtbvQerna1F6GF5pgSgS0HkJN2JEeb8pmaqlT_p8XARgV0SeOvEjQOX1dVvwQIFfW_j2w9NEfmgf42zq1ahHAQsFnwK3jaU_ZB13xPP",
+        "width": 3456
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107406324490227295890\">Dr. Mallya&#39;s 32 Pearls Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOHUGhDSyGKYwzWb1qhh5KwoObXZnIuwuwPzJRc9o_0iB564hMLTOe6bBTQsqrV2TLHboS7WYa-tqaKYkcjO3jpr8rMWiowN19XNTvksknjZxUw5NI1T50MIwmUuUdcQb18ojd9hB7Cy3TNlVJSmLzBMBPGeVA-OJiCqf8epPMhf-f4",
+        "width": 3456
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 51
+    "user_ratings_total": 52
   },
   {
+    "formatted_address": "1st Floor, Kumudavathi Building, Balmatta Rd, Bendoor, Mangaluru, Karnataka 575001, India",
+    "formatted_phone_number": "072042 06494",
     "name": "Dr Silva’s Dental Clinic in Mangalore",
-    "address": "1st Floor, Kumudavathi Building, Balmatta Rd, Bendoor, Mangaluru, Karnataka 575001, India",
-    "phone": "072042 06494",
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNAOxyoZE77olMjZHCPOvSa2onmMpZtaRxOOfEVbwr1sqF9jAZfNDnVwhMfOltHJhI9wUOMlbKFwLGGzVv7jpXwgDqwzFD8ah50lQt4-y8oDerW8RM244iR7YTgt4dfFn0OTdxShjf9TR0WoM4Osc5IZZK4N839X79P5KJh0MKwQqCr",
+        "width": 2560
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNbY_ae9VkTJFttaU5MUIT4nvHKmf-YikxAl9IGRSTSSajgleut3NCuq0B9X4aJcnhcOBf8GIL3g8_1BXaIyDfLj7GrP6pNZkH4SwKuKgHx2ATx-gDkIambNM6r1QezW-IcpcjaAK5BoWEKmEcj3Y3WQ-JGjOitNgYWEYk3x_0aFip6",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DO_lzA0p5lKfaed6L_yT5ceJqVUaS0JB5RYQ8OYBjUmYqBWQ3lbQCsinb2KQVw8KFAwEs1__TGn8OJDsyb1zY3HiWUE0yuWSlxjm6SuMXTzQg9fCp86xCBbRxuCXMRvmMcHlAOXIrYlfoNc_gfHaKz548lj6OMCcWQtgQQbQmC3uiza",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DM_-7S2RZjDM3nFT3WdFQVCVZjbLT5R7wCa2x9-xhRleWv1kyIU9IMfsvpnZSLEmQTKzh27iGCNtkgUT6VsAM0kEkICQeXyqm8SdzkjVRHBfyvcU6F_ByJkUxngSKt4AW905KR6aiArB9FdArl_h_UxSa3V8cSEPFvSFKMUptlNG6hx",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DMat_4uE1GQIjP97aclrNELh3hi8CqIevDROiR3J7ZF-MSrCFdBNKJvE524kz-3hYxGNJIv7Cjw2nk_rU7XXV-y6gejO19i1yYguvpUQutV_KkR5kf8IsE27MSMrDRd6Bt54INxtAIzIkUhc9B0WbqjkHI_KPVyWOm4u-o-Un6ESQ61",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DMnuK-0IPsiISUt4ex4yHstEY4LqFPBMFq0bsIx8tqWDdXXqZhxSx6aeTUT5mjMYmE7PQiSXLl4arjzkUosW-R30YgbQVMu0RgtBNhXat9CYx4ets2YoF0Moy0rRRX_hYqfOqVjJN7De-TuvBr6w89G4nvkL76MFWe3b95VDXK8MKkd",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DPQgtb3Mh0XOJ979C4_exhg07FjfJCJrw4KEVW0sINXZNSNpSLFY3lJsmfaQifr5oLZ6cFY-ZlNtiqvk_TSH5mDA0j2xLzNOvtBGvYeySueb5DQkYSaf61T-JO0IK4G44vrqnaZwl23p43ZhyH28B1uYjw3DqvevewFj60vyCAeuddv",
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNLRzdLWQV9IYw8OJdfgwYVnkorQHqtfmuPT6ZsqaWrDRgcf-BtHgohdH0DuWJyROhmgpjsUMs-00f0V-f-0EbVkUV8a5MMOfdkDllpGre_GIlNyi_zuQafHBNqPW47Hg2biHe9mS5_6eSQGefrdSEr0Oy1Evcr7yv9u90gC7OdYYJL",
+        "width": 1920
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNhRQjgrTEn4nIOvlpsRUAxlbzprxQI5_-BsFAGGgqjVQSQ2ZD4Z1iSSBKAZYEZlZ40ovFDhPTZIHSZNvtQSEBCs4c20g0b7EImPLI2lSFFUFBHPTKos-zXK_-LU0FYY9kPtFOFUx7s2d0gevoPwy6WA4Yaj9a6ZLm82N2jYhDOS8Kz",
+        "width": 500
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116166972807488385306\">Dr Silva’s Dental Clinic in Mangalore</a>"
+        ],
+        "photo_reference": "AdCG2DNW9UO_bMKm7jiX5La0DDTD4qtF-1Kz4PEAB2Hovow_iSfLv27xaRA1yDotFVUlp2kFrmkhGmrqwrAQIBgrD4gVbtfWGS5iCm_0jUjt6K1NqI4ISLJNvMvzwbmr7_98sBkqNqIFKHVWamErazKGmrhmCpSBNNREOoq6_YpvALzUoUrp",
+        "width": 1080
+      }
+    ],
     "rating": 4.8,
-    "number_of_reviews": 24
+    "user_ratings_total": 24
   },
   {
+    "formatted_address": "Pilikula Rd, Vamanjoor, Mangaluru, Karnataka 575028, India",
+    "formatted_phone_number": "094828 17928",
     "name": "Dr Geena's Multispeciality Dental Clinic",
-    "address": "Pilikula Rd, Vamanjoor, Mangaluru, Karnataka 575028, India",
-    "phone": "094828 17928",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOPDPmL9w4clYQDvyobfhLUVR_iby1jYZButSZRRKSY-48r7BVeKn7NK1F-c0o3LMalHXhiQ9WAmk9SKmx9KoNkLuSRqbqeIaihkJ7nToIUib3wIpn30o_9rS87vdpTz5hyqsC6WOasXqbZ7RyN2r6xnD1B7vM1wzwBVqV7mVydxMSP",
+        "width": 6240
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPaFCaFPiUocE9Qp_rn2AvhcW_nRy4YHzKPV1CycpW047H-HdcOmIMsdjiHREyqOeUX4H9efbw0vnd06KrBQ1ZRlun4USammb9RtnQOMyF-UtbleFgj02KjONPjITm9sgLnvvY_FRuWKzFuhPfzL2y2v0yehYwfwQs59q2sr-JCuPd1",
+        "width": 6240
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNaG4rK3jrh0ULBfBy2ca6C8bUVtqVm8uqmIP7Xzi7ihih3p_iGihUBTPhBryj6TCP177gmq8j4528rhWHECS2YWaJnfk5DuMiljxTqFDQZYPbHZDqInp1RQchvSi0b6jrWNUNgmsY9IHFLoNA5pXE1QvA7hY7nJcM7SaQ-vTs2QQ63",
+        "width": 6240
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNcR4mJUd58LNzUU6QIGwlkZ1DUd7giWGbTpy0IUQ0YRJMumOETrPVITtRPoRQ1evkPV7wfD1KANnYsiNzI2hE7uGEm2CeDCZUteQx2ajw7Xz3W1Tl0opSlt7wzxke3RcQ_263FQfXSjophEbyJ0QJXcvyyKNQ-T1OG9UtbILlf6er1",
+        "width": 6240
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPNwzzRTpktcXEoB1uzXXEuDyWZ3_IfmKsvuxA5MkRq6t-13uOHxzjMLu7sfeHKsSP7g9NQedmX0LMofKpuGbVQoxA6AHou-ikzfJtFII2MMma8Ky12_wNdqEnAFvYvKE-DZTQzGbiuWmgas9Uq6slM0Q57aGZFe5kKY4tfSfcEnkvb",
+        "width": 6240
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO-paWttLHZW6Al42OFaRjXHDf5aQ4I_NegMnyaQ_VQ7vDvZByHucpabjaUluoipmywdMmX91nhhPxvR3Nn425OMZ1vJNJVw05qavtlxu7qXxx-FLbn47Gi_Jpuaon8rr0xSE_ILoP44Ps7-Fi-PxHMPRQclLExu73n9jN_Z7c3rqxC",
+        "width": 6240
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPk99KyLfJ-0iQUcXT2i7YJt8gPd9bqsaXj5XjSJXNYL8fIndms0tPIAAG-v6aMK8mhiIbJvCTNuMM6Xk5Y12EkDlPERVQeXXH1uueA6t2VC7i9urPACiJ9P8UIScZY2MjkkppA7OK_NSGuqca2U6klRwvU16Gf-HDIMrbWIVKPfV_S",
+        "width": 6240
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNHOUSobOKiBHSGXfDfHKiVfRbYr4lpY1I14np_quUum-8tZpJpEYrrrqo_ptWX5eId4Je2UWdR-ARRLn-vMCk3Qq3jqgaqTrK7gXWJrhZt6CRA1DIw3hoWVAIf51lPNOj-Om_Gq5Vo7mGfOCMXxgIyHY05URyGkjuX3x6px3ehwtY3",
+        "width": 6240
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOBB6mEw5tAt5OHTLKRnwBlb9DAvcejrZ_4-cINQAuD4VnLYoO9cho1n2aDxkSRG58gBZf8VESmFiSrHhQCLF2syIITG0Fx9ki4PTj2ccpMo2kS50AeH9TcIG8xBIOr_JcnyWyB9RlguN_lfttg9_cV9Z8jDAkUXuXG8UQ4QNTXL2d5",
+        "width": 6240
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101262562621530892371\">Dr Geena&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOzL0hgvKEbxhV8506vaE13fB_LVjxRktrExfO2UDYTMIXujELg0L5hVtb4ju_hvULpO-9AENSVa3VPbhSMt2kpYfNSVwYGSKbKHlwM2Qv88DYglDAd88pumbs0rW8YnhQPHm95FZIncJE4jWd2bDdCkifWgo9_Yge9zeFclii5yHQT",
+        "width": 6240
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 11
+    "user_ratings_total": 11
   }
 ]

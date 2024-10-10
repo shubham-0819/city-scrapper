@@ -1,352 +1,1995 @@
 [
   {
+    "formatted_address": "No 42/A, Ground floor, Sriranga complex, Vishwamanava Double Road, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570009, India",
+    "formatted_phone_number": "080550 37952",
     "name": "Smile Dental Care",
-    "address": "No 42/A, Ground floor, Sriranga complex, Vishwamanava Double Road, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570009, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 793,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116985311421428327488\">Kiran Yadav</a>"
+        ],
+        "photo_reference": "AdCG2DNMJi89Q3rJl5JkN2YCWlHA3LdlJQdBWNrRHlDjDqeFcDN-cOK45T8EWgiJ18SI_ls2H5gdiRc59RbezxQ0apZ7iXnEBB-a7633eJw4p8T206yTgP__-dLqYDYT1szqf3mYV61XeOuMfN-PauGflXtXhx_JyAvL3udOXt_D0uiE4LLL",
+        "width": 1080
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102537415709034876364\">Karan Verma</a>"
+        ],
+        "photo_reference": "AdCG2DNkNiO5CPRwbHb03qL8z_vYwu4QHW41qdmAIGt_ea_6z9ICMJfduTepSml8fKgG180MhyKGDyRyf7Kitn11jMTV0cQZUfRyYF6HzTizHm1hRxa0kI6iwNU50Z_6qnOId2iBD3q4K4NCsMYIMbeQpdcbW9TylaFAkH1RZLrvx37BSDsq",
+        "width": 3024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103726659437559090314\">C.R.Harsha Ankam</a>"
+        ],
+        "photo_reference": "AdCG2DNOOtOJdOYW52jlxW_6Z-Z7exuM1p01LVro2jDEZpH9JgcI2fJQ-CDfajGUhYIxYF-QeFYYlOhWUS5-tJmBaYJrr4B2OAisRLYSxWcY89BrYuyUqX991YyW25HiD65TTWgNE15_kI0-LT-FnHZHHxTJHpwnHbxsf_GBlzpM57HJxpYw",
+        "width": 1920
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110542809014115059437\">G Digital Media Solutions India Pvt. Ltd.</a>"
+        ],
+        "photo_reference": "AdCG2DPzpVryby-4EwiVj5SA_gX_XwBXXvcgHbSLLi_nqwowBgQ3z9B4KLvTgB-0cN9jfLv6Uota6YYqZAoMqWtd-eiNFiEqswEKVC5ntk5eJmsvFPOpIbA2P4selQYMQhppZPCDKckVPoaZbcN_7YS9tz8oWNTDanah67XgokpZZHImR-zk",
+        "width": 6000
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106734781339633965069\">Anach Kanwar</a>"
+        ],
+        "photo_reference": "AdCG2DN7TgYxLXSpJQBdVRPtFCXTzietXvU3j0s-R2BcZjz0K94AB2mvwou4rzNsWeOEhbynA0kiNNKKSDm0vfeZbAvrKzNrNmYMsvEujxywfLfUPSSPgBj5wCTYOsp-2GDEb3k4FtITmWAdkj3eagrrHT13v_LtWgNNSHpkIG9ztNM8izDz",
+        "width": 540
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110542809014115059437\">G Digital Media Solutions India Pvt. Ltd.</a>"
+        ],
+        "photo_reference": "AdCG2DNXFvc33JPNnzK3brzfjznUWl83k1vpsS7eyih48Nso0-e6b_cUaE3jJJaPnb78E4gJckQANWEfk06FNOpdB_fAXNd0VKSMNgKvCos5YpVurbP7FI0pfOf6xBv1To55-KO36ysnhvMo0gKR03peKNxyvZT4fY_owLlkH-DLP7qW_LVd",
+        "width": 6000
+      },
+      {
+        "height": 452,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114294369483237600306\">Karan Kumar</a>"
+        ],
+        "photo_reference": "AdCG2DN_MEbT8YhyijwTfoJ8B80-ML0DOxJ9qrp--pdPUcNf2cHuenTD9Duy9STjlgOPUzioi-3qYI8gm5oVeQffFZ2DUtJtQNP8ZTOvQcRNG1D4zwtNQG_Y1loDpltmFVH9SZGXxn2ylewrjxuQx77sYlQr1Lj7ty2_NkMFvlk_alZAQrng",
+        "width": 673
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115724583210325463287\">Naveenkashyap g s</a>"
+        ],
+        "photo_reference": "AdCG2DMWceK2W7xPGsZ4E1iQ9eg4WiUK-SSdbMwRqyU0C5A2d4EphC-vNJrduUVfqzmOQQQ_qc0jiHhja0mXRl0DGC890aL-BJR2ShPrVLVCF8YiZxW_Z_dh3BhaDTYnQfSG0oThhnWN2QyKA2ET5-XMIEY_qvWaKhI_DJR_2Vr55-bKe3mk",
+        "width": 4000
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113773330351936472720\">Raghunandhan R raju</a>"
+        ],
+        "photo_reference": "AdCG2DNTG-UjgdoxvPGCZU9vaEBJv2qXLyPTZXddk5s0Ho7LzT7jiqcAEz0XpzeBSAxi2Ta3Hc4vUOljlP48O0EfhY6yfFcdakX93DNMAia04Db0MBQZh-CJIrkB7LjtBZ88g8vhj9Z2RK7hWx73ul7SMmr_NFxChWNMpXvMhRKT9f2Rg4hj",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118183837766096824317\">br nagashree</a>"
+        ],
+        "photo_reference": "AdCG2DMEUCrauo56ikj28eLP8EttIMAkqAwyvNi2SBbsWgpAIE0y-KM2QHphj5OfO9k-0QlUAYcPbri5oNYW3CUVOVdYhxmkAEL8cKerF-38xIsALOj4YQ3rpKyjfamRRY4-P1ocYafDFxbN3zwljeODQJflKeiTiCB2NcbWPrwc12B6sAxJ",
+        "width": 1080
+      }
+    ],
     "rating": 4.7,
-    "number_of_reviews": 805
+    "user_ratings_total": 825
   },
   {
+    "formatted_address": "Apollo BGS Hospitals, Adichunchanagiri Road ,Kuvempunagar, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "081234 31714",
     "name": "Apollo Dental Clinic, Mysuru - Best Dental Clinic in Bangalore - Root Canals, Aligners, Implants, Crowns and Veneers",
-    "address": "Apollo BGS Hospitals, Adichunchanagiri Road ,Kuvempunagar, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "081234 31714",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109874914440857032925\">B19Tenzin Sonam</a>"
+        ],
+        "photo_reference": "AdCG2DPLjyE1UWxziZsOPanVlF0n9p8SuRCYmsaowBW0mRXqNzKGkbXWM8MuQmsCveaRUz0l0bsyvh1aY6elw0vy4cFqhbi6xvO3ZSQuFdQWkIh4IoEWrnJtqwkhvq5Niq40AG3Di2NLFNGn_c3dJpD6Fsg3kOmRA7buSKVytJOfN2zj9IvV",
+        "width": 3024
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110207115553926453200\">Sushmitha S</a>"
+        ],
+        "photo_reference": "AdCG2DNVqfBZyrCRtSaV053Ev8Es5iOLvmmpS2BEWEV_RtWAcNouNP_SKk3bN7aOFIEIDF7xkVLeKcR8NN2PPqoGoLgHthUdaKwg5zP3z_IiVtoP4j7vLbw6d28N-v-te-GgSJPcj6hMLfEAP1x0qyQiUobYaZt1u6014xf8j4vWxliV6jwt",
+        "width": 3120
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101229142071513756093\">Apollo Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN-9Maog7y7AznBNelOkx_oLX6s7z9uY43THy6Ue_B4GZRafgyAwvDSss6KKgsOCkroi3Xqwu7n252dZ1FX0KZEUJ_34x6CUm67TcS-2KvcyxwzbDEsapr7C2S_jcBJNQgB1_dmHKbcvUNd_G1rtNipVmiy2qJjhY_Fq-RrSPj0i6Qe",
+        "width": 960
+      },
+      {
+        "height": 898,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101229142071513756093\">Apollo Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNZUjf11r4OKUPqMOcVY_OTkXAItCKR1E_mu4j_aG4oYAmHDagufRpMbPyZCz8a0sJ3g0JqmMHFU2dm8dHsP48kPYhxIbJBS7vv1K-X3hsz2Ufy26suEdC5tQ18aGdeCs4fDq3H3IOLNH_BjLuSMYURDVYFuX7-cJOGHahsWdnSeYXj",
+        "width": 1544
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101229142071513756093\">Apollo Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN7LL7lUpphx5BUHRzb5nb6k6NC9IoNS4IsuX-3moFisMOfjcWB92tY7_iqWEUuS1Isn9RmL7R-fVdZXTLN39QHrxvK57jV7G8eEWTTo93iHd7As5qztWGas_abcEGdXp1fsad1t4fFxpaNflInPRQnSiejAuVm-djcohC9N1fHL9Rb",
+        "width": 800
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101229142071513756093\">Apollo Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMk-8znnzBEdQQh7GZ3wPZmtnwL_MFoEUE393SFFabhEj8bdEBAiMrEDzoTEwz_uSgdkWqP9iqjAkvnP-YA_qzPZIZYyx-73EMt5odB4jWujeO9mTESUQDUyoyOe-U011KpOHlKNCfIFwWl7KOM2UPu1cvpG-UjNa7LQBiRhetuaTRK",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101229142071513756093\">Apollo Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOJPRNsPnu2mPbYaDNcv3ZHMDgBNwtSiot6yaZWVH9jldR5eihDq1EKwiabfMjsFdyLHqW8k1WPf8M-yH-Wp_kWD1mP9tUIyZnDEpBUopLBuSV7tqgSgXPGr1euh5sJpw04-4AS6XgTgbb-uVYXpw2Bv2urtqHjM1i8kRDu8fnObXH2",
+        "width": 960
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101229142071513756093\">Apollo Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNlmg9ng1odly5wTv7wVivcOrWh1NiR8NjwMNYGrT3PMFK6YODiZ7gUqmOnBnOXJ9mWqVfkZlMcewxQxI_mikycb88sk7cbjP9TvrGCpnBeaQGgeyF_TqGvSrw-3oA_M80ut2Cc64z7p499yTZ4_4VJj_sVWtA_bJySgI85gCy5kPUr",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101229142071513756093\">Apollo Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO0GssEAScGhTXpy_hv9ajF4LUlhtwTN8qNSF1dixyvS-T0Z-fbuR4sTrRNsj3I9_Ksby6PkAhDkypPqsTHyBswWUWzOs585AV5hVTAsJbvd1f55j9WV-NeLhDB_nyJnifmCLD-M8hd0Sil5MeMfcWPfUqodD_B4fRE9sosxL26PBd-",
+        "width": 1546
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101229142071513756093\">Apollo Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNkBEzTdBMRuRQo7E1JITOWpwdhX3JF2-K1MeLp3kGV_6Ln9arqDpZ42I3hmKqLrXYlbGogevkENfH3OvnHYzZvwEfDcD5R-DpLzIv45olQbnUkHT3NDe4GlE7SUR73PQGtWSAfYKo70DM_pHm5w6-yDAnZ-iNAhUHUsqCJOCMuvP5h",
+        "width": 960
+      }
+    ],
     "rating": 4.8,
-    "number_of_reviews": 309
+    "user_ratings_total": 319
   },
   {
+    "formatted_address": "2979, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India",
+    "formatted_phone_number": "098860 37522",
     "name": "Life Care Dental Clinic",
-    "address": "2979, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India",
-    "phone": "098860 37522",
+    "photos": [
+      {
+        "height": 3136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118216809946292976332\">Life Care Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNXvkGo1fehcWjSzT5gUpJycMAa68RldxAWDWPxtj2_pAMs2T-oQo4ty3pPVhl_mB8JpJZ_eaXtWS2i5hlAhRVDWpfuYynQVWUOJT2UW3i7kQgS5eWbIQ26xYj3SwRFrRFJNBDQBveWAgOOrj5oovJP4Dx1_EuIqG6ZMUwfRV3qbmqy",
+        "width": 5000
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118216809946292976332\">Life Care Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNpVWDodNmxmzxA0vDkmS11P36pua1GMFTh522ILwGXCFc6wNbcytwP5LTd8GE94B-GEHIicEz7UR3LjQH-BD26Lm-ydUU7Z37HENv6C6PrMlVa9UMBu0dwvlZvL-QXaqBA0ECX-afA0puQ8oNMitMG0c-L3LKEWYo8mGEDtZDN29mf",
+        "width": 3080
+      },
+      {
+        "height": 1082,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118216809946292976332\">Life Care Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPGBKq2XPiWXm5ZP30pUOnqAGEAgc6xA4AIz2vbGWvHhg7efLBtHw1EDCOnnirO3xyjEmpMLJRkl_RGrcYLP6fhn0k3vyTOi6TVJCh_VypXD2wrt0f5qS0cttDSpMACD_Z7o53C3rUt9qq5QcXVktsw-0KGqTjSSRgN0Q-OzbGX8GL7",
+        "width": 1514
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103513640487445880512\">Akshay A</a>"
+        ],
+        "photo_reference": "AdCG2DMVN3PJ4DwTNVI1nWf7g8SQPtJGqz9HcSmzZ7EDyoXbC9KqV0UqDTNKHLl_JOt65VcRYePO_G0eaF8DzymSIzkZk7EAW3YygLXG4mLQoZGnNKrRxHVIYjTxgR-5PDj8nBOHzPFFJZNBCkF9KFc-Ng8WuLRCgSwYfvkXOGoeRfAPR2V2",
+        "width": 707
+      },
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118216809946292976332\">Life Care Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNJQrnL-noLIZ6HbcJfBAF0QFPpZw9K1ZKRJek74TjvQAzipsTZqidGv55rVB9OTQKwooPBwgdcy_B5K7jJ-mCxyU0OPV__mcH4TFQxEPahZF7hb1cAx27bmDzM1QWkkyiJ667JQ3ijlbS3Yb8uxUL0z3B6EQEVNTE8xOjZlckorfO8",
+        "width": 550
+      },
+      {
+        "height": 413,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118216809946292976332\">Life Care Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOX3z7LRZWsrnRRovYnVxmqw4q7m9jvPFr2wHee06a-UY0nHLkZGKRJH5go_rXH01SlHwk3r3Y177JxEEGRQVXN2q2e_qfSXMKMIzhjjPv1AQAQ-1E7Epb6kP8jkPrQS106icEQ_t4gHyqMdhPhShGiZzy8JScLiGQi6GeIxyNbXzmF",
+        "width": 551
+      },
+      {
+        "height": 414,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118216809946292976332\">Life Care Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPg9y90iHBSGo84cAk_o6ywd96vgao0wk4qHo9HkLtGbkZRETJYcFywWRZVFpFBeevdg5lJ0d32h5hKXpSIbaijPy3KaFRFVRjHjDS7-wgfONV0_WnFeXAIyjSY3fRK4deAXm4syo-JEamScGJzKgj7AJxa0isgriqXS9io377JeQo7",
+        "width": 408
+      },
+      {
+        "height": 413,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118216809946292976332\">Life Care Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNjCk_MyMnTIR-ikGPuVAjUkHb6JBGgbJtmB9lZI_aBB1nJCeHVEtpCivkQAvBOcff5S6Pr9X0OcPi8wCfBMlf7LCyd5Laz7wTx_AHMNAH0A_qzKdgd0LX7s1udnMotPC6dfRHnQNZnBaeR3QyunER6uPO2OYI0TrABc__JdQOGtFor",
+        "width": 411
+      },
+      {
+        "height": 413,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118216809946292976332\">Life Care Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPAXop4zKDNItPfSYjBnNVwyDoiFKLteyr17IzJyNKdE6DnXJudEyL25UpKDAn-U9MwwrgT2H95tYhGHmQ3cmcq1fQ2tWnPHlVaN8tv7jJzhWl2S2AGO3oVT9uYctPJiCPH5yfgaQCmudSZuk-dGn_xGXtbYJkiD3UPolvraSI-wmsf",
+        "width": 418
+      },
+      {
+        "height": 413,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118216809946292976332\">Life Care Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNduKwHJ4Cws0ytSn_QrlhKpyfMN1AnhfwvKeUL9X-wIifwGEsMVCeB2-upNTWK7fA725IEwsYUjx_O714Z6Yj8-V9-Y23g7mW6-p-iHaAo56yQeTMKWEZe_jCZTQcK7GAsT_jWYuJUsm712Bra0uqhg6rUFWXWGWOLudQs0jbJkWO3",
+        "width": 411
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 436
+    "user_ratings_total": 434
   },
   {
+    "formatted_address": "# 175 , 6th cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India",
+    "formatted_phone_number": "0821 419 4867",
     "name": "Complete Dentistry - Dental Clinic and Implant Centre",
-    "address": "# 175 , 6th cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India",
-    "phone": "0821 419 4867",
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101526237462685836769\">Complete Dentistry - Dental Clinic and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPDk96V1G5Nu5JAT-pg87OlF9gKPCAJl5xUdo9w-lgcHyIhcDS6eRKhTKkozwtbcwdBz7ggW0pbifEXD6mPaSFq4nD5trViUIMgclustYVbrHtJ1Z49iC9elIDP1ghcdeN1dTLrm5BlosuTuto7NdSzP4Y4kUkWXoVEhaB2GYn4O8F2",
+        "width": 2048
+      },
+      {
+        "height": 859,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101526237462685836769\">Complete Dentistry - Dental Clinic and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOgZvVusv2vN5xdficE2-GLR02EKROdym-lBTjnqthCSwqZ9mezXQI0NgJS_bGetA4clkaROlpMWbsnOD5sZlCh5FbFlabymYRfkX6Tq4xt6-CMGaP_RSTcDOgCgFqHcHExK54SUyYYJWVKUyNR4wG-bw7sI9jw5BacF5TDIV_zgVpo",
+        "width": 1280
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117580761992297568425\">Ajesh P K</a>"
+        ],
+        "photo_reference": "AdCG2DNNU2354jeNLu-Fi7k9alXS7aeEo9wQqJT0TakTr0ru-4cRgsoJud4RyF51psq0RmSg12c6j1s6L9BzDGq5mgfFXNHua839WbTQVJCy1LHwAkSysOBVh5pr9C2k-BUf3sAaVoPsvalC_yMlVklm5SLyIxxvwrjGFeTHmTe8Xohbjz_G",
+        "width": 4080
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117580761992297568425\">Ajesh P K</a>"
+        ],
+        "photo_reference": "AdCG2DOyCxxkjpXYTcrUkIFZQqFqPAqaPNLOhasP3E9xKgmltsZo9Q1aOa9_KzWHoANYjzhSo6HxmjxaOCLWSBZs8B8AQxOCIlTM-Ltx7sN-s7-kcoN3T9U6uuHZESMZUwCy0iFtLxvj0wu91qLTw7g2PqGVnK2JPNp61OwruZ282grnM2v1",
+        "width": 4080
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117580761992297568425\">Ajesh P K</a>"
+        ],
+        "photo_reference": "AdCG2DOxXg6kU6gQW0vsk35LiisgPvhG9bdWP-IdyvyiJpWMWawrUTv1NMlaUFR7FKNnBNF2WbLPnkq_Kyi7j3GMX7o8Zw-6PxD6g0R28YC35ubhUbKgUvftoNovop4NHi7djjUZihm18K53sIJl_NB5WPAPoq0rglmrKY1iNu3Lba-AUGbq",
+        "width": 4080
+      },
+      {
+        "height": 2600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112594706570447477205\">Tara Mahadev</a>"
+        ],
+        "photo_reference": "AdCG2DOuSVtdUe3ukptOlVrhcxdMWPrZR-mjHHV33qInVuknqnVDjUQqT_5u7LOF9pJYNmvmgKJ8vxYSR87hMmU9xO1T37VE87iznbolCtrnXCkuMNQOaICPUH-LrEtcjV4DfxmGWcozHZKJHvexNd4aYecnJk3O4-aUSfhnyFGpBxdSj2dh",
+        "width": 4624
+      },
+      {
+        "height": 1311,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101526237462685836769\">Complete Dentistry - Dental Clinic and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNA8Co8Sc1xmbss7GT4x1B88BzUv7JXIzJUFBfmkkEQ7kWj70fAZUpwm74bnTKhMJDgI40heYFdrm_w0hwE0g1krzS-wfNlEPC0L5S7GL-qYd9rRKSkvKLaT9lyRzlLFx63ymMx80DHhpULPV_6GST_ALwB2RQ0tt_uy_MkG1GJq-1G",
+        "width": 2048
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117580761992297568425\">Ajesh P K</a>"
+        ],
+        "photo_reference": "AdCG2DM-QzTiJZhX4QFMEkXoUnFPCqnIy4_4tuV3hu08rZ8B9CcpdR2NkjIFdb_eZp_BBLhlKbljdkMmQlAEtXL1PxMSIuNtuM9rjeAe_haPmrSBejnqymQwrNbqZDr4t4UGVwgIZ1XUZn2n4IVSBqddLPCHAIq-dZJe1qWLn6lnFLxBKFQZ",
+        "width": 3072
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117580761992297568425\">Ajesh P K</a>"
+        ],
+        "photo_reference": "AdCG2DOrApGTsMYn9TrxXtgllZSXeq9MYmdgN7osAHjSBR-IMuXlotsWSIvH450qDa3oB1M7H4_Rc4bi2_i7MZw-_0KfEqrMmsxGM8dzXiCFajHDpPQDSReNWvmVgSDcjHHVDN9gIbu20GEtPntF8qq_DAXLzCeTPrrF-nWEnT-cOHT_iN_3",
+        "width": 3072
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112594706570447477205\">Tara Mahadev</a>"
+        ],
+        "photo_reference": "AdCG2DM3gBTn-6vg_ZuXDmukwR_mUe5CuovfbMq9O8QgaNG2t_HAFeWE98Q5fIKIFkkPE6iiI8lzFtUoADK5wSkLPAz_pWS2M--sdPefBvJB4jU9jQWi6Tdv5IyOWLNEk9GdMZDOO4GF27eZpz1tjt0YRSn-l16buF8RKWybtrBQnaGfOqFS",
+        "width": 2600
+      }
+    ],
     "rating": 4.8,
-    "number_of_reviews": 25
+    "user_ratings_total": 26
   },
   {
+    "formatted_address": "No. 2689, Near Mallappa Flour shop. V V Mohalla 8th Cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India",
+    "formatted_phone_number": "098458 54977",
     "name": "Dr Paras. Mysore Smile :) Dental Clinic",
-    "address": "No. 2689, Near Mallappa Flour shop. V V Mohalla 8th Cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India",
-    "phone": "098458 54977",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101220698937319824775\">Mahesh Royals</a>"
+        ],
+        "photo_reference": "AdCG2DNCDKVqCp_0w7hOqeynq8IiwuL1gif5kP51uPsAmaunOn5fRv9tYdXIuUv1DHtXEp6jRYBXidc7wjkA27_cktttAH67vs1qXucSxwQhxONzxCPFO8GFHOPb-_5cLurLBqc_zrcwdUsXaFvoYVTsvOB4BPbMdFG3tlnYua0zNogt1N7d",
+        "width": 1920
+      },
+      {
+        "height": 1259,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114686500395236188822\">Dr Paras. Mysore Smile :) Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMFglz7Dbn5hcGYLTguKP-8HfDIbpO9SML18fTzIn0g3j7Dv-KijKBZAYZahGjcRgjQYAmCQMFZwEszTceWPMY1PDvqZ0R1tXGmF-qIMddrLf-i_SPCkALbEsBOy7YwDiOGoOKQM4Vr-Gql0Gg3C2zG4lG3Hu3kf8oxFo5t2h26KvMY",
+        "width": 1246
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114686500395236188822\">Dr Paras. Mysore Smile :) Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOQX2aJvGRVjh2frk7XtR3ZpAALNkJ_NuankzTxpyn7IdTF7UJPl10aRco0MCUQNfuF43TPy_mp-ipBaXwsBqJHrgfsiv92qSZ8WpebEo2zLPhE3ajSqW1Um6g70QKvlh6xQ0NwNvcUsjgmpF6ZFDaG4lKg4S_223m1Gc4PORNnMQLN",
+        "width": 4032
+      },
+      {
+        "height": 2176,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113445034785991490330\">Ruchi Saha</a>"
+        ],
+        "photo_reference": "AdCG2DNfycD4oXGx4DBfKx2lZdjBe4TlWP1UhUbseb2N5L2oOqQjjPiVYRWwnxyHt13cdheDCGqoTtmdvTaf6L96u2j4ufvPgUIQvw7MhMJUiEgzAOXYSOh0NC9sIXWo3JZdUtEa8JA_vTuoNGgFioabz-eJuM2FcQJ5xwXOeoo-BdcGdt55",
+        "width": 4608
+      },
+      {
+        "height": 671,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114686500395236188822\">Dr Paras. Mysore Smile :) Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNxx46QmF8FlRpgd8itSN6Od5E-D_RKKilEGJ8kkAzNFD91ocQ78HQQVk5MLkqFwtmGjtPWWR8FU8Cgr8OnUa46f2OmUKPs9VevOLBp-YFt5KaWUnocftwYgYd48ynHRGNOi_yJyZ1TCoGKIlbqKcrYZIcs-tgtTq2xMJYEPG7h6WU3",
+        "width": 768
+      },
+      {
+        "height": 2176,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114686500395236188822\">Dr Paras. Mysore Smile :) Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMPPoOwgqbtWIKxLKb_Cc8dEGibTbHjjyXPFSKj1V8SaXsKBPSS0cFmlzqAGwNAe4YBYhzRJQRYbnM-pRyeoGiKuMkTM4M3O8nKklhVcuxj9n5ptKNxPrsILP2E657TnWPOVtuYDRa_P3XaYBadIh7CLltSoMHFTgG2lGT8kh7Dr7OM",
+        "width": 2799
+      },
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114686500395236188822\">Dr Paras. Mysore Smile :) Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPwWdwQuIdvRJAxUZ70UY67-mXmwh_mTBc08Fav_Qq-N0fsFeF-Vyalu8pccMe-1rOPMj1LC8RmI0bnB4CikuraThPCPeZGTPUaK_QOUv3Z6MDH0Mys51smPgirNzEF_Hyj_1_Nz-eyiIqttA_LaxIcBWqf3L5WRMvwnNnfaexYezGJ",
+        "width": 1600
+      },
+      {
+        "height": 2176,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113445034785991490330\">Ruchi Saha</a>"
+        ],
+        "photo_reference": "AdCG2DMoI7hv0u-El4xZuNmupSrUGiukakg4gT8-kkm1k2E9rxO9NhoU14ZZaOA0lHL2-AJQ7lsMzRo-eiqlIH-4-LQHFuT-4kmSFGBuHESMYo5H_6SroY6KOKCb-F69mY7yr4rC3fv4oBbPFTbHKpgCZkbMTAtpIchNN9Uprzj7eC5vhEFK",
+        "width": 4608
+      },
+      {
+        "height": 1799,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114686500395236188822\">Dr Paras. Mysore Smile :) Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPfpcA5i8nTaw9gFFKMxKVeRuHLkSr3YPT4QuWCwMVw566zOOuZWjIIyHAN3zMedqVc3wOz_xMIiwct6krUJYuGx01EALD8wbHssZrpkDxBdItqq1plbcsHIfp6M_UxVQQifuRUQuyFArVxzvpTnfnu0VoHtuUz--TtciLifIl8yZw_",
+        "width": 1439
+      },
+      {
+        "height": 2254,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114686500395236188822\">Dr Paras. Mysore Smile :) Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOCYgKUHVSKo4kNrE6SLsg3S0NzFAyrB3FoXMjfCP-FWdd9xQ6K72U4budK1ZJ6Xu8YCDe3zxSUe6x0RUa8ucbCd79jmjYa5tCDTkqZlgjPR6oMo0Sc2ovzyXUnmwkGTOfhgBYTrmaUVjNRrMWnl6VHUpGcn2MgVMQsDSVcpt2H-yM_",
+        "width": 1501
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 89
+    "user_ratings_total": 90
   },
   {
+    "formatted_address": "Adipampa Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570001, India",
+    "formatted_phone_number": "070907 00790",
     "name": "whYte dental",
-    "address": "Adipampa Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570001, India",
-    "phone": "070907 00790",
+    "photos": [
+      {
+        "height": 1564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106185740074689038988\">whYte dental</a>"
+        ],
+        "photo_reference": "AdCG2DPSAzB9pxD_RnO_6zKYZixSBP2t96rlGyWm5ZNgnfGl5v8VSClEj7ej8kTV_NLBcWKVdD_hA2t4NNo33aBGyEPVsrf7FGsVelckw5v3D5cl6hdVFcqEjQFHgnhKD7-akwqzIBhFBDACAFpuq8Ikz9vc3rvTBu66M-379QMhBYFDas-7",
+        "width": 1564
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106185740074689038988\">whYte dental</a>"
+        ],
+        "photo_reference": "AdCG2DMjvc82M5skJHF9stz2p3EDEM1-ZdG8CxHRGCLvuNndLGxzXoybFkJyCr6XlpPSIBbPL-wLyWQc86bbZqfjPZIxULcZ1LBt68hBc2fwqgMQBCQs7290NVeqHtT-HS67D70RKkN9gYlvOh1vZNksMjsTac3xp9jogm9LWUK11GzTRd3r",
+        "width": 1800
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106185740074689038988\">whYte dental</a>"
+        ],
+        "photo_reference": "AdCG2DPicG2leXU7mnY7UjK7VlXK_7OV4ZP0CTSbnzFnaDef340kZB3s4q2kdmMvtVGSXvZuv7bOfCvLGFVAPRt4lUzxwQtLHlu3gNdmDH7gXFsbceDsSyAX6w3sXBkPtIdnpjafu-yEfw6B_nIsWr5R-ibJ8aQJe2hLMANM_YMPSS1RPJKm",
+        "width": 4000
+      },
+      {
+        "height": 1521,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106185740074689038988\">whYte dental</a>"
+        ],
+        "photo_reference": "AdCG2DNF7cZADFccxmVhnAgGAqI8Tfmi8va5CMK30j5G0M3IaUvsjP5ty_Bv5_DWJjKIm8E58eWfc5Nai6qJYtLDcXS9QlGdA4mQwUWxZ4TqQCtpl-ZY3GrAp0DEXmfar5B6xrLEKaiiTfMLO0OUFxIyKx5nCj1NCyjEN9QCDggJHfddL86S",
+        "width": 2413
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106185740074689038988\">whYte dental</a>"
+        ],
+        "photo_reference": "AdCG2DP2Os72_XYJ-_xX-qXanPKxeI2NU1a-jJfKTpUr3oCkJvzT1PiTaROOxMFtSSm0iO8FpSI6aDdFIMo2BTMxE8W4DbYzyUn5n8Yibovf_d2hssGQoTRHaq-6qxXjg5d7HBSq1YNFMotHwK6cssSiP48BUsPKxGEspvve20kxoaGPz56p",
+        "width": 573
+      },
+      {
+        "height": 963,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106185740074689038988\">whYte dental</a>"
+        ],
+        "photo_reference": "AdCG2DM4P6GB3qrjR-EpjhnXuclqZ2NhPQHdjELQBnKixR5Ia3xbAyq6zGIgrXbR6pDvqAQI7zZ4Lb32izVpqiVgg46ZcLZ-e_n6na96FN4UAQiRh7J-f_0KW-cATgoLL5z5aqzDi-GktG1hsZ7aGKSgNGBGbTcfRQA0qmaotgTluBAyrcli",
+        "width": 1280
+      },
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106185740074689038988\">whYte dental</a>"
+        ],
+        "photo_reference": "AdCG2DN292EEALMJ1SEVzG7po_d9UhX5j6zTNm52TUxhnfUTu41JXjfiEXJQ7u_lILIkkCTNdGZCLJI2wUOCFfiicHp0S_bm6csXpLTybRbfMWUbl42XJnNwlCPWqRB0sZKZWqUnJEYwF6CQxyaOA_0FK5cXDSirztaw0WAL_hcNwEBYKZIJ",
+        "width": 1280
+      },
+      {
+        "height": 627,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106185740074689038988\">whYte dental</a>"
+        ],
+        "photo_reference": "AdCG2DPEHcMKmolIN9gpiu8VHA7H8u_j42tGFAWfa4JC-wl1EW3-BNJuBHJU4_ayNw7h_xYlovRIZLuBWLX0R3BbNTJ7aLyW0ycTTlXEd_C8uiL4rGIaeKioWogzTTOYRjEaoozAVIyqp3Ovr6ZFzVrFYNT4KAFdCRZB0aBhrRdS-GPuq7lU",
+        "width": 940
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106185740074689038988\">whYte dental</a>"
+        ],
+        "photo_reference": "AdCG2DN9R9LCqmF1ImwcywWaY_52XZ_oNZbhwSojvYL1UuWzWir9GO9Q34UXgbB-uRCA6Kgpf4RfCvGazQw3wQczKtp8NNvhKHCmkWMcovdU2Q9zU4CO2O2CA2akxJ5xTuh0jQumS9DsxkWiqzKWiXbo6f8iDUyFe2Zr0foJlofqjdLjWT8a",
+        "width": 1800
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106185740074689038988\">whYte dental</a>"
+        ],
+        "photo_reference": "AdCG2DMNUUdnTN3Q_oFC5n2ZAlNzuMbJ982uL-ZoHh994-3Kud98vpjgUihseh0WasFZ6NrF6clGGK70Y4iR9cKJhqj5OEtEzSkOqx0blew_Hva-XiwXZIAfk7pr2a_D8tBkN7iGxfnXyhmt6RsVfOhd200dV6tec0ogtcprveird4too1Be",
+        "width": 1280
+      }
+    ],
     "rating": 4.8,
-    "number_of_reviews": 745
+    "user_ratings_total": 755
   },
   {
+    "formatted_address": "Vijyanagar, Vijayanagara 3rd stage, Mysuru, Karnataka 570017, India",
+    "formatted_phone_number": "098863 48062",
     "name": "Smile ARC Dental Clinic",
-    "address": "Vijyanagar, Vijayanagara 3rd stage, Mysuru, Karnataka 570017, India",
-    "phone": "098863 48062",
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112037575287697539960\">Aditya Sridhar</a>"
+        ],
+        "photo_reference": "AdCG2DM-vXqCBCgjYookPQ-kJkvMzzCHei9m-WCEk0ghRpKj2l5my2EINsJOe3yoTn7OEopiXADYFpm0D6Yn1CeHBDvr6AHj3E40iC8SDzL1ig7xX0Op8MciWctJDuemWF0NUcbMNQ7cD0A1w7UFg1UJbFfWgqvYduVMai6-dfVt4wnkhanT",
+        "width": 5760
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112037575287697539960\">Aditya Sridhar</a>"
+        ],
+        "photo_reference": "AdCG2DOxHerdAulDxhxOw-aOvXOZSiKWuV7pQZISmso0NmuXueesxxzfN6yWnP3f8mjmQFiytcw2KzF7_2dVV9sUunX5oxT8Jz8AF88bnRasCKae0SfPnK6kfdQRpUcbkgZI4EEWRXTRtk1WhSr7ZCaqxAiLv86D0UETgFS2crRM2tsVwGab",
+        "width": 5760
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112037575287697539960\">Aditya Sridhar</a>"
+        ],
+        "photo_reference": "AdCG2DNtp1OPvOzVtXN-yqrGd75g_25X8c-tdkbk2eVHWP__yRHZJKG0p3kxp7mNdlbo4Q4KFkPYSfhMNuB_iSUAh7mABf7V1FFpAdkuaXJVVq-HP-upMDRssLaKNy0kfYoHiEH3tvJa8zVCGdTjPMV2j3R1uAAGslNKaJzRrUSt5SJvH2e_",
+        "width": 5760
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112037575287697539960\">Aditya Sridhar</a>"
+        ],
+        "photo_reference": "AdCG2DNAWnD7IlbQ56plh1tFRAvJoMlVJYety5UEiVc0XqAaFv4DYLEjNQ7ITMKi--1O8YUG4xu3hWOafGMlKI10FCXE9tzLJj09ln80RvIPVNjb_M1xYX1BQUgFSEjTet1uW8Q-mA9nrsfP40HrT9HDa2iB-t66ZSXL0ypr_WRJJ16TUQ_r",
+        "width": 5760
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112037575287697539960\">Aditya Sridhar</a>"
+        ],
+        "photo_reference": "AdCG2DNNMsobHT7GSnmiLZEoQtHowMARhVmchsHVf07sNEJPXWXDfb-AjZXTquTx6NZexabJRDMyFZsMGc35op3ugl6JLjr52SJX5TdOXA51Ij0zWttyPY23HkTO8Yz3df79l4ZE5UbZ0zbRZSLMo97fpUO2GQY0nVLMbQiG25cUvVYAuPK2",
+        "width": 5760
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112037575287697539960\">Aditya Sridhar</a>"
+        ],
+        "photo_reference": "AdCG2DNKrYDM-tvcF2xxUcsnIXudOz-FfxwuPQUnO4vaOxY0Pj4ekOXjr355g2nseUjNZIpI1ePB4I1G6sgBX2Au2e4JPZi8P5z6VMbncFT0zdVSxcbLiR_WnzEwvniAPMnNZ7ntWuhhw8p89ZVKMsobbhXYGT89v82HuWzxgzEgNFiQLJrz",
+        "width": 5760
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 3
+    "user_ratings_total": 3
   },
   {
+    "formatted_address": "# 581, off, Kalidasa Rd, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017, India",
+    "formatted_phone_number": "098452 35853",
     "name": "Mysore Dental Care & Implant Center",
-    "address": "# 581, off, Kalidasa Rd, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017, India",
-    "phone": "098452 35853",
+    "photos": [
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104171812104186248848\">Mysore Dental Care &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DOnoEVVU1HCOjDyaqNa6MPL1pdUxs2KtwW5jlRvCIqOOlaKU5n1pgG6lvZeC73Qib6UolTIj8j7JWERlG7h1TsaB3F1ryYeVRiJsNlE5qFjFXjcJEGtmJiNmWGrH7KlhUen2-mhJlyM3LoiPygViYmALxWPOZ78eC75f670bvIXzoUJ",
+        "width": 2720
+      },
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104171812104186248848\">Mysore Dental Care &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DMzs_ec_FIYbtLJTEuBRD4vk2NV3LBXy8TVa0HAG2mjhobkKXqldMwV4RO7pTeaGL1lArXrePZ04VTEvLUjumthpo-zjOju0lj2vADH5D7mdcQ1sdTfiHj7wUwBqHRj9qNaEW1CFuxsro12AqW5iv37dD_oBBCUGnFECpqud2WQU7gC",
+        "width": 4288
+      },
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104171812104186248848\">Mysore Dental Care &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DMzCS82vKiS6775pftBauh6eo4csa2ESKimUxBi5KtG76iuMYBipZ5Ul8E_-iWt6fwiHvA_CRreLA8_dvtwnbp1i8ng8yNJQuJ1hyDVGQ7hAoQqgF33mdRSLFVkC1_QpirtHMrwnj-MnzHl5IgU5E-ViAkyrN21YM9BH0qbSHTSDE2Y",
+        "width": 4288
+      },
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104171812104186248848\">Mysore Dental Care &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DMUbrPvG-78yrfcIIRXGyIT5Z8rkyqxkQECc7WfLlyaUv6rYELNeW9ouFx3bLxd84Ze0gQnpR3r1iM3khuZIbUv2r_A9V-zTs36D8WEixcNNa-McIHkX0VwAR7dwRA0D00JVrc0AbITayGRvEsgZu5aDrH8JDQPPhAGcYFg5Jjqj6cG",
+        "width": 4288
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104255007659995032615\">Harish Rao</a>"
+        ],
+        "photo_reference": "AdCG2DMFEVswc_9iY8-q_6OzhTcwHnIBvs9nAqHxFn5ZOsST0qz-Ld50_5iq15fueV8wChLdc9_MPReb6ozwnvb-jevYNexF5sU7bK89Ie21mBv0ywhT8G3xEgyitwd2zb8bw62S1xGMg45V55rfnpHzz5Z8hgaV93zrL71TFspDB6X9R5hB",
+        "width": 3024
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102869205754130936931\">thyagi ballam</a>"
+        ],
+        "photo_reference": "AdCG2DOocYJ3ko_IfOuU7hipR_TdzseMWkAvF1SwyGbrP1A4CwDF_3SvGa1ZL1Fi7stgTDjaoSNVtwTvh1wRKoRwEAt2i7TmGbhLoItW0OZGumSPbN5bCN54r5GhKSX7xzblEDqSEmCqGHILe3KlG1OfsNAwtC4ZrJ3UEEalkzfALzc8Rhdg",
+        "width": 1080
+      },
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104171812104186248848\">Mysore Dental Care &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DPvtGuwQwW7WfPavfGewhMqYK3d6HG_etG6ZBhtX1Pygd8kzCzgB8UyhE-8Zn0X4ycLe5Su2GV-v6ZbInNE2IMZ2gY1T81vR5egWDPYXrXqVhw1OD4tms6rsra2psirpED-Ne8WNeFgpE21xb-yafxx2OqMu3iXZ6_OnKceHAQ-4D3u",
+        "width": 4288
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104255007659995032615\">Harish Rao</a>"
+        ],
+        "photo_reference": "AdCG2DNarnNObavhwceOo-FW4zXKLKmidr_2VfiOJqPyEu7mgFwdIUWtvAGp2rVDsOP-3LjLKvgNSUUWl_teV3E6LMz7Yvxw5HmuEvXAYTaIsQgu2UvjOhwj62NKdBcDhCGKnd0x1pupBM7Lnhjxhd7ZYIBgi9A9opFt8rRkcUvC1FRFBdDJ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104255007659995032615\">Harish Rao</a>"
+        ],
+        "photo_reference": "AdCG2DMOdoWY59h-KOqlaw2_sx8eXY-BkAj2Snc0QX0kC-mtBTIadOJ2tO-b7nB6RXJnxRQSVgaMyVZQyqE7O-BEWd2WXr-J-EHuXIlCPrZN93r7gr5iY8dCjhDmzDhsrOdyBoZqptLhT7A9Z7mmWvWzkyK9v3XTQWQZb0bzNzQUQxNNmFi1",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104255007659995032615\">Harish Rao</a>"
+        ],
+        "photo_reference": "AdCG2DO1A27PLyqW3IzIrFn6GbnnAqUWfbA4jQ38jltmxAjFsUInLRBkzW1km_IFJLk5JDbSKWnPVxV1a8w9TMPjti8aQQPThPWt3zB5O6XX67LdE4AEQ1IZvLrvy3gHqvpFwT8ZtB0JB9KgZcLR_MTKNtx4Ts-zuq_RhyeauMGi6ogxC7Pd",
+        "width": 3024
+      }
+    ],
     "rating": 4.8,
-    "number_of_reviews": 528
+    "user_ratings_total": 531
   },
   {
+    "formatted_address": "PARVATHI DENTAL CARE - 446,446/1, 1ST STAGE Buddha Marga, opposite to DFRL, Siddhartha Layout, Mysuru, Karnataka 570011, India",
+    "formatted_phone_number": "098867 85810",
     "name": "Parvathi Dental Clinic",
-    "address": "PARVATHI DENTAL CARE - 446,446/1, 1ST STAGE Buddha Marga, opposite to DFRL, Siddhartha Layout, Mysuru, Karnataka 570011, India",
-    "phone": "098867 85810",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105970571482606103734\">Parvathi Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO7iNqPQQkSvF22KyPDI2Rj6axmfnxEdwv7-XGrhTAAdgzPxvXJmvg2PiQl-DZNq2J7-3eUXwM6T_LXGSf9C-K2xhO5OziEMVKbntrlgoQFzVDqDkOamRlIs2gtdznsJ9Ia6oTortI2leT_Jw7bfFt_TbcoBlcONdCiiY_s_tLzCmhl",
+        "width": 4032
+      },
+      {
+        "height": 3680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105970571482606103734\">Parvathi Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNx9w5NUjfJU2BzGUJ0JeofRCSvuHhTXi11zMEZTjv09cMwaWo843K7lUE-CZhKvqiOKACgRLPH29TEbmQeKnHKWjrW65AvUPP0BzI0eCxidG5qqSrmLEvVPIq70KrS4eSzpQoGfTI0ye2tkHLHEJDhLAAt83MyI-NrXzwOVfE4XMsF",
+        "width": 5520
+      },
+      {
+        "height": 3680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105970571482606103734\">Parvathi Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOKN3fRYMPSf2iLvXBIdybFRyi0HfLMh6cR0U8sBiXwGlcdb7WKqHs1-1XY6hRVndPx8d-4wn3IP5UzrGGkAerRNAinENVJS4QFc5IP4Nw1vT1YYlxKZcghzu3UGuUPwBSnlsuWG0QKnkq5ocUDx76G0FBH6a-IiIp4o0I0ivOwB1Lf",
+        "width": 5520
+      },
+      {
+        "height": 722,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105970571482606103734\">Parvathi Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DP69xfrRgKHLgwK6UT1tEbzet6XlH0qR-E7DlhoZqrd03-lhNwsP2B7GdVYMJCWyKagyEt8sMej8riIWJTdSxL17Z2dIVrzPOlxLEwiLO3oObtZo9fnnqwXEiuh4j0zCT17FmPOXUdo5PM456HAzoLdC0izqpVbtDMY4zYjVtThcXE2",
+        "width": 1186
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111979145435131511942\">jyothikahs gowda</a>"
+        ],
+        "photo_reference": "AdCG2DMWiOFYnfv87U1ONb-g36uL-mjyMIEJKgPho2LARwRByhnB887KiPc2epXSp7cfT8Q8-UgdDuLjFZkZockR97OzV06ybAmHkicPXEBdhrL89-3vSSNEcVu-eHPNTbiX39WI1nd3wbv9_TyG16yU-CNPVW4D_MYGU1ZtAi6xgnKfBYu_",
+        "width": 3456
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107510905073410935466\">Suraj Bananda</a>"
+        ],
+        "photo_reference": "AdCG2DM1MpuGH9yTb4YQK12lT6ghlO0J_GyHojhPUOzVWZjfiz6vufDrCS0p_a3bg6rbEtNwDLjzxNAZ_m7MaXPHm6zhexfgUbtkgeGQELIRu8EUcVmPf-ZATJIcCM7xW8G7a5HYjNLOzU3N-XYC2_guVUOiDoZZKUf4zVcCf839loyRY9Cx",
+        "width": 4032
+      },
+      {
+        "height": 2136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115589472471456146828\">Shivaraju N</a>"
+        ],
+        "photo_reference": "AdCG2DNWX-BAc3xVUNtOSiQm8Md_B6snVA1b5IrHSDf7gIqkHqVd3IQsDxvvBYysXRu7lxRJY4Pf0nn93LcfUKWlFc_VcOTfu0JXsBEs1NShfcxJSRJrdhcxL9Lo_xNGDdxeZNa_-Ar_JT7HgwHtrVtWSlTzPDP1Sa-557G7V13WALdU2CuL",
+        "width": 4624
+      },
+      {
+        "height": 2136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115589472471456146828\">Shivaraju N</a>"
+        ],
+        "photo_reference": "AdCG2DOmqSLl33OWuw4ebA4MydrMRHrd3Ye0hvf457_xqCD6eVBCQn7x3dldG4rtOSplzQJXG8VKNiqgDkRE_zqeR070I7R0dmLp3WU9DW-BOLFqkh4lYLIBSNYSvSjkzoH4vFPorInLdeLOzs7a86IYROeWTeEpZEZQdRU9MxvS4Kka-aKW",
+        "width": 4624
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115589472471456146828\">Shivaraju N</a>"
+        ],
+        "photo_reference": "AdCG2DM_Sy3mI89OlLGxPqsD8meodEkoOknq2XXlmQEZlA3Fz0eEU-lzvyHXALy7OvH8i_CUyMmFxDqZb-hWv1y6F_3WPGkTCecqJ4ijhHGOvoqYjUtkPlQbnmCmBHRN4ZxNJwiRukbauLS5HbOtO9uCQREHN6SCCxG6Pi9_t6gz7U1fza6z",
+        "width": 2136
+      },
+      {
+        "height": 2136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115589472471456146828\">Shivaraju N</a>"
+        ],
+        "photo_reference": "AdCG2DNjyuLBenwKSwge9SQF1bdmxamggmuZmD1q2HEF8nlLud5DDD7Cg7JgYtZkjQ6_7KJkGL_8Zj05t-l-YfAiHKtKLUC13fxGCQAPYymMrOE3HO--_sBIX6TyvpQUMM5zzQDIo_S6oVR4fp5HlTinUvXb3fSdkIoKqJoLBFFmbE_E_UuF",
+        "width": 4624
+      }
+    ],
     "rating": 4.8,
-    "number_of_reviews": 149
+    "user_ratings_total": 152
   },
   {
+    "formatted_address": "1211, New Kantharaj Urs Rd, Chamarajapura, Chamarajapuram Mohalla, Lakshmipuram, Mysuru, Karnataka 570004, India",
     "name": "Sumanth Speciality Clinic",
-    "address": "1211, New Kantharaj Urs Rd, Chamarajapura, Chamarajapuram Mohalla, Lakshmipuram, Mysuru, Karnataka 570004, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112298057665145995087\">Sanoj Pj</a>"
+        ],
+        "photo_reference": "AdCG2DM58QssDH90g3Ad2wu-9pIeK8rc7eSVETejnw_gGk0GPINauUDXMQyPW-uBaSSVaUX0_3XM1byR86YUnSsBqCqMcpCiE6GOLEccD04Xy6_te42A7iX3IH9fhqGSe-6yFRrJl_Ssbd1MAvmqRTAbeLqB2Y02EYgsPM9yKWiYgeuPGQIz",
+        "width": 2304
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112298057665145995087\">Sanoj Pj</a>"
+        ],
+        "photo_reference": "AdCG2DOsPrADNSxeVbocq51LWbdag8jQX8E8rgL00bDJ_c83o_whZxNHEFWNRfl62q-ZG001dDSqeIeyfPqkkvdd4Sh7GYvaXeJYeSwV7Xtq0ygI0IGtk11QbBJWuNXm5nF7wFQk8wp0p-uUoZFfBfpeP_UO8F4Zkd5pgidVwdwAvpzFAqe0",
+        "width": 2304
+      }
+    ]
   },
   {
-    "name": "White Lily Dental",
-    "address": "2857, 2nd Main Rd, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570014, India",
-    "phone": "093115 87749",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "2857, 2nd Main Rd, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570014, India",
+    "formatted_phone_number": "093115 87749",
+    "name": "White Lily Dental"
   },
   {
+    "formatted_address": "35/A,S No 375/B,Ramaswamy Circle, 1st Floor, Chamaraja Double Road, opposite Sri Krishna Bakery, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570024, India",
+    "formatted_phone_number": "0821 242 7242",
     "name": "Thomas Multi Speciality Dental Clinic",
-    "address": "35/A,S No 375/B,Ramaswamy Circle, 1st Floor, Chamaraja Double Road, opposite Sri Krishna Bakery, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570024, India",
-    "phone": "0821 242 7242",
+    "photos": [
+      {
+        "height": 862,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117679833946688976614\">Thomas Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMjKW6Rs3aGK8hZrdyM33nh0Ygp-C3aIvQ1dEo-zr_0TceEcU1giKCUHsJOT65U2yaTr9LEGWjrKvheeqjMNBNa1x2P6qL5UHqHazcGTcMAh2jOOyWbqCgPx0i1mtZt68BwX65H_qm45MukX-oQqRKfvEQXIIvO6YbKCKSEIm-hesNX",
+        "width": 1119
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117679833946688976614\">Thomas Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNtlaACc9Agn7pUgX5nzKI-db-U1ffvmNpNC5AHa0NF2tNwpyNFOxSO0geWt7H0SpC0lQhkAnn8Bl6O1af7sxDcDEr_uvTObpmLnDFMEdxh9L4Y1ZHrB43-H9y0wpJ2PNgqwlMPyB9lXz9tJ5q9mpgRjV3LFlv7Q-J1-r9OW5BbdVn8",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117679833946688976614\">Thomas Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMUdNVN6Q2BuqghW9IHtAlN_lIvj7DhgPMGkpTElFJqmy5STpt98SoAFQSww2fl5ShOHE_U99bCkA519VbU4ocgYU3SlRzHYCyE2yVTBjZeY3ko0OcRF-udNvdtn6QOsNKzoiP1j3jARWXWOO2sGyES-OHEgrwimwexbACCSt2Xv50k",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101935924568499163175\">sugandhi m Udupa</a>"
+        ],
+        "photo_reference": "AdCG2DNTA6WE0dg-ZUQNY0NZUvEAanXRIQP9uqe10LdUeiLWK1jEG5I5Pfpdd2oDjl9-KVmsm83XSPMtjE3f9FE8wPQOqL0BXMY_x-ET100ZJQ7DTJBqLCzoy2B2OFJyMPZPX1b9gjyInlBYeeaue4F80H6j3lsTkW3q-gmCBu7awbQjNdHT",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117679833946688976614\">Thomas Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPRXlxZVM28WZA_6dAFzE7S34QkVc_VYWFSCFxTCL0ZXrqF5TiuvevE7AW-dyVN5PXLUsPiIxjfnS57zKkiDVaQTFLHZvKIYOpfvHclJuItip0JfKw0eFYx0s6i8K7uCeXzVCHGZ5sNfbGQjb_LxRdfxSJMUcv8q1WeEYPTK_ISXjBZ",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101935924568499163175\">sugandhi m Udupa</a>"
+        ],
+        "photo_reference": "AdCG2DOUy9zS4r5ag8PmFirA3fo7_25XdD3TIBuIDpGpsznvHdmZF1aEh0CRyqR0Xavn1JrMbd4OaJR6TU6aqMjgJH47jdPqMVgSGYXk8QuKxCx_aIH-Zd9S-W2JXxM6cW0aaZHItp5qWe6P7cn9uPRd0sM75UJcsSfOOcSuur-GB0ugwNpl",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117679833946688976614\">Thomas Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DM8vb5a3aZa2HQfW7BZkzRHhEQg8aF0VRpzCk3XmM_jqqJ-SmKJFD2N2Yrp5oyX-0rqk-Nr5UFZ4StyTferHKb12VBlLq3loSCqVA-y8cDjxnAi_D65b__Gmlv4LjeAZia30mwh7VOEi4Daz-wRGb6tY06EVrzZ_5HyCegUKbqeE46M",
+        "width": 4032
+      },
+      {
+        "height": 841,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117679833946688976614\">Thomas Multi Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOx9X9BSSBP8FERBcEyHtabseOJlG-0sDmKbmpEhAOWd0JT5rOb84S7JbXCl76i7knjxjr9pLe2W7M-g8daW1K6EeVhYSG61Xh7k5ZdhxjmL3e7i-T-RMcrWU_tr5JN18b126_zWunylIGpHsU-KiZCC3iaTl_j-jxamPlZ39YcWnpM",
+        "width": 1125
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101935924568499163175\">sugandhi m Udupa</a>"
+        ],
+        "photo_reference": "AdCG2DNlD0ExeLVmSUuHzDaUSrdlE11NFDEqcJruNTfvmvrRRhe37kUnQpOdBn1-zuAijqw_tnGIET3U2jLX7uUmlnReo0nDfv_1DNtf2zlZ35PNpUkjnypN1SLG1ds3QMaf3cqfbxFBf5XbkV34CsPlj1HnATPl8IacgWNK0tgnh4SKp9z6",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101935924568499163175\">sugandhi m Udupa</a>"
+        ],
+        "photo_reference": "AdCG2DO6ERjtZrWER0jB-83DewmkE3kt9n2Xqq669zaQTCk0mCeW40p1deomNQmHeyfUgrAWy1mz4wX9PQyHTeV1A0n1rrt5Ak1znZddYrZGv_qtgWzckJBOdmwCdUXs7QEN35qlPZCjfKspw_5uucW2MySTuMJYQC0ZzFQNYO1ZdBy3FrVm",
+        "width": 3024
+      }
+    ],
     "rating": 4.4,
-    "number_of_reviews": 12
+    "user_ratings_total": 12
   },
   {
-    "name": "THE DENTIST",
-    "address": "437, Chamaraja Double Road, Sunnadakeri, Rahmania Mohalla, Mysuru, Karnataka 570004, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "437, Chamaraja Double Road, Sunnadakeri, Rahmania Mohalla, Mysuru, Karnataka 570004, India",
+    "name": "THE DENTIST"
   },
   {
+    "formatted_address": "155, New Kantharaj Urs Rd, Basaveshwaranagar, Sharadadevi Nagar, Kuvempu Nagara, Mysuru, Karnataka 570022, India",
+    "formatted_phone_number": "098444 04044",
     "name": "Pancham Dental Clinic",
-    "address": "155, New Kantharaj Urs Rd, Basaveshwaranagar, Sharadadevi Nagar, Kuvempu Nagara, Mysuru, Karnataka 570022, India",
-    "phone": "098444 04044",
     "rating": 4.9,
-    "number_of_reviews": 8
+    "user_ratings_total": 8
   },
   {
+    "formatted_address": "#CH 15/2, 3rd cross, 5th Main Rd, Saraswathipuram, Mysuru, Karnataka 570009, India",
+    "formatted_phone_number": "099729 12662",
     "name": "Kateel Dental care",
-    "address": "#CH 15/2, 3rd cross, 5th Main Rd, Saraswathipuram, Mysuru, Karnataka 570009, India",
-    "phone": "099729 12662",
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114355277275834039962\">Jayaprakash Gadagi</a>"
+        ],
+        "photo_reference": "AdCG2DMI87-NURXfL6LJWZgIdJpCoQJsMhroFeQfDV0_U2iWc7UPI41y9xbm4Le1OMGDaYAtm6c-yv_tUq_wla1zLY6kOFpa6c1hCyuc7gCrQh0j5zlbg_vbO_DbKPtuElryOHQ9uk6mV0ih-C8BfKSymf1wq7vefBVLWj9hwvb2j38Xu-DX",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114355277275834039962\">Jayaprakash Gadagi</a>"
+        ],
+        "photo_reference": "AdCG2DM6NfFJSahdZqVGWxn-sSHM9r5j26mVb6ES45DeMPwIJd-PoD0bQsS27WTr_HfSLQway5K4dGellgoRDnrpscK40JrmC0zZhbLqYbaPWHP3RCVDN6DyErk6dSdKVdM-xDvPsia-j7DxwcahaBObtqizH4E6XTt2vjTX259JgMmWnqrz",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114355277275834039962\">Jayaprakash Gadagi</a>"
+        ],
+        "photo_reference": "AdCG2DOkI6518QzdJlIKhyodXKaj3Y1IJwp0RKtu3BNVpgtLtouWpqreze8NpstdCEgiZA0KtA2VkJgAEADuR7kocP6NKiRob5W3H9zTboWPvMpFe33Sa_IGOCW79RPFm7vRIGPKYE5nAytONEqrpNsRhNpfg9CUcJnEXSHLWL1QzEobqtug",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114355277275834039962\">Jayaprakash Gadagi</a>"
+        ],
+        "photo_reference": "AdCG2DMGHh6i9fN6xMD6LaCrYALSfH6qs9ETKOSb7J7a9cN2ulIJV0-6xkARmC4BHzqsoQZlXRcuzRZCN9gf70oa80c0GQD5w_9pa59qOR_pQDuXmF3flsJwMBjnm9o6FJnrJdp4MshBglXLAD1uIymnPkMe1XupiEZzt79fhuLtZd4LaVwH",
+        "width": 3000
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105598574361459294632\">Ram Mn</a>"
+        ],
+        "photo_reference": "AdCG2DOh6B-gHu3sC9_vEfbtDYzaY4opwLWDY--447bi9CTpls_MRnVcfZBpp8Fo7KzHL7NKwOpqEzZemT1xmAel_FlM3fMXAvl8KUs7faNXHJSKM6eGY1gV8hYgUh1oCGyXk5DF--LoCjqmDNg26TfeysC2MYdoelmfL0Nt4fi_2Aim7D3c",
+        "width": 1920
+      },
+      {
+        "height": 2947,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114355277275834039962\">Jayaprakash Gadagi</a>"
+        ],
+        "photo_reference": "AdCG2DO4LgIdz7hp8tttwkaGZ9PRZie6LQLJe4kpvF379MTE5J3L9GrweoKLQNirB_lMAlsZh0VclPIx-AMFPGhUE-MRbjG4c2vqZhqdENBE4amONeDkvR9FvRm0ymEPSZoiTH3I8RO5hUaSrXnEFmxag5NQ0dzZmRIr3u_HPAu7EXUV0Rud",
+        "width": 2987
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114355277275834039962\">Jayaprakash Gadagi</a>"
+        ],
+        "photo_reference": "AdCG2DPuholAY51dE_wTyUCkJGUTfoCxGcEtQ36ae7EhDaOXWa62m9ISe4i7m5PbpUII434jtDH9Sh2ZO_5DNGPn0XXsdP-A04HgaAN15K8esDo7Hl5qniVtivXgUhVlUNSzPFosSMGpIhAg8MVml9yBTolbZ0e4BJfVunBweE32mmUBx776",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114355277275834039962\">Jayaprakash Gadagi</a>"
+        ],
+        "photo_reference": "AdCG2DM7hrTc1CTqwiH_c0EibN2s7LvCyXanQNnhkvcS-QmMnLEKo0DIKVbIf37Mp-gD1aaIO8ORELFA8dNBbBGJZqqvIDiUepqCFZ1G6KLs5eGhnu-Iu6yxj2vmAk12dSX-yPLjhWJPl6erK1qZlNieLvkY7PhC2Z-fgn7sgDsDoQ3rYCI8",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114355277275834039962\">Jayaprakash Gadagi</a>"
+        ],
+        "photo_reference": "AdCG2DOEn_clKIbWC8uwkSThZU5pt_Ydb7By6O7jng4UkGfoAWm0Sd6WE8qsIhVusbCLEyLV6AfOkL0jzZgmqJAJORBc5K-9AGgajhkjYtQXJWmtUK6PSEVzPLmcv80NGq6CtoJtmNjx26TB4f_DTBg8-2KOE6aQ6DumZl4bb2PeMJvaFMYC",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114355277275834039962\">Jayaprakash Gadagi</a>"
+        ],
+        "photo_reference": "AdCG2DOdQM5n2tOkQL5euaD6MOMbiHFBFW4CkzTd0qxdHY0yfqZ9eNl9SUszWJoWgCz-FToSWyLE3OV3ssz7HSOYEWCSeRZImnDbd3hyJ1NdCJczpFXb54Y6E3cmX7T2aBfNfGEGVsPOOFxA8X5pA6g7_ycDfJoYVRE4fyacdVAGSElj5dIw",
+        "width": 3000
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 34
+    "user_ratings_total": 35
   },
   {
-    "name": "Dental Surgeon",
-    "address": "Chikkahally Village, Varuna, Hobli, Hobli, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570010, India",
-    "phone": "0821 259 9557",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "Chikkahally Village, Varuna, Hobli, Hobli, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570010, India",
+    "formatted_phone_number": "0821 259 9557",
+    "name": "Dental Surgeon"
   },
   {
+    "formatted_address": "1774, P and T Block, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
     "name": "Vinayaka dental clinic X Ray and Specialist Centre",
-    "address": "1774, P and T Block, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 1949,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105377809481979425364\">Vinayaka dental clinic X Ray and Specialist Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMwxzlAabRQfd82FuZ9NxKl3v3_5RIuzd8RKiRrIzORgL1DGrJsUfXUU4irWwi9AFPbEQ6-m2U7cxf9iYb0-mwaKeWZHNfzBs-wQcoGEF02scy2Emb_WmBQFouYzt6IzQv3S-wVG5Ly38tIsWw8OZBxCovYVcdMv8ntLFuEuAgyn74F",
+        "width": 2377
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
+    "formatted_address": "Chamaraja Double Road, Subbarayanakere, KR Mohalla, Chamrajpura, Mysuru, Karnataka 570024, India",
+    "formatted_phone_number": "0821 244 2406",
     "name": "Fernandes Multi Speciality Dental Clinic & Implants Centre",
-    "address": "Chamaraja Double Road, Subbarayanakere, KR Mohalla, Chamrajpura, Mysuru, Karnataka 570024, India",
-    "phone": "0821 244 2406",
-    "rating": 4.2,
-    "number_of_reviews": 24
+    "photos": [
+      {
+        "height": 648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113480092753451520823\">Fernandes Multi Speciality Dental Clinic &amp; Implants Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMnzuecJolx3hdQWLrnmSfLb9wYR59DEAu_NCr0_UgS9MyCnDLhsLpAU9pF0R_IuM6OHdvqAQMk9wMuac1E98Jhxj1bucSuUG-Wkv4Po8pdvlKbHlcI5gc1eUaoldq357RJr-fS0DhaORVa6JDcd3A6aSAN_ajdCHgYYQzI2udHxBiu",
+        "width": 1152
+      },
+      {
+        "height": 3480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111263049721386228344\">Nikhil Furtado</a>"
+        ],
+        "photo_reference": "AdCG2DOYfJY8mWpUHQblMvxxFZ1TZEvmgMcFzI7cXxJHDUAs6zdo6XdXoQwdp2X7su2m35eyPecWuiKo8U0M4A4awDnrUmeYvFEUKC5ylFRl6vDk1xpuKNx_PzyHJAanRmweGdHaNzfNNJo4xF8nc4Q9bc7eIqDwxTOph90urGPojrU_vkCS",
+        "width": 4640
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113480092753451520823\">Fernandes Multi Speciality Dental Clinic &amp; Implants Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMmvaPG3uNdBl3JyD7w1JzFhNHNY0Bep5zm5P34ZYMmCkLMVXmqjGMNNN84b4__-Pn4MrdDB5SEglwWVu9U00FM2aXBj1rgFqOPg4I-Jh-qN3ZhnIEaKpf8Mh0B0-wZaKQASkkRe1RmFPqcBB9xOMPOA6phPvoFtn0tN_WtTi1Jzh8-",
+        "width": 960
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115426329660460979066\">Tejas Gowda</a>"
+        ],
+        "photo_reference": "AdCG2DMnGDb7QrHI0u_ZyqlzzTtd06ADhxSfx9T5nVPb7ExHtt2wfg2FunYlXYh6LsCjBvVi94w1Rxpjmyqd4OXQj4ki8bfDKvO_njvBE9CMJGV-Ce3Kf4EunMHCuembhCh7VNvcaGFQCfkl9UyK9u3iBuHNNHPiNYZDWrQ3A8-mRDpSam0m",
+        "width": 4160
+      },
+      {
+        "height": 1518,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109833597493147115257\">Neantha Fernandes</a>"
+        ],
+        "photo_reference": "AdCG2DPLxKBC5PnSQDESEnfDKhYzlzj6D9D4a9wSWuECAdWLknM1v90zgUfkpYf6pVtu9OZqBQnJZnwpNguZw6ZbXAFb5ZUJ5kZ_H1EQ1zJu6NtM5aDxsfY3tZ_H8AyZxsUfkuWXabkv38eumYrpX_wMMhwN3-_CbbvJdqY7kb_dQ0Se0Vdo",
+        "width": 1080
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115426329660460979066\">Tejas Gowda</a>"
+        ],
+        "photo_reference": "AdCG2DNL2n1EgWnuh7X1aN0mb5BRB1KRTePcFma_GqAF28RXcWnpsbDL15EM9166MJYZD7qj1Cki4tPorP8WOPUWswRhw3RWXyk1ne_g8omm8Nj9F46WcGzSLPB5YQyP_MG94nLW2hGlC4d0ULOmelwOM7x-8IGOk021jmf0qGmDBQTjLmiz",
+        "width": 4160
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113480092753451520823\">Fernandes Multi Speciality Dental Clinic &amp; Implants Centre</a>"
+        ],
+        "photo_reference": "AdCG2DM2BL43Oc_T1Qi_Ub9HNrd8ijSlSx81f5xNj4SSHWLuh7e40S-WI_NkUGFnWQgbS0wx4AlnZh7NBRGNeXkJFE9FcszufAJrn0xCFbTFPjG8Z5dJfe0eysqzgzzpi1_-6X5UKW7hjVug6cYkniEhdTLljDn8aHGSeBnkBFt3HQ5QMl0m",
+        "width": 960
+      },
+      {
+        "height": 914,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109833597493147115257\">Neantha Fernandes</a>"
+        ],
+        "photo_reference": "AdCG2DN7dga3w39H-RKszYta5StyC9Hcp5A4nlNuDluljTfZeBQq--m4MHsLPpMZ6ttPhHhJu6_71vtupYbZsdoU0gDORFdVPxoN61JIHd_KI6jTDloDrQyKhGJ9XJb9w14dXXl2ECJTjgx97fy_DAqZQWfw75j7RLDiGWhE7dNDX6p2oV2W",
+        "width": 1075
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108347245048334839885\">Gurudatt Sinha Darisa</a>"
+        ],
+        "photo_reference": "AdCG2DMpokdYiQ3atykbc66mUVEcCa0DegX6Cu7ewwZu5Ej2v_JoI1kYhDsDz-_n4bpLU60dH5rNV3j3YVZPZ-1n3nD-6w8wXhlsGX5hcdOOSF2LQKclVCtBLWL_GqDYMMtBzSYqFY4qeDSEGzEre3qCdauQWSf7R7pSK5V9p4KAUyzLGkoE",
+        "width": 1920
+      },
+      {
+        "height": 864,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109833597493147115257\">Neantha Fernandes</a>"
+        ],
+        "photo_reference": "AdCG2DMcNqi-MsFJx5gUSZgHRHH3YJMHOQqxRyEfrCpTHPjriMtqz_Y3l9cg7dUMjdh1Ikc0jLCapl8Bg67t_irZCO_Ooxbk-UCRdIrSsKpDyS97N072hFUxPG7BIv_ECo79JmldhzyC8r8Cek6X3L1HOsF0y_-bew35Bp7-Uuu6BEdrDbKq",
+        "width": 1152
+      }
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 27
   },
   {
+    "formatted_address": "118, Panchamantra Rd, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
     "name": "My DENTIST, Foundation Of Preventive Dentistry",
-    "address": "118, Panchamantra Rd, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 3042,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100838638178001839856\">My DENTIST, Foundation Of Preventive Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DOqd6KRq4BWECfwVVjULvfR_ttO97pCr-RsVdZmMFL1Of6NvMTn3Oew6z7XvR0aicf9b0LxTChgatYJjkF7RS1lpX6bO40YU59DHmFVw33uX4yimOEuOtTihrGIGaVmTn9aDxCqPY7azxuXEVjnnS2XODi85al1Y4vwgLDAIgMbFy0k",
+        "width": 1902
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106794535990552333235\">Soundar</a>"
+        ],
+        "photo_reference": "AdCG2DPWGm5ed2nzXDqW0nnGqk3wUCU7lcAz3l-vqbO7Lz4hR0A2y28w12hoUAD1pzxOPh-2ux8mLZy83boRFIIScdh-m_NiaQAo2ySYhh89flqqa9x37aXSgnejzN4TOi27r7BY6Wh9x5OlmWeGIpbmHmDtQxhzTt_SIRXO87_bXcou-joh",
+        "width": 4160
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100838638178001839856\">My DENTIST, Foundation Of Preventive Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DP447eaQhG5_EvK8agmibw92lrHk4dwcUYLXS_YIZNAWPs5Gqo6e60OKd1LOsZr6YcfPKhmSXCT2N8JTtDUQQzyNe-GYs9IkeJOs5P4V8AdM-GnAkD1rQpIt7D-MSRP5shRa6cLldquJE8i6dNycMc8FSe7cIttrp1vHbxsMEXBHEnc",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100838638178001839856\">My DENTIST, Foundation Of Preventive Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DNrcLfA2gMcym4OLqaVEP-TR91ongacNubmoELkEqg5uxR87nAhCxkJ3z-lCSt2WYIBOqvdur7Sl-BtWbz2AmR2vIpgtbXIhRM4-55wsKk489t4DXQ-lBSIgpklr2guKszvAT8jy1xCw-fvfU_MmI_4syLKF-r9WFKgXMlPD-03u1gG",
+        "width": 3000
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100838638178001839856\">My DENTIST, Foundation Of Preventive Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DMgFjs6EYUoxyk8NPTwxBL5cOca-utrh1n4lozdi0WTwMowTJ0fbm4Jy20bFU8x-GYOz9agZoDO1vXRAEs_-59APBXecOKgvRfdSPPg2RVm9OgpfLQ_qUFFyYAVZqbHuudJPLyVQVx0ZfPD-D2nBcf8azUc_CWif9YqefJmrxGD8nuS",
+        "width": 960
+      },
+      {
+        "height": 1908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100838638178001839856\">My DENTIST, Foundation Of Preventive Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DPrDEu1JsC_40mYy7wqI9nATLI3LGryiIj29mztpgd_nZrfHnB09huF2IbyHpI9_nCoSQQh9_R4pYJrQ9o2I_aXDMn2EBEaa7vZoUzvN1Kq8LHP7vKLcOQw3Aw2IiMnDC0bGa-8J8J0m7uUOCY2NzD1Hq5VGqCFI-OnLEau-E4ocH8f",
+        "width": 4128
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100838638178001839856\">My DENTIST, Foundation Of Preventive Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DPmkiEdyst-XCPRLxEbmMWCcEXVK1xzv9h6bC9n7zNlin8C1v-NXPmiwF7E3UJXhA0v5OIkSYO_aFeb3rphyUARjMGhtI95LjSuy1EEDXbvo-KPmazmr8macSKCUkMFPBOKYJg99exNIYTPjbo7rniMxLwza6zarNTUFyHd8mjSWnna",
+        "width": 3096
+      },
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100838638178001839856\">My DENTIST, Foundation Of Preventive Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DMMFdlqg4BhIkcC-iRzvPyKJv2NFJNvHw6e2-OUe6YGQ_1IfRWZI2Mk2Bm4VR7MohMWx1FKct3WWd4V40HWuimgHW6Ctj7kRCyc8mckpxwrSwBfLhhsx1PGgczYM-O4DDxeQMaJy789MuJLQTg6QtHsVL5JcCPJYC9mDooRMd3FWF-h",
+        "width": 4128
+      },
+      {
+        "height": 1908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100838638178001839856\">My DENTIST, Foundation Of Preventive Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DMcK4djjl1IPGa2IlZwB7weB5UPFViXeHqDk3yydWcSHECSq1qYAjOYAGN57CEn9WyWwrahulWVL9MGJkXW7Cv4WPYK2Ad_W4zuTMmSd5sszjTAPSLZqSWITjMF6d0EpwZEbKltmfpHQKYJFShU9o8MPdPRIprYt1r7Wvr4-wNV0tHp",
+        "width": 4128
+      },
+      {
+        "height": 477,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100838638178001839856\">My DENTIST, Foundation Of Preventive Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DN_9nvjTlebJOZVCqzLF0YvMl2mlrwh5JdoLF8i_V35pD5z38nVUBzzTIl656InnNBnaGi-TPSvLI_LlE-W3AGR1hnmAezQciZ6BQ_onrW2Znx4liaLQHgiBW3GzrJ4EOkOOWk-RGZpPJwfuaBb95-ppVAhRAbDHS_2N4WQBpy856RT",
+        "width": 1032
+      }
+    ],
     "rating": 3.5,
-    "number_of_reviews": 6
+    "user_ratings_total": 6
   },
   {
-    "name": "ART OF BRACES DENTAL CARE",
-    "address": "7JVH+G6H, Saraswathi Rd, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "7JVH+G6H, Saraswathi Rd, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "name": "ART OF BRACES DENTAL CARE"
   },
   {
+    "formatted_address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "073289 03499",
     "name": "Dr. R.Vijaylakshmi - Best Perio Dentist in Kuvempunagar Mysore",
-    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "073289 03499",
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
-    "name": "Dr. Shadakshari - Best Dental Implant Doctors in Kuvempu Nagar Mysore",
-    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "073289 03499",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "073289 03499",
+    "name": "Dr. Shadakshari - Best Dental Implant Doctors in Kuvempu Nagar Mysore"
   },
   {
+    "formatted_address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "073289 03499",
     "name": "Dr. Mukta Jain - Best Dentist in Kuvempunagar Mysore",
-    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "073289 03499",
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "073289 03499",
     "name": "Dr. Arun J Kumar",
-    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "073289 03499",
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
-    "name": "Dr. Vijayalakshmi R - Best Children Dentist in Mysore",
-    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "073289 03499",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "073289 03499",
+    "name": "Dr. Vijayalakshmi R - Best Children Dentist in Mysore"
   },
   {
+    "formatted_address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "073289 03499",
     "name": "Dr. Suma - Best Dental Braces Dentist in Mysore",
-    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "073289 03499",
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "073289 03499",
     "name": "Dr. Jyothishree PV - Dentist in Kuvempunagar Mysore",
-    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "073289 03499",
     "rating": 4,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
-    "name": "Dr. Shaswath - Best Teeth Braces Specialist in Kuvempu Nagar Mysore",
-    "address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "073289 03499",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "No.830, 830/1, 830/2, Newkantharaja Urs Road T.K. Layout, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "073289 03499",
+    "name": "Dr. Shaswath - Best Teeth Braces Specialist in Kuvempu Nagar Mysore"
   },
   {
+    "formatted_address": "12th main, 5th Cross Road, Saraswathipuram, Mysuru, Karnataka 570009, India",
+    "formatted_phone_number": "077950 76422",
     "name": "Bk Dental Clinic",
-    "address": "12th main, 5th Cross Road, Saraswathipuram, Mysuru, Karnataka 570009, India",
-    "phone": "077950 76422",
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "174/1, 11th Main Road, Saraswathipuram, Mysuru, Karnataka 570009, India",
     "name": "Dr. Chandrika's Clinic",
-    "address": "174/1, 11th Main Road, Saraswathipuram, Mysuru, Karnataka 570009, India",
-    "phone": "N/A",
     "rating": 3.8,
-    "number_of_reviews": 4
+    "user_ratings_total": 4
   },
   {
+    "formatted_address": "#448 SBN COMPLEX M.G.ROAD, Chavadi St, Agrahara, Fort Mohalla, Mysuru, Karnataka 570004, India",
     "name": "DENTO DESIGNS",
-    "address": "#448 SBN COMPLEX M.G.ROAD, Chavadi St, Agrahara, Fort Mohalla, Mysuru, Karnataka 570004, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 423,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117243436537971614950\">DENTO DESIGNS</a>"
+        ],
+        "photo_reference": "AdCG2DNCUGTr75OgB58ju7Yr459CVD0qt_N8AKndai250ChA6rwS-JwPdDRjSfQbynEfynSOFPdtqR1jlz9hY6GeAbJ_hIjlxIGD7m1n9y0M_anCJFT5sqEc3rTxEgH6VfOzy3ZeL5uPUNCvbgpoJbprTjLK2hfUPTCLp93SupAXMd0sMXka",
+        "width": 622
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117243436537971614950\">DENTO DESIGNS</a>"
+        ],
+        "photo_reference": "AdCG2DOBGXdVRCm7bJM_ttquypG7a_vGLwb_1cUY5AHgE2JpC_PoHz5Dd87aNS9jpD8p2Z-wLS2kM3f9fnWMbWhxactNOzNhkS1QHssG7YHlEXwZUAvg6s5Kt-eHv6NKKrptHiJ3QA67jAnIEFnAblShDai_JrcpulOSXqK7X1gH0kgSzzQe",
+        "width": 1280
+      },
+      {
+        "height": 358,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117243436537971614950\">DENTO DESIGNS</a>"
+        ],
+        "photo_reference": "AdCG2DOqd5FmhqWEE3zkii-iDfzLdI0s_zYT5QKQTFafCH0nsARc4P0S24bmx964ZLuBE1g9gfqJWqqvssuPGmYZdQS7WnBpfzdKwkbY3ENe6B4xrI1IXDaLo_B5fBtJfo6MiUU9DcMMhlPkEjv55fY-kvZr_0-VcPl_x6J2CJRDzEkh8aGv",
+        "width": 608
+      },
+      {
+        "height": 432,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117243436537971614950\">DENTO DESIGNS</a>"
+        ],
+        "photo_reference": "AdCG2DOzSaq4kJqjT1nb_cvwQg-jIqp4hV0Npry9bDirda3ZycccH4rWi-JUW6n-YVtebkhm27Nu8fVHW0jaIr6N5oVAP1VQODDw8FWrwUy_0m4mG3Q9cydMRUqSorYIPMqviTzPylFyLKhGbyneFc_Ka7SF4Uz9XeQy3HcIYtL1rvMcFEv2",
+        "width": 1280
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "Agrahara, 1, Veerashiva Anathalaya Building, Circle, 5th Cross Rd, Agrahara, Ramachandra Agrahara, Mysuru, Karnataka 570004, India",
     "name": "Endo Care Dental Clinic",
-    "address": "Agrahara, 1, Veerashiva Anathalaya Building, Circle, 5th Cross Rd, Agrahara, Ramachandra Agrahara, Mysuru, Karnataka 570004, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101453423306496034320\">Ambikathanayauk Ambi</a>"
+        ],
+        "photo_reference": "AdCG2DNLWOSpiv-kasO35vOs6c8zGwXDuPP5-A-rH2dac4dI9sVlnotAPIYO4jKXTv-rg1PW6eBzFRV7UZ1TN_dFMHiNZm2H92yuVBUk7YJeipDBqLrdLxDLHEbt7TjQ6ODTox1SIR_x85eypWqaI42m2j8WRWGYPEtrGvm1-iP5o6NKU9AH",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101453423306496034320\">Ambikathanayauk Ambi</a>"
+        ],
+        "photo_reference": "AdCG2DNUF3voLARXHnHUuFKU29LgPDT_e-gOSULipPDgvUbbNarPKpQgW-0EUVQ7TK9S0TvsMRHX8XndCrVnZOAV1yTgdu9rqoC-ISxjZwDWBbbBhLFmfvAXymslJDB8qmR7bbvEA8AbK3n14Fe6hPP6Dak1nyoNQLBjayIoji90SSBvynpE",
+        "width": 1920
+      }
+    ],
     "rating": 4,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
+    "formatted_address": "8J5W+PFC, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570001, India",
+    "formatted_phone_number": "099808 95417",
     "name": "Ortho lab Mysore",
-    "address": "8J5W+PFC, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570001, India",
-    "phone": "099808 95417",
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "99, D Devaraj Urs Rd, above CARAT LANE showroom, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570001, India",
+    "formatted_phone_number": "080957 90359",
     "name": "Ora dental care mysore",
-    "address": "99, D Devaraj Urs Rd, above CARAT LANE showroom, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570001, India",
-    "phone": "080957 90359",
+    "photos": [
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115727290660480114935\">Ora dental care mysore</a>"
+        ],
+        "photo_reference": "AdCG2DPkG0O68WZyMwbnYRsyJ-nW_g7DnzF8l4mralO9w_2m-Q1ZHSaa7pTAhYCGHwIgCEUc3uQWe2T4JjUAHUT2TrdacOzZx2Ue7lf4lKQa6d5xIL5CHnCYkZgvSFPOqofWbePJkNMrEXjY2VeGeP8DPIy3pZ5GH3O_r1ZDVJWIQgXm0Gc",
+        "width": 1024
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115727290660480114935\">Ora dental care mysore</a>"
+        ],
+        "photo_reference": "AdCG2DPN0JBAYe5JRnBLgPnWUPe4v8gmGLIHyp_cd7BkS_9DtDdqWvZhtBn5LPPR7XiJVp9GdDnWHinrthXNzKu3t7-Kf3RcaRhkWkeNhBPzHloW3MSNhVBGco9P-wnDKB1om1ERNoBLBmfIlqDINR5kwQ1UK4z7Pi_CRGp8WCSPP91Kd0Y",
+        "width": 1024
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115727290660480114935\">Ora dental care mysore</a>"
+        ],
+        "photo_reference": "AdCG2DN9dJiJJz8u3f0lu06Rm4eeRIDapQEL8t-H7SgGCHDtCZ8rnFKQYhC6GKLPzs9q-BV_EzuOGpasfHR6tUeVIh0GGJ1A2sPhDTxqDk6XVxCL-je84v5WF5_zy_3wkrythdqqlG4JgPOlb5mS46XkQsJha0_sv6-81K00GsxjaVdHfKE",
+        "width": 3264
+      },
+      {
+        "height": 1063,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115727290660480114935\">Ora dental care mysore</a>"
+        ],
+        "photo_reference": "AdCG2DMDYnd8dSl3lpwpvlvKIOfIrqcKfFgvVvIh_rpFzl6MS9RjzHHb8000eeCCIHDwJaEKQPl4DHOi-laeMQB44X1-5tJ899obW6Pc75V72gh3KkgcSVBOiIpNW41SncqreUHmhbJ97rGm18XbXP0isIwwI6zcG5xFV9NxivmnMEzmVec",
+        "width": 1589
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115727290660480114935\">Ora dental care mysore</a>"
+        ],
+        "photo_reference": "AdCG2DPWxy1DpO-xXZaIPGZJAX2EnsAVf8i1cEH566mkxiL3RjHB1ABhma0zQAQvMFQeLPnjtZF5QTjz4-KV0yqJs4UR1UyXqel_htRj1f9YEuLXFXA8HBxLXwOjlK_o1xA1nooDlUQUUbbWGVpS4fQw1u-M93ILmd6vb8ITJQ_9aI0e0-Q",
+        "width": 1024
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105645043270832788004\">Nag Bhushan</a>"
+        ],
+        "photo_reference": "AdCG2DOLEe-cjXoLc3pD2reTWi_CpNbCqxFX2RroTMdUAk0z4UmMRkyprfcL8uCTPbwt3lvH_ytMssIvkZrEndtZhZvd6rwXGSzj-t0n2KH8tXmEu1XJ7rJCT5hmzSp5JOR_MhThVv5LV8X98wJr8pNnoJCMXeGo2mJxEY7u8EV7wcdXQl6p",
+        "width": 3120
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102684291127296086654\">shashwath srikantaiah</a>"
+        ],
+        "photo_reference": "AdCG2DPvFQr6Ek-D5q-09YiNRN6EwCWihEOnd1YgR1sk98ah694I_Ss8yGRU9AudRZqnqaw_z8GRQMu2Qcglvu_TlKg2KsVPVNTrNDAESzTbM4gCDBRtB4gL1A22ykAPw-YbFRPdqV-2ATwkXHNyslv3M5SCFceG71djN6nqDq4Kx0L95RAD",
+        "width": 1622
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118194105288096563286\">Pavan Prabhakar</a>"
+        ],
+        "photo_reference": "AdCG2DMS3F-o0P3RqtWYL7BxTgrCJwDYYB_fgXyO7S1ymkn_vLjDCS2r89zfgna99yR0ZlcWKtNQVWl2hk20A7cQxqG5QgqDvJHrdJ1EK76AWNcS35hpUBk3R7s_JyHA8JNcesSXBzzcTTr6OJXeSmF3bHl_m820dy7rL2WEp6MCygzBnRZL",
+        "width": 4032
+      },
+      {
+        "height": 1052,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115727290660480114935\">Ora dental care mysore</a>"
+        ],
+        "photo_reference": "AdCG2DPky0LPGDFL9zjUvXAQS-jfAWboQ07AolsR4Xw0uYaRw1bMxCz4S05E4Qc_i7CbHpA-momxjwz3cGA73fu5KYH8P2VnW3mYIq4W-QNk9QG2xcabvw42Y30wkW3PMCZ4MtIOXBWMOg0LHI6gru-wj4BckSzjQcDwmPrQaMmkFcOX5eo",
+        "width": 1578
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107006424231085345732\">Madhav Shaiva</a>"
+        ],
+        "photo_reference": "AdCG2DM-lN9SVW0QBCGTO98fknpwQ-ysllDYykxAPwSB7kPFdvHkhMtWFdRmOWeM8-UHmoQLFKLu6D9frD6HpHCUV1HArfjGEbf6b4TWUApDND7KYP3t32RFREmR7DHH3hzKiDHnxoCRXjlmiau8VD1ArtQeasvLuwfKSundVKCWKtkwB4l_",
+        "width": 3000
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 330
+    "user_ratings_total": 330
   },
   {
-    "name": "Dr Arun Kumar K S, Dental surgeon",
-    "address": "1st floor, Adichunchanagiri Road, near appolo hospital, M-Block, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "1st floor, Adichunchanagiri Road, near appolo hospital, M-Block, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "name": "Dr Arun Kumar K S, Dental surgeon"
   },
   {
+    "formatted_address": "No. 38, Near KUVEMPUNAGAR COMPLEX, Opp. More Supermarket, Udayaravi Rd, next to Cadabams, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "089706 32985",
     "name": "Dr Nalini G Kulkarni - DENTIST",
-    "address": "No. 38, Near KUVEMPUNAGAR COMPLEX, Opp. More Supermarket, Udayaravi Rd, next to Cadabams, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "089706 32985",
     "rating": 5,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
+    "formatted_address": "627/B, First Floor, New Kantharaj Urs Rd, A & B Block, Kuvempu Nagara, Mysuru, Karnataka 570022, India",
     "name": "Dr. Deepa's Dental Care and Implant Centre",
-    "address": "627/B, First Floor, New Kantharaj Urs Rd, A & B Block, Kuvempu Nagara, Mysuru, Karnataka 570022, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 3008,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101682693946854312658\">Dr. Deepa&#39;s Dental Care and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPXw5M5-GZgBndu9W5yBgylJU5ThUziH7YJoOrOvFVORqIQ3QeBj_GGoc4d6lP7MWEtOfBr9VxEXaPYQbHZsUgl7PLztOj3EbMjyfDmb0vKgziBALbXHHgBM7ZDfREmxiQ_PvxPweAiQ-Y1szIGTtJvnY4xD-FGQFznSFiHbs5edaeL",
+        "width": 4512
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101682693946854312658\">Dr. Deepa&#39;s Dental Care and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPPmb6l1dkCaSxRFk_R60a22SCe0iWdg20TsHymentYHW48kzeTA5axIwlg0fvRR1ZVSFMTWcCDJ33NRRMYT9oeNYaiIHVyZuu8ytLPa7agxCDUvAis5GxSggkSvQAHmECtRWtAf30txsEfH9-xvthIqD3a_d4u_SrXHy4_ccNw6rOV",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101682693946854312658\">Dr. Deepa&#39;s Dental Care and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNjiHtrvm7Kzsz7WOLY3VSC2FbPlRzeulO4GJSlqasISqU7wBA1JOIAS45O_2rSWyXz_9NO67L0K0aPLlHkCicB6AmQxMerhUWu83JPJwqFxU8RuWdVrsI_WRe6de7_N7C1wEoz1vuSM9zT7qpO4PqY0k18zejF88PoF-yyXX8aaXVy",
+        "width": 1280
+      },
+      {
+        "height": 3008,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101682693946854312658\">Dr. Deepa&#39;s Dental Care and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMur0lodMCxCXuZfqSbPdvSyDPlTkmSq5DTfkeLiMPlnjdwtCg5qwFom-lheVPxW0re-xIzITynxK5URfAGE0OgahXEITvci01z36jxqT_mUhf1CmF4sFfsUfL_qBNFryGxcSH9wZtHdoFGS2JcP8ff3dGnG_LdB5gK2OKmY877Jyf1",
+        "width": 4512
+      },
+      {
+        "height": 3008,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101682693946854312658\">Dr. Deepa&#39;s Dental Care and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNw0LEUu61ThEQiC32fqoJRrpCm3BFuDLUf5Ox9MEDaRNfI5OQpMz20YK3uxEzLKZbC946RMPcbuINUbgPYL0AJa5NsPrut7_CMXvelkaZrOVes6XwmuYecwWZkyceb6M6oZW9qrQ1Zur-snNI_LUe5rjYiKpV4jWRWgZkjgHd2_yH-",
+        "width": 4512
+      },
+      {
+        "height": 4500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101682693946854312658\">Dr. Deepa&#39;s Dental Care and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMdcK_v8bLXXjUW7ClzhXLEvOQ3fy1s9eDrzxYvx53lwWjRiHWgVcYI0_Mhbg15wycpzdy1ChC25qC1SoYOGs1V8EahP3bsrZCFRHjHG_PC6iGX4gwWA67BAEwSj1euL3-d8qDWGpsITKF5Ax1KUov9lmkoeOb1Ctas5BnSR2q6myzw",
+        "width": 8000
+      }
+    ],
     "rating": 4.3,
-    "number_of_reviews": 3
+    "user_ratings_total": 3
   },
   {
+    "formatted_address": "MIG 27,1st Floor, Nrupatunga Rd, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "0821 256 1222",
     "name": "Sharan Dental Clinic",
-    "address": "MIG 27,1st Floor, Nrupatunga Rd, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "0821 256 1222",
+    "photos": [
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115609030514933261113\">Vadhindra Kumsi</a>"
+        ],
+        "photo_reference": "AdCG2DPSagzf0OHX_8rsVYluRuf1bIsjfdKNxFHNvdsOC26AnBdB3vnCKktCVORrRDYTMmA_4DiUYId0WaKJ3p580mFs3yDVN9zdaX2JtB9WE10Z4GHviuw2FsIcMQD507M6FlFJKeEL0PjugkkZnDU06_cZ3CV9sRQkzTnG7YNXzt2fM6Mk",
+        "width": 1440
+      },
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115609030514933261113\">Vadhindra Kumsi</a>"
+        ],
+        "photo_reference": "AdCG2DPh5avAnhHqbpMDxaAJrg5wxQ_fjLgmozIRPuOjDuXGNpqs-8FZ4KVuh2fNciE0kWbxFqNG5PpN28VLkF-8Xy1OXGmvLmU4o2Es10DO9RvJzsg3HG9bav-oKNwf1zbZJTdSPw7bGFdraFziXxyfuV248Ps_h6L4ABa_fcTMFLlbyOP2",
+        "width": 1440
+      }
+    ],
     "rating": 3,
-    "number_of_reviews": 14
+    "user_ratings_total": 14
   },
   {
+    "formatted_address": "Udayaravi Rd, E&F Block, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "0821 246 0461",
     "name": "Sarathi Dental Clinic",
-    "address": "Udayaravi Rd, E&F Block, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "0821 246 0461",
+    "photos": [
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116441234368422655177\">Manjunath Sarathimanju</a>"
+        ],
+        "photo_reference": "AdCG2DMWgDl4IfWAd1Ngy05cLodpVYzEo1TnHFPLNBCBCPj7AFGp157ho7sCxJ2t6qwQBxP9Styj7vI8ZfPI5KTC8uRbLPn5xf28eJeAxxV-dqyg23rzYO_H_HTHW74CPrxVylhzaJwI-SshrfbgCSr6fhz7pyVfVvBX8m6yzUe9Ms4EQn6h",
+        "width": 780
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108347245048334839885\">Gurudatt Sinha Darisa</a>"
+        ],
+        "photo_reference": "AdCG2DMIuBEHauq_JP1Qp-5U75fjHE4HipP9w_ZjhcM0mtk8Ty2tqgQM5gcDf51gxuoFL1KKU39PMQnuNPeuxQPyBkBB_zRLMS2OTCDnFFS3bDK3KOxhSz-WAtNfSwwn8uXx1g8MIzax7ynNiHhqwnHNFjZj8RLLWK6fQrcacDPhNvIdjiNq",
+        "width": 3456
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116441234368422655177\">Manjunath Sarathimanju</a>"
+        ],
+        "photo_reference": "AdCG2DNkkbZdWBuGIJbdOHXDxR1Ebeo9UjTFFiH1I1DQ8ddDrkTnSvR4tAStVMVbWoq1X5Wdzjbjoxa3swSIwSoeiiSYd4T-guVD8ENbUt6QqDSSzuoKE13yYFdQZLK80wqsKzp5U7hOteeWdx9kxPg1rfssS-mhWandW9-DpOnBVZozKqVg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116441234368422655177\">Manjunath Sarathimanju</a>"
+        ],
+        "photo_reference": "AdCG2DOaoCMG6gbo8GJcuSvH8CKav5psCuO3hinfN-Vc-h9flhHZNa3gk6IQc_AVqBHIzUp7sEGRfdf3_s8zvxHH1NKKqgaMJs16ax06vIHBrIo5ACeNeiKA6sK3a-BbR_es7BvPqthG_nD42fY9UPFJN-DIE2ab7Dn_pWyl9F6bpt0gz4HG",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116441234368422655177\">Manjunath Sarathimanju</a>"
+        ],
+        "photo_reference": "AdCG2DP_snvcTJ1ZLGgJ6Ke6y6_dps7vte47jZxmaymLIDwt4BkjIzZGpMXByB2flHhNNPGQ2h66upZkW4mLk1qmznI7sRJsTmWFYHF7e6m3e06472TGTiEd7_fkf5fLUsBnSNSZ3Web_q1C7otxaYAJvnrO_RR3Z_2qg360pS_X2l0FqWJc",
+        "width": 4000
+      }
+    ],
     "rating": 4.3,
-    "number_of_reviews": 64
+    "user_ratings_total": 64
   },
   {
+    "formatted_address": "Subbarayanakere, Shivarampet, Mysuru, Karnataka 570001, India",
     "name": "V k Enterprises",
-    "address": "Subbarayanakere, Shivarampet, Mysuru, Karnataka 570001, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110110785221866952901\">Vk Enterprises</a>"
+        ],
+        "photo_reference": "AdCG2DN0Z9mbaawxdLaQKhCiGdzmAcu-DvN7fCjRPelCsnie0E6eGYzw2FRbyO7EF3pL6gyG82KazVwtqJZpcwcBReE9FeMneIosHh2qztui-xuYTx9LqIxwOZktc34aBZSxVC3oEyJjdpz12fFVdoi4pAM0pMh4veTl4rsdTtnhZcI_Z2ro",
+        "width": 2084
+      },
+      {
+        "height": 562,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110110785221866952901\">Vk Enterprises</a>"
+        ],
+        "photo_reference": "AdCG2DMCeBI2y4BVMn5np4uhwwdeIHUmPXE1XtV07jP13fL7z5p1CIuiK3dnabuQp8BE0ZSPW1xYPC5srdxiKeebtuGgaRIphqdb09yiQFFhjeAVwTVpn6UnI561GguVhBdN65CfAOTvQXeSOIliO3TXRlEFHWRBXK4MyXPlcSyU17Rn7rST",
+        "width": 999
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110110785221866952901\">Vk Enterprises</a>"
+        ],
+        "photo_reference": "AdCG2DN_bD8JwJ7iHNzeeyIRcSszipJUw8LFIEMYbdKKJSldTnCS86LtgMnw8YQa4lHDy3ncTq2XwS_Sk6O8mW9lwJ46B576jsYPgk6PvJ-uxIp0pYDqb5ptw_OSTX_VnOE0C2KU0x_oLLta_kNEdbCe-XNAqjJe3ZXmpG8y87XILOvMSNSw",
+        "width": 4000
+      },
+      {
+        "height": 360,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110110785221866952901\">Vk Enterprises</a>"
+        ],
+        "photo_reference": "AdCG2DPe2GLFbc86sUHbSJfO4eU33j1WVZSaq5oWSCYQbmMOBY5xqLK_svAceROHqpRyA38fw2uqCz8uuCLZQH3FJInVZJ-fTCHJenEWP84WBsKHbmxfDAE2LwCfJUTioGOv2vTaHaITzyUrOA9aPa7Y9NS2ZRKvTjLG6K2ijZiyuii3wNt9",
+        "width": 640
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101178889289562876613\">Vk Vikram</a>"
+        ],
+        "photo_reference": "AdCG2DORN4KKlYg55FINGnizz8HGFXu-YQQvcKjyYjzA7T6H7LzevQ2oMKB6x9uVZhyOPXBvQ06-JGh3vChIVxBagAXULQfmEdY30pNje6DVCSGgkLGdfLkRl5pegAZeG3i5L_jHkAElvvi2ZJxdYrF4Y_vw7uTRAHzLzPnmw7hAwLikfMJR",
+        "width": 1920
+      },
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110110785221866952901\">Vk Enterprises</a>"
+        ],
+        "photo_reference": "AdCG2DMqPGaP8dryrNNIIPqtMboNt_Mq9xwQCb2dGvNuJJm4zyipzhwZBJ0HHbv5EKRlvQWYk_JZugDJjDjB898nvAPwWUpMTxsCR6B_31wA0_8a8I40SVmCnBPSjGvrwgAwQkfa1Jym_31WhO6WL3VgPNH9Lu01A43jybmgUTtEkTNMIoMn",
+        "width": 4624
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110110785221866952901\">Vk Enterprises</a>"
+        ],
+        "photo_reference": "AdCG2DOE_rfbawJeIEohwhzmB0HL9fruBFaGNUlnQzRBW4aeGCX9Le4UG7VNE_ALB6f7HNKv_j2DllvwlFHj8sEGix2egtXHL7HdSDqS0yIW2rRztldN9zsjJ9DBYHVpSIF45VS9VYBNSvAIUK0ILSBt3TZmShdV5vjlMnjmU5Grk-UpKx8F",
+        "width": 2084
+      },
+      {
+        "height": 360,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110110785221866952901\">Vk Enterprises</a>"
+        ],
+        "photo_reference": "AdCG2DMU4UoXBJLs6g5MnIKkOyRqqNfp1b2rnVf5Roth9O-lgCGGr5zWV27nizjbT43XHWSwuPxV2jQQ9V-zXwb7BBhvb1k-TnaK2UBKZW-5cAH6oz0WTQlrZbBvmu4hyWkv1Kg9dTGx9tFOPOIdU8-as9MH-LDyn7qfrhG_eIgXhZiu0qKc",
+        "width": 640
+      },
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110110785221866952901\">Vk Enterprises</a>"
+        ],
+        "photo_reference": "AdCG2DMlBPyeb027K9y-flVjripzBMiXj4dYcybM3U0OPSQH-RQaeYRifB21FmLisZvlUo6ikZL_MFzFLv6pQPleylnqeoHxTunxs79d4_PmKGTq4kga4uW15ChoW5pWoT6JXtsNdnu4PLREWXrSDB5WQH-GTez-KRiXiBW9yS2Lwt8QdWg8",
+        "width": 4624
+      },
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110110785221866952901\">Vk Enterprises</a>"
+        ],
+        "photo_reference": "AdCG2DPCkGPi6QgniuKomUlYRTgm5x9y3Um-L91I8bG3zn92U70TAnfVFpfPsNOYZSmmYjEhF2HW3Ps7fQODXOoeBdeOotidLmhYsU_53ruTXuZhSpdO1oyyG_eESD8VK98Q3pV4qRMGpdlRBbYoTPYIynp8r4frP1D38tW-6RyZ2FShCUOW",
+        "width": 2085
+      }
+    ]
   },
   {
-    "name": "Shree Dental Clinic",
-    "address": "building, Maruthi Temple Rd, Gangothri Layout, Mysuru, Karnataka 570009, India",
-    "phone": "076195 18795",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "building, Maruthi Temple Rd, Gangothri Layout, Mysuru, Karnataka 570009, India",
+    "formatted_phone_number": "076195 18795",
+    "name": "Shree Dental Clinic"
   },
   {
+    "formatted_address": "no.449, 1st floor, sthira building, New Kantharaj Urs Rd, TK Layout, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "097708 81765",
     "name": "Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center",
-    "address": "no.449, 1st floor, sthira building, New Kantharaj Urs Rd, TK Layout, Mysuru, Karnataka 570023, India",
-    "phone": "097708 81765",
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108063179885600120080\">Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center</a>"
+        ],
+        "photo_reference": "AdCG2DM1SCOJPbUBOhnAHLr8hyHl4FOEVmXw4jDIpNEEha0w30As0RSXEGtzPvItkCM3W2vExpLspGmDTzhtQNrirqb4bfPQFDQB2lVx5aaxeRWEWWAp3QA-2X7621TiwtnUm3s6HNGPpVAOM9g9b4JtSWyYq8F-jZxfE1I1-OeXCmiv5jE",
+        "width": 3008
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108063179885600120080\">Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center</a>"
+        ],
+        "photo_reference": "AdCG2DNzNxm3G8x3WcZ4WJfolZJtbmWskibufr3xBrnuQsp2HIsWU2-I0g-oUqoR1T6wMLinz4bkd1EMjf22IeQDEfYThNl7beMLeEIhXWLG0_tfZHgOMwU8-i7I7F373o49lprnEGc8mN4AHvHuP_bIv8N1vfZAFOtIpzmJ_kcGnztdLUw",
+        "width": 3008
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108063179885600120080\">Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center</a>"
+        ],
+        "photo_reference": "AdCG2DNfyeSleRztHXMxNaPmEGI6XhvWd8tM4XO4kX1rk7P_P2UqSuHb4sZjPwU7Pe4nv2dnulWiYagrx0_CsTgOYERz5djbwpCPdRjTU1r2FjaBqP85-Q2B9f1Zcmb6CFWRNZEWrp_Tjh9fcMcD1ubV3SI2Pt2MOfkD9AzayixwhbVYMLs",
+        "width": 3008
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108063179885600120080\">Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center</a>"
+        ],
+        "photo_reference": "AdCG2DPjTDrHeVvZBicl9hBIkQZ3_wC0d1PG_u3C4H1qVrecysvo5v4-ONw06rb77wrusRRlwhYbz8mNx16thSGeIbvxgrp92FcwlHrrmDoCwSkgtUVOHp_qz9lU1RRtetU2alfOUxt0UwHarZskjyldqK8U8nmIN5FvOjwvu0dztumeOhE",
+        "width": 3008
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108063179885600120080\">Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center</a>"
+        ],
+        "photo_reference": "AdCG2DNhfUlAA27FqTesNBqEAhn535061rinm3VcBtNkDhFAiOTb1eIFimMtiZIBQIfZc9mS-9BQvx1kM44sXyuDr8fOoTJPsJp1ve310B0o0CDTDgGgWb0cWvum3Y8H-z6dwjBUZ8ePQKiMF_napBs7Chhxf5rRjQLSoMgD3wCA-qIt5ps",
+        "width": 3008
+      },
+      {
+        "height": 1599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108063179885600120080\">Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center</a>"
+        ],
+        "photo_reference": "AdCG2DPDmycMRohPgyNeOj_iLd4TTJU0JuCujk17-vj5vpSgdyDsVsPl0u1w2t--oCXjM_ew2UOXKkjPf20xwvvig8VpZptI60epU6YUI-_FT-9RAWk9z0_d5Xo9CgK_b6N-FDyqH0q4E92ueVPkGlFwCkhyESN2_DSgl-SYJDAb06n-gMw",
+        "width": 755
+      },
+      {
+        "height": 604,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108063179885600120080\">Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center</a>"
+        ],
+        "photo_reference": "AdCG2DNOJLhQ1IJ3PAO04JX5Zlctc2OrC_tfjAHjJsrMe1gPy5UWmfxk2A2ohC4nmw8jCv_i7PNmXwBUV6ZhV8fS1X_EC-S_zzd4xkCtzKiPnsADexjZ6FlWDDG989J_orXaw1cJA4ykno49rN7krslcVHuBUo40yu1RUXITCLI5hGX2Oh0",
+        "width": 1280
+      },
+      {
+        "height": 3008,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108063179885600120080\">Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center</a>"
+        ],
+        "photo_reference": "AdCG2DOTv4gRehr0mdH_8QCY4SjHh5YYBO2iITx5qm8vd8YiCLsw_T47c0_UhEDg97TIc7hdIbMLOlOWBN79KN5YnIcA0i2iYW-mK0fVjft6NPV9O9TkJRGZEQ0I4Lzr52lwbBDZS0_Tx8yvt-U-42a2hCrBTXgU05qEdwV7NLUyWREZ3MU",
+        "width": 2000
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108063179885600120080\">Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center</a>"
+        ],
+        "photo_reference": "AdCG2DNzW4P5Wwi_IGtyQa_1VeFrJGLBeJcnTy2WxsNOkGo-84R_QB6XkG8ymfZe0RiTUtj3lRzjy-X0NQfvE3UZ1ALPIy-VSOuWbHyY5nu_POj8hAkjoyNcwebHQw4JCzAClPmvteqm4OfNMRpvaMyFnbeR5LLoHEALEj5lx5pvN6qTnz0",
+        "width": 1010
+      },
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108063179885600120080\">Shree Sanjeevani Multispeciality Dental Clinic Implants and Laser center</a>"
+        ],
+        "photo_reference": "AdCG2DOmud3ijDww4XvX07B5cxaqBOO1ctLcNtsPRWfaBhBupTXSexOIEYQbxK4dFD8S1742O2l76KLJRKBKdb0rdcHT0tYOJihq0bL_7zTeWbcsZEGh7nGD4wiDBXZKQuweWJYEsPFP0SbS69TZcF8WzXKIAsV5lspTjmgf3ablDK04AYQ",
+        "width": 760
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 6
+    "user_ratings_total": 7
   },
   {
+    "formatted_address": "682, M Block, Nrupatunga Rd, 2nd Stage, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "094482 40070",
     "name": "Anvi Dental Clinic Kuvempu Nagar Root canal Best Dentist for Cap crownMysuru",
-    "address": "682, M Block, Nrupatunga Rd, 2nd Stage, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "094482 40070",
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103346204624826495842\">AS</a>"
+        ],
+        "photo_reference": "AdCG2DOe2KfwMVn_r6jpv1dFZh6Hux6JezGUvwqZ8boM3OEhqfm4P_0g7aTod8JoU6qkOqdkd_PB2HtE2Uxcmpz49DzshCQ9edBGk5mUL9lIb0EhZMlkO3tCczzO8PEoAm4m5UHEKT3yEBI9oWHd73MJwqsoon-yeikXWQwUbiq6yDiWx-Ne",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103346204624826495842\">AS</a>"
+        ],
+        "photo_reference": "AdCG2DMTLGX30LpP_C7EHMIjCJ1u_gI4MQ1unesYojVrj1uqYSwhSYg5Tagsb-kAJ432-4n4kc94XgYWXkKbXBczHQvWH6sVcQ1uC1i8LhPx1th_cevvMUKz88vevXGdGNRn2lreWOlqNyPTdJ6CRz7sj3JaZuBOR98YoK6yH519Alvajcqp",
+        "width": 1600
+      },
+      {
+        "height": 566,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102120325462449078664\">Anvi Dental Clinic Kuvempu Nagar Mysuru</a>"
+        ],
+        "photo_reference": "AdCG2DPugLRbvZqWz8TZqfuv5_yriAhX2qY9cH5LbgP6DXYbIhIc5mYtb1T-jL4NbQu21ytvmnBGK4ZvOUn8SjvXbO9be0pIVm32cJqhvrYhTlO4en35GX8ypGgceXoq_nbPhoC62uLf5aIcKxAALEkUz9ZnrN0ZyTBRUB3R7Nk-y3pidwuv",
+        "width": 1080
+      },
+      {
+        "height": 731,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102120325462449078664\">Anvi Dental Clinic Kuvempu Nagar Mysuru</a>"
+        ],
+        "photo_reference": "AdCG2DPp3mDaOMCew1cGwT-R1uqfI0d7CdGMPPyeYGbry-4g6RMo4XHEA-sxLjI1XQ_y4eYtFExJbGbi4irh0TOCsajTzxb0O6VVZ7p12kaZaCBMrq1lr1ZOL0_pOsEC38R7DiBTbXfSvqYkH-cMmqcDZYEFDpumid3o4kXRJskBwWZ_qPEr",
+        "width": 898
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102120325462449078664\">Anvi Dental Clinic Kuvempu Nagar Mysuru</a>"
+        ],
+        "photo_reference": "AdCG2DO7kPb75xu7zagcwd2k4lnoIfTmjjMK9Py9efsKQZLCgVWFTEwkfOZ3YuvcoFThJYPUYeuNUNZXky6JT2BjbkSXqkPyW0cdPB6qwvsb3pmSTTEbPND2i2l0DRMp3zuKQim622kyWLY5wXqa8PYf_-tEX_qUMJMtU1EabsJI0hl_9InR",
+        "width": 720
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102120325462449078664\">Anvi Dental Clinic Kuvempu Nagar Mysuru</a>"
+        ],
+        "photo_reference": "AdCG2DMJhn7IJy0ohopWryVP76GREjws1cytz7-ek-jkm4pUBhFEst-TTSJozQR_eMeqmNhQYwGbPGRTyZl3w6HJ-mltCYtv5LLQ_p0OiZNwWy3h1sNsw24vfCnJbyd_1_bdImuEIainSPfg7_f8LmMBRk1QDVTeedW3PjTBWfZnai2YIokp",
+        "width": 1080
+      },
+      {
+        "height": 1250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102120325462449078664\">Anvi Dental Clinic Kuvempu Nagar Mysuru</a>"
+        ],
+        "photo_reference": "AdCG2DMbUA8kViNq1z1xOnHJcsgYzolZTdiIbfJWLuvcGA1Mgd0XNMbkH-mPkRMNlmp_iIJCTXKaYW-mVpUeF5BepBlzICtzNR0PowCh7po_uKfZ9s4RqAcWWf_j5kezFykIcG5DHJty1WkgoHSkcPMCe9QvdIsX4XP9hspyvwD_hFEsJg8Z",
+        "width": 1071
+      },
+      {
+        "height": 714,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102120325462449078664\">Anvi Dental Clinic Kuvempu Nagar Mysuru</a>"
+        ],
+        "photo_reference": "AdCG2DPjjPV3znR53pVoiJ9iEanL8mue9hf-tQdu9tMRge99DiNZFTayKkYkwM4YeQYyG8CRSPcF3TXarxa7ht6sLKUtPSLA01Rw-aerViwjwMTmWPi5r55Uxw2NTIwR9NQ3IVYLvfPFqDUke89cYzOctFdNi9Jw4YBakY5rr96W2OOBCIlX",
+        "width": 1080
+      },
+      {
+        "height": 862,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102120325462449078664\">Anvi Dental Clinic Kuvempu Nagar Mysuru</a>"
+        ],
+        "photo_reference": "AdCG2DPTnCRP1qDYgSNCJs5us-yfSkzj-UfzwO0SgB3Xr991TwigX5uGfo0BfNj9gkuDGJWwFo7N6t0WUkQWZ3J8_oyBQLbDOFDr13KU91KX0fXe3SgCpgmmVan-yDQLX7nGtb_q27WIfVEkiz0S3pGG5xVcpabPn-7QNbXCIFokoWPVZMyi",
+        "width": 1149
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102120325462449078664\">Anvi Dental Clinic Kuvempu Nagar Mysuru</a>"
+        ],
+        "photo_reference": "AdCG2DNCSD4y13MafFmRkZTqmdOvFU1zeRoz5he4vOAm2OxuQt7Ye4vDLcR19w3aA7cYnNN5RANJYGoil1kX0x-oV_bmWmlxb9bdFLdkemAs1h2unKjhs30YK5P9jV581OHZya2-nYwoqqgdzlJTOxkrrNIQ57CVCLextri0eUK88KWLWrHV",
+        "width": 960
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 20
+    "user_ratings_total": 20
   },
   {
-    "name": "B.k Dental Clinic",
-    "address": "Namana Park, opposite D block, Vivekanandana Nagar, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
-    "phone": "094481 01254",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "Namana Park, opposite D block, Vivekanandana Nagar, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "094481 01254",
+    "name": "B.k Dental Clinic"
   },
   {
+    "formatted_address": "71, Sahukar Chennaiah Road, Kuvempunagara North, Tonchikoppal 4th Stage, Saraswathipuram, Mysuru, Karnataka 570009, India",
+    "formatted_phone_number": "094817 87791",
     "name": "NAYANA ADVANCED DENTAL CARE",
-    "address": "71, Sahukar Chennaiah Road, Kuvempunagara North, Tonchikoppal 4th Stage, Saraswathipuram, Mysuru, Karnataka 570009, India",
-    "phone": "094817 87791",
     "rating": 5,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
-    "name": "Dr.N. Chandrabhan Singh",
-    "address": "8M72+RX8, B N Rd, behind Chamundeshwari Talkies, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "8M72+RX8, B N Rd, behind Chamundeshwari Talkies, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001, India",
+    "name": "Dr.N. Chandrabhan Singh"
   },
   {
+    "formatted_address": "shop number 28, and 29, MUDA Shopping Complex, Block A, Ramakrishnanagar, Mysuru, Karnataka 570023, India",
+    "formatted_phone_number": "0821 254 2071",
     "name": "The Dental Centre",
-    "address": "shop number 28, and 29, MUDA Shopping Complex, Block A, Ramakrishnanagar, Mysuru, Karnataka 570023, India",
-    "phone": "0821 254 2071",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108884705698713899589\">Sukumar Rangachari</a>"
+        ],
+        "photo_reference": "AdCG2DPnwMjBWmtpy8EYE9t0QT8JteyCtJPXg61L2Sy9tnH8-GIbEeHJGGxuInr3DmHQA3BSDwWztzAgDQfAMdQN_nNcxb4AxI0yqaBhbqZSh2jNeRN9h7-e3snY4vagqIstg1IyjHwo1QpMlQN_CTxdkemQWfEPxel4ZQvscQPA-FLAWQy3",
+        "width": 4160
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 3
+    "user_ratings_total": 3
   },
   {
+    "formatted_address": "1788 MBM Lehar complex, Sayyaji Rao Rd, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570021, India",
     "name": "TruShine dental clinic",
-    "address": "1788 MBM Lehar complex, Sayyaji Rao Rd, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570021, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 2256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106064916515458737139\">TruShine Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNQbheIxRLwXs86Pk0qoPWQ7jgKFFmFmTeKaFKUbQE_fzzhqaFCHtGY1CwT7OPGIQ1Wjj20tsUkIBx4nRJLeW35Sz3mpH6KLqe-l1ZeM0_F1Op527HFgpASBJFEoz_cqPcKXiyFhG4RjPtzOMzswau8mABCTqy79P-WRq8p7idAoAbL",
+        "width": 4000
+      },
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106064916515458737139\">TruShine Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DM0YFkFxzxGb4KzI0m1gZbhPQP1d67ALaKatUuSSw4Opu4Gbd8ncmZadKMdDxlF2CfpDSq0NgxGofShCvgjh4alg4HOT8mNbo_Wb5SLHTp0GU8esDIu8fxOWeccMI7Ezfa33oJXX6HiVuXCVUkln88CM5B1D37BnyomIriBLjMnKjEh",
+        "width": 3264
+      },
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106064916515458737139\">TruShine Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMEKEWmptxkIiWiv12IZa758qIRxwMQ3yOIxQANywvtF8J9iLVa3T5-LtjQzZGwKCJ8934lJGNSaV-vlUVglc7HwmT3AosBRb1JSXPOXuoT_e8SoQHUUzjaanyx8z5RbqKO6Gt3ueeVfvR8Jmio3zdD7K6iqYVCVl0MT7wH9I-U_XGk",
+        "width": 3264
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106064916515458737139\">TruShine Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPC5PRWKK-yWHTMUdbRWnLvlR9PTo68fGWqUOz66yzfjs1it7l0VFCEQ-x65e4mlkPVtqN3zvBrHhpwTSYDvY8y_0c7G-cqlsTFIcIr7SZ3dLoqlovUWlXkEZqVPB7YEXOcG-b0SMOJJv2hj_JqIeE_H46eJNnnZmJp8iD_2SyvgIXV",
+        "width": 1836
+      },
+      {
+        "height": 1832,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106064916515458737139\">TruShine Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNw0TM2c4u1ChmbArdasyjOTFrbMmYyISFroF19dJvdSelS309yC_ECdJPlogktx3wktN0LOOHXQ-nNsd3Nwp5lSTrbwtqQdRA4phkt_gg1ezX6ECA2FDvaCnQE4ObkGMXhbsCF7kFTdkJlri-EMXeeEo5dru2k3gTwo7j3UwsByumx",
+        "width": 2728
+      },
+      {
+        "height": 828,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104723134252699251704\">Manjunath kumar mp</a>"
+        ],
+        "photo_reference": "AdCG2DMluda3HiOEAotrwYu_9oYam1njCInAxuYB0m1KSZDf86dlLAvc5MgsBQO48YWbVlX_9mnn0vMSWk1lSTV7gcf4Azy6UqYHPkgmiq4Awj_kRqMUCr3p5kGLNShQuE6hHhyNnvTa7MM5nM3YRVIoLb3oDEPym_KQzlTcIicetYoUvPck",
+        "width": 1072
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "976/A, Main Rd, Aravinda Nagar, Vivekananda Nagar, Mysuru, Karnataka 570023, India",
     "name": "Kalanara Multi-Speciality Dental Clinic",
-    "address": "976/A, Main Rd, Aravinda Nagar, Vivekananda Nagar, Mysuru, Karnataka 570023, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103600421400770379807\">Kalanara Multi-Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMfYC8jtxWyWex__Hy5xQStTPfDV0QnzhwF1RqS2Epf1j5kSMb3Da4GdcoG350XEwd_YMHBv_5qqS93K9R5MnqxjhxLixfTcaVP4IKXYzIGj7hks32TEOUyzx7TbZCJcDxJIoZsG6rvZUHektbfTtLEPZYkXxoFq0ESEws_8Gs8vLlY",
+        "width": 4160
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103600421400770379807\">Kalanara Multi-Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPJm5yMS4UKmFB-aT222Cm7KfVOxjdn7QDRpXhI6VQ1ycNHeJwvbNJ_-st5WesHfmiS8SPl-YkBvno2FwGJ6EVAdNrCpEc6yJ7pYZXk-c3cewa2wBL908D0AYRFIy9dY6JBbmDdZw7cdMK1rO8sLmBJF7Uh_YtC1kWjpj1GMf7Q2jvt",
+        "width": 4160
+      },
+      {
+        "height": 3492,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103600421400770379807\">Kalanara Multi-Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPs3AbDPJjGGpWV_1rPzju22K6nXgVsXPDG5Vv0Od7kZYIkO7ly9YzimNcFmHF4a2royh5A4BlfDPR9VtsC6U_yBj6CBBADHLr43tSaMD_Byz5GOgzP8DGJPr-C_kldTgmizRD_oMQTFcMnZO4-KEm7tUq4Grb036kKP37uDFm0khZF",
+        "width": 4656
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103600421400770379807\">Kalanara Multi-Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOszcJXg1rIVUmvZ9vpa0ChznaVMpHQGOO4x5v59tveL5SQL7yPBUz0ATJxjLPLKd7imyun9ydEeb5LWoGgkoGME_Q72cIkbVUTfHSbc2x8M7cS2jfzMw18ciebErX46vgwEXzgSCrPzTArdP4YOZtGko5_7cYQYf6FHrD1KV4ox21S",
+        "width": 4160
+      },
+      {
+        "height": 2129,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115978076407067144138\">Raghu P</a>"
+        ],
+        "photo_reference": "AdCG2DO48sADCVAqcIeHOSqwYj_LuaVdwO5WGpscMlmThFJbPQCz4fVE1Sq9hs78pbFmUua4nEDTuhwTf0q5IAdCBrtgyiGIz21nrttcF2Qi74qWTDzEAe8bYARrVkb0edjZi4JrDq6cAQ-Of4RD9IasMu98axM6jXp2mCxj4lgp7pJXjiXW",
+        "width": 3374
+      },
+      {
+        "height": 300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103600421400770379807\">Kalanara Multi-Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNXEerfC4oOw9yPN7QBQ1aTkhSRdX0qzDDu4tz7hl145tUODTzHUfm1uTCkNIgAidyRb7GKsi2eAFo1eMYmxT-i68_00bFwdBol0WudsY3sPaqR-1cvYkxgpK383E404QmSyX26hrq8cDmFJZDoahZX7WIH_Q4xsuyrdkvwRbthEyDd",
+        "width": 300
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115978076407067144138\">Raghu P</a>"
+        ],
+        "photo_reference": "AdCG2DNF_Ec9AtWp6yVXhbMTI6fy1S_kZ61tMrDUdKN1zXXAfxnFvHk_3YZxvu0snHR6XRct5OnpiQOZDq6FQZ3uVsy0eZgn7Wg7ictsuYCOeyUJXz_QurugKDK-kqhe5ecBzlrgIt3NIVar_dg1Fpb76TcsKqaWLfyXF-1x4Ykq6mbBoo6i",
+        "width": 4160
+      },
+      {
+        "height": 3492,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103600421400770379807\">Kalanara Multi-Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMr_ka4kgPbhc-UkSZuKBOQ8tv2-scxkuTYOqHqEcUpqB56u2ac7Jdtb81G_MdcjhjJZbMms6JDhueKpixjIuALVyT9byk5MKkhlgAhE9ptBk7E04BBmtTpBX9bEWnsA-lLlo5ajwF266mSWXQ263-JczcGLuwHAlafHNZ5MeX1s_Co",
+        "width": 4656
+      },
+      {
+        "height": 1224,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103600421400770379807\">Kalanara Multi-Speciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPCIftwN-BBKpwgI2ib2uVX4xKKZt3g9ZYAPW53MmVY-boEK_ssMLabcqvaIOoJptKvl6UkLW6-EhkEpNwXs7d6vajVlwj3AEC-v-FW5JaLWoxaRVFmqadYkqUA-7oB6Xw7mGK9tQ_yzVTD3gPS63iJWkhG-dIQ9jlaa55BBazeoamM",
+        "width": 1632
+      }
+    ],
     "rating": 4.6,
-    "number_of_reviews": 13
+    "user_ratings_total": 13
   },
   {
-    "name": "SMILE PLEASE STUDIO",
-    "address": "7JGG+82M, High Tension Line Rd, Aravinda Nagar, Vivekananda Nagar, Mysuru, Karnataka 570023, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "7JGG+82M, High Tension Line Rd, Aravinda Nagar, Vivekananda Nagar, Mysuru, Karnataka 570023, India",
+    "name": "SMILE PLEASE STUDIO"
   }
 ]

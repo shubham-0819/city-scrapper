@@ -1,0 +1,2814 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.2988977,
+        "lng": 82.9738343
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3002150802915,
+          "lng": 82.9751799802915
+        },
+        "southwest": {
+          "lat": 25.2975171197085,
+          "lng": 82.9724820197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Amar Anupam Oral and Dental care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4912,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113078646181392265494\">Dr Amar Anupam Oral and Dental care</a>"
+        ],
+        "photo_reference": "AdCG2DOMnEzbGpU4p6j73Hcrte43tERSqwudHTmjz4GPrpPwNSqg-1dMNFP2_3TGvcPWWrUrLZ0abQ-rdgChDlrPW1TzkCkkfFQtZHgjpDpu2NP85D5WZhc7GJU1foloXHsxLzk3G_pVX4JZhs2dvSvxrP75bzr75a-9DUjAsFjv58CQG-mH",
+        "width": 6144
+      }
+    ],
+    "place_id": "ChIJq6qqaggyjjkRnYigJZPQ3MI",
+    "plus_code": {
+      "compound_code": "7XXF+HG Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ47XXF+HG"
+    },
+    "reference": "ChIJq6qqaggyjjkRnYigJZPQ3MI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "N-11 / 60B-23, Shri Krishna Nagar Colony, Mahmoorganj, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3051703,
+        "lng": 82.97929889999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3065111802915,
+          "lng": 82.9806021802915
+        },
+        "southwest": {
+          "lat": 25.30381321970849,
+          "lng": 82.97790421970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Enamel Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJIwmy4AYyjjkR3BXa2QG2rf4",
+    "plus_code": {
+      "compound_code": "8X4H+3P Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X4H+3P"
+    },
+    "rating": 4.6,
+    "reference": "ChIJIwmy4AYyjjkR3BXa2QG2rf4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "D 63/6 B, 1 BC Shivajee Nagar Colony, Mahmoorganj, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.313369,
+        "lng": 82.988557
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3147172802915,
+          "lng": 82.98995798029152
+        },
+        "southwest": {
+          "lat": 25.3120193197085,
+          "lng": 82.9872600197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Make My Tooth Sigra, Dr.Vineet Singh Best Dentist In Varanasi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1192,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118081186250324687817\">Make My Tooth Sigra, Dr.Vineet Singh Best Dentist In Varanasi</a>"
+        ],
+        "photo_reference": "AdCG2DPjupINWFYh0K0cSyWLjSIdFzLGticNgKCsQ-dAqi3W0xdZcQtSfRswe2jfYvKjC9EG0QvGCKKbFDe_UpNFD80aISs9PEj6QrY2U0AdeuZRVg31v5qLbYhzzrM10GDbLLkS81DeGQ061vrwnconqPt9opJVGp_RI9-69bkAvdmgc1zE",
+        "width": 2117
+      }
+    ],
+    "place_id": "ChIJCQI_EPwtjjkRdFR1PoTRFvg",
+    "plus_code": {
+      "compound_code": "8X7Q+8C Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X7Q+8C"
+    },
+    "rating": 5,
+    "reference": "ChIJCQI_EPwtjjkRdFR1PoTRFvg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 186,
+    "vicinity": "Handloom House, Anant Complex, near Bharatsevasharam Ashram, Sigra, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3221124,
+        "lng": 83.0001104
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3234559302915,
+          "lng": 83.0013956302915
+        },
+        "southwest": {
+          "lat": 25.3207579697085,
+          "lng": 82.99869766970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Deep Dental Clinic & Physiotherapy Center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108133927715531637554\">Deep Dental Clinic &amp; Physiotherapy Center</a>"
+        ],
+        "photo_reference": "AdCG2DOCZZcGUKuYRTtBEhrOztytWfTBS3j8pU2IbMcBXnj6HB5cZHI9ADDRyJ5c23cBIBdS1-iRTsTfzX53hxSpAdACAbvUqGLscA77PMGErAs9Iz18BZlmeXWykvVpEOKXMpJ_pcgpILltmgVxobBP7oFvze9ef_6H9nH-HnI5_m0S8tcm",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJ34LL4Q4ujjkRgpx1wTXRCr8",
+    "plus_code": {
+      "compound_code": "82C2+R2 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ582C2+R2"
+    },
+    "rating": 5,
+    "reference": "ChIJ34LL4Q4ujjkRgpx1wTXRCr8",
+    "scope": "GOOGLE",
+    "types": [
+      "physiotherapist",
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "Lahurabir, Jaitpura, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3398954,
+        "lng": 82.9871141
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3412455802915,
+          "lng": 82.9884596302915
+        },
+        "southwest": {
+          "lat": 25.33854761970849,
+          "lng": 82.9857616697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Make My Tooth Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116227118677194501476\">piyush pandey</a>"
+        ],
+        "photo_reference": "AdCG2DOyC6erD5fsZLeOn2hc-3QPFg_i9rmGtPkzPCX6iYdhx1OUnYIr-KfWq8pUq1Swmz6YF2EU7iY_oLDYLAtpMSpahShj44KyCchoX4oWth7_HDw6KVaZOW2NvpTb-77lqe0Q5Z5YZ-bJ7YhGyKGQSx8fkVsH9722yAV6D1jFpG98ByFw",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJUzmID_wtjjkRrgBDYWIe9TQ",
+    "plus_code": {
+      "compound_code": "8XQP+XR Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XQP+XR"
+    },
+    "rating": 4.9,
+    "reference": "ChIJUzmID_wtjjkRrgBDYWIe9TQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 148,
+    "vicinity": "Shiv Shakti, near uma marriage lawn, Pwd colony, Nadesar, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.2809533,
+        "lng": 82.9855163
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.2823377802915,
+          "lng": 82.98674088029149
+        },
+        "southwest": {
+          "lat": 25.2796398197085,
+          "lng": 82.98404291970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Apple Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101344953696672557955\">Apple Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMsjyRml-YvkcXlcI-bzIoGsbJSi8Rt_vTrnnewdVUOd-8rh-lVSG6a8k20LglLRkjf16VFDDZDkG10lL3d4W7y65y0EMVzqrPX4Rv4RGh7TApzwlysnIrjRAQJDSjW3isuBwuqwpwIh-aM3dBWIAOb-Komm8PVTrwfFj_HphMukWiw",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJM8KXBo4xjjkRNFclVUjhWdk",
+    "plus_code": {
+      "compound_code": "7XJP+96 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ47XJP+96"
+    },
+    "rating": 4.7,
+    "reference": "ChIJM8KXBo4xjjkRNFclVUjhWdk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "Shop No. 5, Shiv Complex, opp. Tridev Apartment, near Rani Villa, Sundarpur, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3540356,
+        "lng": 82.9823955
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3553927802915,
+          "lng": 82.98368288029151
+        },
+        "southwest": {
+          "lat": 25.3526948197085,
+          "lng": 82.9809849197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rajendra Nursing Home & Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117263975212928555921\">minhaj siddiqui</a>"
+        ],
+        "photo_reference": "AdCG2DPODYTo4A3PWA-f4ivyd61vpkrQ75sr2IzIOE9W_-JqPyu_l_8gMi7EM2UG8i2O8KEiFfDnwrMFrQ37I-GJjjYX0IOYF48QM0JO1Ms2SNw4T1iRXbdH00JYqhHhp4_HRuwDSfPpUwHeyt9I0V0bbuGuIPQMIQDT6NoP7ZSPcxWoHg86",
+        "width": 2240
+      }
+    ],
+    "place_id": "ChIJr63kqTIsjjkRDTx9mWkjWsc",
+    "plus_code": {
+      "compound_code": "9X3J+JX Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ49X3J+JX"
+    },
+    "reference": "ChIJr63kqTIsjjkRDTx9mWkjWsc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "S-24/7, Anaula Taktapur Contonment, Taktakpur, Orderly Bazar, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3501367,
+        "lng": 82.99399869999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3514821302915,
+          "lng": 82.9954210302915
+        },
+        "southwest": {
+          "lat": 25.3487841697085,
+          "lng": 82.99272306970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile Station- The Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101080625172814202310\">sriram singh</a>"
+        ],
+        "photo_reference": "AdCG2DPpw-manFY1-uC7NpiOVfaqpeWXd4-BBrK1WlfGVCE8ahTxzgyINh3b6pyNvXLCeib3GRjSTi6gA7LlqZTySY_QJXp9Rwpf4oD4rboaqlpS1lUmSrl1K9S-5SVC2eR1j3EjWCEsNfttBT16ru1E3iiA737b9Lqvlk3H-hUzSENjpyDh",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ-0tCeX8ujjkR8-3J-eUb2J4",
+    "plus_code": {
+      "compound_code": "9X2V+3H Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ49X2V+3H"
+    },
+    "rating": 5,
+    "reference": "ChIJ-0tCeX8ujjkR8-3J-eUb2J4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1613,
+    "vicinity": "Sa - 1/89, First floor, Near SBI, Pandeypur Varanasi, Uttar Pradesh, Pandeypur, Azamgarh Road, Premchandra Nagar Phase - 2, Naibasti, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.2858812,
+        "lng": 83.0017428
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.2872877802915,
+          "lng": 83.00327103029151
+        },
+        "southwest": {
+          "lat": 25.28458981970849,
+          "lng": 83.0005730697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile Dental Zone & Implant Center ( Smile Dental Zone)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100929779546544740136\">Smile Dental Zone &amp; Implant Center ( Smile Dental Zone)</a>"
+        ],
+        "photo_reference": "AdCG2DMJfsRF6aZIrl-wNIuztTQC3C4ZXWDd7CX8uIFXViMuj2xPvsXiGpw6RJiyNx4lBXSofyc2vMBIbr6lTcwBSSNnZf0Qc_5oScAoGP9N3irugt-yvZawgNLNX4FCX0rIh8yNtzdp2exZu8qM-NRGxCCa8395HUazWwYbfCWMZcAGFkNU",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJm2ghXvIxjjkR1X2caCpbFRI",
+    "plus_code": {
+      "compound_code": "72P2+9M Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ572P2+9M"
+    },
+    "rating": 5,
+    "reference": "ChIJm2ghXvIxjjkR1X2caCpbFRI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 656,
+    "vicinity": "H-31, VDA Flats, Pandit Madan Mohan Malviya Road, Ravindrapuri Extension, Lanka, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.2762483,
+        "lng": 82.9673783
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.2775030302915,
+          "lng": 82.96872058029149
+        },
+        "southwest": {
+          "lat": 25.2748050697085,
+          "lng": 82.96602261970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Navjyoti Dental Clinic Dr. A.K Singh - Best Dental Clinic | Root Canal Treatment | Painless Teeth Extraction in Varanasi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111616059762296990647\">Navjyoti Dental Clinic Dr. A.K Singh</a>"
+        ],
+        "photo_reference": "AdCG2DPnK38rZa8iV4KMOUNl-1awF3NaU4gytgv5HmxZy1RP920COhs7bOh1x8hQHXS58fUiu18IZh9tw-Ju4wZ2shDPxbCJjn8iF0Rf-qagyV46YUAsrYXsBT19ojOsS2TUMggfhydF1rFlTNBw9DQFLj6aRPJ_FsoJyXcqOCfZTUt-cFDn",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJN0m7LE8yjjkRfv6Upm4F2Q8",
+    "plus_code": {
+      "compound_code": "7XG8+FX Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ47XG8+FX"
+    },
+    "rating": 4.7,
+    "reference": "ChIJN0m7LE8yjjkRfv6Upm4F2Q8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 53,
+    "vicinity": "opposite Indiranagar colony,kanchanpur, Chitaipur, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3187299,
+        "lng": 82.99245570000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3200812302915,
+          "lng": 82.99375283029151
+        },
+        "southwest": {
+          "lat": 25.3173832697085,
+          "lng": 82.9910548697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Big Smile Microscopic-Dentistry & Implant Center",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112759756265308762623\">Big Smile Microscopic-Dentistry &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DMSt64YM71OpKNy_F08M0CoEgLnKvnztiotoYpvTRHBvBdq1Wt8U9cq5e6XbJjwma4qHw7u1N2bgu8x1_pMuUkMQq_0dxGoS4zkodNxDHtlxk2Mk6rWQRqmA5Qqffsd5p6-ZujK5KcX-uehkLPd_i4CKptDawqVQ8BYMbvFHjNbJ4gZ",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJleRtNf0tjjkR40aG5Ny02WI",
+    "plus_code": {
+      "compound_code": "8X9R+FX Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X9R+FX"
+    },
+    "rating": 4.7,
+    "reference": "ChIJleRtNf0tjjkR40aG5Ny02WI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 72,
+    "vicinity": "C-19/26-1-B, Gulab Bagh Colony, Opp. Sigra Police Station, Sigra, Varanasi"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 25.3169855,
+        "lng": 82.9727181
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3183714802915,
+          "lng": 82.97404748029149
+        },
+        "southwest": {
+          "lat": 25.3156735197085,
+          "lng": 82.97134951970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. S. K. Agrahari",
+    "permanently_closed": true,
+    "place_id": "ChIJpyPfmPItjjkR5kbWC8CRgoI",
+    "reference": "ChIJpyPfmPItjjkR5kbWC8CRgoI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "8X8F+Q3W, Lahartara Boulia, Varanasi"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 25.31623,
+        "lng": 82.977598
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3175149302915,
+          "lng": 82.97893668029151
+        },
+        "southwest": {
+          "lat": 25.3148169697085,
+          "lng": 82.97623871970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Himanshu Dental clinic",
+    "permanently_closed": true,
+    "place_id": "ChIJKTTbjfEtjjkRnuFruqKu0sQ",
+    "plus_code": {
+      "compound_code": "8X8H+F2 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X8H+F2"
+    },
+    "rating": 4.8,
+    "reference": "ChIJKTTbjfEtjjkRnuFruqKu0sQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "C-33/208/28-C ,Chandua chhittupur, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.318314,
+        "lng": 82.96963099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3196488802915,
+          "lng": 82.97103643029149
+        },
+        "southwest": {
+          "lat": 25.3169509197085,
+          "lng": 82.96833846970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kalyani Dental Hospital and Implant Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1069,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111959440926736941171\">Kalyani Dental Hospital and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNjfATPw9bfDPCkj42OPC0GQYk3QuK13gsC23SQVf2KMwMT0vTGj5mQgTnH51G13yOCad_vZn5PnHPx0I9sE9b6WIKqj6tlMVtLoNO8lWUAnEtA8Pi-NPim8zSgLQIAmXWuhg5yx8w-O3dTtGCyDkcczWl0ka6LCISRrsEuCD3tRhbo",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJcfuu0R4tjjkRsk7-LUzxy4Q",
+    "plus_code": {
+      "compound_code": "8X99+8V Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X99+8V"
+    },
+    "rating": 5,
+    "reference": "ChIJcfuu0R4tjjkRsk7-LUzxy4Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "D, 65/486, Lahartara Boulia, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.31834959999999,
+        "lng": 82.97875049999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3196923302915,
+          "lng": 82.98005248029149
+        },
+        "southwest": {
+          "lat": 25.3169943697085,
+          "lng": 82.97735451970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sanskriti Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 730,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105715877903127658271\">Sanskriti Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO6GdD8yubcR1PccFAWtugpgmRv31EJntpSmsawT2-tGkN1oDM6K6_q0AbwhOI6bA25vcWC17WK57O2MXXV1Bgn9xc4mAWzFzOBimpJEcAdhpjMoq5cxY1fWeHjaBxyXO1NGbX_J22UgnYAVsSFT6UwF9F--SHvmrrz94gWKnW69vDS",
+        "width": 1296
+      }
+    ],
+    "place_id": "ChIJtw3qJu4tjjkRE_bTJeU72QU",
+    "plus_code": {
+      "compound_code": "8X9H+8G Chandua Chhittupur, Shivpurwa, Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X9H+8G"
+    },
+    "rating": 4.9,
+    "reference": "ChIJtw3qJu4tjjkRE_bTJeU72QU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "near Sunbeam School, C33/210-A-5-K (Opposite Prince Club Ekta Park Gate Hari Nagar Colony, Landmark - Kushwaha Dharamshala, near Sunbeam School, Lahartara Road, Chandua Chhittupur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3162171,
+        "lng": 82.9679685
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.31755323029151,
+          "lng": 82.96935088029151
+        },
+        "southwest": {
+          "lat": 25.3148552697085,
+          "lng": 82.96665291970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Maltee Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117504566724920867857\">Sharad Singh</a>"
+        ],
+        "photo_reference": "AdCG2DN6p2Rs6XscPah5JpA4mPcURdMDjfArT8R08M3V4s-odz0GeqTV_GlZSD5cpLz20u0BUe3ADs_EweXe05z1a75T5O18aoIcprD8cWFR1KyZb61Cu1AWOLnXM01b0uR4bZnD5bJJAO2EDZPTesEBFl70dCpLRwQoYfD8-sLaJY9UayKi",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJ898fpkotjjkRcD82k-MOGOQ",
+    "plus_code": {
+      "compound_code": "8X89+F5 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X89+F5"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ898fpkotjjkRcD82k-MOGOQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "Lahartara Chauraha, Cantt Station Road"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3119053,
+        "lng": 82.9791681
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3132516802915,
+          "lng": 82.98052868029148
+        },
+        "southwest": {
+          "lat": 25.3105537197085,
+          "lng": 82.97783071970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Adarsh Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1344,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939900840031898047\">adarsh parashar</a>"
+        ],
+        "photo_reference": "AdCG2DMFFljh_i-rIQKv5gTGx3hWUaHqTAhglpDb_9UeBiKD-BjW0HWoM0WQWL9DhuQr4_vwC3CTHrs1aVVRe5CpHq58UhXCJ2RPtYGSbK5H6z3Z0fW8_I0waXXEj2_QsfMMT0m_zBzztbat4rsI8V8MdMeCsqhgO9nhDVu1XD9lrw-aoNBT",
+        "width": 1072
+      }
+    ],
+    "place_id": "ChIJdZK3W1AtjjkRXiEf1Vp73cw",
+    "plus_code": {
+      "compound_code": "8X6H+QM Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X6H+QM"
+    },
+    "rating": 4.9,
+    "reference": "ChIJdZK3W1AtjjkRXiEf1Vp73cw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 121,
+    "vicinity": "365, G2, GHS, Ground floor, D-59, Jai Prakash Nagar, Shivpurwa, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3134903,
+        "lng": 82.9812421
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3147834802915,
+          "lng": 82.98259268029152
+        },
+        "southwest": {
+          "lat": 25.3120855197085,
+          "lng": 82.9798947197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AMAN DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 724,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106109160867878325217\">AMAN DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DOFJydDEOjmRotq7jdxBcuvzEpq5fyMilZYzP61pdPVla0n5KQQugJDiIhvhidh6a15QmwaloAMJxfVATjoqnsw22HtxSklP72VFVbtob7pD07GxaYPYLR7rqcBKC4GZdWslsy8B5tKxziPXOso2aEYCXjF-DmCw73fQbVK7OYZujD1",
+        "width": 1068
+      }
+    ],
+    "place_id": "ChIJP74RpPAtjjkRs5CAUU3LqfQ",
+    "plus_code": {
+      "compound_code": "8X7J+9F Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X7J+9F"
+    },
+    "rating": 5,
+    "reference": "ChIJP74RpPAtjjkRs5CAUU3LqfQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "vicinity": "C 33 / 84- A-3, road, Madhopur, Jai Prakash Nagar, Shivpurwa, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.30929,
+        "lng": 82.974007
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3106361302915,
+          "lng": 82.97537173029151
+        },
+        "southwest": {
+          "lat": 25.30793816970849,
+          "lng": 82.97267376970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "the dental hub",
+    "place_id": "ChIJ1SAg_PQtjjkRM2A0Wf_33Oo",
+    "plus_code": {
+      "compound_code": "8X5F+PJ Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X5F+PJ"
+    },
+    "reference": "ChIJ1SAg_PQtjjkRM2A0Wf_33Oo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "6, 6, Mahmoorganj Road, Mahmoorganj, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3124827,
+        "lng": 82.9830394
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3138308802915,
+          "lng": 82.9844050802915
+        },
+        "southwest": {
+          "lat": 25.31113291970849,
+          "lng": 82.98170711970847
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Swastik Dental Clinic-(Dr.B.P.Singh)",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110194266425903291431\">Swastik Dental Clinic-(Dr.B.P.Singh)</a>"
+        ],
+        "photo_reference": "AdCG2DM0rte5SBSBaUt9H_NLRYjyn6H70KzAwb5Tx9SWNNsF-IxefwZnB2bXa2wSp3X-kKuYFiC-WMOj6wfbpb_iM90AD2t8e8BajleEeVKVcjSk2Alh34skLvN-WhvqyIEPbcgcw0MwqM-_QX95ey1pFu54Mue3SxLq0Edh4TOa3E8i7Eyw",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJ_2vnAvotjjkRoHrddKGesqg",
+    "plus_code": {
+      "compound_code": "8X6M+X6 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X6M+X6"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ_2vnAvotjjkRoHrddKGesqg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "हनुमान मन्दिर गली मे, माधोपुर चौराहा, Nagar Nigam Road, Sigra, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3159084,
+        "lng": 82.984725
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3172573302915,
+          "lng": 82.98608373029151
+        },
+        "southwest": {
+          "lat": 25.3145593697085,
+          "lng": 82.9833857697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "𝗡𝗮𝘃𝗷𝗲𝗲𝘃𝗮𝗻 𝗠𝘂𝗹𝘁𝗶𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘁𝘆 𝗗𝗲𝗻𝘁𝗮𝗹 𝗮𝗻𝗱 𝗦𝗸𝗶𝗻 𝗖𝗮𝗿𝗲- Root Canal Treatment/Dentist/Top Dental Surgeon/Best Dentist in Varanasi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 541,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104830380883217688343\">𝗡𝗮𝘃𝗷𝗲𝗲𝘃𝗮𝗻 𝗠𝘂𝗹𝘁𝗶𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘁𝘆 𝗗𝗲𝗻𝘁𝗮𝗹 𝗮𝗻𝗱 𝗦𝗸𝗶𝗻 𝗖𝗮𝗿𝗲- Root Canal Treatment/Dentist/Top Dental Surgeon/Best Dentist in Varanasi</a>"
+        ],
+        "photo_reference": "AdCG2DOhdf5A1us-bRJr4cVNDlL1g_ifWULkbofBiEqHTD-TROFyyqbIpIfWk7YkiFCFMs7ZC4XHkCOC4QvtxWvDBiZ0p5CKYmliihcQZtOtu2LcytgyincK2hoVTAVbFuo-jKZR8yWFoGK2qkAqgTzsyVMY4vRTh3HdzNgZKvdiQ-9SziPU",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJJZauQBwtjjkRictROBGkMKk",
+    "plus_code": {
+      "compound_code": "8X8M+9V Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X8M+9V"
+    },
+    "rating": 4.8,
+    "reference": "ChIJJZauQBwtjjkRictROBGkMKk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "Chandua Chhittupur, Sigra, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3149942,
+        "lng": 82.96228789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3163361802915,
+          "lng": 82.9636385302915
+        },
+        "southwest": {
+          "lat": 25.31363821970849,
+          "lng": 82.9609405697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ishwar Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112034351211591458041\">Ishwar Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DM02LO_2qSb6uQr0_HFT2-sWWzDJk0NTkGcujoS1JdKrBJUA-QtVwxT31IBmr2iG3YF8fl7wTukGGhZvvhWaCD4-kQkNsAZ25b6M9hU9kg2sRWwNNgqpJUUFImckMN6cm7rW5ZNMtOGZloWUaJLxqKvpeH-k9r1YsqxZAKqwEofBqE",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJW1AXCo0tjjkREtXh9Y2740g",
+    "plus_code": {
+      "compound_code": "8X76+XW Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X76+XW"
+    },
+    "rating": 4.9,
+    "reference": "ChIJW1AXCo0tjjkREtXh9Y2740g",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41,
+    "vicinity": "near Shree Govind Sweet and bakers, near Trends cloth showroom, near Kiran petrol pump, Bhitari Road, lahartara, Bauliya"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3072399,
+        "lng": 82.98218729999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3085888302915,
+          "lng": 82.9835371302915
+        },
+        "southwest": {
+          "lat": 25.3058908697085,
+          "lng": 82.98083916970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "BALAJI DENTAL CLINIC",
+    "place_id": "ChIJC2Fv9_ctjjkRA5WO_q0EOsQ",
+    "plus_code": {
+      "compound_code": "8X4J+VV Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X4J+VV"
+    },
+    "rating": 5,
+    "reference": "ChIJC2Fv9_ctjjkRA5WO_q0EOsQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3181391,
+        "lng": 82.9882835
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3194920802915,
+          "lng": 82.98965238029149
+        },
+        "southwest": {
+          "lat": 25.31679411970849,
+          "lng": 82.98695441970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "RAMASHIL DENTAL",
+    "photos": [
+      {
+        "height": 1468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108885334571291148134\">RAKESH KUMAR SHARMA</a>"
+        ],
+        "photo_reference": "AdCG2DO9AD4yy2flkDgV9pN9UY2UzXp4SdOfPxnmwQr24ddAMboGiHCBfIMMoOKds2o79XYtM4RQo9TqsXbtNQs10Pl0kmoDP5t2nrd88GJap3tCX5i_Nx49M2tMpeJaAZzyAqlZ02rUAR0dUMHm08t2P6WQZ3DB4_AYwXeVe6FdgwzpUwfE",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJcYNkD-QtjjkRK9SwrtfJiEk",
+    "plus_code": {
+      "compound_code": "8X9Q+78 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X9Q+78"
+    },
+    "reference": "ChIJcYNkD-QtjjkRK9SwrtfJiEk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Englishia line thiraha, Vidyapeeth Road, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3047824,
+        "lng": 82.978634
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3061250802915,
+          "lng": 82.9799407302915
+        },
+        "southwest": {
+          "lat": 25.30342711970849,
+          "lng": 82.9772427697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Baranwal's Aesthetic Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115809114018262006974\">Dr Baranwal&#39;s Aesthetic Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMeJO0MiG84qrBUzJtDszIovRd_-Lfl853zYNXJ4L9CJjxv96h3uOCbpOw3-cyIlkY-0CT1j7uEdVwHbbC0MEIpG1A-tI2xdpzixLXO_e3_K9nmTCCIgWurNYvNsx7TvBYbYyg50NJkLOJbG4hlGUHCe3fl5YSJCFUEoGNq5Vdt9_7m",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJBVzkBugzjjkRA6K-2wktvB0",
+    "plus_code": {
+      "compound_code": "8X3H+WF Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X3H+WF"
+    },
+    "rating": 5,
+    "reference": "ChIJBVzkBugzjjkRA6K-2wktvB0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41,
+    "vicinity": "Shop No. 24, Surya Complex 1, D-63/7-A-2, opp. to CAT-JEE, beside Shubham Lawn, Phase II, Mahmoorganj, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3154995,
+        "lng": 82.98903179999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3168501302915,
+          "lng": 82.9903397802915
+        },
+        "southwest": {
+          "lat": 25.3141521697085,
+          "lng": 82.9876418197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Lal PathLabs",
+    "place_id": "ChIJf6RDYPwtjjkRg_AWyoY7rpw",
+    "plus_code": {
+      "compound_code": "8X8Q+5J Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X8Q+5J"
+    },
+    "rating": 5,
+    "reference": "ChIJf6RDYPwtjjkRg_AWyoY7rpw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3135047,
+        "lng": 82.988591
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3148531802915,
+          "lng": 82.98997608029151
+        },
+        "southwest": {
+          "lat": 25.3121552197085,
+          "lng": 82.9872781197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Make My Tooth Dental Clinic",
+    "place_id": "ChIJ41-OEPwtjjkRNg1CgAHNuEo",
+    "rating": 5,
+    "reference": "ChIJ41-OEPwtjjkRNg1CgAHNuEo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "8X7Q+CC4, Sigra, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.316125,
+        "lng": 82.9893898
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3174995302915,
+          "lng": 82.9907353302915
+        },
+        "southwest": {
+          "lat": 25.31480156970849,
+          "lng": 82.9880373697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Unique Dental Care Centre ( Dr. Jyoti Agrawal )",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107752697414980934715\">Unique Dental Care Centre ( Dr. Jyoti Agrawal )</a>"
+        ],
+        "photo_reference": "AdCG2DM52XqboKaax3Jd7ttbQ3tLNpaGjAKfXC9XlnfkVI6WwrR1vqdGrhGsdN-zSYx-40KWCQPz5kl3tXJxBluGdcN5KLlIqzkPDhIQPPiCBdEFtePwRxMDXBNGHtZWWH_-rYbjhyakfMryiKVT7BrxXn-BsWDhEFaOra4RD82C3gOkELPZ",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJ701f-SMtjjkRE5VKmxiQ9aM",
+    "plus_code": {
+      "compound_code": "8X8Q+CQ Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X8Q+CQ"
+    },
+    "rating": 5,
+    "reference": "ChIJ701f-SMtjjkRE5VKmxiQ9aM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "Shastri market, near Feelings Mobile, C 19/ 134-M -19, Shastri Nagar, Sigra, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3255403,
+        "lng": 82.9605772
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3269034302915,
+          "lng": 82.96189408029151
+        },
+        "southwest": {
+          "lat": 25.3242054697085,
+          "lng": 82.95919611970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. K.K. Singh",
+    "place_id": "ChIJIdnS1pktjjkR9Pk8Tbi4fWs",
+    "plus_code": {
+      "compound_code": "8XG6+66 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XG6+66"
+    },
+    "reference": "ChIJIdnS1pktjjkR9Pk8Tbi4fWs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.304289,
+        "lng": 82.96763
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3056372802915,
+          "lng": 82.9689738302915
+        },
+        "southwest": {
+          "lat": 25.3029393197085,
+          "lng": 82.96627586970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "पी. एस डेन्टल क्लीनिक मंडुआडीह",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107364829300465626997\">पी. एस डेन्टल क्लीनिक मंडुआडीह</a>"
+        ],
+        "photo_reference": "AdCG2DPte1dc9DewjL0zdsVcas9jFP6E9PlokPVnG45eWCXdkjZYDon2_rkWw2QFCQ6GImU-2pY_aUbp1HfYLpe3x10yjYuXOUvagCD_FmRtKHUlbWJ1o4ILGw8lmI-QO66SxPquGJl0IfQ2lVOoVPhjObkunY5CDHrc8oZGyvYxkKLZnVHG",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJVSZBfXQyjjkRS0-ZOcOdkaw",
+    "plus_code": {
+      "compound_code": "8X39+P3 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X39+P3"
+    },
+    "reference": "ChIJVSZBfXQyjjkRS0-ZOcOdkaw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Sushil katra, off virat ms, infront, Manduwadih, Varanasi"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 25.3109434,
+        "lng": 82.98841639999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3123755302915,
+          "lng": 82.98963708029149
+        },
+        "southwest": {
+          "lat": 25.3096775697085,
+          "lng": 82.98693911970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "omkar agencies",
+    "permanently_closed": true,
+    "place_id": "ChIJoX2PyP4tjjkRT8Xoza1JYhA",
+    "plus_code": {
+      "compound_code": "8X6Q+99 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X6Q+99"
+    },
+    "reference": "ChIJoX2PyP4tjjkRT8Xoza1JYhA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "b-21/115, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3027947,
+        "lng": 82.97607839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3041303802915,
+          "lng": 82.9773751302915
+        },
+        "southwest": {
+          "lat": 25.3014324197085,
+          "lng": 82.9746771697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "32 Stars The Dental Hub",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108246694045928315175\">32 Stars The Dental Hub - Best Dental Clinic in Mahmoorganj, Varanasi</a>"
+        ],
+        "photo_reference": "AdCG2DMifEljdNg5sM4sRPVZzwlkl5mG755EfCtru7bx13UXhdlkN_jUZqSVf5BEvOt_7jdW76FDA6M75GNRyhT2qfGutT_pw3UKoKpWUN2vw42O6R0O-W71yF7Hc1OTk1rk5aElqiI3kL0iEPOJmy9yWdp-pVAVWzpg0tMShLRGVuSK5Uph",
+        "width": 5472
+      }
+    ],
+    "place_id": "ChIJjdPCpmYzjjkRTYywEZZWR44",
+    "plus_code": {
+      "compound_code": "8X3G+4C Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X3G+4C"
+    },
+    "rating": 5,
+    "reference": "ChIJjdPCpmYzjjkRTYywEZZWR44",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "D38, 83, Mahmoorganj Road, Tulsipur, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3093292,
+        "lng": 82.9879464
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3106416302915,
+          "lng": 82.9893344302915
+        },
+        "southwest": {
+          "lat": 25.3079436697085,
+          "lng": 82.9866364697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Saroj Cosmo dental clinic",
+    "place_id": "ChIJS6uSI4stjjkRiqXhyw-QFeE",
+    "rating": 5,
+    "reference": "ChIJS6uSI4stjjkRiqXhyw-QFeE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "8X5Q+P5P, Sigra - Mahmoorganj Road, Sigra, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3106265,
+        "lng": 82.9891024
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3120035302915,
+          "lng": 82.9904293802915
+        },
+        "southwest": {
+          "lat": 25.3093055697085,
+          "lng": 82.9877314197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Vivek Gautam Dental Clinic and Implant center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106390868101310389322\">Dr Vivek Gautam Dental Clinic and Implant center</a>"
+        ],
+        "photo_reference": "AdCG2DPe8A2c_f5DzTsTpcvVN0SJ2KHhqR1KZlOK615FR6O_BsvPk_-bs9hWRhO2ZW80EuAX4ZmcpEnDnu_kUuiaEZhdrh4Sr0DDlRdpyiH9W-fAswKsOKalyT877JSZzdjvzMpcFK0Xlpm1zqf9p6VHQTFgIdCRS8pN0Pd62vPDOHmx2yh4",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJA4S4GLotjjkRP9y9AkbCM6Y",
+    "plus_code": {
+      "compound_code": "8X6Q+7J Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X6Q+7J"
+    },
+    "rating": 4.9,
+    "reference": "ChIJA4S4GLotjjkRP9y9AkbCM6Y",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 84,
+    "vicinity": "W H SMITH ROAD, Sigra, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3205073,
+        "lng": 82.9911455
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3218547802915,
+          "lng": 82.99255248029151
+        },
+        "southwest": {
+          "lat": 25.3191568197085,
+          "lng": 82.9898545197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Baranwal's Aesthetic Dental Clinic | one of the best dental clinic in varanasi & Oral Surgeon",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2442,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102150606074194513896\">Dr A K Baranwal</a>"
+        ],
+        "photo_reference": "AdCG2DOTJyJzHSavuO8kEcPG-p9ryIQR3A7rVl5svEeL4JyZMfrM0Wf2Kogpn_vwLRh5JClKiMTcAez4cQpGB1qMK6SF1CZPYwXk3HkCwFksE-LJoPfoJv4Vsw8A6VYWMy6QwTJd3bkvZ4ZwH-Yc1vt60ONZ4Hvf02EwonB-uNEKL31Y0jnb",
+        "width": 1854
+      }
+    ],
+    "place_id": "ChIJFZl6zOstjjkR9EldTYi4orY",
+    "plus_code": {
+      "compound_code": "8XCR+6F Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XCR+6F"
+    },
+    "rating": 4.6,
+    "reference": "ChIJFZl6zOstjjkR9EldTYi4orY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "below SBI Sigra Branch, C-19/40, Fatman Road, Sigra, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3208528,
+        "lng": 82.9911949
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3222007802915,
+          "lng": 82.9925826302915
+        },
+        "southwest": {
+          "lat": 25.3195028197085,
+          "lng": 82.98988466970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "ESTHER DENTAL CLINIC",
+    "place_id": "ChIJE-Xk7-ItjjkRIqIOmD7nTGo",
+    "reference": "ChIJE-Xk7-ItjjkRIqIOmD7nTGo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "8XCR+8FW, Fatman Road, Kashi Vidyapith, Chetganj, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3007902,
+        "lng": 82.9745639
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.30208488029151,
+          "lng": 82.9759080302915
+        },
+        "southwest": {
+          "lat": 25.2993869197085,
+          "lng": 82.9732100697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Neha Nainee - Best Dentist | Best Dental Surgeon | RCT Specialist | Cosmetic Dental Surgeon in Varanasi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112095683011048632503\">Dr Neha Nainee - Best Dentist | Best Dental Surgeon | RCT Specialist | Cosmetic Dental Surgeon in Varanasi</a>"
+        ],
+        "photo_reference": "AdCG2DNJ7WX53KELx07ryZ0ECVIh7iMD_qPriFkaAcjFZ5TIru7U2tFI_0ERw7ZHi56SRG2SpuzGu4uRiTutcRe72KpSH-vIngx6OQyLWFCAZHCQQ3PpcZUiWg2k2uBCTm-LQ-a-ysZpLfMJAZg3G6qsqdHTQY7I37IUC7Sp1Q-xU_PfS_gN",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJo_0EKaczjjkR9RbyFyDiuk4",
+    "plus_code": {
+      "compound_code": "8X2F+8R Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X2F+8R"
+    },
+    "rating": 4.9,
+    "reference": "ChIJo_0EKaczjjkR9RbyFyDiuk4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 96,
+    "vicinity": "B-38/56, Lane-4, Sheel Nagar, Mahmoorganj, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3341909,
+        "lng": 82.9772946
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3355418302915,
+          "lng": 82.9786421302915
+        },
+        "southwest": {
+          "lat": 25.3328438697085,
+          "lng": 82.9759441697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentist Piyussh Kumar Pandey I Nadesar I Varanasi",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106219747670041478067\">Dentist Piyussh Kumar Pandey I Nadesar I Varanasi</a>"
+        ],
+        "photo_reference": "AdCG2DPJ-VhXMoerb5Xh3H9H_PiOFmYJiuu_1PkkBZY1VdmWfkI8A_lVJW6t1F02n8EnjOcJMFQKBrvow7VVzs7FTLFADHGUHHeqi7v0fnrad0OKqIZTWPoqWDlaJNURBPMY7ajrLpEOY31IMxCwHBwfIErMvSnMqe9JxLU1nKX13s0BVT2I",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJA3uEXZwtjjkRzerQvxAeqic",
+    "plus_code": {
+      "compound_code": "8XMG+MW Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XMG+MW"
+    },
+    "reference": "ChIJA3uEXZwtjjkRzerQvxAeqic",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "near Taj Hotel Near ATM, S/O Ajay Kumar Pandey S-19/390-A, Jadid Bazaar Colony, near Taj Hotel Near ATM, Varanasi cantonment, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3036473,
+        "lng": 82.9850994
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3050664802915,
+          "lng": 82.9864529302915
+        },
+        "southwest": {
+          "lat": 25.3023685197085,
+          "lng": 82.98375496970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Trading Monkey",
+    "place_id": "ChIJ_____wYyjjkR7MuyHAF7guU",
+    "reference": "ChIJ_____wYyjjkR7MuyHAF7guU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Varanasi"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 25.3036473,
+        "lng": 82.9850994
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3050664802915,
+          "lng": 82.9864529302915
+        },
+        "southwest": {
+          "lat": 25.3023685197085,
+          "lng": 82.98375496970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vidushi dental clinic and implant center",
+    "permanently_closed": true,
+    "place_id": "ChIJl-Ie064zjjkRhqFu40aOmZo",
+    "plus_code": {
+      "compound_code": "8X3P+F2 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X3P+F2"
+    },
+    "rating": 5,
+    "reference": "ChIJl-Ie064zjjkRhqFu40aOmZo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "B 38/9 K 3-1, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3348697,
+        "lng": 82.97609299999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.33621643029151,
+          "lng": 82.9774400302915
+        },
+        "southwest": {
+          "lat": 25.3335184697085,
+          "lng": 82.9747420697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr R K Upadhyay I Root Canal Treatment I Light Cure Filling in Nadesar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJffeGhAMtjjkR-V7-vyd25rs",
+    "plus_code": {
+      "compound_code": "8XMG+WC Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XMG+WC"
+    },
+    "reference": "ChIJffeGhAMtjjkR-V7-vyd25rs",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "above Make My Tooth Dental Clinic Close to Uma Marriage Hall, First Floor, Behind PWD Colony, above Make My Tooth Dental Clinic Close to Uma Marriage Hall, West, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3276615,
+        "lng": 82.9900753
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3288410802915,
+          "lng": 82.9913888302915
+        },
+        "southwest": {
+          "lat": 25.3261431197085,
+          "lng": 82.98869086970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Reena Pandey Dental Clinics - the top dental clinics in Varanasi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJkQsKyxUtjjkRm7-_jyS7gC4",
+    "plus_code": {
+      "compound_code": "8XHR+32 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XHR+32"
+    },
+    "reference": "ChIJkQsKyxUtjjkRm7-_jyS7gC4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Third Floor, SS-019ii/390-vj Near Mangalam Marriage Lawn Jadid Bazaar Colony, Cantt Road, PWD Colony, Nadesar, Chaukaghat, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3001684,
+        "lng": 82.9693271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3015019802915,
+          "lng": 82.9706362802915
+        },
+        "southwest": {
+          "lat": 25.2988040197085,
+          "lng": 82.96793831970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sunrise Dental Clinic(Dr Pragati Sachan)-Best Endodontist, Best Dentist in varanasi, Best Root canal expert(MDS IMS BHU)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116535537513324215656\">Sunrise Dental Clinic(Dr Pragati Sachan)-Best Endodontist, Best Dentist in varanasi, Best Root canal expert(MDS IMS BHU)</a>"
+        ],
+        "photo_reference": "AdCG2DNNRVhljaydl3Wtfkexyz1NJM5oTegcJFF0J65886_moQI4Oh__7DnEqqAo3vd0YE8zJsQ_Xf8YyCWin8QEZMpK0dKc-IRJcjj0vmmXT0b9RM1OsBkfLzlpgOBNItWxZDQI26a0ets9mwaHnkVzsc_HYkrwo53gFqdm5fP_4u7xUY9a",
+        "width": 540
+      }
+    ],
+    "place_id": "ChIJmzrrlOkzjjkRjQO6VgHtM1s",
+    "plus_code": {
+      "compound_code": "8X29+3P Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X29+3P"
+    },
+    "rating": 5,
+    "reference": "ChIJmzrrlOkzjjkRjQO6VgHtM1s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 45,
+    "vicinity": "Infront of SBI, Lahartara Road, Manduwadih, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3356745,
+        "lng": 82.97618949999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3370516302915,
+          "lng": 82.9775553302915
+        },
+        "southwest": {
+          "lat": 25.3343536697085,
+          "lng": 82.97485736970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Piyush Kumar I Oral & Maxillofacial Surgery I Teeth Whitening I Root Canal Treatment",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115397207963706109673\">Dr Piyush Kumar I Oral &amp; Maxillofacial Surgery I Teeth Whitening I Root Canal Treatment</a>"
+        ],
+        "photo_reference": "AdCG2DNEWHb0Mgpqkcytu1tn8v5BVgsq4qndgVAcJlFPVtOh-PzGC3e44qD962z5Oh4zPtECpKHTIzN-uRK9F77cwEB7YArec5S5PNrR0obVR1YTj7A9LZHA6TYT0321aDOB1adZcaJ2fLSY3MebB3XRHBjawJnkBordd8htSjL7jKp-YuQ0",
+        "width": 540
+      }
+    ],
+    "place_id": "ChIJ25bCBAwtjjkRr2XZQtakZzo",
+    "plus_code": {
+      "compound_code": "8XPG+7F Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XPG+7F"
+    },
+    "reference": "ChIJ25bCBAwtjjkRr2XZQtakZzo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Araji No.126, PP Shiv Shakthi Building, Jadid Bazaar Mangalam Marriage Lawn, behind King Restaurant, PWD Colony, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3358868,
+        "lng": 82.9777378
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3372645802915,
+          "lng": 82.9790969802915
+        },
+        "southwest": {
+          "lat": 25.33456661970849,
+          "lng": 82.97639901970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Piyush Pandey I Root Canal Specialist I Teeth Whitening in Nadesar Varanasi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJG-KSp9MtjjkRlECqr6QEdF4",
+    "plus_code": {
+      "compound_code": "8XPH+93 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XPH+93"
+    },
+    "reference": "ChIJG-KSp9MtjjkRlECqr6QEdF4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Ground Floor, behind PWD Colony, near Uma Marriage Lawn, West, Varanasi"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 25.3009459,
+        "lng": 82.9832684
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3023568802915,
+          "lng": 82.98461408029151
+        },
+        "southwest": {
+          "lat": 25.2996589197085,
+          "lng": 82.98191611970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Clinic - Dr B N Banerji",
+    "permanently_closed": true,
+    "place_id": "ChIJn4IlCQYyjjkRWVoG6nlG8Gc",
+    "plus_code": {
+      "compound_code": "8X2M+98 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X2M+98"
+    },
+    "reference": "ChIJn4IlCQYyjjkRWVoG6nlG8Gc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "37/35, Baladev, Kabir Road, Kabir Road, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3123034,
+        "lng": 82.9939825
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3135925802915,
+          "lng": 82.99533943029151
+        },
+        "southwest": {
+          "lat": 25.3108946197085,
+          "lng": 82.9926414697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Anant Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1923,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107790663178438878613\">Dr Anant Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DMu6ghn-sZ8yz6FTcwAxfXiyT1pvOzaFL7y-gRcVL0OsaFB6pxWwOlBpoP4exB6GoQzX36VHxfk3HYNcDHz8u_8sO1zRLz04_HeOe3W1IN4qkB3GddFPbwobZn6wymuuZblp5iGY31B_h2aWWfE_ZzJfyHnTaYQ_GgO7lThvrdGLTmp",
+        "width": 3778
+      }
+    ],
+    "place_id": "ChIJga88sAAujjkRLJR2Yfi24AA",
+    "plus_code": {
+      "compound_code": "8X6V+WH Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X6V+WH"
+    },
+    "rating": 4.7,
+    "reference": "ChIJga88sAAujjkRLJR2Yfi24AA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 64,
+    "vicinity": "D-57/51-B, Sidhgiribagh, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3333491,
+        "lng": 82.9855954
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.33457918029151,
+          "lng": 82.9869065802915
+        },
+        "southwest": {
+          "lat": 25.3318812197085,
+          "lng": 82.98420861970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Baghel Dental Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110982341218343411136\">Baghel Dental Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DNnBFozWfciM4rcXsKQpQ2gr0wwzSCt-cyW9TgaPSgKYlmLbvh6qSAnertW7MiGP7I6EZ1Hyu4oLSKFjq6MOXVPM0gyxf9guGp0x0mIIlvdjdl91NeZROdUynunVuC78ZtutMhw62GinQCGHjj6GDxmWh8bVxt0Sfiq0I9wp1xEy_Sn",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJqQlSX14tjjkRFrtj6D0lGKo",
+    "plus_code": {
+      "compound_code": "8XMP+86 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XMP+86"
+    },
+    "rating": 4.9,
+    "reference": "ChIJqQlSX14tjjkRFrtj6D0lGKo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 197,
+    "vicinity": "plot no. 3, Mint House, Nadesar Road, Patel Nagar, Chaukaghat, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3068001,
+        "lng": 82.9913278
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.30820153029151,
+          "lng": 82.99266813029149
+        },
+        "southwest": {
+          "lat": 25.3055035697085,
+          "lng": 82.98997016970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "i Smile Dental Clinic (Dr. Praduman Rai)",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105185223085406359830\">Sandeep Jaiswal (sndpj)</a>"
+        ],
+        "photo_reference": "AdCG2DPN-Pdodu12l6bVOAu-vezpfzKgVvl_1VCM8MIDplbNKpoas_uEJpM78yBnYle7UBbn51ycow7EdHfHsoajvoJv94EDyB0VTKpCm4hHxfnsyxYZzCj1q0bHjzTOmTmc3sJtbyp54AQn6Yh0vo6LAk8pQoL4h7qoSSbOi-qtWTxhdl_s",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ5YkJ5uAzjjkRniITGfBweiU",
+    "plus_code": {
+      "compound_code": "8X4R+PG Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X4R+PG"
+    },
+    "rating": 5,
+    "reference": "ChIJ5YkJ5uAzjjkRniITGfBweiU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Sobnath Dhirendra Complex, Rathyatra - Mahmoorganj Road, Rathyatra Crossing, Khanna villa Colony, Bhelupur, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3326235,
+        "lng": 82.9882162
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3340150802915,
+          "lng": 82.98950683029149
+        },
+        "southwest": {
+          "lat": 25.33131711970849,
+          "lng": 82.98680886970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shivay's Dental Clinic I Implant Center I the best Implants Dental Clinic in Varanasi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJHeOXVyctjjkRxjR6swMsNV4",
+    "plus_code": {
+      "compound_code": "8XMQ+27 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XMQ+27"
+    },
+    "reference": "ChIJHeOXVyctjjkRxjR6swMsNV4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "behind King Restaurant & Taj Hotel, Araji No.126_mm, G Floor Shiv Sakthi Building, Jadid Bazaar PWD Colony, behind King Restaurant & Taj Hotel, Nadesar, Chaukaghat, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3365683,
+        "lng": 82.9807423
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3378714302915,
+          "lng": 82.9822044302915
+        },
+        "southwest": {
+          "lat": 25.33517346970849,
+          "lng": 82.9795064697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rheena Multi Speciality Dental Clinic I Nadesar I Top Dental Clinics in PWD Colony",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJAUBCRoAtjjkRpmvRlADqUVE",
+    "plus_code": {
+      "compound_code": "8XPJ+J7 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XPJ+J7"
+    },
+    "reference": "ChIJAUBCRoAtjjkRpmvRlADqUVE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "GF- Ground Floor SS 19/290-CD, Jadid Bazaar Colony Behind OYO Hotel Riz & Yeti TV House Opposite To CEAT Tyre Shanker Tyre House PWD Colony, Nadesar, Cantt, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.32703699999999,
+        "lng": 82.9936409
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3283707802915,
+          "lng": 82.9949431802915
+        },
+        "southwest": {
+          "lat": 25.32567281970849,
+          "lng": 82.9922452197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "BALAJI MEDICAL HEALTHCARE",
+    "place_id": "ChIJCbBQegoujjkRG94zE_zhfGM",
+    "reference": "ChIJCbBQegoujjkRG94zE_zhfGM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "8XGV+RF6, Chaukaghat, Maldahiya, Chetganj, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.334783,
+        "lng": 82.9865556
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3361525802915,
+          "lng": 82.98792148029149
+        },
+        "southwest": {
+          "lat": 25.3334546197085,
+          "lng": 82.98522351970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Oro Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 665,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103907113568756007027\">Sangam Kapooria</a>"
+        ],
+        "photo_reference": "AdCG2DMRJOmPHGH8TtRDWbo9dbpLg7yWmXUWX53shaVM1Q_5F0TMVyPfrZVuWlx_01pVvttiTeAbSGeNH80yQRQiUyH1vRDZUy1762YUYZ9DBgdRA6zyXdYmZvvRuT8RKM3elBDqXp_EgZ9Yzmw8yJ9LWXVEu4nGJqbtOBxbkQHnpr7Fisn8",
+        "width": 1179
+      }
+    ],
+    "place_id": "ChIJQ2oiBMMtjjkR13kJMknDzfI",
+    "plus_code": {
+      "compound_code": "8XMP+WJ Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XMP+WJ"
+    },
+    "rating": 5,
+    "reference": "ChIJQ2oiBMMtjjkR13kJMknDzfI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 61,
+    "vicinity": "Infront of Hotel Taj, Nadesar, Chaukaghat, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3084541,
+        "lng": 82.9945774
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3097728302915,
+          "lng": 82.99592468029151
+        },
+        "southwest": {
+          "lat": 25.3070748697085,
+          "lng": 82.99322671970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Gaurav dental clinic implant center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110196461442119698561\">Dr Gaurav dental clinic implant center</a>"
+        ],
+        "photo_reference": "AdCG2DN3z3gbo8LkZNpPBqDJJxP1sGuIIbremVLyqXD1NxQX4Lr4BK3kCy0yB63k2pplcc8MOYijWa2wnKSORRFskh_O7tn8_jleNQL_zv_9s9KoZPvJu-kv6YgdzvSjwGuYUi7dpPPlDh_HBumTU5c4Wbhgm8laTuIHzvh_uqniW8Pd2k5F",
+        "width": 2688
+      }
+    ],
+    "place_id": "ChIJQZ6PPwAujjkR0eWPDBUZyKc",
+    "plus_code": {
+      "compound_code": "8X5V+9R Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X5V+9R"
+    },
+    "rating": 5,
+    "reference": "ChIJQZ6PPwAujjkR0eWPDBUZyKc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "1, surya nagar, parvati puri colony, in front of vkm girls college, Gurubagh, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3241674,
+        "lng": 82.9958266
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3255997302915,
+          "lng": 82.99718033029151
+        },
+        "southwest": {
+          "lat": 25.3229017697085,
+          "lng": 82.9944823697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Uma dental clinic maldhiya",
+    "place_id": "ChIJcSp_rwsujjkRcfVGQQUlY8s",
+    "plus_code": {
+      "compound_code": "8XFW+M8 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XFW+M8"
+    },
+    "rating": 5,
+    "reference": "ChIJcSp_rwsujjkRcfVGQQUlY8s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Nirmal Complex, Vidyapeeth Road, Maldahiya, Chetganj, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.33267529999999,
+        "lng": 82.9902625
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3339489302915,
+          "lng": 82.9915498302915
+        },
+        "southwest": {
+          "lat": 25.3312509697085,
+          "lng": 82.9888518697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Make My Tooth Dental Clinic I Scaling",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 411,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101247462425195623377\">Make My Tooth Dental Clinic I Scaling</a>"
+        ],
+        "photo_reference": "AdCG2DN0IdPgZA4kBD35WFl12Bm1cAfLzbQPftguYfZl3PoV6KBUroz3mUysbYhy5GRuStdNZISAAb3qa6aYnkZDkff39Ocmux5ZJgHOexVKJwT8hRi7FfYGlc_Fj1F2GNeqJ77X92eJnANnUnK-xNF8xjru8Mw39Lutqg8PXnEno5LBT7A5",
+        "width": 1315
+      }
+    ],
+    "place_id": "ChIJJS2C6N0vjjkR8jBtweJbuLo",
+    "plus_code": {
+      "compound_code": "8XMR+34 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XMR+34"
+    },
+    "reference": "ChIJJS2C6N0vjjkR8jBtweJbuLo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "S 10Mi/245-A18, Second Floor Munshi Premchand Road Hukulganj Khajuri"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3349513,
+        "lng": 82.98724930000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3362643802915,
+          "lng": 82.98863263029153
+        },
+        "southwest": {
+          "lat": 25.3335664197085,
+          "lng": 82.98593466970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vinayak Dental and Maxillofacial Surgical Centre-Best Dental clinic in Nadesar/ Maxillofacial Dental Surgeon in Varanasi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3228,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110059816106268216209\">Vinayak Dental and Maxillofacial Surgical Centre-Best Dental clinic in Nadesar/ Maxillofacial Dental Surgeon in Varanasi</a>"
+        ],
+        "photo_reference": "AdCG2DNrG210P1sXEFfdBw60ObKq6SCFuzUBgewtwFHL_y74fhI7GCREUxYf3zzT8UjH9QT5bWMfIqIudw0pSlKVenkcTxlFQHoECX1RZJuFjikjdu-79IXEICY8zTF7VyKycTcXJ8CvmQYQocfSkR0-GmpNNc4h1rM1Ed-_HumBHAXvUOMo",
+        "width": 4844
+      }
+    ],
+    "place_id": "ChIJGcKQRYcvjjkRGUd1BftGRlg",
+    "plus_code": {
+      "compound_code": "8XMP+XV Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XMP+XV"
+    },
+    "rating": 5,
+    "reference": "ChIJGcKQRYcvjjkRGUd1BftGRlg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "47, Imlak Colony 2, Nadesar, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.336512,
+        "lng": 82.9843569
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3378294302915,
+          "lng": 82.98568068029151
+        },
+        "southwest": {
+          "lat": 25.3351314697085,
+          "lng": 82.9829827197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "the purple plum dental clinic",
+    "place_id": "ChIJofKYZNstjjkRXvTWNwTDnJA",
+    "plus_code": {
+      "compound_code": "8XPM+JP Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XPM+JP"
+    },
+    "reference": "ChIJofKYZNstjjkRXvTWNwTDnJA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Mint House, Nadesar, Chaukaghat, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3079373,
+        "lng": 82.9960047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3091277302915,
+          "lng": 82.9973674802915
+        },
+        "southwest": {
+          "lat": 25.3064297697085,
+          "lng": 82.9946695197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Manomay Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107665189665806529176\">Manomay Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DPo9JKURoIRNYYRtH5Zj3WGvv8d7r-MdBbnwtH-WxGCUnkkYwcb6s01OtdzSJ3nKShph9Pp_n9jD0QoOHrrnIQOuFLvkVWzoOBow-uGSOYiZHpt_b20VXShTTHIQ_eadKnW7gLJqBAxVVn8JA93sIYvlJkpzaL362nNKcgQkjEQlRvo",
+        "width": 677
+      }
+    ],
+    "place_id": "ChIJa9m9nQIujjkRVKyoNjPBn8E",
+    "plus_code": {
+      "compound_code": "8X5W+5C Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48X5W+5C"
+    },
+    "rating": 4.9,
+    "reference": "ChIJa9m9nQIujjkRVKyoNjPBn8E",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "52, 1/1-A, Luxa Road, Bhelupur, Varanasi"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 25.3371743,
+        "lng": 82.9855341
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 25.3385203302915,
+          "lng": 82.98690683029152
+        },
+        "southwest": {
+          "lat": 25.3358223697085,
+          "lng": 82.98420886970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr P K Srivastava Dentist",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100280442813896426292\">Dr P K Srivastava Dentist</a>"
+        ],
+        "photo_reference": "AdCG2DMMd4UgtWgqTCZmN4F2RuyVC8lIM_iIHiUBV9y-toND_vdsfasccJ03P-Cae3jUi3wFkowkBnvyFA9lAFu8DD8kbd1iu7U4yKAzXXzwviAuw5t86ovzoKsFD1SGkkJrnInPfFXRwCEqLxxHkwq_arA7YtlUxN1uqp5roj0syaQ-a2b9",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJB4tOHZMtjjkRY6V2FaWrlmE",
+    "plus_code": {
+      "compound_code": "8XPP+V6 Varanasi, Uttar Pradesh, India",
+      "global_code": "7MQ48XPP+V6"
+    },
+    "rating": 5,
+    "reference": "ChIJB4tOHZMtjjkRY6V2FaWrlmE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Induja Hospital, Sonatalab, Pandeypur-Panchkroshi Road, Varanasi, U.P Near St Mary's Convent School, Varanasi"
+  }
+]

@@ -1,352 +1,2180 @@
 [
   {
+    "formatted_address": "386 - A, near hotel Basant, Krishna Nagar, Adarsh Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "098140 02766",
     "name": "JAIN DENTAL CLINIC",
-    "address": "386 - A, near hotel Basant, Krishna Nagar, Adarsh Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "098140 02766",
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106056689526822652591\">JAIN DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DOpznQ-wAgKyzIH3GK925mK_W28vn4kYyNgixp9efMO-TBizexHb2LQU7UsKQLuYlefByOPCDX7CRKqunyORyBprZt61IortZKECvaaviK8NWuYU-kHW8GIouZD96jhRNS1R6IxNINlsSYtzqcXVNdQwwTSMMJp4ccNdElGkw9vvi3C",
+        "width": 4032
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106056689526822652591\">JAIN DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DOEpWPTovvNG9HInpidA-oA-65U6JUz8Oa9YgOmSWOoNix6-zDqr6uL3CWqZtjR0uC6AhN9RjvrtB0Mq8flTV-jVwNFvjGEmUfsU-PH9eYjMbiDlgZ_R7Og0a99C9DRXn1AfwE3rpiko-7tVrFpRnovKcvWK5FAqTUtVpsPfupd9oZt",
+        "width": 720
+      },
+      {
+        "height": 492,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106056689526822652591\">JAIN DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DP35hbTZonc9L2bT2xHwge_5axJccXpn26YKNjSyjAbInjPk0eR117vi01q3g8Ur9O8lfX-GtFoaP3-3SdE0M6TwYdOrNSXm5Af4kV1vPM82VbURuGZwxwSwo7eYb156ZDUxyAZ4cI3-7NaapvLkdqo15m9sSgXTBnUrAzlxtv_Ops8",
+        "width": 493
+      },
+      {
+        "height": 607,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106056689526822652591\">JAIN DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DOEepdF15tbfhtRs-fPxM4tzkjqkxbjX6D_ioKeMuk4ulRRa15af0dXcv578zx7BM7asv3b6DIh1NxEv4efIJGbD6GvcpHB3U6r8gKE4crVXtwGssEhcd6kQNDMgKbNWLM910PKQVhdYgo6ZDfmrpFowg64f9nOkXv_8s6BEkGUt-wh",
+        "width": 608
+      },
+      {
+        "height": 732,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106056689526822652591\">JAIN DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DPJQESvyH947VzhZlZ5g8d2-VgB1-_JGfzt9bI5aEIzKwtfs3Lj3kPOn0DURJHkzzBLTqFH_R6AkpTLHbolxA3fHmr9Sg1ENGEbUWdyYHaBaVe3sZas6y3eMnavo3GPWeFH42E4d64DDrHQxdXeDBrPyO1_k8XHccfEi5Eh4odtz_SQ",
+        "width": 731
+      },
+      {
+        "height": 310,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106056689526822652591\">JAIN DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DOda5E20HBp7DJzumcdKlXviIxYs8M8RRV6G0HGboEAiqvLr92wzSHkFUHDzqWO4RuknJkf_JXD6YmQ1Pc7-0zhaij9QC4ug6IQ9H4MhfiABv0Gzw5V8BBJ9r6X5azee3CUsi5jDO_x73j3LZGka6qLTBN0hD8qTyMEjbSoeIGA8qKV",
+        "width": 310
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104465228816520297232\">Harshpreet Singh</a>"
+        ],
+        "photo_reference": "AdCG2DOWfc7z172ZrEZnDdgFkM8tkmULiNtsLSEX-ay0nWyf2r3I_Jfr1M6b6yBB0FFPsKr5toYGGO6mbPW1a_aHGgOet4AWQM-uxOmR1ocjcYaBgziPq7lcc31jO8Gs15l0_EoMBt74FFMctyPBN38L577wh6wfLX1kHZg7K2B8nB4e91zV",
+        "width": 3000
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106056689526822652591\">JAIN DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DP9nmL9cbndWjN3mJJ6RM84k7KNRUIXHFgykxHwKdbIm9GFGzH8LMI6qs51egPY7AKYG6W2t10y_kRi1qvqNobq1HC9C-uilhdzAqXjmYA10q4WEDTJbKFp0rqughu-q2RjBNH_k_1vv3M3EBCB5mE9Si0eQaaVrx6mJzHiMNUc8g22",
+        "width": 2160
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109825292793564405478\">hitesh basra</a>"
+        ],
+        "photo_reference": "AdCG2DPnqpuXN1kzCPqd28-y9BGx7IYZny-_OP57YuXNj-b5HICG3O_wyehAr1QvDi3jCsb2KrtJDDUknwYUFgSIjUdLBSeHHlYKZaoYavmb3wZTTahUOipQS2VG6XdYNfdbN0hj_mdHh6qVC7aY54MC71NbQS96j472k5HjLt_foB7w3k81",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110023256071566991737\">Roheyt Sachdeva</a>"
+        ],
+        "photo_reference": "AdCG2DNgc3hK3uHxWNZZdJe4wCGjHHAib8BAm5fq1YMhaJqaAFrkYoAYuWPieJmh2_wpOvvFP2JMa1TULzfeJ5oyxSLnYxcDZQ_Fy9O5cDBDQNV9oiZKEPPyPVqQZlfh2Mz3aZcHD8xsfTHdJRHrt3wQz-PdkO30X7Pa7yaeHT5qwkg1r5UM",
+        "width": 3024
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 1535
+    "user_ratings_total": 1596
   },
   {
+    "formatted_address": "213, Model Town, Jalandhar, Punjab 144003, India",
+    "formatted_phone_number": "098156 03002",
     "name": "CHEEMA DENTAL IMPLANT CENTRE",
-    "address": "213, Model Town, Jalandhar, Punjab 144003, India",
-    "phone": "098156 03002",
+    "photos": [
+      {
+        "height": 1439,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115481434790847901084\">CHEEMA DENTAL IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DO_oehA-Lm1fA0BD5uhXo5ukx822BjrnS5x0HSObv-ayxhbJMLdPoc971hcf530DlRO5ZAZXyPnrVcpXod6XhXsvhlz5KG4WFtoUZ88jtXjGdoQVZi8Stjd2phcFYw9QUEYyYR_doejzBFIxBNAaXYHGc70-cHQCvOs30Nq-T8-cq7E",
+        "width": 2317
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115481434790847901084\">CHEEMA DENTAL IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DOjJMYPn9UUgO-z9Tq9pWOJihzhmMLTzkGBvJMqD2LTr8xy7cVGB5-fud_s_rzS0oAsrDfns985sAQU77xRZ5efThNOJVAEbmv842rgH0dkn3C4VEguYhKa0uFkgAxNH6aE_XiClbAJUl9w9RvxO-KRj4xjYKELXNSi6uJiskalbaEk",
+        "width": 720
+      },
+      {
+        "height": 2553,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115481434790847901084\">CHEEMA DENTAL IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DNxxqeG0rrl-Hj15hweZA1c_r1Mgwooi-YtYVG3GuW-s2EIXRoilbnY7SaD2syuQjjGZShcAWMNblWv7KDXOJcMl0kfF3MaykF_mrIhvLxhxIMWMrnB_WxWSotPxsfJal8dme5s4nfEJUhNt8Zhks8o344-DsLYbPfSXcKoZ0L61gv9",
+        "width": 2508
+      },
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115481434790847901084\">CHEEMA DENTAL IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DPgyW3SpCiQW74G7pob76VKYIDyh3umgWvq0Xihetxi_I2mRbUzXdexTAgM1YY0dYJIAxa7Q3XZkLr5tPOCydkttoGpHTZOp6TBlSrZhx7tsAhEvdDiC-SB7nITQ0I9T1OUgHwGWI0ojjp1zEYDBLAZB9XMaSsiJmAFBVKV55EsSKy3",
+        "width": 5712
+      },
+      {
+        "height": 2975,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115481434790847901084\">CHEEMA DENTAL IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DOr753MLZjzrGc7sKm53_ice1QZkehYe1VUPkewBTvx9SgUyOVerx6ysu2RfIx-yTLQNbeJSK2aY08CiBopfsUHczkulKfKZ9BsHbsx2apsWUJdQv5QgfgO_BZRRXoHAKPHaK5xC9LYs4rrvgm5zcrDVoAvIjQ1a_4eOQo-kWDcGqnK",
+        "width": 3305
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100240937586103296347\">Dental Implants Jalandhar Cheema</a>"
+        ],
+        "photo_reference": "AdCG2DP3O95gPUwD7DvPQWaXB1UnfaAeFZvIqfAinoatLXnapK5HU9FNj77ViGfPOurRBqLBYrDRMwH3g6Bawdtjs-rphbiz28myVoLzNGri_VLi8ok61n3KrWQKL6b5a5XSrJ_Uipymti6lTYkCPzN884idvOaZ4sejrgisidsS1NxBimSq",
+        "width": 2048
+      },
+      {
+        "height": 1474,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115481434790847901084\">CHEEMA DENTAL IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DMDsEcluIT3JNw8Ei0xn9SPFEFdyyoz-p1oSe6sLZq8fv_EsAGA5xKKAmpNHqW_vIAh6EziK5Vw97b16JwfkMlYuXZ-FJFKS-yWdH2j7_zPmJZD1hcajxwczkPSOTbmCNRAnsErR1qsxSG_DxWaCOwzRsinuCksnoOrXX4WuxOxkYNE",
+        "width": 2308
+      },
+      {
+        "height": 3470,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115481434790847901084\">CHEEMA DENTAL IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DNCq0c8A0dEw3Rj_mieczVWT5gJFF99Jvm9BOQ5MfMFUQ4xf7kHZoUN66DYU4k_kcHcfLGcPPGL8LhYL0tW_GjyQuNlTLucU1fnft74nSPQ03pijnDIMK6rjNtBg6NHp-22dvbWG5naCM9kZ3f3UEH9h1s9sq7gf-VBtbkb7HBrFqMV",
+        "width": 5078
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115481434790847901084\">CHEEMA DENTAL IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DNeamN1JABVnTyoTnc-oVxAWTzZ7TS_surclvI7Ue0yAYshWN4SNHv3BkDiO8nbi-WRW34Oxdu6sWpOwO_Y3nO7Pcj3pG3BBl71q5NSaCdI66it_Ny9Ga_yJ8tCdVIFAFZUeLaNqPhbqgL1v5FmIoV_QehQZLIzhyQebqJl7X5qUX4Q",
+        "width": 4032
+      },
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115481434790847901084\">CHEEMA DENTAL IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DMIJfZHWjIiKJ3Hkraq6Gef79EXfBHsCZ9I_Rly6TXhcTLjfYtzuDFQL96Ib1w_bmw6mMZgLWDDHaXt-f8UrgcSVnvcwXfCkzTHcHWy0XQJtJ2ONHYOr22Ltn5SWD8loyAN8wAT-5GqRHHUO-storV_5AMZXqpvXvxHpElYvhJnl68x",
+        "width": 5712
+      }
+    ],
     "rating": 4.7,
-    "number_of_reviews": 77
+    "user_ratings_total": 76
   },
   {
+    "formatted_address": "8HHP+9G6, Mandi Road, Fentonganj, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "097818 88797",
     "name": "Aggarwal Dental Supply Co. (Regd.)",
-    "address": "8HHP+9G6, Mandi Road, Fentonganj, Jalandhar, Punjab 144001, India",
-    "phone": "097818 88797",
     "rating": 5,
-    "number_of_reviews": 4
+    "user_ratings_total": 4
   },
   {
+    "formatted_address": "403, Lajpat Nagar, Shastri Nagar, Market, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "097805 31898",
     "name": "Dr Goyal's Dental Implants Clinic Centre",
-    "address": "403, Lajpat Nagar, Shastri Nagar, Market, Jalandhar, Punjab 144001, India",
-    "phone": "097805 31898",
+    "photos": [
+      {
+        "height": 533,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113741301920901206695\">Dr Goyal&#39;s Dental Implants Clinic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMPfjf3iRGJVTru_2wJdUAsQ6IcupLjSUUW3wfi3J0Y6XHJMC9qzYQANSTXXyvU0nnzRKGhR7fZSicNXhUUpm9dfcoNtH5qvAHSJK3LPGxA7mrCuHRvStzRVgxr4tqTgxhBvp9f0HA12MMYW61qBzeA6r3lJbza0MeHO7b6denyjA0s",
+        "width": 800
+      },
+      {
+        "height": 533,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113741301920901206695\">Dr Goyal&#39;s Dental Implants Clinic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOEuIEn0o24_fd4ErYUW6zSpKtb6gUAFQEhIy2AZ2LWB8MtXIQptam3dSLxvGdYtNwaH5399umv4lIffn0jzoqH7zLF-fW9GlHVgXfGx81l3s5zpJFktOIn_dQhMuIIv2L9qbjSJ5NTeaC1JMmvkezTLwtQ_cMjwhp2PXlkXPTaPICv",
+        "width": 800
+      },
+      {
+        "height": 652,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113741301920901206695\">Dr Goyal&#39;s Dental Implants Clinic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNWEgTu8uIGNE4pPKjQA8TBQkYH1MczUpebT9OaeXaeff-97r1tQftcvmYZJfMKqO0t1s8B43NnSYBrnkUP9M5cak07w2x2TJpWe94IiAZjaDWcmOIvuhUeDt7PUcH2G0MsKGsAk98w_C7-fJPKxs0neD8joa93slf3FChhsSJqHstP",
+        "width": 700
+      },
+      {
+        "height": 652,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113741301920901206695\">Dr Goyal&#39;s Dental Implants Clinic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMzW19fpkfhG8QQ6xAbYOQmlLInPT8sRtrRi8oXw9Z0d1r8yxZcycx15dg3NlE9rcL5aUHZ8p52zDLcYglHiRzX1e5nS1tiHu5O9dRVWTeelHY-C1me1Oo_pIrOCDtk5mdxXrX8q3lWrCW5DjatGr5WKvnRgaA59TOSrsl1TV4Ove2Q",
+        "width": 700
+      },
+      {
+        "height": 652,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113741301920901206695\">Dr Goyal&#39;s Dental Implants Clinic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNc8CZ73T-ZsZoHcsYVIWalEMqClV_U031SSdMfv2MQEQmbCz9-rmGKbPzhmiLaN-BGzWF2wSj7Ui-N_dl4SXtzt20aWHFC9x0RHmhmM53EIRl2rBJkSbTDwKyLqMOWclWfSEiao27x009Llx10zfRDVhkn5JLZEZioikp5XHzfmzbl",
+        "width": 700
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113741301920901206695\">Dr Goyal&#39;s Dental Implants Clinic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMcjVDeV7pbXu912IQ0ZHj812eNF9H9CLPa50GpVOqfrWZbM6zTCZnKnAz2SzsmQN6U3r_QwMNRd8x4KrePca-erATYiFgRyG4R66KjSBTvz1kcJHdNKo5CUggWMQ_NfhPkJ1pwtKgyn9wtwPHXOrFJvvf_G5NiBxpR2GMz9t2WsVyF",
+        "width": 1920
+      },
+      {
+        "height": 652,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113741301920901206695\">Dr Goyal&#39;s Dental Implants Clinic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMV_JyGF2-c5TcxxJkFNCf0ygsxR2IUt-Bf0PiiyVQZ6pBUEo8Ck-G7BY0tRinzPshQfaEb2gUdR_bRHrkB6Ifl1jpZWEt69PsO8JFunT5zVJb_9ZcAfr_bsGhYundaiJH16lJ1Io3Lhk0p5ANWPWJT7hBAW8te-JxACZ6JTYInBTL7",
+        "width": 700
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113741301920901206695\">Dr Goyal&#39;s Dental Implants Clinic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOBEeKs5K8qDGMy_mPu8qIoXpVTA7F7d3oT7UpbhdW6i2-Mlwm01aWlVYdf48ENeTioM4GK70c3LNdh6GKtoP2cVFmm3DT0hLE_tD2jkIc6dR9p13ojftpQdX6YXaVT7HlSFD8mWdzcpW6H-11yPGOIJolc5GK4Erlf9Uaqb4Y2KM1L",
+        "width": 1920
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113741301920901206695\">Dr Goyal&#39;s Dental Implants Clinic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOW2Qvu_6GjsN7iWR-ytbvQhNla5gfoBzdgjBbsjTbrp966Rqz4DSV67nwET60X2uHmkLkpWCIl8h0j9on2-KKX9D9YOJRQNX1h99b9ZsdDZVI-e00DoohPkZAvaCQne5V11P44otjG7JywhYQiamNwi7jGR6fVr6-ZTPFdZ9NvubtW",
+        "width": 1920
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113741301920901206695\">Dr Goyal&#39;s Dental Implants Clinic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMBdB50ZttCD1iKbu6L63tCDu1zA1a4zn3afxNksK87b8J37E9FcDzQ6T-SQvIRFnpFUyjRuSx08-Qve0PHJOYI4q7XZD_-liIdzvKWR6bvNNKnBJ2KalZ4s_GDjK75XBL5iz84JG1--N_n0uwdZiHoIUjQmc-vlRjBPq4-W1iFvWmK",
+        "width": 1920
+      }
+    ],
     "rating": 3.7,
-    "number_of_reviews": 6
+    "user_ratings_total": 6
   },
   {
+    "formatted_address": "Kumar Dental Hospital, SCF102, Sri Guru Ravidass Chowk Market Makodar, Road, Abadpura, Model Town, Jalandhar, Punjab 144003, India",
+    "formatted_phone_number": "092167 65765",
     "name": "Kumar Dental Hospital",
-    "address": "Kumar Dental Hospital, SCF102, Sri Guru Ravidass Chowk Market Makodar, Road, Abadpura, Model Town, Jalandhar, Punjab 144003, India",
-    "phone": "092167 65765",
+    "photos": [
+      {
+        "height": 3375,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117846145216445204001\">Kumar Dental Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DPoBZeuE5_DZ3gBVF5eepVzTVU5YNmjOvnZvHtnD4P0xUP5lzsB38ojYHMDfURFhx2qLQAwi2ozmI8va2E-1SSDxZeBgeFpW43d8NcTkrPpeFUH1G4fbWSS_OPpyyin9Wh3Br6RHO69Tgn2sYaemqNrgB62DFCsT0jaZmltsC1E-WpU",
+        "width": 3375
+      },
+      {
+        "height": 3375,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117846145216445204001\">Kumar Dental Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DMeuPRvdXLbyE0Lyr3xDbXjdY3mV15ZpHRgVCYK92Q-alnhKBiN6kpGeMbaxuT6N50UKiCUl6f_UDRxNqSSCmlTMh4mmt5jNIj1uByAEMcaWTvOH7Ve20YcI4mECpoAhsCyJqBbqPbl05c4ajNziLLXiC7iByUPHi7NiLwk4Qog8Yc3",
+        "width": 3375
+      },
+      {
+        "height": 3375,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117846145216445204001\">Kumar Dental Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DOSE17Vn5zaCkHrWdrWAkoVKPktSVrdGtd3TVvSIUanCi3IczBYJ9XkGWaqDzrJjZzemog1rbT3Oftqry-e9mNHWVU7rJ2BaAJ7EiPVV-aIA7I6ThO4D2sz8RZz9FyMgKCGXlhkhzspzwX39z5juLMfLvCRhZAgBKSS9Lelvisb0z7X",
+        "width": 3375
+      }
+    ],
     "rating": 4.5,
-    "number_of_reviews": 99
+    "user_ratings_total": 99
   },
   {
+    "formatted_address": "Vijay Tower Civil Lines, Friends Theatre Road, 8HGG+CFQ, Friends Theatre Road, Kot Pakshian, Pacca Bagh, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "0181 227 6246",
     "name": "Nu Face",
-    "address": "Vijay Tower Civil Lines, Friends Theatre Road, 8HGG+CFQ, Friends Theatre Road, Kot Pakshian, Pacca Bagh, Jalandhar, Punjab 144001, India",
-    "phone": "0181 227 6246",
     "rating": 5,
-    "number_of_reviews": 3
+    "user_ratings_total": 3
   },
   {
+    "formatted_address": "C/o JASWANT HOSPITAL, Adjoining basti Adda Petrol Pump, Near Football Chownk Jalandhar City, 8HJ9+4XC, Adda Bastian, Shakti Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "085690 00538",
     "name": "Dental Tree Jalandhar",
-    "address": "C/o JASWANT HOSPITAL, Adjoining basti Adda Petrol Pump, Near Football Chownk Jalandhar City, 8HJ9+4XC, Adda Bastian, Shakti Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "085690 00538",
+    "photos": [
+      {
+        "height": 676,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111286158618850446389\">Dental Tree Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DPfYc5pQItSm-480HLV6odNDt8znAHHOSV6MtjUqfcLLUqG8depaVdSUbCBlZXowaAVVNSbhsVAWR6xdhsjkNuWtkk21UlQxTtj9lB0Rw0KiRzBFEZDB6OQrwD81gmHZ4iS_ii5v0ZfucKhiYi964TKAvFTZdNfpw-JnFEbvxaMAl4v",
+        "width": 1200
+      },
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112103392777130186191\">Dr. Bikramjeet Singh</a>"
+        ],
+        "photo_reference": "AdCG2DObk-ETfQDnCQdBPZLNrSBp55mN6yXs-KlyjUyOQcwnSXsGJ63cg2R7PKvF0bOy4I2cYj7hG-KpnG_MvaZKF6q72hVp6dPzugMFwmNPgXP8nT9hrPziEX4XwDXf9mGbDckRxg8uJDJKOfb4JHNt5-PYnL3x3MBMz4itqTZ7ll-g_dOX",
+        "width": 1461
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112103392777130186191\">Dr. Bikramjeet Singh</a>"
+        ],
+        "photo_reference": "AdCG2DPulj6eT8b8Cc5TmaSFISzS1SLBNLq-gMiZs9ReFnds0zi1LjM4NX824BJYregpn1aPRz5gG2_TAqlzAF2PkbgsDRbNLzd4XKXgnU7ppjt_sZDjBzTbygTW6shVK_AUNA5NXYeCbDC3xLLuQe2F22MIXQ-lqUdyJoNyzKKO6GiMII_0",
+        "width": 960
+      },
+      {
+        "height": 1064,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112103392777130186191\">Dr. Bikramjeet Singh</a>"
+        ],
+        "photo_reference": "AdCG2DNpfN9WR-HR69SwsdqL_Qssj0f0-UmmJjV33r4NKpb9eW-znG-9grHrQoPyzMlG5jbvigC4hWg6MbN3KMoljy9K2YkgeyTxOHeV-O6E68VV1Aq7_O4RAexWXL8zJpTARKEmDXL8uKD--JTBiBN6ewyvLDGvwBIiYGh5wpPFvJd00_Ik",
+        "width": 1600
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113848329175406619906\">dental tree</a>"
+        ],
+        "photo_reference": "AdCG2DPZ5BNIEZstEUUGEOPc4CwPXYvDrrP2x7BY54PUFXSeNDyqiUO10mbslb6hyXoPwwGfNHdLzA3MsAc4xK4K-te4KlMBmNTSrxRbEzM07nHQab_sjzIHpK88_hcPArDOc0vrBSDa7r4tHFzqzeo8FnEBbQEzhB84otjakSCUOOSdl_8W",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112103392777130186191\">Dr. Bikramjeet Singh</a>"
+        ],
+        "photo_reference": "AdCG2DNkROx9YThYNy6Tr0jTYMhFed7mVwz4E8dYAueZ3s4mDBNA96on5zwvL4ZYdm1BBa98iyrX5MYe9yaLExTPXTQoayrvpMZVarNawODN4SwPnU5mN-gHYonGN8TRSwUMJM2SQ3sI9Qf5AWw5Hk2TzJzYSGXDdKSEsG7-h2cn3KknGH5Y",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113848329175406619906\">dental tree</a>"
+        ],
+        "photo_reference": "AdCG2DMPN2X2owOKuZ1sgmG5rNlVgTdPg9WXKr5YYoQr5wLche2qCMfEQFGwg1Txsa87InhbEHYsmFpA0FUFosH2lGDXBHAv-Hd06YGU1MFmpGCh2uaXasSOgWhK2fg8Lj9MCp9FRNDsVu5m0yF0nmnmdEOTOMB5X0SQaDZ5znDGpOH2LU4B",
+        "width": 4032
+      },
+      {
+        "height": 482,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112103392777130186191\">Dr. Bikramjeet Singh</a>"
+        ],
+        "photo_reference": "AdCG2DO6eFQsSG_bRLJcdb3xZun-DhMvHk5-i7KWgG7YDMSRgDldrWAKvqr2EXoRVYEIgPXkULpW3md_Hy_Bo-NFxSq3-YgEMsD-9PAn7Enad0DO83jLhpQTWKoCd3f7t0kCqxXh2-yW_OrZIOpFE61SxmDCoKEdqr2fSozDrdMSXP8XJrWI",
+        "width": 788
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112103392777130186191\">Dr. Bikramjeet Singh</a>"
+        ],
+        "photo_reference": "AdCG2DODd9JfCBto3qTpZbOM3U4k0bo7cI3GjIik7fJy4tXj1XwwH36FjPUCxud9zM4TpcQh2OuY1mme9OjvamANa9fZgPm7b3uyIES0uidLaKzB4dUzWYZu05lGOk9mMnZu1uCF_Phb3F2x1asaYjrWzSNUXUT9Z3vJIzkcLj2N2P2a_cpT",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112103392777130186191\">Dr. Bikramjeet Singh</a>"
+        ],
+        "photo_reference": "AdCG2DM5uUN9Z8E3Gdq6BjqdY9cfQ6y9ZBCmpNBaBja60F2n4qlBKk-PKOnUZWLAtgRjXQLRHrxDhBkdSK_TNwaTmus4e_Y2jKcu5Gq_hslOsEtSYf7l1EFDcylY-jlv5klMsqsDRRjkyaX2bb4Wz03AzeofTRFGl1Pw_5a3sIfun-KvyswU",
+        "width": 4032
+      }
+    ],
     "rating": 3.4,
-    "number_of_reviews": 11
+    "user_ratings_total": 11
   },
   {
+    "formatted_address": "368, opposite doordarshan kendra, Ajit Nagar, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "084270 33997",
     "name": "Dr. Sabharwal's Tooth Clinic",
-    "address": "368, opposite doordarshan kendra, Ajit Nagar, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "084270 33997",
+    "photos": [
+      {
+        "height": 1758,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105499166433198468368\">Dr. Sabharwal&#39;s Tooth Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNDMAoUxIc14SkOaYBXwkNm0wZhWV_wy0Agq5gcCrWP-CRCQV3pXfnty2rR1u5Q44O84ScpfMyEjaGDhR2_CyeBZ3ZmIBh7CWwMNcVIZMUzJZrOe4XexnNKCzGA5nno0VQFEhdA8CaLARz474IeeqrNkVtruCGna72EVmq0Ep2UW7ze",
+        "width": 1169
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105499166433198468368\">Dr. Sabharwal&#39;s Tooth Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMWTD3-tGpfQ7qrt_v7G9cHGi2kNf6aBtCW2KR5iNVJmouBxQ4Ht86LYf8E_XSZft7GY9jwmWuheUqgiyoNuvYY1UIbXST3LjXbyy9fkPmtXFbgCxbp5flnfdJxtJt8BRuCZ49v6IfLbmndXyKG94iVa4ylYEGen9gnuo8H8J83Z8J1",
+        "width": 3024
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105499166433198468368\">Dr. Sabharwal&#39;s Tooth Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOfbUaqLjiRPlJBcpcCuOnI-Y8uc2ciVqFEgCPa0Yvbc47NxIUPrn3aY5Jdfj2dmsYRuoVWHK5i6LdYhWKF5ohz5Kv_Uyu-26gBS71D2AV9q6J5e8Pax4l0vHfFx9alInYowjOOuisv_kx0Ft6fjPFn7T3gFpOmTop23PVMoBVT0n67",
+        "width": 4608
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103095721518338304697\">DigiVerse Technologies Inc</a>"
+        ],
+        "photo_reference": "AdCG2DMqRWGDn1oNZNOFiQZo_sLHpWjCI_y1C_8xnLfL8G6ndxIHpNJXwgVmhh_78LHwPz8o1gSwLGSHyZ1O6Tk0uo3kErRxERMnQde_urkPvPS-F_VqfELqTXSyjtzjsp1Pt6nrsKoC2PsM1tHRgYrowt7dQypmttdgnVxDmyb6kzV_1KIK",
+        "width": 5184
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103095721518338304697\">DigiVerse Technologies Inc</a>"
+        ],
+        "photo_reference": "AdCG2DNWNCqcQjWtS9q_7nfUdp8cnuPP2wIwnZb7-VKHtU_RNMlB4iz-2SqbgYvaIl2LllLTb98SRTM4hlFaMEhijGX8qpSo7UKWutRgEHLrGsPJLz_DzITYWD-2PFiYEd-TtTP3awdW5phpu-91fghBCoxiKXFnT_bK-8zJnJXVreenSTdk",
+        "width": 5184
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105499166433198468368\">Dr. Sabharwal&#39;s Tooth Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPJnrZMnpW-Q42F6LuzHcjCtLIYYC0BBhCfF_2ARrGuKQeR5fvnegssyaUa8e9ZroHRoJKntaqi3Db3mA6bHHwgz0J-Ej1HV8HXKPCt4mBMv_3BoXGxwhFRFNuq8UZDjYf9iTb-oL8ZdunPzluGk99ZjpZWvgBNcOV2zu0H44HIklC2",
+        "width": 4608
+      },
+      {
+        "height": 270,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105499166433198468368\">Dr. Sabharwal&#39;s Tooth Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO6VOw0CiAxJUAUnpc3FoUksSvgjmYYWRbZFgKAC4xQ6iwPa3PDlA3co_M58d09oVnM8LVKpYOeY3akmJhaT0FAmok43YmoQHRBBz3yDXIH6Z1YWXyAXk6KmWyasdhfAR44ES42Mt1ADpPcfjH5bvTXeDOwDw4yln2VwgypAz9t0Lx9",
+        "width": 480
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105499166433198468368\">Dr. Sabharwal&#39;s Tooth Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO4dy6cHULcZ24HrSVsUm1QAezMwOeYVqW6Yye2ItpFX8wDYDS7p-IWgbLffCJvb5de5o80n_NijSKcw0JIG8VFHCDy3hGRkEZhE3O5MmMAz7JWdI8ANEsRTp76yFTFGxeXKZp8zZN1t9-k_nzuOyW0xa115yEg63vIjx2O0kaySX9T",
+        "width": 3024
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103095721518338304697\">DigiVerse Technologies Inc</a>"
+        ],
+        "photo_reference": "AdCG2DNIhjx27uirEtFy73H-rK6VgdA3q715-K8J2tTCQvWz4EUZBzgCvu-GQDwQfUEIQuXzE8qV-Tt6vMvsqLxvHvdDcQFoqHrykAQb_0lZKG7pTa58oOnWWlaTGAxSb_85IVk5PS_4VfaBzqLDYngmbmCqk4Jv9MYeywUuhWO1Dwg_IFc5",
+        "width": 5184
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103095721518338304697\">DigiVerse Technologies Inc</a>"
+        ],
+        "photo_reference": "AdCG2DObScftjgBvffdONaRxP67Fq2olNsGEXV6u5hmcJATqMcUAahVTpBhJtUza0v1VcOa9yQ_zH0kisJdfJTGpQdTO4kZVozT_4MtAnTLZvqxFDjiZLc5-bUYHoBIs4HdbDyMevl2Bw7KjgnphIffqeD5iRFDMpkmHfokGHEp6_g0a0l2_",
+        "width": 5184
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 238
+    "user_ratings_total": 245
   },
   {
+    "formatted_address": "221, Mahavir Marg, Gujral Nagar Market , Near Mann Scanning Centre, Gujral Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "0181 220 8221",
     "name": "Malhan Dental Clinic",
-    "address": "221, Mahavir Marg, Gujral Nagar Market , Near Mann Scanning Centre, Gujral Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "0181 220 8221",
     "rating": 4.6,
-    "number_of_reviews": 66
+    "user_ratings_total": 66
   },
   {
+    "formatted_address": "adjacent to lakme salon, Near Football Chowk, Shakti Nagar, Jalandhar, Punjab 144002, India",
+    "formatted_phone_number": "011 6927 1068",
     "name": "Clove Dental",
-    "address": "adjacent to lakme salon, Near Football Chowk, Shakti Nagar, Jalandhar, Punjab 144002, India",
-    "phone": "011 6927 1068",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101136185949587548046\">Clove Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPVL1Tlp5SHXCCqF3EXao_LSa6AANPwShnI4MDMg8GX1wk9-IgujORi-SM1VoUpxkr4yFxkR-DuSUNAfFuruobn0Tt8hgpPaZd1sPZetMbczTEuuPwcJpE97lddVzI2PlTR2vrVaUe38eePcGPCQ0ItQ3avZb503KMvV0Dtydr_lnbn",
+        "width": 1920
+      },
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101136185949587548046\">Clove Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOlAuGEbdjTqn7IneKlm3WluoK78Me8N_rskeJwrYTbo5AK42iHM8n29DrrCWaKIJYmihn69ldmyNJkHPANhkkPhhTQgRefOd4kmtYChp1SFZweEbfF7b7Y16328uyjdvpv4O66FM7H8UXu4GnJmKFtH54DLdDGW9Y6G0Rr2LLBwZTo",
+        "width": 780
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101136185949587548046\">Clove Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN9EpOBDq7o-Lf4MDhWZKBFdgmZPlhldU8PJ5mBMVMEfkoGT58L2c018G8lq4CIJtHtGIOX68szRUidiDiTwgBnFRKhf4D2YVy3O8CFSLwY0vcH0SxvCwHKfDJ9JpfqZ5Q4z_Y8zuEsSMXyZOkZaWHSATMlZ9RrEhFJGednjwhqA8K6",
+        "width": 1024
+      },
+      {
+        "height": 2112,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108352312427263708308\">Saurav Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DOi-T-hdKFq4HSt0ZjmXC4ZccnJB0CqoAktpcCk36b-BXQTHpKfWH_blZxWx6JuORZrdZ8dV1xk7wiiVyotp5-9IGq1FCEeBsNssVKNFpBaN4KDTdp9s4QMJXUrh1LntqdHY5SH3XQTP-8q5hfw6Bi_XDsTlBLiJxYOsqsi2eY-3Ub0",
+        "width": 4608
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112564779695852927186\">Navjot Singh</a>"
+        ],
+        "photo_reference": "AdCG2DMkmTFZTeNV3h7qUtuO6f53WzumxyT3sZCaHcXsxVGH0jejEpyItX1RriHgAM-bYzsLfDZNza9pIpZQ8Wj5RwoGfPZb0L94wQUQUypO3imG0DiqTQbPhObNky1_WJ8X2YWFy3w-X0JLT3WST3uvyafZNvdWi76tldWgjhJllUv-1tFS",
+        "width": 4608
+      },
+      {
+        "height": 2112,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108352312427263708308\">Saurav Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DPqgIoshlxTfg0XQJIyRY1LfIMVHa1SYziXZUNbfP_bFEwVft0_HC6YJCvE7sj8ZJD1p13vylWVvhtpoRdPvWXfzVUVAj3LiW9wk1LqHpYxnYcZm0C2DHhL8he4MF4dI2UQYNO8uuWyP0l53dT4OpdePUyNlh28UxK-8wK4D7wBdb6l",
+        "width": 4608
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101136185949587548046\">Clove Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMQ_rvOsMdatZPBCYzBcUAb7Rpkd0GYROzYianBQS2z2rg2dPaXQe_pXBqU-9OuQB-4k1D7aF1jgVlRkmW7GNgCPHqvRodNlowlRAwYYA64cMich757sNTAxQF5gVuM_DMlgHjIgwdAEnPZOlKlF0wY2lYtXyxDAk8yY5djFR2HT6On",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101136185949587548046\">Clove Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOeROL1tiSHxNsrfUX_mRP7qxuS5ZHsxrQ9TJ75hKLA7kNcJrL8mDV_tglDBTFZvcM-heXM1EAfmKu8T-BQhMwgcUjMZI55g5hO1k-M1HyQtF9RH4hwUgSLjP741YxZw0TqGDaK29fR_73wHXt21tynB2iimsD2LzBHMm8Rw2scQKIO",
+        "width": 768
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112564779695852927186\">Navjot Singh</a>"
+        ],
+        "photo_reference": "AdCG2DNYFvWmRRQ1fJHw23buWDkUWYh8xFgG9KodWIv-IcxJIVo17WNXab5KQFOOmlAtmE8UT3rEnyn_mA42583QDjVOTj0Hg2nnVnCFto1scVdvor_Y5U365ZQITejCAkgZD91UiHngdOz1RrC8whT_1E7K1xmfXgD-hc1xehek1xy5ZsMk",
+        "width": 2448
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101136185949587548046\">Clove Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOP3a3ijRxSlyYDDFMiivPsgOdcfXvUdUVXnLqyIbkGXRT6zXvXWs_JXuGM2KdBA51ZZEw_ekH-Gp9dL6_zxVc3S4oeV4JCPDzeg0jxpq3c2x4BG9otNF1qt5eRQl5SldweCRDFDBlUjyGNftcPBYtjLR2AbxmL-PAI0RXJfuf7u3aA",
+        "width": 1280
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 679
+    "user_ratings_total": 685
   },
   {
+    "formatted_address": "Nehru Garden Rd, Master Tara Singh Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "094170 15322",
     "name": "Modi Dental Clinic And Implant Centre",
-    "address": "Nehru Garden Rd, Master Tara Singh Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "094170 15322",
+    "photos": [
+      {
+        "height": 442,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107080030481124210296\">Modi Dental Clinic And Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPzxiZnG_u9VXeq_6JxNQJTDiqym7tKaiRCpifspUqv6iaXu3_peXys74b01aU1ijdGP56J7ZTIIQRPw0SF789U80x4KUH8PIU_d0DXS5wQOvI47-mJlFJxvd0Yl6hgyZuY8FOe-Uk6st_0oOb2MT6-NZNAEO6MfBKZ5bAgxge4yT0M",
+        "width": 789
+      },
+      {
+        "height": 2688,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107080030481124210296\">Modi Dental Clinic And Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNLZ5iWoIAovqtXUxEbVACOFQIL7_Eb6Y4NpVvzcHcx4xVuaGSnvRJMAQMHmCS397XDKUxKX84Y1P_CtfS6E5nvHhvV9DDvslbbw0CMWxxu7-HLTzzthYZR7HzI4Cz_OUgIbsy7qkMB-lw2X2TnvlKnzRv0f0RNAbkcpohTnjk5A3KO",
+        "width": 1520
+      },
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107080030481124210296\">Modi Dental Clinic And Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPKsgD3T4vTEH_m4BG6H-4oLf1L2bbJXYBsZqmnzUnG3BsxrNKQkPWAN0d3-T9miel7eQsIJECqiGMSWbb2B0rmpU2ZiCLDFcNmGq0rGuh0A-ArcYsDZOSoyKawGyrU5y_IsoyFg8xbM7oYHdaxnm86IOVOZ8KNWp3G2PH8WCt0HGsA",
+        "width": 2688
+      },
+      {
+        "height": 1066,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107080030481124210296\">Modi Dental Clinic And Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DM-aKUMlsPh1xhgAcFJFiFMmMtvm2X-9VLXZO4JpaeuzFCpjLpe7VNxvxBlQHIHqCPjhSS4X1Gqefh-I3yFPm3-SSUPtA4kliPIzOCFBL9TBAnZGkbfShcXwxPfexwumSuDVpRHN84hEFCECaIoWHDOU__Jk9ofj1NQOnDj1nZUSXVy",
+        "width": 1600
+      },
+      {
+        "height": 4144,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113718351060306911067\">vivek Kumar</a>"
+        ],
+        "photo_reference": "AdCG2DNFHW8DrkMj9Q1PdFcGMYuTna6K8QfLHZ4IUkU2PfkzRexG-KYd0DJFyCybAMeRR3je58p6ewAeAM2x4w5sqY5iivNJ3jSR--k0idaE24g1mZAB5-1vAYoC1xCcXAU0kh6T9kPquONdsyrsLnACebmdi3Wx90Ivg2woD-Sx_Mf73ET4",
+        "width": 1968
+      },
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107080030481124210296\">Modi Dental Clinic And Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPXkIfI_rEJhjH_lYP-fPJZOYdy9apPLZcvDX5ZGzhkPUQDY4tq8tmvxiyCyUGkSXIAGuAE5FVYK0a82AX7k2-VwKvCbZnFxXof35IRFhAecuKDYFbcC9w4XW3W7tIidt5PKjdstpRB7iSRCDuL3LSskPGhTTcbAda7_m1yx-K8lwiF",
+        "width": 2688
+      },
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107080030481124210296\">Modi Dental Clinic And Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOcXGM5Diu_aD825X7Qana2k3GSvQiLyurw0lHpKn0Y2K6U7xequW4hqB7XpXceFf-9KokoC0dnrA4INaI9bRX7lXKitiH9Yrdm3RJG44V93zPxiC1by7ZBM3q71hfUjTWFvRa0xnujVraJp_KNPeY3UEYNMM7VfBKItxUwsgP172do",
+        "width": 2688
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107080030481124210296\">Modi Dental Clinic And Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOFQNRtJbLFsa-OkKS2sl5qDoBd87bwQpMB91Gc7-qkGgBohDKpkxCgzwx2wK4h4Ib5I6-LEu4vPXwaquV5e5H8hybLCejbAQzhm-fXj0NWgo3cQ4n30ws6_8IA1GKeo1HIR-kZOYzbE5FhV2bZE4-kMEAARCv3g9ZWv3jyL_Rf1z7H",
+        "width": 4160
+      },
+      {
+        "height": 4144,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113718351060306911067\">vivek Kumar</a>"
+        ],
+        "photo_reference": "AdCG2DNL5yFflvCpck5lv875mlTfYlz0AVOaKv3qIbj9SfOfA6R-I6mcfFb6hWvZDj4MDyyH8CIdalkvPJSAyIeAy_8qgHA4KbJoCY1SZRM-ttasJhBBOwBFBvun7yudTF-Pq4OMkdYYoep6jc0JaCj5LDPiVBybX9_WzyJkmXNC_J55ey_x",
+        "width": 1968
+      },
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107080030481124210296\">Modi Dental Clinic And Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOFklPtAvuYWlUJyRMBYX3liPfgQT0T3t2dgBxUxFA0o0eng-lyPKyGIU7PDpYmKQ9IVog-CjpKh-FWuAwL4JpT2JFQlWTajVFUkFWd3O6DEbz5SS-sR1_w1B4uH1ectsGgZ5AwAsZcyK0_Ybypznz2IHMLJDFho5aJcLo-lf7UB-3N",
+        "width": 2688
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 66
+    "user_ratings_total": 66
   },
   {
+    "formatted_address": "Nehru Garden ROAD Jalandhar, Central Town, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "094170 15322",
     "name": "Dr. Anshuman Modi",
-    "address": "Nehru Garden ROAD Jalandhar, Central Town, Jalandhar, Punjab 144001, India",
-    "phone": "094170 15322",
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115126691986102580015\">Dr. Anshuman Modi</a>"
+        ],
+        "photo_reference": "AdCG2DPG23kRz2JjfSZkj-s747Em5Xnx2PMeYjgGm7KY-8UhBro5ZPAl4GEfOqKcvkIN4mU-jCQdTKBhgh-23LhjV4YhgYwJKCMt5LMuUE73a5UKitn6ez0Tuu3BtrtrOOh69eEqu8zaPC6aLkb032ZR4ZmmAtIyzCuGxQz14tzqPVTXF2v1",
+        "width": 1599
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 11
+    "user_ratings_total": 11
   },
   {
+    "formatted_address": "Sodal Rd, Near Chintpurni Mandir, Mai Hiran Gate, Charanjit Pura, Neela Mahal, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "098158 00893",
     "name": "Kukreja Dental Clinic - Best Dental & Implant Clinic in Jalandhar",
-    "address": "Sodal Rd, Near Chintpurni Mandir, Mai Hiran Gate, Charanjit Pura, Neela Mahal, Jalandhar, Punjab 144001, India",
-    "phone": "098158 00893",
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "S.C.O 16, New Jawahar Nagar Market, Radio Colony, New Jawahar Nagar, Jawahar Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "098141 07353",
     "name": "Advanced Orthodontic Center",
-    "address": "S.C.O 16, New Jawahar Nagar Market, Radio Colony, New Jawahar Nagar, Jawahar Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "098141 07353",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114076665098872332771\">Bhupinder Singh</a>"
+        ],
+        "photo_reference": "AdCG2DMt9XsKjwRx-rfR84D28KJLboP1DTlIrS3jK3iECS1PXMjuecsblA7L9GlchRxOVW0LblJ4aWnjo5RpEFjln90G5BS5VUugbQzRJIoKwpCS4TJ0SaMv1gZfGh502GBRgBtAFxrgPZQEGyh69exuLG9gb0HWn87PKf6bWp5vRUoe3rYk",
+        "width": 3120
+      }
+    ],
     "rating": 4.1,
-    "number_of_reviews": 44
+    "user_ratings_total": 44
   },
   {
+    "formatted_address": "Best Cardiac Care & Neurologist Expert Hospital, 10, Link Road, Abadpura, Model Town, Jalandhar, N M Town, Punjab 144003, India",
+    "formatted_phone_number": "098140 55576",
     "name": "Global Hospital - Best Cardiac Care & Neurologist Expert Hospital in Jalandhar & Knee, Spine, Ortho, Diabetes Treatment",
-    "address": "Best Cardiac Care & Neurologist Expert Hospital, 10, Link Road, Abadpura, Model Town, Jalandhar, N M Town, Punjab 144003, India",
-    "phone": "098140 55576",
+    "photos": [
+      {
+        "height": 770,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106534386567159062684\">Global Hospital - Best Cardiac Care &amp; Neurologist Expert Hospital in Jalandhar &amp; Knee, Spine, Ortho, Diabetes Treatment</a>"
+        ],
+        "photo_reference": "AdCG2DNvYk1wkzpCEMX-0qQ6WoUcFDYdERR05q68YehgutN7AeY5ZGz6NsBODHNTUWgBFCP1BIm_EvW8xQyLApjXFazXLHEWuyc75yH_ii5X3qM3S2xTiycFDm7Bp6XKrrO1GbgSnahntXdlqymKo7E5AswOlRAZ6R8Bi8fb0yI6nXWogVaA",
+        "width": 550
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108377493953315838231\">Ashwani Kumar</a>"
+        ],
+        "photo_reference": "AdCG2DNDFSrlmkANEG-G-jLg3ASYHR5UPaimEWzIJgtD1ldbd34y0KhCs_CmFJwCX3AhVaVsDA5LQQFYkoXw7e942whvm_JNR8Ek4Khg44DwR-qAWzjDx0DRM50o5z7DJUKK9qMGjduGwXtrmeBXsPkvk6sSQehOrAMypNsWLGiTGMlWw5bX",
+        "width": 3456
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100543134131806076676\">Vikas Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DNUh3lZkiqn0_ISuPjn7e2KSX719qP-L7Dyhw5h4jzH5yEXrQWt8vghsfy5CfSIT5lXvAQyyzgN2npX_l6rsxFlj-xsrfwYgxukKIMpA_r5g5fPv3bz3JBaq4BxRyKfrOYH2slTALqGQS8XCy0MnBgjU0uvxR86a5iszpPFTUJMe2_U",
+        "width": 3096
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117986795118510898452\">Dr Lalit Kumar</a>"
+        ],
+        "photo_reference": "AdCG2DMFTxGBBUZ6qOKpPp5GroorzRVVNp2GZYnZ9fxIlVnnrc5pmy1gY3BQruzKkDyEstSqt05R_8a3c8F9DYkSiyEJOtqJ6eOSvaV59OGIAZXd8kKfgL1Tkj4frp3SfdsSsYy1M2mG1Ik95el6gdCGIgyT3a6SzizJejwa2sfT7vPWaqUa",
+        "width": 4000
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117986795118510898452\">Dr Lalit Kumar</a>"
+        ],
+        "photo_reference": "AdCG2DNC_0p5gNbulSZdmbgUdKg-7aSVJwBWNdxQc6CMZEDqOb533s08xcSmR7J3hBY0kFo3hQgBTFKNmF660oGbu4KXP7wwp9udGfQUU7dEYIXG_oezZ2oa46LPa0OhnviIygRKsYpL7hbPZmzRCCV9huUWL2fxSt5kYPuvN-lZWtxRzeP6",
+        "width": 4000
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117986795118510898452\">Dr Lalit Kumar</a>"
+        ],
+        "photo_reference": "AdCG2DOWRQ4unn0hQN7TY9oX-HjpP0ZEVcIipuj8gO7Om9znIOXU7kjAbRTRhU_FyoyffAu0CJQrYKc43nS1RRADnpTU49J1Qm4QNqclb-cnbbR3EhuJYmWljAPsnPITUKgfCuYgbL1oaD-O7hL9PQcIIGQdWgm1awp_7gqKSZfsC0sbZ-Qn",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107682831226407034732\">Thor Gaming</a>"
+        ],
+        "photo_reference": "AdCG2DMv-4mKGEsJ4TwmqqwyETbbaaiADZMlF1a84tP3avW08IZ6tc2ZznYMIs3qh_g4qqyR0WxXmUG7pMCnkHuipBmmytEeSpewTW_w5lvFZjxA2Sffm_RhnIzVd0o_h5cvcN4434M_9y3nrli_qwkY0SrHMYmfEoMNIKavxGAuO8D9mfcH",
+        "width": 4000
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117986795118510898452\">Dr Lalit Kumar</a>"
+        ],
+        "photo_reference": "AdCG2DMDOZQ74EohtyUtvZHHNAXEAKLQRLn0ankgJt91Of3mXGLoUeb_V3g0UHi8ZfqUykomPnqEnS-cFgYVp_gjTs8tT9-lj1fGXC_UTOKHqcydPtEb5jySxM7MzjIZEXJSk3LSdBSZiAeDMVFSn2XH5mSDeWUtSt6m3b-4tI1_WQIA4MyY",
+        "width": 2304
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117986795118510898452\">Dr Lalit Kumar</a>"
+        ],
+        "photo_reference": "AdCG2DNB91_C0Wmp9dKnJ5TcYFcRf1Dp1mJsAsurVgKjP0--noZevg8x-U5Pq6ln-VimovBi5LkSYaDsXs923UCtgXmzia7K2jW1XwNg-L9VUsY7-w8OxxlejUoTAVhezjdRSoR7aiIl0FhaDVbZ_uUQgv2ekdjec7aeKVkBxtQLaKyxkvus",
+        "width": 4000
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107551175015629070639\">Pharaoh</a>"
+        ],
+        "photo_reference": "AdCG2DMQtPg9yijnKclarn5WL2gKGdFlNEn75wTsiVqmt8gVhBnUvjG9CcNQOTOfQW66UEgXKcOMpvK-PsY6CfLWdvZ_gf51CA1q1sYPO3YIDTDzT20BM78UyJYy7QHROtf4Ww4Z_rspaoU6IB7UkIhS3R419CkCsQSbT0gMahB_OD8HCYQA",
+        "width": 3472
+      }
+    ],
     "rating": 3.7,
-    "number_of_reviews": 241
+    "user_ratings_total": 240
   },
   {
+    "formatted_address": "above Westside, Model Town, Jalandhar, Punjab 144003, India",
+    "formatted_phone_number": "011 6927 1068",
     "name": "Clove Dental",
-    "address": "above Westside, Model Town, Jalandhar, Punjab 144003, India",
-    "phone": "095992 16884",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115031617884230467883\">Clove Dental</a>"
+        ],
+        "photo_reference": "AdCG2DNuWTPAszscgLPHbOEsMB5uKsbh0Zz93Gox62iyitvPNgUTwsuoGLJ3BU0gEVwyInaGV5r1w63F6zUNNfnEml5BBTw0w7ev3VmzEjOFavK0T_L26J9zjW4P8g1qjYAk3I3oYnG7b00LC_Cvee5Aa60UUrrKxA0ZzxokLK9-SS-8lDqL",
+        "width": 1920
+      },
+      {
+        "height": 1872,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101901324989591261374\">Sikindar Vatturi</a>"
+        ],
+        "photo_reference": "AdCG2DNKvAo0dgwNg8XCxYY4Ro51jbIr1y2crP9OhyKXdsdJBB5ORGQFUT6Uc7imGZFIerrnKOwLsurpv7dkuNshPe3cSppVz2QXe8ft3U-JBS8U04h-cKsoUrSBq8RWQHtWO8PPjil5i4xUwBIF8cJwVHi7OEEMDKUjOGeR0t4R4yB4SlsB",
+        "width": 3328
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115031617884230467883\">Clove Dental</a>"
+        ],
+        "photo_reference": "AdCG2DMDfwVSX2djh__xdSaEKlwlNCTTg99NMzak0QMnbQK6uYvuB6M3uR5AaWlaUenv0PpOZr2YAdTnbVqpQsxnfyL5nfJHn-15fPs8Xrw4kFSio-4bc_Stn3dXyHTMvFdmGJ0U5CDh_j6X7SegvUiSY-9C3ax-68sEH7-3h2zIi_a2Wim8",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115031617884230467883\">Clove Dental</a>"
+        ],
+        "photo_reference": "AdCG2DN4UAQ2bsCw-BqKvrBDtlb7M50bSU3aI6rMiGR5uMzeUA0CfkR2CNoydzZIABArVWPz59f5adSUtVOxn6fTIgvGgbpWc8SbzR847Gt0loQy06YiPVJTZV58ev3s0sb9eNg-Li2sg_6apcJqgpc3GUF5dhG67QMJGoIvPbwN7Z5Lx8Fj",
+        "width": 1024
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115031617884230467883\">Clove Dental</a>"
+        ],
+        "photo_reference": "AdCG2DN_gFm1NtXIqaicJwv0pXYTW_5NHlFpc76HVN-Gzx5cOKdtpDyMtYq1fk033HthstauZtRgrSPNZ_4vgrkDTCwPx-ufz4cNmDmOuB4AApuUm4W6mPK4gPo4uE0Oj1Le1tYkxshyZVPH9oy95eocZMq0-rF_bO_ASYbiOSHf4uBDpHIM",
+        "width": 960
+      },
+      {
+        "height": 3328,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101901324989591261374\">Sikindar Vatturi</a>"
+        ],
+        "photo_reference": "AdCG2DObZGCpH5EDFgjJvzox9XMJlj-9-1n8H0u_KPz83XMK3FNNfemNSTcoeMtXU5ZhKqILrQeYQEbGuooy2LOpNdDtDeiH-N0fmCjZaCCwuuYccr6uPBeNU4ecdW3YEgt45ap1x25Q7oax6VGrsok4sT2qJj3TvlNINeysbQB_bJIxCugc",
+        "width": 1872
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115031617884230467883\">Clove Dental</a>"
+        ],
+        "photo_reference": "AdCG2DPkgajOqNW7sBDVMF17B9Xb5opbDid0DwnrrK5KLl1oL5MJjlCvMG75FziPuBBnDLeASSZTzT6meDlBnAMFQzTF49GKkUXPBpKKcanTI4xlBKsVZaJXp4Nwy3F-GkQpzpI55TEDjzkbKqilXILGnx2jIlfs0TE_HaPL4NyWLoF8dCdN",
+        "width": 1024
+      },
+      {
+        "height": 1872,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101901324989591261374\">Sikindar Vatturi</a>"
+        ],
+        "photo_reference": "AdCG2DMFxNv_U-A5RcQs0Gtq3VVXrvKlF8rNQNQTG9gM2wvCqQRbVnSNeBk-7ClRTnJbE427XajCtCUzUbENlbbf3SweLo_3h3h4xKCtrCSf4FoPuXJsg-2Aan2jEGxsXwlSpbj5c45zpFHIeAKO3nTVQsBl-izL_NL9l3pibQjcfOt-jIp1",
+        "width": 3328
+      },
+      {
+        "height": 3328,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824229708350454461\">Madhava Reddy</a>"
+        ],
+        "photo_reference": "AdCG2DPI3OpRORwaWKC7PXRMQJN0FvkV3TUj4yUur3vs0VIizTY7VxeCTYyd8vkTA_z8JX4SwFygGZsgkTra7eqrRdF1hWgT9DcAs0aU6ZRF5UQrgIdTQNKtugNtSggRpfi_gAFEpxzGjN8uN-Zz28LyWohhhaey4jO6gQO4cuaLLfMyouMH",
+        "width": 1872
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100004911358479321156\">Priyanka Behl</a>"
+        ],
+        "photo_reference": "AdCG2DP8bICO5C_fSWSMXlGycrYT7UC1km_sfZe-nW5KpV_nuFaJC8EEO2VnON_7W7z92AuCnw7YjVSoRSp_Z0ZKg8IcMBDjerGFhddwHvozCcXCGMzuHqEtSm-YLmwrGgbqLIzG75GPdxNxBSpnXfmi2-F6dkvfNF2DLfHLjog_OfimdtMj",
+        "width": 1792
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 778
+    "user_ratings_total": 813
   },
   {
+    "formatted_address": "First Floor, Ganpati Tower, 30, near Aggarwal Dhaba, New Colony, Model Town, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "088720 16177",
     "name": "Tru Smiles Dental & Implant Clinic",
-    "address": "First Floor, Ganpati Tower, 30, near Aggarwal Dhaba, New Colony, Model Town, Jalandhar, Punjab 144001, India",
-    "phone": "088720 16177",
+    "photos": [
+      {
+        "height": 579,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109454691824108770205\">Tru Smiles Dental and Implant clinic-Smile Designing&amp;Root Canal Specialist In Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DM854rUqxAgNBQDhJj37ktEN17lyLHLjRFnNxLmpc7PbAjUK81a3EsWC3ofq5tmtIphSkkw5c9-LsnmxTE5GVoeGhtdNPMcBszz_KbJktbTwmaolkVcShJ12yrO2FEIR6aDQoN-OU_-sjnt9xqHZUtIbFQwVIo-iHy_QdTwDM4D-OZ_",
+        "width": 1200
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "Guru Teg Bahadur Nagar, GTB Nagar, Jalandhar, Punjab 144003, India",
+    "formatted_phone_number": "095012 91314",
     "name": "Apex Dental",
-    "address": "Guru Teg Bahadur Nagar, GTB Nagar, Jalandhar, Punjab 144003, India",
-    "phone": "095012 91314",
+    "photos": [
+      {
+        "height": 940,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102301608595732359295\">Apex Dental</a>"
+        ],
+        "photo_reference": "AdCG2DM7g8290TccCQJ-MQr_YDKgnYoKsgmJxBol9n1gzJq1i-KEDpO_vwA4M3i7GgKbCIVQM4nIzOVFbxD6TgAA6CDgpls1fc6P7cKs4-ciqArh2FqUUq_1NJ3l_FdNWTLrWLU0mMzq10Z73y5nZ7Fp7lnEEVYa-JR7z-sU_sZU1DNGF7kh",
+        "width": 1080
+      },
+      {
+        "height": 524,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102301608595732359295\">Apex Dental</a>"
+        ],
+        "photo_reference": "AdCG2DMYZPt1RkytAtkfbAx54DGHvQgFHVmEwuSRGTkHG2WG2ujw0wHUONYX8rYkRxXximkIVifgbKRoW54Xyh4qmzy1aI8zvPUDUTTyXctvfdy7cErysGUvV6-JD7SRdHYp-0iSO6whCf0pVBiXCM09OGPMdfmmTr_qGQnVvj4BJvDUDz8u",
+        "width": 750
+      },
+      {
+        "height": 417,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102301608595732359295\">Apex Dental</a>"
+        ],
+        "photo_reference": "AdCG2DOGb8L_x0IPrcSuF0zBk1g3gghOvfl4SQzyR3JBfDGiC6qzINXrqey5ZWa8GVgqg5hgc05MBkUMIgKMWb2fXjhyGDQClXuzCElg-0qzq24k1BQUuOAHDLv3eOkgAwHMJr40tYXmXuaR5DmTo4mxKH0e3L-MeKwl1mlz0l_4rx0YyKnm",
+        "width": 1770
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
-    "name": "Rajpal Dental Clinic",
-    "address": "Rajpal Dental Clinic, Mata Rani chowk, near Model town, Prakash Nagar, market, Jalandhar, Punjab 144003, India",
-    "phone": "098156 12333",
+    "formatted_address": "Rajpal Dental Clinic, Mata Rani chowk, near Model town, Prakash Nagar, market, Jalandhar, Punjab 144003, India",
+    "formatted_phone_number": "098156 12333",
+    "name": "Rajpal Dental Clinic -Dr. B.R. Virdi",
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114399968354446887281\">Rajpal Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMhWxkeT44WbUqiqlTQBDaQO3L0KFksoNOvDXmBh1zrPNA2PHfpa3binBoeVS8l0Xb630PirnsosLsSHEUs6wpSKInatKCWtoVgPyPnzArjQSdarCXR18KxzXB9qZ7papaoKrt0Q4avqRP3Pl7NMqwMvf12E6l8ONn3tlo_fD7WhdT3",
+        "width": 4096
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111186990604572394983\">Big Ideaz</a>"
+        ],
+        "photo_reference": "AdCG2DMTWm0LGXymz9d9YWHx9t8cZ_3H-UUVfkYz9quQUTRSQWZAs8Snsmx217jaw2DCMAwpc01D5E0isHZFmQg0YGrAlTv-j2CdGeEQauQy93KQ9R_wJ3KTHkX7WA_xyKcFgXLM6JEhsvDDRSBS0zREb3fycSxefHjj0pFHZwMZH6QKlRpQ",
+        "width": 5184
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108570440665171610897\">Dr B.R. Virdi</a>"
+        ],
+        "photo_reference": "AdCG2DNKQvK-RLdx42YwC8CSdj0-27yL9T8AetudSA-pGyvSH8COEq3HdO4H1guJCJ9b6HqTquGhfiwofSDqcz-3FehEz-l4iFuU6LJH2_MFnsAzUlSE68inJq_dSg3E661VnIYAMxNPMiO2WXZHnvPkI4gl8p53wzpDrMsc4bbl-KCfz2o1",
+        "width": 2000
+      },
+      {
+        "height": 1692,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114399968354446887281\">Rajpal Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPrukLPhNlFQwqV2F2bquJLABjkIyiBfBcmjj6JLPcVJTlS6o766MDMH-9-OdAm6VbbHsgnEXZr5SHT-mKKSiDzRMeNcfpvtFXn1T-5AT0JrY5not_6FdkNs3vIux29sfmuNG-VvvSxpbFchuGrdBrSbnVol3fqfCve9sRbARWeX0nQ",
+        "width": 1047
+      },
+      {
+        "height": 334,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108570440665171610897\">Dr B.R. Virdi</a>"
+        ],
+        "photo_reference": "AdCG2DNu9fINeH1EtdoOK3JLAD8F060wbloylGxLUuKZVp_RWVtZnSmYBhKu5oWomCNM1ifeCudReEJTRz0VGX0A99DIDOnWABD4CxzOq9QG03DFX2Mr4b0Y6glNomJd4y3mZku0ukouWQZ-_WIoy3B9HkZ7zk08Zj3knyz4OGhxpulPb0jQ",
+        "width": 500
+      },
+      {
+        "height": 5184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111186990604572394983\">Big Ideaz</a>"
+        ],
+        "photo_reference": "AdCG2DNW0O0RcHPxYGtToQzjLQApbe3CVuvHLK8TAI1hKVUgydQz1m_EUxs6HCrxITqDF32UIS9pwFSZITcOcpZbTFUrE_NrFAxUyWG99x3qGHGp6inNTD4Rjcp4ZUMF1zkp3r-jP1U2RPyipigKsW8THuvc6Kw1Ufbb3gYukAsJAXinrrU4",
+        "width": 3456
+      },
+      {
+        "height": 350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108570440665171610897\">Dr B.R. Virdi</a>"
+        ],
+        "photo_reference": "AdCG2DN97wUb51aSb2IKv-xo9LQ6JU0YI60WNSvfslI4qtWJZPVMA1I9EDGmZtJ67l0pm6cxDZYoC6n_eJQtZf3TSuwzrlL2M6Q0sThJLbw1EDkOKwsXe7LM37P0uRPe_QF87qdn1MNEn74ugM9ODDf5Mtiycmwp6QaCP9F3Xzgr5lgSCx4I",
+        "width": 899
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108570440665171610897\">Dr B.R. Virdi</a>"
+        ],
+        "photo_reference": "AdCG2DNXJ3dg-7a18Ufvp0bRXSok9GFESPAmMQRuLwBfbzNNnwpdn6HmfOZI7co6yMV7JZ_FfKYqQ4lvukYYOsxnpDE4bCc68yKvqnt0iW10qCZy5jsrfGPCPkf0v4C3G2iEkM_QAsmwdgXMqlF3VU4NW6ky69M9fu89bzq1vT2N73n35UkB",
+        "width": 720
+      },
+      {
+        "height": 265,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102446193185539303558\">Dr Baldev R Virdi</a>"
+        ],
+        "photo_reference": "AdCG2DMhCV4qqCsYn8L7SeKzx5ef3cTvwrS127UKsqnbQJCwcCVqvjRp9eThSq_3gbgmT37b-rZ-_GP4evuyY-nQkQDBlvUG-Z9FtHTlzIguv1uPen6X5FDeNSo1GQIBhwT7rglitijswA1ZbiuVx0-Wuc4KMvGbkNZEIKaPcOwZOJxOm8gm",
+        "width": 400
+      },
+      {
+        "height": 412,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108570440665171610897\">Dr B.R. Virdi</a>"
+        ],
+        "photo_reference": "AdCG2DP6txBbQDRI9VGfJQUnWMjYsNVVbN0L_QHs0rrdZQToCV5GEwDtMccxceMdif8xZJ3O8hQzYafHOcpFvKJb2PIEYCPGs38fNstRLaNATppv3oHU8Uw42hSNZqFRP1MEjtn4sjl2p2QGHZSSprSAfbV916Ys9OKEO6TVFqVUtFngojJV",
+        "width": 300
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 12
+    "user_ratings_total": 13
   },
   {
+    "formatted_address": "sco 12-13,deol nagar market, nakoder road, near ekta gas agency, Dayal Nagar, Model House, Jalandhar, Punjab 144003, India",
+    "formatted_phone_number": "098555 12809",
     "name": "smile 'n' shine dental care centre",
-    "address": "sco 12-13,deol nagar market, nakoder road, near ekta gas agency, Dayal Nagar, Model House, Jalandhar, Punjab 144003, India",
-    "phone": "098555 12809",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "photos": [
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104377798446823370067\">smile &#39;n&#39; shine dental care centre</a>"
+        ],
+        "photo_reference": "AdCG2DNxQHf5NyjPCfuNn3Vo8UyGEe5SXnublBebh3_BGRCPYiX24dKMwRBgLvDdWBt4SYbVGUThvbUfDNQCOvVGhUecYTHh2z1Mz_JdFn2R4resQ2-PBPJ5vo7RO82LYBzGbo3tYhkTTPoPm4CAN-IBEoO6cmm5g2Qff_PdDmXKEi9hFWub",
+        "width": 3096
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104377798446823370067\">smile &#39;n&#39; shine dental care centre</a>"
+        ],
+        "photo_reference": "AdCG2DNcpZCtK-ewZ1m4TEZKGMZZoQY-cBmBBymElRGxNfwokdcJhIprwRnDgPtxOKNrTGoYQbJeiq10vCfbizx58q5MxDXBHfH8MY5bIQpELztVSMoqO398FIfRAGkA41dUAiu43JB2oBAxUTDdEjPCBVm0bNs_tYHjLcRofr3wXs8GyFJg",
+        "width": 3096
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117570021519941682297\">Anushika a</a>"
+        ],
+        "photo_reference": "AdCG2DMwxVTH7b7Lnjalq8qRq7LUPhUm0V-uyj2ZhDmhlEauqAtNKlvo_VsouEbq9we5Hp_gj17DzotYAZtv2hVb7P3tTAs426bfuc1RQ1W-f_e1BiceGDEGnPbW39-TjE0x6xO5DWf7BPWxLIL6oQJzo9U5_qweYu3mrzzdw0WOzby5-_kE",
+        "width": 3096
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117570021519941682297\">Anushika a</a>"
+        ],
+        "photo_reference": "AdCG2DOKEJn3t_IsH4NqXrcuLXiSXzHRyGPEn8UuiGd6tNSjejXjfeXOl98QAJqSE6hRjavQcMMBdcKTeug4zn8uY5PypNf6APRO4Uxup-9cJ2epGJgjbzcIyUe3nmESv4O67bHu5ETp4w_bfCjdraFjor1Tf2-adZflBUUDJq9ReWNnZpA0",
+        "width": 3096
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104377798446823370067\">smile &#39;n&#39; shine dental care centre</a>"
+        ],
+        "photo_reference": "AdCG2DNYGd3H5macnChyjkomYZj1OSyNo3BwDYWTQLX6c9DyllRZ4HjjarN4GPtT3D1VaeLRVLmESMfKO0wTHnV1oZTCwdgf6GlweC6EF-uga1uJ1k7-WSUYlEUbmaZ4s4c5t73NsANp3MrwJj_-FXKjl_3guAtk9Asi5H0b4je0U48muGT8",
+        "width": 3096
+      },
+      {
+        "height": 282,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104377798446823370067\">smile &#39;n&#39; shine dental care centre</a>"
+        ],
+        "photo_reference": "AdCG2DPVIntigLfzMrL-nlVggjfw3AD8yNBfmKbSfrWMlz_7SOK_OWQ794j9UOzOgWrV1XFRb8MrCxnMGkv2Um25lqNOMFAQ1xLSuG-gECQ16JyrzTy8QFkDI6FKpE4Kag6dSW24RH-cVlNZfZMt0mivqD0yDWOkFLE7KHjzFxE89xjB-dmK",
+        "width": 425
+      },
+      {
+        "height": 734,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104377798446823370067\">smile &#39;n&#39; shine dental care centre</a>"
+        ],
+        "photo_reference": "AdCG2DOIQpvxfHaiyhm9JZWqfyUba4tNPY1MlC_nsFJj7s8cS4aM1jEODs4AoUFv21Ss13R9Z0lPpqQBdOPaMr_sR-ucZabismsfwbKpBPegnYmjexr7nv8OwUUe4o6qLo0iM56VZLv5P0rcTc7bzFrpJUa1LXLyAxTXgqCj6gl07i2EY0Wn",
+        "width": 734
+      }
+    ]
   },
   {
+    "formatted_address": "Mithapur Rd, Ravindra Nagar, Cheema Nagar, Urban Estate phase II, Jalandhar, Punjab 144003, India",
+    "formatted_phone_number": "077092 55018",
     "name": "Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar",
-    "address": "Mithapur Rd, Ravindra Nagar, Cheema Nagar, Urban Estate phase II, Jalandhar, Punjab 144003, India",
-    "phone": "077092 55018",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109565651213991156342\">Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DNy0__FC4WT_Y6Wwhdud9Ccj9FNX7m57f_7kDW3yFdjzAaizkKa788_Ue7d4vKx8VS6XFgk0cOsaEb6cjV077g6WWbWf-HA52otKw9UBZswirlDNKk8tKPgCc9MynELMzUc4ujhZsl9oSVyj4FMPxNLV3h4ufRnbyuLp5EmWGwz-XlT",
+        "width": 4032
+      },
+      {
+        "height": 2386,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109565651213991156342\">Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DOmBYPvjiSoPb-Ul85hX8t7aWmuxE72X33IK59cpx8H1O9U2_5km5We6wTxa5r8_szqjGHHMHG2goqdeYWktGN7AOrN2VTOC5fEkg648SFvP9tqYjRbRW6dMjJ-daDuH5vgieTWCQsJm1iGiZCtRhDZBbzSua1MpcjN6n3BqJPurShB",
+        "width": 1869
+      },
+      {
+        "height": 3669,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109565651213991156342\">Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DO4mTJ5GDqkwmjrGs6Hsxpi35lZcXx78YH0woRgFDDTm14uFTDYz91RR-VbG5KQTHlr0XYYYdCOZwpH3954ygcNVLDaNZKI4aAh_fwe3UVPDx3rQWFbcLiXCk6nvXDiUqT1aBaKzuyXcdSPwA5YL8B1vJEffrnzWTyyoI4mUvBQvHw3",
+        "width": 2318
+      },
+      {
+        "height": 1438,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109565651213991156342\">Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DNRWX0fJfjNccEwtGhhqnpr4gVBYVLaYzSkJFVAH8vXzPT3vI-LRcFZZGT2y5tuQg5JZ1SJmI2vXi3Y8k0yBmVaRrAGuHnbaWVCoO_cVm3d40zzYCXXYiA3vdp0y4mcnYPA2DWy5YDKVNI4c3bw0yTjxbjX4l0xRaI_bPp6mxFdza7C",
+        "width": 2560
+      },
+      {
+        "height": 1384,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109565651213991156342\">Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DP5zaKkXTRmm0wckLnXg6650hkA63VgSPSl990YqUjZk9r6noayUqZTRHXFsgnMH1bkkO8CefcSM33rceRru03nj1qjSzBJZktUpVYBysU2IKtSULmLodYAIbmlPKfgsMmUwpx9N68AEhUDaosf4a-9L5UvuWaRsljjEPsAUbGgqcUR",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109565651213991156342\">Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DMGMD5d7TqFRgogz3NV8fvo9FLk4M44aygobgLtpdG36HJkBpm1h-IZc_W6TzmkBvtOHCpq8awX-ZbRCocID_vrSuH7F9iekKJwVUY5iX0HEiZ8Upr6hueT_kemVLOHoJOi8iu5byd7ov00OLlQ66DfamI2bnKFb2O0qFGHp9VilzZu",
+        "width": 4096
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109565651213991156342\">Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DOElfgSK3yncGFw02M_Ve4zZDm4WdoIQu-UOapEDFCSCgqSLnVCz1oc2yvzmOLcfO8-yZJTKVJ8eEMxMtYAaWLXbweUM0Y0YAJNHWwQo74LyvFHi3DZv0kj0PFEjMTfQ2K_KiFPJqxCeJWutOKqYftfgAmYHPFkA_bnlmAPaKP0f2bH",
+        "width": 1080
+      },
+      {
+        "height": 499,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109565651213991156342\">Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DN6lsPOH_lkyF0_1Ss6vBl2QowF4lYfKf3pNAPNujIbxNm6XAbrWkIMZ62HySDa3uuOkSc0oV1pfAGayr0hk7cKWhySk24VgpGtqGK-E3K7dZ2mxU57e1NUW7rO6b1YMltuJ-dXxbNYuJ8XpT453K8DxnWuBXI-OqUVOa0hpFOnsYgu",
+        "width": 499
+      },
+      {
+        "height": 2629,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109565651213991156342\">Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DOC8TIDemgYBk7M83BjrIOWO0G3BsPtL8lmKwM3fUlftNizv8-2ufYra81rOy3c88wWmrcC_Bax66cC7P3D24BFybW33ApOXAEN5klNof7ukZrYr3dQsfjCA5IdIdzK7wNklb-3467h8zJMKbmT5b9itLasrd9_ZTfxR3k7D4xKdqfV",
+        "width": 1808
+      },
+      {
+        "height": 1059,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109565651213991156342\">Smile Signature Multi-Speciality Dental Hospital - Oral and Maxillofacial Surgeon - Orthodontist in Jalandhar</a>"
+        ],
+        "photo_reference": "AdCG2DMGfetoSjhSFYZy48xSJsw3Ub0WTr7Zlh2PvMpUvCDU__ccPg_xJ1cfTP9JOxXCiEipK9Qj8At51cPQFA87uv7cbRrUY8L0s3K0i1WqRlCy5TzwO08Jd0fUXJnIMwKg9obzo0PFON2ctW3CAGsIjmHGQSNgZwUcFntNS4lP3DH2hRJE",
+        "width": 1059
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 32
+    "user_ratings_total": 30
   },
   {
+    "formatted_address": "Shop 3, Wadala Rd, opp. Pearl Hospital, 60 Garden Colony, Green Model Town, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "098780 97574",
     "name": "Denta Care",
-    "address": "Shop 3, Wadala Rd, opp. Pearl Hospital, 60 Garden Colony, Green Model Town, Jalandhar, Punjab 144001, India",
-    "phone": "098780 97574",
+    "photos": [
+      {
+        "height": 780,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112939300009334697750\">Denta Care</a>"
+        ],
+        "photo_reference": "AdCG2DMSEFmXhv_cuPBsh-EAO1n-lvCiOSeHKwY8dT_J2fDC8d1CJaPqrhmojadCqJkXqBVbkq95SFzjTWrfP7fXwexyrDiwAoR5T4wWWdmHJE44DJ_ieirDDTqtbrdfNAC9iEWqT9Z0gTSmJ_bcMn5e4UgOPsZ0eantFgsCXCAuyZbbHef4",
+        "width": 1040
+      },
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112939300009334697750\">Denta Care</a>"
+        ],
+        "photo_reference": "AdCG2DMJj9FOXyN-SoHu1UcBoNHgcJfDo_3k-p4-kLZTr12pOTZPNWIeHXxmD5hKq2W5U-lme6y7m8klw6aIATvCTfsRVdbcy7yg8RidHkUdFKhjG-z50ErKpZWoTli0iQ7W7WK9WG0dgDdnVRVAQG385KMnL8B7bguOdegjAOBBGPLSlfRP",
+        "width": 780
+      },
+      {
+        "height": 780,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112939300009334697750\">Denta Care</a>"
+        ],
+        "photo_reference": "AdCG2DNfhWBox6TOulYekrw5USUaiG10H_E7wsnbzZmddU8QR-LWLVtKdydGcLRX8HikPUGOAVgdwXTN_zXArYbmCcmZTCjpo_-iLdoze6Z-u3mo9oTnMlYatYd4fKd3fWCS3vwSDuAL75VhAv0EOZbW6M7rjhbtidtNRTsYYyTL7OWZkVir",
+        "width": 1040
+      },
+      {
+        "height": 780,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112939300009334697750\">Denta Care</a>"
+        ],
+        "photo_reference": "AdCG2DNAfbnWjyb6p4827wY-GWhMypHl_v1WGhYvVywBKBapOck5LWiMF4Bi1A42FlMe6qDqfjxmNKU_ImnrtTYIxWD5ev-ypVJnBct5rlHUwoJtUL_8r0pSQqliyBU76AKqYt_fBJGjmsXUl1gb-Q9LKS30DQuNO-ORx3EV5eTHeHYmLlrP",
+        "width": 1040
+      },
+      {
+        "height": 780,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112939300009334697750\">Denta Care</a>"
+        ],
+        "photo_reference": "AdCG2DNZpUignBybshNjrgeeLoX90_M5f7chOi9MJZvXTpl56LHw61vsYaP6zeVizBwQJ10MEdjW8xRUQsZ6w4efoi10FRL2AzNa_SlTNKSZIyJtH1gTGHQfDn-VXnN9hZAr5roSEUUTUJmnCqM4d3P2cIwmVzeRQHVDsCBbg9d_wkUwIdM_",
+        "width": 1040
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 8
+    "user_ratings_total": 8
   },
   {
+    "formatted_address": "Powar Complex, Mithapur Rd, Mithapur Chowk, Makhan Shah Lubana Nagar, Bank Colony, Urban Estate phase II, Jalandhar, Punjab 144003, India",
+    "formatted_phone_number": "094179 81703",
     "name": "Cheema Dental Clinic",
-    "address": "Powar Complex, Mithapur Rd, Mithapur Chowk, Makhan Shah Lubana Nagar, Bank Colony, Urban Estate phase II, Jalandhar, Punjab 144003, India",
-    "phone": "094179 81703",
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111412525642703580114\">RAKESH KUMAR CHANDER</a>"
+        ],
+        "photo_reference": "AdCG2DPuRU9LFaYGJhHdz7hhUyc9opKvwy6tSwiHg_ndzw86b17akLbmrYVXMBNEbQ4ihFAlFAPcBGS_Zw1f-eLO5ZgSeAIafTSowpHxv0NG-BaQ7s5Hx1msTlr4-n43AWbTbPXSfWXb5mLgqw9P2A4XLvZZ_dHYFtd13SAaFPpfTw4YjrTI",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111412525642703580114\">RAKESH KUMAR CHANDER</a>"
+        ],
+        "photo_reference": "AdCG2DNxo9zSOHoW6mEHCVDk8k9obNXLuP-aO7aaxKfFExGl8xGN86LolULtHYkKSgG5lYqywwcMQAwzso_dNlzVSl6JrpQrK_Drds8p4dve5ZIl-qbBfp-YHMTAru9hvadTHjNn3UpU1vfDpQGdj1Z7kzlV9E6URH-Dm-KXvyEAu0VmGt0_",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111412525642703580114\">RAKESH KUMAR CHANDER</a>"
+        ],
+        "photo_reference": "AdCG2DMq6l9_5yz1HmIzhkvxNjHCQwP_8oRLOwYnZnpxN2WB0JchsBgF9vp6Ca_P8qD8P7d9WzNAGiLiTc8SeNCFHhL_fD8BRneuSgugRrxGq_FplWMxqwghwflgDIyPTyI9C5Xxtsr36AASjZ14zA2WjdqK5ikVivUJJg21HCHJLKr0cyQM",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111412525642703580114\">RAKESH KUMAR CHANDER</a>"
+        ],
+        "photo_reference": "AdCG2DOa1179tPLYntWop_U0qkREMSLAoKPJ38qTigUCiCrNLQTu2PYrGY2jMclD1imiH7bMR4doQEl7F31JhHuHxdJe4rk1U_OV5ww7ddxyu55KP0kZ7fsF8onwB4MqaKqFf5hSc95kCTnRLirYc2oiAcz_4Ek4_UjWSe3-PN-7JilRh6GA",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111412525642703580114\">RAKESH KUMAR CHANDER</a>"
+        ],
+        "photo_reference": "AdCG2DNRRkVofGFExwmnWg9cFES_ALzw7XHhQc6YYn7aAQwJucPLbiRHPJzijs5nbCg5w5cw2vLt4i2wYjQjfoiZy_UEINBAcnh1nHAf8dV1RU1Lqe6RV23msGeSqNYSAVDZjybf-9YjfbSWYXqnE1MrR3MrbtuUcgZwRbpaLNOpDRuqzdUz",
+        "width": 720
+      }
+    ],
     "rating": 4.8,
-    "number_of_reviews": 5
+    "user_ratings_total": 5
   },
   {
+    "formatted_address": "WC 118, GT Rd, opposite Civil Hospital, Opp.Civil Hospital, Ali Mohalla, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "098140 61744",
     "name": "Varma Dental Clinic",
-    "address": "WC 118, GT Rd, opposite Civil Hospital, Opp.Civil Hospital, Ali Mohalla, Jalandhar, Punjab 144001, India",
-    "phone": "098140 61744",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100656614461717552273\">Gurvarinder Gilhotra (गोविंद)</a>"
+        ],
+        "photo_reference": "AdCG2DMNRbfR1WMyzug52Ytz1U7i0SYtbAkQpBOa0wGVOasATm_h0Keeu3hSsZrfwec1Qs0SoJ4tfSIHBjEisledS71MdfM7D8XcUbkN4NJBLflkzDba72V1TgMXbHkD6iBt-iMahY9z-n9hoGEtC7UkjEe2-SI3jzh6oudZitIN0pPfn2Ws",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100695548779971678839\">harvinder jhattu</a>"
+        ],
+        "photo_reference": "AdCG2DPCQ4JvYN8CNqC2vxSb9RHxZBp8-dOtukvZ9tetN6qDz29zEjoNU4M7DKFEIhwMEq-5PpF8yOOw_nijG--2A_65nBvjXVwBKHuXWzBfxzBoNEphsN2y8PYSGZLAhDygofRLJxA5HAjGGWzzsBGjEtT0SUzGKSCZx9igPg8BVNtaAchL",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100656614461717552273\">Gurvarinder Gilhotra (गोविंद)</a>"
+        ],
+        "photo_reference": "AdCG2DMwTO1GQgw9eq0r4pO--0C7jyKiz1zdO2zzSZYNTFj_z6W5msuWilLFHlocD8cV4alJsSInpzHLwCeLr4tdVVcIO9h8O8m1VEuf4uvBHbddWWmq70dRsHVoj_WvCOWgbtKNhPE670INb7RWrZ8-Ro-GPIgxUH49U6aI7Yv6y8-v-rxU",
+        "width": 1920
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100656614461717552273\">Gurvarinder Gilhotra (गोविंद)</a>"
+        ],
+        "photo_reference": "AdCG2DOn3LhA4guyX5SUHRUP4ZKIr5BYMQ9sSDtRFPLWlqdISYnCbjxCFuTU1Ys-Z9O6PQYasfFFhp1Mn9aUHLeW8AhYIHPpP9JsYU9PePwuPLtmX-ibkRFRdk0DJkqejYCcNvtk-qpJXOL2qkaiqU_rVkpp_p5vhjrx9VnWBbk_zgHdpWeK",
+        "width": 4160
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100656614461717552273\">Gurvarinder Gilhotra (गोविंद)</a>"
+        ],
+        "photo_reference": "AdCG2DO6cds94ha998v7qpA7NnGgeDrfJ3fOnVe77oON5ZExZYzUWbJzmNQ-p3DW-BMVDKmX-jhW04Bg6LK2-r8HXFbgu8aRArsjufJF1mvCVh6D2x4a_bJIhdLMe6ErNRAuuz54rX_FJ2Gl2rXFmK0o89N1r2GTgJvMEkBtgOLjdvuIVC-i",
+        "width": 1920
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100695548779971678839\">harvinder jhattu</a>"
+        ],
+        "photo_reference": "AdCG2DOhIzC485LC4-ThEwyFGEoD95dvqFIS4_gKq_S7qlNrlZEhP1yt66kBkNiP8x1hFOnQ1ZleknsE1QmG4PVKnUDrdzJAxrPnr-y66KCIdwgpMdN_5HjGakF8vrcpsAX8xowOYGcnQJMrlKG1w3lEnEBB2lXFeA6YCHvA-IxXV6Ea_oPD",
+        "width": 3024
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100656614461717552273\">Gurvarinder Gilhotra (गोविंद)</a>"
+        ],
+        "photo_reference": "AdCG2DNr4ioaUL2Di_KNjbYAyJXQckErSEGzoi-VvcscQqtrSBFJrkmD2F2lqrBpXeYd2Lc9DFpDh8ItiOzbYeSB-i-xh0kJfheZQqwYKyWYAGxD79mxpfetGkVKF2lIS1Xxt1XNAPOEK0K1OUUXCF-Lrlb8ELUcw0xwPGaAn4lBmZAG-diX",
+        "width": 720
+      }
+    ],
     "rating": 3.3,
-    "number_of_reviews": 7
+    "user_ratings_total": 7
   },
   {
-    "name": "Kumar Clinic",
-    "address": "University Road, Ladhewali, 8HGG+CFQ, University Road, Kot Pakshian, Pacca Bagh, Jalandhar, Punjab 144001, India",
-    "phone": "0181 229 3902",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "University Road, Ladhewali, 8HGG+CFQ, University Road, Kot Pakshian, Pacca Bagh, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "0181 229 3902",
+    "name": "Kumar Clinic"
   },
   {
+    "formatted_address": "Jalandhar - Nakodar Rd, Jyothi Chowk, Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "0181 503 0520",
     "name": "Tyagmurti Goswami Ganeshdutt Missionary Hospital",
-    "address": "Jalandhar - Nakodar Rd, Jyothi Chowk, Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "0181 503 0520",
+    "photos": [
+      {
+        "height": 1702,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118437164889327291974\">Tyagmurti Goswami Ganeshdutt Missionary Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DPCfMVmFKWIS1iRefNvvZgrt04m9xchj0pzxmDxhxfCwtVoGcmkorU2PXteb8KlOb-6OIS-JdzCgWmdLWihz7AYC690Ltgcg60yb_HdUhb_htlockdH9EGKzYx2cFIkxyZvZRuZGH7vgJm7zw0eJV2BXEiPuMflpMt3oZ8rXDjL6YTg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118437164889327291974\">Tyagmurti Goswami Ganeshdutt Missionary Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DNWsGmqxEwFEykQHOIVLV31xegZAf850t_MgNQ-Q1EBpxvJJdsU8pYbN6ZHGenaJX4EqfH6CD2ki-tWNp9gGs3QfZX7GsXaqOSPf4KVKthjm3R-gKTNC5JycNvGOhMUT6EABAkdzy7PflDlZLprgKmDXArLfeUbEmD6fPjk1VTOYf-4",
+        "width": 4032
+      },
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118437164889327291974\">Tyagmurti Goswami Ganeshdutt Missionary Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DNotRjM63NvnwjyX7rSCsrEF48SNn-PBUEzTLAYCoS_yZNrqxeILvhfw_ybiEVscO4xSoG7rNWj5uAKh9bAc8lb82l9q32P77gqG-oBVsyu4uq5hNBzbau4Ha7AZ6SqMvGXdKjJeFzUjuRVro9NrWFx8okfvqK9OG7zF-NhD3YarlUg",
+        "width": 1280
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118437164889327291974\">Tyagmurti Goswami Ganeshdutt Missionary Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DPb-cWhxP2nCmsOMMvvt_MsESG_amfoBnRwEBS6_CZH28EdL17kJPJT0UL8Ybn0q_jXlFT20uv8KdcyF9fXtbPL855VsRRw8k7C3O5d02HczYgQo_rte4yGuAKZS5MBdqIszXSvxpY9e2I0_QmyEUlRL7K_ncllrshcNur2tb2q3cxv",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118437164889327291974\">Tyagmurti Goswami Ganeshdutt Missionary Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DO7I9Vq9rIaSVTZfwr9SbO9vzl2qnr51LAdUEFeIbLWbvS6h8xLIfIZsb-pSfy-EIAP1iKvGUeGv8eCs8a8mcQc0grKu6ziUaRb83vfxrO6-SXAohOvyLspKIugC4BkxZUIqiZR6P6nsAc-NXpZJizZDE4zKJvHJKiuBY0wF1HkfJhb",
+        "width": 4032
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112520020043675517961\">Suraj Rajput</a>"
+        ],
+        "photo_reference": "AdCG2DNm8jWNeoGDpwO4sn9x7Da64lN1pJAXeV-NiuRji1qKTBLGJ6CyTrNPKd8OQQVy8caABGwwwx3aowfqeupWNRyF4Y69NUAmnegyQ51OzIvUn19md5F60XhGpy_ghFPP7jPcbnos0hGfn-c6O9eEd02-RxUDSycbeykgSivRsAIOkcUf",
+        "width": 3120
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112520020043675517961\">Suraj Rajput</a>"
+        ],
+        "photo_reference": "AdCG2DNhb0HMHy7N4Gk2ABRNm0b6vcboKK6q-u_Z2o7XEoIOrIGTB1zjKe1dc1jp1H4LUKwsQ7qWVB5dNMFNDatROt1nF-wdPNHXFAmkLpURfNBJ_R2i9zxU6qK63B74tDpewRYlJH8J-YKJ0wKRZiexQJP684pBt9znO4DShCuSjxx3EOHb",
+        "width": 4160
+      },
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118437164889327291974\">Tyagmurti Goswami Ganeshdutt Missionary Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DNgKaWbPgwZ3oxnEi7gAWzcW2lEQX_VLum4fpPO5FgSAj8f_hZlWWQOu5j1S771pAY7XkB_rYLNAqskVVilhFnAKGhVbjaMHVexiSr6vdN5RfBak7NR0VocmlTgzLIpyDp6a1xL_3xVgDgUJhwal_Br6-q0OLX5-AcelK3TtGbcJOg9",
+        "width": 1280
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112520020043675517961\">Suraj Rajput</a>"
+        ],
+        "photo_reference": "AdCG2DOmpgHwMd72MyrAgAxyvpblguwF3z8xVCluGVz7zIDdH1prgerXp614lcgpLUS1LRSSA_dTcYUNEDtrSInj17BjXeTqS9cq4yvSTOH5Vu08OFrz7Bz91NfyuqY24fe4jipqfV_t8ZH_A2g2ZgpUsOeDB09kEKwMWsbmPBS88faGVE1U",
+        "width": 3120
+      },
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118437164889327291974\">Tyagmurti Goswami Ganeshdutt Missionary Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DMtWn79emW6dvyOElgrxF7Tx6vJTyxU6e3N79f4OXkQOmlNEqGeuOWsQE_ZXX-5SMM7iQFWbR8O07xjKy5qGCiSER7A561SxXQ5s-JsJSYrppiFj_ZiJYRmvH_jIhYhR_JuSUZfNIWLEK8oktGDh3XmDjOomafPHHLOrkP9cN-uaIbv",
+        "width": 1280
+      }
+    ],
     "rating": 3.4,
-    "number_of_reviews": 24
+    "user_ratings_total": 24
   },
   {
-    "name": "Dr.Mrs.Neelam Rana",
-    "address": "Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144006, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144006, India",
+    "name": "Dr.Mrs.Neelam Rana"
   },
   {
+    "formatted_address": "Milap Rd, Near Luv-Kush Chowk, Chahar Bagh, Central Town, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "078379 90294",
     "name": "Gandhi Dental Clinic",
-    "address": "Milap Rd, Near Luv-Kush Chowk, Chahar Bagh, Central Town, Jalandhar, Punjab 144001, India",
-    "phone": "078379 90294",
+    "photos": [
+      {
+        "height": 680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104791156295363998075\">Gandhi Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN27hVJW0es2cbAokqqRYY1vG1etWaplAQMO2IpjmzTjK-Wyv9zBSJDqw5_H7oLf12LOaA3S95otlRS43OyXeJZ5f95JBW7A0DbBzB6Wt1DoFha-4YIYEIkE5KzedQdXcWkVSqbh5SHF8aknYnTyWYsLeCOyuC_ukSfaeeeGS2_k87K",
+        "width": 952
+      },
+      {
+        "height": 675,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104791156295363998075\">Gandhi Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPNdGYLWcJUuVbgNcglPfTiKU3lRBkCEQeYf2KOiQUEQ0vJ0-Stg6ZCZ9Yivj2PaIIDPxCejB8AvnvFoETf1-Rj3ghw-YV6eTSzmPGxJtdPWhjcLCx1vm11cyptLQHkf7-oxEe6FfKFR0ADE39t2Sh_-vCmv6bgypHm32-PCSPNWIjB",
+        "width": 582
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 3
+    "user_ratings_total": 3
   },
   {
+    "formatted_address": "183, Sikka Chowk, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "084270 06177",
     "name": "Choudhary Dental, Implant And Cosmetic Clinic",
-    "address": "183, Sikka Chowk, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "084270 06177",
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113402709721879138432\">Pintu Singh</a>"
+        ],
+        "photo_reference": "AdCG2DP0rHX19mSk6ZhpYAMSATkkoN5OPHmwPRT4P8IEO1y6YNf7xGelfrry-_nU-NDYSR9VA86tdVXi387F10gDcmUZyAt2FeK_Vb4GzYlzlcghdYUxeV7wyc15j_yu_FBJjIOhJZrROM0oqehIL9bJdF0R0Q6lol6sJPj-LjTiq19gebjs",
+        "width": 1024
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113402709721879138432\">Pintu Singh</a>"
+        ],
+        "photo_reference": "AdCG2DOk5IT90i02jjc2IkZaLr5AXFGMiiZl96Fh1gPB1MrfT40C7lTaWoVTTD5DeLcUyN1J716sN1Dx04zxArnPsDvIdWKXa5r9NVhDrvXnzm5L9ZD-C2ZqsI6bgk9C-K-H6T8Bd3QO-UxtgXiuYxDeNbJcFRxD8bXr0OAqoqb8XNOWm6Ds",
+        "width": 1280
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 12
+    "user_ratings_total": 12
   },
   {
+    "formatted_address": "8HHC+C98, Islam Gunj, Shakti Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "098153 56457",
     "name": "Dev Dental & Opticals",
-    "address": "8HHC+C98, Islam Gunj, Shakti Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "098153 56457",
     "rating": 1,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
-    "name": "Dr.Dinesh Aggarwal",
-    "address": "Central Town, Jalandhar, Punjab 144001, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "Central Town, Jalandhar, Punjab 144001, India",
+    "name": "Dr.Dinesh Aggarwal"
   },
   {
+    "formatted_address": "Wg 366 c neewain, New Suraj Ganj, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India",
     "name": "Dr verma's dental clinic and implant centre",
-    "address": "Wg 366 c neewain, New Suraj Ganj, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112128986536572031417\">Dr verma&#39;s dental clinic and implant centre</a>"
+        ],
+        "photo_reference": "AdCG2DNxUzumCFHPYhXCKMBp6-qhxh6Brf7nZBX9PRLXWI7U2vphnw9tdFSAkEFFyf2dZVD3DCH9WxP7gTlOglRFcy9ozl5xgvNV0n-6sH5bTCv-S2oN4_hwgka3U8M-nQJrLxcZ6PgTtioQ7UiUfuXLzotN2SlIJMuYPoUmqqb6fzjlapQE",
+        "width": 1050
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "8HGM+X6H, Street Number 3, Central Town, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "076960 00434",
     "name": "Grace Dental Clinic",
-    "address": "8HGM+X6H, Street Number 3, Central Town, Jalandhar, Punjab 144001, India",
-    "phone": "076960 00434",
     "rating": 5,
-    "number_of_reviews": 5
+    "user_ratings_total": 5
   },
   {
+    "formatted_address": "97, Shakti Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "099885 35772",
     "name": "Dr Varun Sabharwal",
-    "address": "97, Shakti Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "099885 35772",
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112404159621044693454\">Dr Varun Sabharwal</a>"
+        ],
+        "photo_reference": "AdCG2DPwn_hHdf4OOMo4HWnqQc4M3ys-8R1HjycKhMUeY_I3-T4IubkP0x5f5j15YpgYlaHxb8n_oGZlPmDtVhAvjA8v4LGi0hQ4cqcD8QnDw7EiYf_QR3pxOtC4JUm3qVGiuIq3tsusvzn9lv8Vwb-1UI5n6-b6UT6nz2L0pfjJbQbto0yG",
+        "width": 900
+      },
+      {
+        "height": 1412,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112404159621044693454\">Dr Varun Sabharwal</a>"
+        ],
+        "photo_reference": "AdCG2DNbg8rjuEXkJBDRwO0QjNF_au5s31CH-7guR866AmC6ZHy9fA-mBfepoq2tH-OblQ26L5LG4By-uZpVdJ8zezIhLHn4-jOULwKLQnJlgg3cQhV8T41eDYAboLd8dFIAzE1-aFrBU4s0HCgpNhqRcWUOliJIKS6N4KzWjFocND-w6HuA",
+        "width": 2126
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112404159621044693454\">Dr Varun Sabharwal</a>"
+        ],
+        "photo_reference": "AdCG2DPJ_1jT6KBSuRTyyxBQWQAL5GgpKoDMZR5JgpS7L4jea-DWlx4LIapg8f6xC0WHgsEUgA2k5INXVslu0w2bOXGWO9UwOfq05Sc-TFlPKycqqcQ3KJFKUh2pE56pIVqNmk5PsgaEJsv2a_fC4Y7BON2QDlw5QCTIP-tfCMjbFmN1-t4n",
+        "width": 1200
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 9
+    "user_ratings_total": 9
   },
   {
+    "formatted_address": "E.S 232 A, Makhdoompura Near Gurdwara Jalandhar City, Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "099140 33108",
     "name": "Dr Ajay Arneja's Jalandhar Dental Implant Clinic",
-    "address": "E.S 232 A, Makhdoompura Near Gurdwara Jalandhar City, Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "099140 33108",
+    "photos": [
+      {
+        "height": 300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117390152341275330984\">Dr Ajay Arneja&#39;s Jalandhar Dental Implant Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPwvez2uCSvCs4dSZISj8VwJHrVlFWHozGBQbDS9DUiWU61Av-yImWQuhHZyy1kew5g1-yNkxESmUeSTW06iFPlFCmimE0MXTt9_vC14NpNdQ7k8DRA6vF_UIhuyYz7DgxeHYKUU_Gx9S4XXP5ttoe94DcJvyk4fIf6AiSc0QXIPdUW",
+        "width": 534
+      },
+      {
+        "height": 324,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117390152341275330984\">Dr Ajay Arneja&#39;s Jalandhar Dental Implant Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DODb4MNk-5nVX17gwEUlCjKowlKhpigoAmPJUGJb6PLr79xqY58n75pyiOEAwmxF4ZQaxU1L3j67oZMGOiYUf2uguEYap9xY5tGfvS0tdlzVFsx7MhtP0fBFCDP1ydb4lIKqCx9SFIEbEIG2cvJwJ5PcFHDhnFtJngvyI0_c_BPFTTf",
+        "width": 324
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 21
+    "user_ratings_total": 21
   },
   {
+    "formatted_address": "Ohri Hospital Complex, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "098149 12635",
     "name": "Modern Dental Clinic",
-    "address": "Ohri Hospital Complex, Shaheed Udham Singh Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "098149 12635",
+    "photos": [
+      {
+        "height": 343,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117887145261075510200\">Modern Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOYTu4efkW6T8Ge4LuVZpaYfbY2zmI-oL_3uuhysydPvNeCaU5KxABeAiKC9IWnIZG6OJsoLNVQiLl8prXSSHW8Tl8efBycl8BZewdu5J4EcUX5faDc6m4X-lFrvQiufB8MT9mnWs9PUb7sYT5kNBaTTiJaZvPV9rDmQUjBII4ZW7Xm",
+        "width": 588
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107551175015629070639\">Pharaoh</a>"
+        ],
+        "photo_reference": "AdCG2DPkrLuxgiW568aWfw3ORjEjO34_rFWCt0YrQQxuQnB_KKFdCgqw-TSFE4HRABF0lJSfeBKxenINFNzGuJSZk0HOlnfg5QMz3NfGWoX4-TBDKFv47YwbiJa1t7DJJ9dpNHaO32GHxzh9zX81A4xyBOqWCsimbjVv6UzZYv-1Be8I9JSM",
+        "width": 4160
+      },
+      {
+        "height": 268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117887145261075510200\">Modern Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN3OOdfK1ILUyI0G0jWLbTqhK3FrS_bvuziPDjGkwjsKmaKJRA-Wf01xPCq8pQC_w-A_Gn4yGvJTL33RGuB9vzmxYyme0Kli8mIens6nm0PduEnQ4jI0feYB0U46cRg9RZ2hPisrBc8Q6SrRpZjz6WqNQO5kMQwA6azuRjM8wqgSdh7",
+        "width": 502
+      },
+      {
+        "height": 3358,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107551175015629070639\">Pharaoh</a>"
+        ],
+        "photo_reference": "AdCG2DNGXMp7wZny1JZFltUxqlUn4ZDrsDxh1Ye9EI-ha54HmCzjwHAeV7M375WLMQaSVyqpkiplDhQiXb50P-ZEtPQnWPbxAz7BIpJ_nljxU4dtK5ROe_xHo0qNpqlP9eKrAHWZqoChbl_L7t328VJ3eh5H9554gvl5CP-gadk9Y4A28wbz",
+        "width": 2841
+      },
+      {
+        "height": 806,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117887145261075510200\">Modern Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOSCrnY1TZF8vdfqwR9SvR_fkP3beueepNKczfEn1O-6FohRORia5EqSIZ12HdzZ-bSqAUqs9KrItPBPwWQ81ijEhHgbs_t-1oibyLMQjQY2olNhKR5XPAqXmSFDjbRe6qTSFY_BysjtmehArZEx6yMCBxYac_hiA7PxSG9JQYnvYBY",
+        "width": 1000
+      },
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117887145261075510200\">Modern Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOmIwwXKDd3Y8ltLMnuKJ42wiuMJf2cSnCdijHale4lWmEo4M28WNdi8duRoNNgK7IfVsPXVfjU7lont89Idno9S_d-8pZpDC0IobQNDMlBf_X9KD7qi2xjyjoGlbznl1Jpyt6gRjfiqClmsPAo06qypcrIDsgSXITWHNFm8hGSFhyf",
+        "width": 650
+      },
+      {
+        "height": 300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117887145261075510200\">Modern Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNK6uABIGgnOQjdkNYDUg5jFiJ0kMg94z71PbrHm_V3PyoCnUZz0ntEKl1tdYqFATUJ80BL89qPfRqarCTQ0XWD6BE_BYBq7QACSTQn9J6yOS3M4s3aXrN4d171KguUqpn1ppwknOM32i8ODVjX3_jhdrHwwncPPa2RZVBbx2bSuG9G",
+        "width": 300
+      }
+    ],
     "rating": 3,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
-    "name": "Malhotra GARMANTS",
-    "address": "Purani Kotwali, Band Market, Near Gur Mandi, Charanjit Pura, Jatpura, Jalandhar, Punjab 144008, India",
-    "phone": "095920 60270",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "Purani Kotwali, Band Market, Near Gur Mandi, Charanjit Pura, Jatpura, Jalandhar, Punjab 144008, India",
+    "formatted_phone_number": "095920 60270",
+    "name": "Malhotra GARMANTS"
   },
   {
-    "name": "Smile Gallery",
-    "address": "8HHP+24P, Milap Rd, Gurudwara Market, Central Town, Jalandhar, Punjab 144001, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "8HHP+24P, Milap Rd, Gurudwara Market, Central Town, Jalandhar, Punjab 144001, India",
+    "name": "Smile Gallery"
   },
   {
+    "formatted_address": "320, near, Nakodar Chowk, Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144003, India",
+    "formatted_phone_number": "077176 42334",
     "name": "DR. SKY DENTISTRY (Dr. Gagandeep S Gauba's)",
-    "address": "320, near, Nakodar Chowk, Shastri Nagar, Lajpat Nagar, Jalandhar, Punjab 144003, India",
-    "phone": "077176 42334",
-    "rating": 5,
-    "number_of_reviews": 9
-  },
-  {
-    "name": "MK Dental Clinic",
-    "address": "Nk-100, near Purani Sabzi Mandi, Charanjit Pura, Jatpura, Jalandhar, Punjab 144001, India",
-    "phone": "088376 63272",
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117870001787785528939\">jassi cheema</a>"
+        ],
+        "photo_reference": "AdCG2DM0UXbw2nml7zg3MnxVqwSin5czIaFdJaUaoCfpnTuKtgGssmeQNnyE7mYkygYS4B8FR2crVa7Xq6_Fe8H20HycAV6QVUQ0KM14YF7ESnKlub9wjybEvmE7WUovc2IuPpRPGKo2tgPuLnVDsNAhgu6rXvTyU48yw4pLd_XscAfZEhmh",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111991076026356550316\">DR. SKY DENTISTRY (Dr. Gagandeep S Gauba&#39;s)</a>"
+        ],
+        "photo_reference": "AdCG2DOFlJ99xg5Pf5vhXjIaXPmI6WcBwoBqjGlxPL2Zdx-8y4sdjyA0XtSI7_3_yjs1z0001lsu4fB_Wi8IFRtPTbO2IgxuV1opsiSY6ibdQ20weKn2krGLFtviDS0mjW9bOchJI9lHu1Yjqp5aNgScUvzXRRAREXM7lxCgKku8-jqDT_mn",
+        "width": 2740
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111991076026356550316\">DR. SKY DENTISTRY (Dr. Gagandeep S Gauba&#39;s)</a>"
+        ],
+        "photo_reference": "AdCG2DNnAc05PbLvFXU5D_a0ia1ltf_SnfTpjVHAN3Dd-TJuHpRFE1CEJeHBlVgtTiWsm66xQJlyB6HYhqinBOwKBiceq-3bQcMgrYzXNsuKO-e9lSiYnvfY5usIijl3Wynl7VjxYInDyXO9b12StJt1_daK5koGfhOCHHeplvy0c3mDndOf",
+        "width": 3024
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107853168810345278467\">Raju Singh</a>"
+        ],
+        "photo_reference": "AdCG2DPl-2KmJqI7cVTXx88bNWHZPxmD7uNXGx6E_HaWlDXyjzfmiBnXn4OnNtO7uakuR9XNwlLBCLyYXXIChzYuZNzTOHHplsnILO-2gnNHzak-_dseacwwGyqRfgflXkRI64Ss2p7vHIkRm55P9OXoDzvJ_cso77XAlFWbRW5EwK3Uhqio",
+        "width": 1944
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111991076026356550316\">DR. SKY DENTISTRY (Dr. Gagandeep S Gauba&#39;s)</a>"
+        ],
+        "photo_reference": "AdCG2DPJvYzvd8z0shKWV9lE5JSuzvOXtaWnZtt_M8aSHcCXqOWwjP5kijVE6k2rVTMwJaNHHpnnpcOvnRx4y3OrMLphid6fHiHCc8W2zVM11ePMkINNbz8cGGO2C566athQpXOWTKc49fpaZR3G43sYSbx1-u9WzpBQd3hi4zU6p1sAbh9a",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111991076026356550316\">DR. SKY DENTISTRY (Dr. Gagandeep S Gauba&#39;s)</a>"
+        ],
+        "photo_reference": "AdCG2DMGaYPOcfmWZ42_sPeBMZHUOr8L4wR4o2r_3a6mzzBxzKxMP1NViKFXQQE2zpWO9BrZVkGTpoMZ1louVtXRvZc2kk3JhAdWHWPkMG2tbL1Bbd6F73W6hSMUTkxKg7GCJTjYYGgiexHgj64RUk1UcMJ8Hj8ucDbeIKJUCCDztMFr1epa",
+        "width": 1920
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111991076026356550316\">DR. SKY DENTISTRY (Dr. Gagandeep S Gauba&#39;s)</a>"
+        ],
+        "photo_reference": "AdCG2DMDKRHZO1aggsPQMYdLVPvvYQGaQepTTCbaYsYJYK5kxyx3gJCKR2e0RdyaeckGObnKL0ZrMxvc2hoZQHRVX6bxOBFi3VipI_hvAUJ_YbYo2iaZ24QVtQ_grch5zuDsP1JpiWI_fZBRDeft6boZWt5NxXwo6CL7DIhiiivTTjb3qb9z",
+        "width": 3780
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111991076026356550316\">DR. SKY DENTISTRY (Dr. Gagandeep S Gauba&#39;s)</a>"
+        ],
+        "photo_reference": "AdCG2DOMy_fFZAeHnsr5AMApwJw95NCzKiBsACV8hdlI6vlLzXdOYwUf19_MR0fqq-ROSxb83Z4U-lvIigpJxWoh56wCPavAZT20LzIhhmrgb3oynMtj02eer5gvAo82-Z8FuqwfMAB1ck2lNLFJWrkfVjmjD_GrBKZ5rhNzVzDlqDyCxBAl",
+        "width": 500
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110024939327821674988\">Achyut Malhotra</a>"
+        ],
+        "photo_reference": "AdCG2DPPI7-byvtn4y3TWZRsRJQ2SMs4KDCelHIH9bOAXq2EuhL1sHT6b8hMBZIngy-t-WiUzoJSCR8aR9oIvuDxsuEKynNU9SBmAmB0IzzVPxqmKrv9iG0xLUsikdFMejKjeDhu7eSwN4mqec3-kbkDGxXChLuFVfmcZhDBp9R9LwbJ7FoC",
+        "width": 3000
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111991076026356550316\">DR. SKY DENTISTRY (Dr. Gagandeep S Gauba&#39;s)</a>"
+        ],
+        "photo_reference": "AdCG2DOxYpVNSN0dMPDzqPwVKZCFEc5onGTptpAsUaZ5MDnQVOJfe5f-KsGs7UAGL6kpbVimFKEmzrB-gjqEeJMvFwvDW6vZFBIQPrxun3QeXtWPnWYM5v5U2LaJ82ig7KU8yLONFmMXjgXcvzFHPy5P2QnFdmlv29HmoWLcVQXieIjUyZ-u",
+        "width": 2604
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 50
+    "user_ratings_total": 130
   },
   {
+    "formatted_address": "Nk-100, near Purani Sabzi Mandi, Charanjit Pura, Jatpura, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "088376 63272",
+    "name": "MK Dental Clinic",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113693201490394872112\">MK Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNQovOX42jfsnfXt_HtBSoOKYaNHJc_ZTmetukWS58RiadGB5C9g-NY6mv1Ct4HAUKNCW-06Re5u4LjWnFJr_NA-ekz1jBvs5yaol2-n7aksXgSR4QobGp_dBP-x2DsR2rUh6KmoiqcAD9_YTcc8mMo16Ndt9WkUL3VfJdiwb7NfuVA",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113693201490394872112\">MK Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNClQeJemz7hc_WhwHwKQaus1ENIWMMQ1R6D2UVghAdlpOhqpCpCNV6knTdpcBDhsJM_B9mCV0zeI-ACiF-cCsE-DlBIC3lxgQI26Qo6ydjMjeHvLRPTW-TVmSO2hq5QunEBXytbV4ej9rUWEbEEIWHH8BRVdJxqL4rXh6O6IPQYTAC",
+        "width": 4096
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113693201490394872112\">MK Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNfhOq5dpo4kqhJQWyrXomFadcq1onVZZt4hHHOV-x5-pEPV_SDcU_78GmH4wg-GZyt7v9WeowpgML1BYUUPHSYo2-7ocAbqdl1jY9EiWQ0Alr5sq9QrLUq2efSvd4zZf7pnGrgHkvTMUmdyWUJmzPSFOsCeKlqJcIzQVTGz0ibi08Q",
+        "width": 1280
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113693201490394872112\">MK Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN0QzmaIVztgodbel5c5GWnaybJjB_rOG3m1SC6pfK94vdBb1r7qbOQpjccA0XNcNb8ggVpclHVxcUzYwttR-l0RFOyZa0GTL7aO6jEtD8PlQjUa3RGEsFrddJh1YjMi2WzJHFr6cvka75YD9B9TrxKdOaMSLDSJ2ASHoNMZIcIyzM8",
+        "width": 4032
+      },
+      {
+        "height": 1104,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113693201490394872112\">MK Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNANsQ8Y-mPfUUWSVIRl860y-8kVXXyfqoDpBgnBqVnr4v2ldwCFMjCfwSqG3stt5gTCysF3Jej1EccBd2jeW6Va317bqJ83_Dsg7CfmP7wriZI8cVBDf9ZOaMbWZzoxNTggVmV_-oFCWuXcPQSDQmSsFB7Yv0q006ScD5zVvi1oOxs",
+        "width": 828
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113693201490394872112\">MK Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPBA9zOqSbYrKcONCf2jgnoxEBTLzj4zlc_pjxqwtmyl4W_5arlLdGhJ_sByVWXR725Zi6dW08PFi_4P9StXLRxcdjpGFA7i5-uVK6f0ysqK9PWuqyFON1xyLaTdbnulgKmFYpMdO73lrHUJYQSEcbM26l_RYdKp0meylEk7ryJX0Tb",
+        "width": 4096
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113693201490394872112\">MK Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMs3_YwuUFz_rEsA2y7QIWAukQozPEkA58E2XmOPhu7uXqhy8BJI_gTSQMZ_nGlazwOImHzBZFAqS0C7vfsvPv22ph2SjMWqwHuGU_wCuxZ4eONxcMJhGZ6-pUPnTBvuWA86GHg2nV6-nz7EPBymRguD2qPsaogH6qLqpFXuN5xwFNF",
+        "width": 960
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113693201490394872112\">MK Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMV0oabdp2ojwXtK1CHv7_Hq30aB9gUVJPj-kH7rd0C4jyjPTAoA-UZHE2270eGFEZaVi6n9mEAvvLH0CyDtROQE4V5n7stzvheYzkAVML1zhrFPS0uQJoyDaTv00qIhmi1PKx2kpVzzeS0qETTeWoUI430x_qS78JI1TvV24kZlj5g",
+        "width": 2160
+      },
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113693201490394872112\">MK Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNSG0bCrybRtA862BRrj0CFtRc7RqoDsAKyNmB1Y-iCPhPB8bJF_9YdseoPbEhrsNZM_d40nOs5Mj2OYfny5lnhgvgq8vMi5OXiaL6V8HrKa9N5lmiViRbKfu0UOKnzB6aYQBZJPo1dFX0k4vdUK6ZQ_A3zc16uQVDwnVJoHaaKsKMn",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113693201490394872112\">MK Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMguw8KCRWbg8qvXuK-vs0ijeJ6Alixagphz2f6VCWp502-dI3hMI_ufQVxoGoGOFGI4NXf2AxtxLMHA44-FZBN_hWiF8gK84WM_Z5Y70seB8pBv0OJwWW5Z6vpJvhtrzrfLgNvj1cGAuER5czNurYpcr5nyOOUpVM_5DYxinh6QpMU",
+        "width": 3072
+      }
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 50
+  },
+  {
+    "formatted_address": "8HH8+FVP, opposite Lovely Dhaba, Near Football Chowk, Shakti Nagar, Jalandhar, Punjab 144002, India",
     "name": "Dr. Rahul Dental Studio",
-    "address": "8HH8+FVP, opposite Lovely Dhaba, Near Football Chowk, Shakti Nagar, Jalandhar, Punjab 144002, India",
-    "phone": "N/A",
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "Anand Palace Market, Partap Bagh, Fentonganj, Jalandhar, Punjab 144001, India",
     "name": "CROWNS Advanced Dental Care Clinic",
-    "address": "Anand Palace Market, Partap Bagh, Fentonganj, Jalandhar, Punjab 144001, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 1319,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102973219753614022449\">Nitin Kalia</a>"
+        ],
+        "photo_reference": "AdCG2DMAaoV766SRbX81EyWjksF5lraHP5SlEDio1zKFSNm5m-hzuz2qKAIF-mKO9zzNI5tImnDyp2mnynoks3f8dQTzsV5kxYRmQTB_tZBT67n2JON1rl1uKp3bOUs0wB3ZOa82bkQff352BMBhf05k8eptYhNT6r2Fw18GBmM_8GmEDNdx",
+        "width": 864
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 2
   },
   {
+    "formatted_address": "SCO 193, near Mann Scanning Centre, Gujral Nagar, Jalandhar, Punjab 144001, India",
     "name": "Dr Satpal Sandhu (Sandhu Orthodontic Clinic)",
-    "address": "SCO 193, near Mann Scanning Centre, Gujral Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116716699887534423011\">Dr Satpal Sandhu</a>"
+        ],
+        "photo_reference": "AdCG2DOZGjaRMrTFXikGuDQmYpaH8GPqG49b-7C484HS6jaE_YsLwxWJuNCzFOUbXFdzjNUq9iKvHsxyttzinDYPwvMpTyl8lBqGtfSxmUCMSobRUNh2_ip3Q785CapQCqCczgSB_CTSIvSsBO14hQ_ZdpPX4UNMpEJldoDAorn9Mcidn2Y6",
+        "width": 4032
+      },
+      {
+        "height": 1932,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116716699887534423011\">Dr Satpal Sandhu</a>"
+        ],
+        "photo_reference": "AdCG2DNobdOYdip6jRmdh96fTL-wzTqSdtQ8tuY0sskmF7EX82tkFeQ3izyUteP0AG9-FaHzpVTZZwV5NM3g2QB9G9MjahpSpfjbRGRgV0w8IrM_t57bIYNhpZkCxC3wCVFavgH9Ce9IEQDadgBqg5r7BX3WuQ5T7X49CeJYlrN1PmQIyUs6",
+        "width": 2576
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116716699887534423011\">Dr Satpal Sandhu</a>"
+        ],
+        "photo_reference": "AdCG2DNvrFOvSYNdngFHrXcI6VYa8yRUl1ch8DU705j2prvuiCpo6azrW7EDKNfDtlYZRNvLCRyyekjPqowKwsf3cyWbtuzHXQKW-XBzqx1Jx3q453kcr-tSaqcDqXnAZv0AQs2jqPfYr9j-nlwxjDjc1c8oZTNa0bDrKHBdpE74Lau4x2C_",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116716699887534423011\">Dr Satpal Sandhu</a>"
+        ],
+        "photo_reference": "AdCG2DNHINbl4vsfUNHTAFpSpSRQFzpakILw5i2gBivcyQocY0ehAHYEBK6pQNnvaSsPr4yjDrNDJjMq9YUmCGMRoQGflKO5RxmDqYTivltYNPtMHR0WJLNC3vHRJDj7EoAjOPsPP2JeXv0Vkqh8Kq2DvzDJOrvuQdahN_LomXwpHu2tVUeu",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110274431441335925306\">Satpal Sandhu</a>"
+        ],
+        "photo_reference": "AdCG2DMayzKZ-XzCxx8WMhyX4b-wF4NnZ1ls759acizNQusPUBMTtwwgoGRLbFkAWFdsJIwv__zsGYuGtfaqLKlXp_U8gso81X4ell1MYCpyIdWQLCdKV5-2NyQXPxHqcvqmccL_o0ONbXnt7Efq-0BKw0_pDE0uSEmu-fvi3paSeJxmmzhJ",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116716699887534423011\">Dr Satpal Sandhu</a>"
+        ],
+        "photo_reference": "AdCG2DMT7VeFO-A5QtCns7RMNzj8zaO-wmfP3CArp-vwkRifo5PHoiuoHyAK1o4-NS_IlvteU5pNwejuT2qpY3aua9esZDZmBGv2_CSj1qRBRt5NiAmDNGHAnVcecojns2FyGCrMazcN7Ymo95QMuLYbT3Qdxobi1kQlsKip5bjZeF6ZdhAd",
+        "width": 3024
+      },
+      {
+        "height": 1932,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116716699887534423011\">Dr Satpal Sandhu</a>"
+        ],
+        "photo_reference": "AdCG2DNez6W741Fdv7BD-JdTr8C5K9ANIensKEeBZ9K_bStPZnn6sKmLsCmZ1S6nx2ScGtRxPdO1B0FBh1S4VLyEtRYoV0ykPjGhz1RfbTTIYeuQp_K1-d1Tj_-7NPKQEhPqwJCiV2Hq7XpXHYBvjCIQ2RJj9pHVZpwl3jObs8NpuXaYafcA",
+        "width": 2576
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116716699887534423011\">Dr Satpal Sandhu</a>"
+        ],
+        "photo_reference": "AdCG2DPpkOLT7RrPuIOTvdhh5hC-trvq8oaculqodhhdoSvXeyRFq-G-M583ECqQptWe7LXh7xe7lmDPhOQuvm4ACXZC0t3RqIgJfqJlOCbBAjFySMESEhqh0ypkI184nJ4WJmWq6bJge_KVrIUeVSGtYsV8Qk3i54MBqmJjXe-8d2sSF2KN",
+        "width": 4032
+      },
+      {
+        "height": 1932,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116716699887534423011\">Dr Satpal Sandhu</a>"
+        ],
+        "photo_reference": "AdCG2DNytAf16pJ-yBMqfuK_SGPTCNNb7UrjwREu4ivDpuToCKgbtw6Fcvy3JNL0vXqZMlqk5ZLYH8RqKitXWjRKIMN5gRxWGv2sb7ETgUhqnmTaNddPvRUpUt74ChXlsOqfUJKt9kjFC9pAj8qiqoF-s2Azf49tjmjWKA7x7nHdUvIjZFNP",
+        "width": 2576
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
-    "name": "STUDIO dental",
-    "address": "8HJ9+R7V, Jail Rd, near Laxmi mandir, Adarsh Nagar, Jalandhar, Punjab 144008, India",
-    "phone": "098721 48024",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "8HJ9+R7V, Jail Rd, near Laxmi mandir, Adarsh Nagar, Jalandhar, Punjab 144008, India",
+    "formatted_phone_number": "098721 48024",
+    "name": "STUDIO dental"
   },
   {
+    "formatted_address": "136, Gujral Nagar,Jalandhar,Punjab,144003,India 136, Gujral Nagar, Jalandhar, Punjab 144003, India",
+    "formatted_phone_number": "0181 220 3941",
     "name": "Gupta Dental Clinic & Implant Centre ( Naveen Gupta )",
-    "address": "136, Gujral Nagar,Jalandhar,Punjab,144003,India 136, Gujral Nagar, Jalandhar, Punjab 144003, India",
-    "phone": "0181 220 3941",
     "rating": 3.7,
-    "number_of_reviews": 3
+    "user_ratings_total": 3
   },
   {
+    "formatted_address": "8H8H+M72, Mahavir Marg, Civil Line, Jalandhar, Punjab 144006, India",
+    "formatted_phone_number": "0181 245 8733",
     "name": "Guru Nanak Mission Hospital",
-    "address": "8H8H+M72, Mahavir Marg, Civil Line, Jalandhar, Punjab 144006, India",
-    "phone": "0181 245 8733",
+    "photos": [
+      {
+        "height": 9216,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112564779695852927186\">Navjot Singh</a>"
+        ],
+        "photo_reference": "AdCG2DOH7kLEl-SHON6yuJFtcL8XXJvEz_7LkrD-TNFcq4lNT70sSeavHhVqGHZeB3Yw9xTzeytCHhUiiFOrYpm8kbU5u_r0nXgAjwLH5vAmTTU2Js7OA1f0cNocJywdBFbV9vtFdl1nM3PGR8RuZLcU46EKEaU16wVyjoGmBuB44jJSeteI",
+        "width": 6912
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115614991739405493602\">Darshan Singh</a>"
+        ],
+        "photo_reference": "AdCG2DNGDIglX7Jb7TJgNPZfimfpiiRN-dqA76CnasntgmPYNsaIksKlHiRKrPVsHQoBUWaIrFU25hTndLgCkdAnhibpQKgVPb9o1PeEY1CXNnhXmyW-vP4lUfEyD_C35Qqo2CBOjKsRHETT3KycnUpeOzMi_PgLOF2U0G1d_TgNNmLV59xU",
+        "width": 3060
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104979125256867628908\">Navdeep Singh</a>"
+        ],
+        "photo_reference": "AdCG2DPVrICV_hyVRWaxuyKOzq5qmm7ZTARam6H-_mKqVc-0wRFOZOXBn-tc7VgxikExAn8n43JrMVVSSvK5XPMeNBEaqHEthcupH7CA94k_XwuWxhfZtovfZqDn-3dZY-E3gJhVNe5iT8tLBzSjmfplnYE9Sx1uQF8_2Iesva5YakP4N75j",
+        "width": 4160
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113307113704861083363\">Tarun Kumar</a>"
+        ],
+        "photo_reference": "AdCG2DNceZJEoZS23P6dm66t7gZJa7aiOfdjQ2wYHDMV9mgGVU2u1u2KtGQ-nz3cvLyjMo4B16vO4bizmKdYaWbb38IXeHhA7LLvjSs5yCfZzt5WESK84yUwXAcHGhYQI46hnv1TC78yeZ8rFFBeH1-EnDthkq9zXcWBZWk0bi2k_2GKEl6U",
+        "width": 4160
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103665279973841570041\">Gurjot Singh</a>"
+        ],
+        "photo_reference": "AdCG2DPT0UMUTeZPJDJpjNs9HI_QZT012mOfucaLsRYurEhzq0bGoOAKw9dKSCqFaqcJHwwjqyhAwLbXFB9HBxt-QjHETssDInGhte3Pg5SHy-ul2WIy3bugWYHb10XrYbrXBWCMTpudti_Y2OjinwUdJTyyFX7S6-GuBJUUaIbZaq3YZ14M",
+        "width": 1080
+      },
+      {
+        "height": 842,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106552801843809614754\">Simranjot Singh</a>"
+        ],
+        "photo_reference": "AdCG2DOps30iwNaIdH-LbXoOSYzHgJqB4hrtRxfM8o5R2tVUsd52Ukl-9OkClB419zPJe9eLSmL6B4H37vymHscvsPGElfUDRRsfbCU9Rt90CnrYHmUtToApG6IUiAcEu484VncX8nkyghW8uoxHwgcbJq5QTYPg04DNEJMm7A9wS-PlZKfA",
+        "width": 720
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112479398908145620555\">Navneet Randhawa</a>"
+        ],
+        "photo_reference": "AdCG2DM1Oux4M8bUQst0p06yPtqlS0AirN0nShQmN0Ny-abo8HEkcthNqOjGdYAhoA9y0MDg-XNnxxknYFi0idcS6ayxSp0UrR5S1YOCwC2VWo58KpMeaiESkh93AhYoL975H4OGiLEqW568ag-zx1TTBmQGsE8Sg7mRYSx1_GFaDNE2-nSE",
+        "width": 4032
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108554471876770133103\">Harinder Singh Johal</a>"
+        ],
+        "photo_reference": "AdCG2DNkMLM7c816k2lCWM_KP-HPnYRPNARgHV0ldylR4zz0gHtZxsNhj8v1aEBn6DIY1TbjnMnyg7wNThAh55rz9Lic6ZHzttXqljzu0zlFqxXdcWshowIcL7FeMHtYKMiYWjW-CR2_Cy2YnDKfmsbU0piCi7zZQKtWNeYFNASOFPGwrerJ",
+        "width": 1706
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110853053251023836680\">Balraj Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DMKgtdGGY8IPyGOrFelODt-juVVYFdfoWefFXlEjNyLYqzFGDm9A2ssGkmhpFdr7zFir7oYzA64rP8LLj-P3F2R3L88Gj57UCLdAj-Kkc4ZJdClLw8j9poBsNhLL_ajyG-S9il8hbA8S8UQBwRd7SIVJazuCqi_2sbB5DAGPHKH_3JD",
+        "width": 4000
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114192875918730526264\">Abhinav Mahajan</a>"
+        ],
+        "photo_reference": "AdCG2DPZsgkeMJPsFLzXxf_EEZTumESnmVpsDkzkf6hLQL0BWP1NF_fPEn2e3Ld7LRiY3uJIUodwHFEyhdbwdpKW5hneQnxae_3Z7yv5a6SDngcZrTNgjtI7wUHWCCcfQ6OnwJpworIKrnXG1pChq_jv4QdLpQDSML80x0NOY2DDHjxDGXoo",
+        "width": 3120
+      }
+    ],
     "rating": 4,
-    "number_of_reviews": 271
+    "user_ratings_total": 276
   },
   {
+    "formatted_address": "Jalandhar - Nakodar Rd, opp. layllpur Khalsa school Ground, Opp. Khalsa School, Lajpat Nagar, Jalandhar, Punjab 144001, India",
+    "formatted_phone_number": "094639 32535",
     "name": "Affordable Dental Implant clinic and Rct Center",
-    "address": "Jalandhar - Nakodar Rd, opp. layllpur Khalsa school Ground, Opp. Khalsa School, Lajpat Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "094639 32535",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108835516593475436250\">Affordable Dental Implant clinic and Rct Center</a>"
+        ],
+        "photo_reference": "AdCG2DOFwQRkzmElSdQ1ynr8Bi3tAvNujnA2uSwv7bnhCovSUGuDxpVfwy-jFhnSUhhH6wPIGRanrgsrLuN6VkGK3LJK83yVRcmqckIRyKyXU41p1QZG2Z1EyPi1fpTIz-3Ekh8cppa_KsWYX5UZka51tfL4EtRbYCaQAmR7I6wc3xaMr_v8",
+        "width": 957
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108835516593475436250\">Affordable Dental Implant clinic and Rct Center</a>"
+        ],
+        "photo_reference": "AdCG2DMxkMjt396DzL0yY9TvR4jxKjJFq-60-F6P4iNLaVHn5b1-jRtsY7j0MNPUm-35eUqIXRaqXnenajFMG4DpQoCKfMfB6Qf5HcNTsnFK3puuce0cOC5zJ0iLpEs5amrWmFFwfvMqckSJVvfonrrmBMV5pURoOVes3onn9ZmoskiBbp32",
+        "width": 2160
+      },
+      {
+        "height": 265,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108835516593475436250\">Affordable Dental Implant clinic and Rct Center</a>"
+        ],
+        "photo_reference": "AdCG2DPZnKnGYfPHGNsh5ajcWsGfdeZt1I0LyMsLg-bu_Ci4kVcTYKB-NaNqbAV7wfiHRP725ksO7VDBuNUIK5FyGyc4Qoa_dVN89qLIEObqxRWOwhfUMETQ3jGQQhqn9JJ8p-vH3Ge_zFkwII5FWsC-mmRPemqQrsLED-FMRndu7t1LwIzI",
+        "width": 265
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108835516593475436250\">Affordable Dental Implant clinic and Rct Center</a>"
+        ],
+        "photo_reference": "AdCG2DMfGCXrMb14xoszzMFkk-QpFzXi2HJUbf12A6jU1TTDmyXPAwATy64AazB4Plo39IjoMd1oAg9UWxBpK8AlxSzNIE24odWGQ0dJn8RvoTilW-f5tlQcVv6g08eu9a77WSItZNq22nyb7V9lRxuN5WeU_yQXnAyakcWY1Akj7tZZH6_9",
+        "width": 1600
+      }
+    ]
   },
   {
+    "formatted_address": "shop 4, Jalandhar - Nakodar Rd, Nakodar Chowk, Lajpat Nagar, Jalandhar, Punjab 144001, India",
     "name": "Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)",
-    "address": "shop 4, Jalandhar - Nakodar Rd, Nakodar Chowk, Lajpat Nagar, Jalandhar, Punjab 144001, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110295122761307027568\">Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)</a>"
+        ],
+        "photo_reference": "AdCG2DNRfsvACfSz435R-pAVAYptFMm3XmDLioZMuwP0k71Mz_PDDd0WdhFtzia2wCUDxR6jxCW3mafGnfpY599qzXE87kMDX26WE9MrwWW02CCGF9xEYyfb_TqgkaVlVNQirqrFr7N19w9ZFmCUKLAbAQGRLgAXLBW3I5tA4cLwg8DKfTj5",
+        "width": 6000
+      },
+      {
+        "height": 987,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110295122761307027568\">Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)</a>"
+        ],
+        "photo_reference": "AdCG2DPy9jroqlpAItRmJtNC8ThfE2MdN9VM66r0ai5fm8FAmr_IhhHhz54dedXzjTPRh1SPu1cx_VWEX_uVJuv7s_Iynf7FiPpp81NjKPvq6B0-VNqI8pXu6pMA2h4UZKGcvxfuEe0dgCJGzietaCajvbxZ6qX_TYcmxUcnxyCeX7x9zc16",
+        "width": 1591
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110295122761307027568\">Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)</a>"
+        ],
+        "photo_reference": "AdCG2DM11kMBuMpf-eleLeS2FbBhzFXU7wSX4PWii3sUbyfKRenmvzKKVecMIvM7fJI0qG4X8jMNuuZFnbWFQ-0nIa1YGnTq_x83xkmUQgBKDq9AmO1UStB5m2z3S3W82dl3zkhIxc_PnavnybKzcBw0KY9RxqJObxt18THQw-z8rARb0p5F",
+        "width": 1024
+      },
+      {
+        "height": 887,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110295122761307027568\">Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)</a>"
+        ],
+        "photo_reference": "AdCG2DOzqAxsQ5AZSY8YVvVPGSWup52iNkK3bu_gFi0W38R7SrZuG7U9x_dvSXIUrve_rakkBMGtcwDOtkHVVzptUmZj2pLOm2Rhw1sH-oE_R01zF_I0Da3RVeBDOp1vCCsGaIlbluZ5j_L_Qne6LYK2Sp1vuNwC8a0ADmbeb3ERIrb0MvYH",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110295122761307027568\">Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)</a>"
+        ],
+        "photo_reference": "AdCG2DMqNldtj8fOn9U-wa1HnvPszjwNLpAuZ0cktWXn8OGT_x3cw3-tSI6rtOvYyjxA-ar-Noue5PoSmZ_FROXjjQLHFUPDOV6cnn43_qI78IJHK4J2hEB1F1R-JwLBs0sxO8GcLwf0iEHE1pZ_hQHePJGsY2xekeMxFEgJo1GQuQlPcbc_",
+        "width": 1600
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110295122761307027568\">Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)</a>"
+        ],
+        "photo_reference": "AdCG2DPDJ1oGkVmqkFvj918Lrj8kFXR7_fF-x0OCY1vCNrYDCJuqmSSvImGbjl-ib1IsTqoNjbBA8ypW755TUl6ryNa3yMl9vvwytuWxCjApk7NCKe3pP8Vx3n7-8pWmX9KfSquJ6qFG41Z6Sp8X2uUiXnsWkduWK1329XDH7dQRHhHNm68T",
+        "width": 1280
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110295122761307027568\">Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)</a>"
+        ],
+        "photo_reference": "AdCG2DOopPmBFh3c3zOCW4BbXNqYy77Lzxg4pc-QT3yB3dqC4m18sjCuP4T6rN9yfTFX-ZgpD7fJph3AvTYnuBBnz_RYxrMlWOa0DvOvKsSNROUn8RFxXC8l-qeZQFxrI435Dwhe5zQfduSLmKP69MJL8BAN7Ze7jqjlxY_Cj1tzMz_x4__P",
+        "width": 1600
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110295122761307027568\">Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)</a>"
+        ],
+        "photo_reference": "AdCG2DMeMKO453XdOK9H_wDZ-ggn0NPr43ChH0Vs561WmS0whL4W9QWzSStDzVt8JyuqDNEle_sjifyIv-0xxoGK_442BNef48Xz8yVGuZMlR3yu45r-QPwdGfmZ6c945BX7Ks776xtNNecNIvelFdhuZCgSueThBE4K4cBiizRKgyeRzfNz",
+        "width": 1600
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110295122761307027568\">Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)</a>"
+        ],
+        "photo_reference": "AdCG2DM5zUwQSSNK474lsJW-8vdAo-KEDR-HDP2yKsFjW6ZyGwIt1Dx36GOA60IvfK0LtsIh0HNjHdgqO1aSfCYxtQ2V_LOy8Sd7LtZA7DDqy3P2PlXe-PlV-mtlP06N0Z_NJiHx3zXLPPxuwrEkMxMGMIppcAJDQnu-n0LZjw9n1ScKyl71",
+        "width": 1600
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110295122761307027568\">Dr Gursimran Singh Marwah ,Mds (Endodontist and Implantologist)</a>"
+        ],
+        "photo_reference": "AdCG2DNnPHbyFRkWuv3lrqafJ-kFj-6IjAwIYShYruNXaSlCah54bn_gIaK1XUHVVqFZEwBsM9YtcNWAQavgVypAF0efa3inqFNHya85ISFeRDN6ILmT8AQphD0QPrQ8dm2NQv4g_pOH8Vx4SsMxKn6IM2QLwkLZZur3lwCVYtGr0OLF-Q6h",
+        "width": 1600
+      }
+    ]
   },
   {
-    "name": "Kalyani Dental Clinic",
-    "address": "8HHP+HQ3, Mandi Road, near Shani Dev Mandir, Fentonganj, Jalandhar, Punjab 144001, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "8HHP+HQ3, Mandi Road, near Shani Dev Mandir, Fentonganj, Jalandhar, Punjab 144001, India",
+    "name": "Kalyani Dental Clinic"
   },
   {
-    "name": "East West Enterprises",
-    "address": "Charanjit Pura, Jatpura, Jalandhar, Punjab 144008, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "Charanjit Pura, Jatpura, Jalandhar, Punjab 144008, India",
+    "name": "East West Enterprises"
   }
 ]

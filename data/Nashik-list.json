@@ -1,0 +1,2965 @@
+[
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 20.00263799999999,
+        "lng": 73.770403
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0040224802915,
+          "lng": 73.77162538029151
+        },
+        "southwest": {
+          "lat": 20.0013245197085,
+          "lng": 73.7689274197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shree Siddhivinayak Cosmetic and Dental implant Clinic",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111721791612822638838\">Shree Siddhivinayak Healthcare Services</a>"
+        ],
+        "photo_reference": "AdCG2DP2HzxyMbNDkCoKSMu-GKX0QFYj4JJb3LXBb856hPXDmSR_h1w8ZSSRVVXpJzcon_mKoHK1fGBwq7cHJCZyvG-YmYVsc0H8dhUZVS2sVl45Gjg3EVD5k4zufBbSsTuvbHpKrPl51yWSsLJKV1cwdtKk_QiQnUlE0M2gk_yC8KC9oBTV",
+        "width": 400
+      }
+    ],
+    "place_id": "ChIJXQOZcZ_r3TsRJ7QKbQi2T14",
+    "plus_code": {
+      "compound_code": "2Q3C+35 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q3C+35"
+    },
+    "rating": 2,
+    "reference": "ChIJXQOZcZ_r3TsRJ7QKbQi2T14",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Office No.: 15, 1st Floor, Viraj Corner, Canada Corner, Near BSNL Telephone Exchange, Sharanpur Road., Church Road, Sharanpur, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.000599,
+        "lng": 73.7728561
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0020028302915,
+          "lng": 73.7742145302915
+        },
+        "southwest": {
+          "lat": 19.9993048697085,
+          "lng": 73.7715165697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Patani's Smile N Braces Dental & Orthodontic Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113653723703646997811\">Dr. Patani&#39;s Smile N Braces Dental &amp; Orthodontic Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPX2RM-IFBwtaprAC4x33iin4fqjkwgDIOPvZlyLzYLl5U-jPeVtZcL5fvIqk5zifgO3G_8Ec5kn_S5T-mJvf2qisukDOmM4MNajGtgOcOxOReuiRhOCaAHQlouabazserzVM0whZkT58yvCVQgnLtRaUwEOrx0MOzQUbujSgIOmwK5",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ_YRmE6Dr3TsRAbJrK0M71gc",
+    "plus_code": {
+      "compound_code": "2Q2F+64 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q2F+64"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ_YRmE6Dr3TsRAbJrK0M71gc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "103, Ronak Heights, behind Kulkarni Garden, near Soni Paithani sarees, Sharanpur Road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0006979,
+        "lng": 73.7776408
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0021551802915,
+          "lng": 73.77899613029152
+        },
+        "southwest": {
+          "lat": 19.9994572197085,
+          "lng": 73.7762981697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Care32 Dental & Implant Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3508,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113615803502103909550\">Care32 Dental &amp; Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNE3b1kLnjxGsMNQhiVzYQCuOiY-vQwNTdUCs8p3EWg0IX_or0Ei5q2STmpHz2myqW_8dwHlTAH0n_2irOE6FOuB1N8uYFlIZLXthNf4QfS5y1skStv56rq9RC6LxIYXhS8xmRwqo5zztKh_acpAyis7Ps8nIeP0sfVsi0-vRqyAfou",
+        "width": 2481
+      }
+    ],
+    "place_id": "ChIJpxNMXafr3TsRwVp-fkOzUlk",
+    "plus_code": {
+      "compound_code": "2Q2H+73 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q2H+73"
+    },
+    "rating": 4.9,
+    "reference": "ChIJpxNMXafr3TsRwVp-fkOzUlk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 973,
+    "vicinity": "opp. Police Pared Ground, Suyojit Modern Point, opp. Police Pared Ground, Sharanpur Road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.01045509999999,
+        "lng": 73.7953666
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0118206802915,
+          "lng": 73.7966586802915
+        },
+        "southwest": {
+          "lat": 20.00912271970849,
+          "lng": 73.7939607197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Bonde's Dental Speciality Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1155,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114988371405105466591\">Dr Bonde&#39;s Dental Speciality Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN45mca0Nw7M9wafLOjAPMYECMzTMWv5M1YlH9tYDtfFPIF6IYMrjWbejZmiTourgiM6O-hfYk0dRUzBaxd7u0XUDCSd31Ezb1PuXxLBC1NdoLKmGeztrtVHhIAPsWuBlwkR_RNxGVfJG3npE1latt054lYm-MWJuoDtfsje8zPxw",
+        "width": 1732
+      }
+    ],
+    "place_id": "ChIJh33QKVPq3TsRNUmNt5aY2OI",
+    "plus_code": {
+      "compound_code": "2Q6W+54 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q6W+54"
+    },
+    "rating": 5,
+    "reference": "ChIJh33QKVPq3TsRNUmNt5aY2OI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1030,
+    "vicinity": "above Mahalaxmi electronic shop, Govind Bhuvan Appartments, 1st Floor, above Mahalaxmi electronic shop, Panchavati Karanja Road, Panchavati, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.00758009999999,
+        "lng": 73.77136550000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0088658302915,
+          "lng": 73.77268833029152
+        },
+        "southwest": {
+          "lat": 20.0061678697085,
+          "lng": 73.76999036970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Child Smile Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100569665624636736763\">Child Smile Care</a>"
+        ],
+        "photo_reference": "AdCG2DOm_jMI2kpnTnhQu3hOoiYaEYQRmTQksBziItabwqm2DW4WgmcVwPspkaUq2wPm_1fTU9rzOzjmYJkVLJNvuVh4xRPTH6TzOs23PVINCFqZ_b2WhP8exep71aE7K3feJ0k3fMySt8DNtcke70N__nxkegHsGGQ61KcXbUS6DXtdZClY",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJH3vdLZnr3TsRC98is0PoGf0",
+    "plus_code": {
+      "compound_code": "2Q5C+2G Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q5C+2G"
+    },
+    "rating": 4.9,
+    "reference": "ChIJH3vdLZnr3TsRC98is0PoGf0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "Woodland Tower, Gangapur Road, Old Gangapur Naka, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.98990839999999,
+        "lng": 73.80299670000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9912944802915,
+          "lng": 73.80435118029152
+        },
+        "southwest": {
+          "lat": 19.98859651970849,
+          "lng": 73.8016532197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Omkar Teeth Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJzesk2-Tq3TsRT5bQtidA80I",
+    "plus_code": {
+      "compound_code": "XRQ3+X5 Nashik, Maharashtra, India",
+      "global_code": "7JFMXRQ3+X5"
+    },
+    "reference": "ChIJzesk2-Tq3TsRT5bQtidA80I",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "11, Amrut Sagar Park, Kathe Lane, Near Bankar Chowk, Dwarka, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9915353,
+        "lng": 73.7743196
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9929130802915,
+          "lng": 73.77560973029149
+        },
+        "southwest": {
+          "lat": 19.9902151197085,
+          "lng": 73.77291176970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Parth Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 563,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101112021644603854650\">Ankush Bhoye</a>"
+        ],
+        "photo_reference": "AdCG2DOqPk5CARa4ql7o3BI7_51ChqLxvMPqai_kDXVnm6SRyfeeN65uYCkxL0344OH-_y4NGQWu4-ym2TOUeHmpAD97KK9KjBFlxiL-4_dBUhPFus-zEDdZkEKGb_9CP5Ub124L-7vimNkw3qSnWa7gKBW2L9NY-Dnnt1RIKiGagsry1_iJ",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJRRNdggzr3TsR3k3EMhKXovs",
+    "plus_code": {
+      "compound_code": "XQRF+JP Nashik, Maharashtra, India",
+      "global_code": "7JFMXQRF+JP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJRRNdggzr3TsR3k3EMhKXovs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 59,
+    "vicinity": "Flat no 3, ratnaprabha residency, opp. Raje shivaji margadarshan kendra, near SSK hotel, Tidke Colony, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.000977,
+        "lng": 73.772476
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0022797302915,
+          "lng": 73.7737174302915
+        },
+        "southwest": {
+          "lat": 19.9995817697085,
+          "lng": 73.77101946970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dugad Dental Implant Institute & Research Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115364023041807062491\">Dugad Dental Implant Institute &amp; Research Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPkVfTuoJEqtgU3-Jm1PuabJXxZyJmvKrk015ErVG20C-2GN5jv5xDQF_n2rEFY3AKwOrAuRV4gDpHCwWmhRFezbCVQv6kKK9CuK7m5-sg0GQZECn841w8PVatHjsMzXSLcudIgzt2eX5zBLsmrCMWZSxhuxqoE0HyNu0CGQnI2hUhs",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJm2zBFaDr3TsRJCLPS4-cY-g",
+    "plus_code": {
+      "compound_code": "2Q2C+9X Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q2C+9X"
+    },
+    "rating": 3.7,
+    "reference": "ChIJm2zBFaDr3TsRJCLPS4-cY-g",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "Ground Floor,Lele Hospital Building,Opp.Soni Paithani,Near Kulkarni, Garden,Sharanpur Road,, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9827514,
+        "lng": 73.7812421
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9840599302915,
+          "lng": 73.7825804802915
+        },
+        "southwest": {
+          "lat": 19.98136196970849,
+          "lng": 73.7798825197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kalakiran Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1086,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102557041412180271061\">Kalakiran Advanced Dental Care &amp; Research Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPo3M7JXn4DL4dUJwxInGR50cFqVKWdQe8StpuLTm6zOqyRctjTdvEE9ZDy8LanP2PgTSNvsvOZD5mraTvxbW5UlNh9iXlBCWyLjSC_DV6GRkDx2pS6JMVhPuowyhqBrLW6TQm83MANNGDMtuI5I1rP_ml3W_7twCLfX4uWxiP1ogFb",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJg8nWNxfr3TsR9ZcxxkP5HT0",
+    "plus_code": {
+      "compound_code": "XQMJ+4F Nashik, Maharashtra, India",
+      "global_code": "7JFMXQMJ+4F"
+    },
+    "rating": 4.9,
+    "reference": "ChIJg8nWNxfr3TsR9ZcxxkP5HT0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 119,
+    "vicinity": "KALAKIRAN Dental clinic , A-3, Chandrakiran park appartment, New Era School road, Govind Nagar, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9830084,
+        "lng": 73.780419
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9843354302915,
+          "lng": 73.7818359302915
+        },
+        "southwest": {
+          "lat": 19.9816374697085,
+          "lng": 73.77913796970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Elegant Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 675,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105229548202642119470\">Elegant Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOUehiuv5_RpQ2pS8QTe1Djvi4da16qzYMEf1dUO6Z8uWSdoTVh15Tu77WnoT5fmngvDmRhrLkkyJrXG6OZQE89Xexe8YTqIvp41OwPt1dDC0cbTVB4NaQTUnRAOEqeYnw2YW7qcSkUMZmRWfZ2CG0-IH-C6GYAZPA6dKiEeBQwQg81",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJoQukKxfr3TsRiBGCDL3QlSk",
+    "plus_code": {
+      "compound_code": "XQMJ+65 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQMJ+65"
+    },
+    "rating": 5,
+    "reference": "ChIJoQukKxfr3TsRiBGCDL3QlSk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "Shop no 12, First Floor, Laxmi Vihar Complex, beside Sant Nirankari Satsang Bhavan, Govind Nagar, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0111186,
+        "lng": 73.8041245
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0125053302915,
+          "lng": 73.8054206802915
+        },
+        "southwest": {
+          "lat": 20.0098073697085,
+          "lng": 73.8027227197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "32 Sparkles Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103395930421418564119\">32 Sparkles Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNjDg3dcUBwJEHc2DSMcUiuQu-J5XV2gFJ6Kd_pAvCokUfEJNl7_dEpJyGgw2kIjdk9IkEv89HWBRxOQjUv3unWU5WfIbW7Xg_8TaxSZQ_sai31oAOd55yRF9k3kQpGosQC-IM1bl9s86U8U4fZsxbEjlddHQT8XaVyABLbl4GPsiVF",
+        "width": 1350
+      }
+    ],
+    "place_id": "ChIJlfm_-FDq3TsRs-c9_minyQI",
+    "plus_code": {
+      "compound_code": "2R63+CJ Nashik, Maharashtra, India",
+      "global_code": "7JGM2R63+CJ"
+    },
+    "rating": 5,
+    "reference": "ChIJlfm_-FDq3TsRs-c9_minyQI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 101,
+    "vicinity": "near janakalyan bank, Hirawadi Road, Panchavati, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9832297,
+        "lng": 73.7759361
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9845507302915,
+          "lng": 73.7774155802915
+        },
+        "southwest": {
+          "lat": 19.9818527697085,
+          "lng": 73.77471761970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Advanced Orthodontic Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112320672597384090286\">Advanced Orthodontic Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOBp2BRNv-xiSQV2k9xefWkHaPpRAwUE2KnSp1eGt6KkKlAm6grIVjndiVmTQFQGNKGM3ay6pqUy2VIW75co4AwQ8b62LrHIpAu3O-iJwX9NPliKqe1XaZHgOznfg1cFSnYpQHbeRs7XvcbAuH12w8SI-15glGbDlwIOBl5lpSnS5th",
+        "width": 950
+      }
+    ],
+    "place_id": "ChIJqRZipRrr3TsRbztgjKRjorY",
+    "plus_code": {
+      "compound_code": "XQMG+79 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQMG+79"
+    },
+    "rating": 4,
+    "reference": "ChIJqRZipRrr3TsRbztgjKRjorY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Shop No. 103, Business Court, Ring Road, Govind Nagar, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0055492,
+        "lng": 73.76669179999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0068593802915,
+          "lng": 73.76802698029151
+        },
+        "southwest": {
+          "lat": 20.0041614197085,
+          "lng": 73.76532901970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.Bonde's Dental Speciality Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110542809014115059437\">G Digital Media Solutions India Pvt. Ltd.</a>"
+        ],
+        "photo_reference": "AdCG2DMFZaeCUASfWTQQU_DS9V88xa7DZ19aNOWjMIDJ7qdFp49ROQXt_D1cihNzkDK5HQnjy4tol-YO41AwOKZC19L7PpfBa9FV9peK7n247hUsnSEsIrn5vR64Ywe7mGJ9A7qd_Ririen_vySy1yNoAXhUFG5Oqu0AkZmw_XGm9B2Ga6mV",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJJ3_BU5nr3TsRUyTJq09lfoU",
+    "plus_code": {
+      "compound_code": "2Q48+6M Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q48+6M"
+    },
+    "rating": 5,
+    "reference": "ChIJJ3_BU5nr3TsRUyTJq09lfoU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 975,
+    "vicinity": "H.P.T, Dattatray Darshan, 1st Floor, opp. Vijan Hospital & Big Bazar, College Road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0084975,
+        "lng": 73.76673749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.00986393029151,
+          "lng": 73.7680296302915
+        },
+        "southwest": {
+          "lat": 20.0071659697085,
+          "lng": 73.76533166970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile Architect Orthodontic Center and Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110542809014115059437\">G Digital Media Solutions India Pvt. Ltd.</a>"
+        ],
+        "photo_reference": "AdCG2DNRciyRPmIY-6XBj00FM6XyKZ4VajnTL3CH0aYsf8BhsxAXrJjYfalqLvbWuGeR_8rEyIcC7EGTDzTT26WZCIkokXEzvHXqqsXCjS0dmkMvEksisSjaDl_vqHEBC9e421Y03xTgHenWVi5VaY1YsUQpOxFjPylzjUQHjqrmsozn54uS",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJx3Jxl5nr3TsRfEzYkrsPrXE",
+    "plus_code": {
+      "compound_code": "2Q58+9M Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q58+9M"
+    },
+    "rating": 4.9,
+    "reference": "ChIJx3Jxl5nr3TsRfEzYkrsPrXE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 362,
+    "vicinity": "3 Aradhana Bunglow, Patil Lane 4 , Vidhya Vikas Circle, Gangapur Road, Pumping Station Road, Yashwant Colony, Patil Colony, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0027322,
+        "lng": 73.755226
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0040427802915,
+          "lng": 73.7565590802915
+        },
+        "southwest": {
+          "lat": 20.0013448197085,
+          "lng": 73.75386111970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Aphale's Dental Concepts in Nashik",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108563831786679269427\">Dr. Aphale&#39;s Dental Concepts in Nashik</a>"
+        ],
+        "photo_reference": "AdCG2DMXLHTIC07QtSfHlhyvxwE2d9HiMSf3uHIpJeIZzWrT_Jg_4quZ7p1YYM-oFxmCVtnetTeK7VMLVTatTZ1dbkTtCg2GZzkiG_y5_gW-X7P65o7PiBRTZKWYsAd4zizA4bdpaYNZMhlg_XK_QK0uxXZWvH6gsHg30ARAZSzu1Y3SOfHi",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJzQACHILr3TsRKgvnW_7fa6A",
+    "plus_code": {
+      "compound_code": "2Q34+33 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q34+33"
+    },
+    "rating": 5,
+    "reference": "ChIJzQACHILr3TsRKgvnW_7fa6A",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 145,
+    "vicinity": "1st Floor, Parijat Sahnivas, opp. Patanjali Store, Parijat Nagar, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.026184,
+        "lng": 73.821411
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0275802802915,
+          "lng": 73.8227524302915
+        },
+        "southwest": {
+          "lat": 20.0248823197085,
+          "lng": 73.82005446970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shree Siddhivinayak Cosmetic & Dental Implant Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1234,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103724638338054557723\">Shree Siddhivinayak Cosmetic &amp; Dental Implant Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMTvZ4GsNKnl60RsdBFpJtaPWADTZLxMhx3CrgnyD0Z9ETbD1gzFDL-TS089JILjv0rLw4LyKyX4ZyGC3UwPxpIGcEhYAIe9cgKhqhNkiFj6grmBlyLEqviuaRTDG5geXRWJWzmMtsapknuZibVYzZMX_-S_jg3iQvovJ3hj-Tb3Hxi",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJFTHCIGvq3TsRAJ3WWs7D2vU",
+    "plus_code": {
+      "compound_code": "2RGC+FH Nashik, Maharashtra, India",
+      "global_code": "7JGM2RGC+FH"
+    },
+    "rating": 4.4,
+    "reference": "ChIJFTHCIGvq3TsRAJ3WWs7D2vU",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Renuka Plot no 45, Siddhivinayak Township, Behind Ayodhya Nagari, Amrutdham, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9632494,
+        "lng": 73.7606186
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9645609302915,
+          "lng": 73.76191808029151
+        },
+        "southwest": {
+          "lat": 19.9618629697085,
+          "lng": 73.7592201197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jeevak Dental Clinic & Implant Center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105285221950906197153\">Ashay Kamble</a>"
+        ],
+        "photo_reference": "AdCG2DMeCUu5d0uty-hRbcHwe91V30eD8LS6btZEKwpWKo4OmXilFDbf2149mTbiD38Piisw4Zh4gF5nnWpcwoBBvCQslXE8B_fFZPEalF6WIE8YnmwifLlSfURUgeWWWr9PT0O-BrkbLQ18apEC1QUK1cJ3lTQL48ETfGfx2CM8uOrs-5zE",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJa4Bw8U_r3TsR9XYrZC9lgeI",
+    "plus_code": {
+      "compound_code": "XQ76+76 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQ76+76"
+    },
+    "rating": 4.7,
+    "reference": "ChIJa4Bw8U_r3TsR9XYrZC9lgeI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "1, chandrabhaga Apt, Sinhastha Nagar, near swimming tank, Ganesh nagar road, Cidco, Nashik"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 19.9974533,
+        "lng": 73.78980229999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9987946302915,
+          "lng": 73.7911520302915
+        },
+        "southwest": {
+          "lat": 19.9960966697085,
+          "lng": 73.7884540697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Aashay Dental Colinic",
+    "permanently_closed": true,
+    "place_id": "ChIJS-fyOgHr3TsROYtrLXBetl4",
+    "reference": "ChIJS-fyOgHr3TsROYtrLXBetl4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "1st Floor, Nashik Road, Bytco Point, Above Sanjay Medical Stoar, Bytco Point, Nashik"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 19.9974533,
+        "lng": 73.78980229999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9987946302915,
+          "lng": 73.7911520302915
+        },
+        "southwest": {
+          "lat": 19.9960966697085,
+          "lng": 73.7884540697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chauhan Prithviraj Jaisingrao Dr",
+    "permanently_closed": true,
+    "place_id": "ChIJS-fyOgHr3TsRUO-X7pdrKgg",
+    "reference": "ChIJS-fyOgHr3TsRUO-X7pdrKgg",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "208, Sona Shopping Centre, 60 Ft Road, Ganjmal, Ganjmal, Nashik"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 19.9975421,
+        "lng": 73.7897914
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9988270802915,
+          "lng": 73.79114638029151
+        },
+        "southwest": {
+          "lat": 19.9961291197085,
+          "lng": 73.7884484197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bhat Dr Raghvendra",
+    "permanently_closed": true,
+    "place_id": "ChIJS-fyOgHr3TsRelOAIbSWY5g",
+    "plus_code": {
+      "compound_code": "XQXQ+2W Nashik, Maharashtra, India",
+      "global_code": "7JFMXQXQ+2W"
+    },
+    "rating": 5,
+    "reference": "ChIJS-fyOgHr3TsRelOAIbSWY5g",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "8, Hal Bunglow, Cidco, Near Sbi, Cidco, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.99881079999999,
+        "lng": 73.789411
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0001970802915,
+          "lng": 73.7907714302915
+        },
+        "southwest": {
+          "lat": 19.99749911970849,
+          "lng": 73.7880734697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Umrao Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103568783112602842705\">Dr .gufran noor khan</a>"
+        ],
+        "photo_reference": "AdCG2DO7lNgZTicVXY_6uRfb7KmhpkJsBMAZrR89W8fD-vkxn_ey_8qa7yiiUfdzXknZ8dNLwU6hZmzgayreJzLLkUFD28lyMyM8Wu0PXca_NPSCy2D_h-IPhsHHiyS4JZGreXLKQ01ZREohq4NCe-_6T8axGtbHL_JD1tRUj7oyjuJMzCnG",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJMa980QDr3TsRjLAJOx0SjuY",
+    "plus_code": {
+      "compound_code": "XQXQ+GQ Nashik, Maharashtra, India",
+      "global_code": "7JFMXQXQ+GQ"
+    },
+    "rating": 5,
+    "reference": "ChIJMa980QDr3TsRjLAJOx0SjuY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "behind kokni darbar hotel, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.001744,
+        "lng": 73.791417
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0031835802915,
+          "lng": 73.7927245802915
+        },
+        "southwest": {
+          "lat": 20.0004856197085,
+          "lng": 73.79002661970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Clinic & Implant Centre",
+    "place_id": "ChIJJ3nZe6rr3TsRZGGlmbUYkqo",
+    "reference": "ChIJJ3nZe6rr3TsRZGGlmbUYkqo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "2Q2R+MHV, Bhadrakali, Koknipura, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.00301229999999,
+        "lng": 73.7888737
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0043595302915,
+          "lng": 73.79024163029152
+        },
+        "southwest": {
+          "lat": 20.0016615697085,
+          "lng": 73.7875436697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Asher Aesthetics & Multispeciality Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107553537305815080674\">Asher Aesthetics &amp; Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMoIVyNybvxAnXkMoDKMeCrCBbSopBhdbax2CSBO2fEqVIU1P0uusIccOsolYYaskyzaXxxeGXd5wTfHqFCPmjVNWVVOy_2Lqygz7NVSxLk4K95c__EIUyGZtF-hwLSrAbduvwtRqYct9CsNTeHA9OeTcyjnTSppSpQOjcNd18H3dMc",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJNb3oianr3TsRjOD6APtkyEE",
+    "plus_code": {
+      "compound_code": "2Q3Q+6G Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q3Q+6G"
+    },
+    "reference": "ChIJNb3oianr3TsRjOD6APtkyEE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "1089, 2nd Floor, Dighe Building, opp. Chitramandir Talkies, Main Road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9976624,
+        "lng": 73.7837038
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9990594802915,
+          "lng": 73.7850378802915
+        },
+        "southwest": {
+          "lat": 19.99636151970849,
+          "lng": 73.78233991970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Deep Dental & Orthodontic clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104883235724980861510\">DEEP DENTAL &amp; ORTHODONTIC CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DNk52aXIuO-m5NyZQLcIEI9AB2hbAzUhFoeUNv1uifOh4fejDUuK7nJc2El0B9Gwu5cmv5iU0E9YeITKiI8ISEZNz7QAbuipCF6S77CrSKNxmMIyZeNHMT6ELVDHxxOlAk4HC6d9iT2Q3tXgAi0llie5wmigr1759TLTk1wBhgpwadk",
+        "width": 2160
+      }
+    ],
+    "place_id": "ChIJFyL1OgHr3TsRT3pGd2CXAJE",
+    "plus_code": {
+      "compound_code": "XQXM+3F Nashik, Maharashtra, India",
+      "global_code": "7JFMXQXM+3F"
+    },
+    "rating": 4.5,
+    "reference": "ChIJFyL1OgHr3TsRT3pGd2CXAJE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 75,
+    "vicinity": "Shop no.4, patel chambers, near, Zilla Parishad Road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0038796,
+        "lng": 73.7911827
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0052317302915,
+          "lng": 73.79253153029151
+        },
+        "southwest": {
+          "lat": 20.0025337697085,
+          "lng": 73.7898335697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Abbad Dental Clinic and Implant Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3673,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114253978260884470496\">Abbad Dental Clinic and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPND4-IvEGcxoJEyWjyfP7XX6_wUG6mUPfKP4Gz8Ma5l6g1LNtJdhv0PDeAs_ZUPa4mYYjNy0C9CZGd2AygiP8tA7ZCd_mtlIyyhCUDKTbUOoILpGrCQHxDPzCL7Sjxv6HjvEnx6Tynr-mTlcvXX5Th9976tiBDbFtwyZTjcJWsBC0",
+        "width": 3953
+      }
+    ],
+    "place_id": "ChIJ81DItdfr3TsRzQZ6DZ28Y48",
+    "plus_code": {
+      "compound_code": "2Q3R+HF Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q3R+HF"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ81DItdfr3TsRzQZ6DZ28Y48",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 174,
+    "vicinity": "next to Sandeep Cut Piece Center, 2055, Nehru Chowk, Dahipul, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0048749,
+        "lng": 73.787322
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0062393802915,
+          "lng": 73.78863938029151
+        },
+        "southwest": {
+          "lat": 20.0035414197085,
+          "lng": 73.7859414197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Milind Rajpathak",
+    "place_id": "ChIJl6Z1E6nr3TsRFGTD_07axus",
+    "reference": "ChIJl6Z1E6nr3TsRFGTD_07axus",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "2Q3P+WWW, Near Central Bank, Dhumal Point, Tilak Path, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9901958,
+        "lng": 73.7930337
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9914704802915,
+          "lng": 73.7943828802915
+        },
+        "southwest": {
+          "lat": 19.98877251970849,
+          "lng": 73.79168491970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "दातांचा दवाखाना डॉ. अनिल वि. रुपवते",
+    "place_id": "ChIJM83-zALr3TsRo7ffNiJftJI",
+    "plus_code": {
+      "compound_code": "XQRV+36 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQRV+36"
+    },
+    "reference": "ChIJM83-zALr3TsRo7ffNiJftJI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.989979,
+        "lng": 73.7929762
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9913001302915,
+          "lng": 73.7943922802915
+        },
+        "southwest": {
+          "lat": 19.9886021697085,
+          "lng": 73.79169431970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Glowdent Dental and Aesthetic Clinic - Dentist Near Me | Dental Clinic | Skin and Hair Care Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108865203961138499794\">Glowdent Dental and Aesthetic Clinic - Dentist Near Me | Dental Clinic | Skin and Hair Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOvBV7L3YIRKguxZvho4b1XDWvflTaylHVprQ6vxbFX-eaexAyIinE4b9XkSzrPzFB0XSex_KbvJOwnyN8iGeTYYGn8kDJDHXaueT8yARxJmr1vwnSCEwJVYngrd7xrIHcLdlHadAJMyRCceGJvbKDV0uA6Xh_NKlqiSanBW0imS758",
+        "width": 1980
+      }
+    ],
+    "place_id": "ChIJjwrR3Evr3TsRhicO1vXN_Mg",
+    "plus_code": {
+      "compound_code": "XQQV+X5 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQV+X5"
+    },
+    "rating": 5,
+    "reference": "ChIJjwrR3Evr3TsRhicO1vXN_Mg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hair_care",
+      "point_of_interest",
+      "health",
+      "beauty_salon",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Shop No.1, Paradise Ocean, near Sahyadri Hospital, Wadala Road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0047777,
+        "lng": 73.78480739999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0060755802915,
+          "lng": 73.7861443302915
+        },
+        "southwest": {
+          "lat": 20.0033776197085,
+          "lng": 73.7834463697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KIDS’ DENTISTREE (Exclusive Pediatric Dental Clinic)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1967,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106868617826178132958\">KIDS’ DENTISTREE (Exclusive Pediatric Dental Clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DMxhJ8zTFypnioApRD2pZ7rd5F0TZ5XgKUi9LgtpszeDFeoKffE0im5j_ozz5a97ckF2d-fd8J07pxrZA4bkA39HkMQIyeApUi2Qc80I7HpIDUQsUMRwfP6Rd0iizznBP9I3V_TwavKdpTDkt3Amb9EfdnjGqKS5uvrt_OnZp4DQ32o",
+        "width": 1891
+      }
+    ],
+    "place_id": "ChIJ0eOR66jr3TsRD4UARlQrXYQ",
+    "plus_code": {
+      "compound_code": "2Q3M+WW Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q3M+WW"
+    },
+    "rating": 5,
+    "reference": "ChIJ0eOR66jr3TsRD4UARlQrXYQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "61, Pradhan Park, 3rd floor, M.G.Road, Mahatma Gandhi Road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0048598,
+        "lng": 73.7848786
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0061969302915,
+          "lng": 73.7863064802915
+        },
+        "southwest": {
+          "lat": 20.0034989697085,
+          "lng": 73.7836085197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kankaria's Multispeciality Dental Clinic",
+    "photos": [
+      {
+        "height": 675,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108316045372960502684\">Kankaria&#39;s Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMcRE1qPeOYEdl49exEDSPikLI7OLvD4GRd0JdWU4UPxHqFxbSeTiNX7NrloXuqukg-Xta-2n70SBqt6ihqj9DGR8YSXWZr1NZ9JzlCoFpq1VR4cJxNgMWNqXfS5SYO9B6hCCEaQHFlsExS9uJnMvBcqdp7Wj5B9nbsgDBvibGV7_0R",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJzVy666jr3TsRUk3Sygfyxvk",
+    "plus_code": {
+      "compound_code": "2Q3M+WX Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q3M+WX"
+    },
+    "reference": "ChIJzVy666jr3TsRUk3Sygfyxvk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "118, Abhankar Towers, M G road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.004854,
+        "lng": 73.784775
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.00611883029151,
+          "lng": 73.7861071802915
+        },
+        "southwest": {
+          "lat": 20.0034208697085,
+          "lng": 73.78340921970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rutu-Dent",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ4_W266jr3TsRv3pYbsfbHN0",
+    "plus_code": {
+      "compound_code": "2Q3M+WW Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q3M+WW"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ4_W266jr3TsRv3pYbsfbHN0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "2 nd floor, Pradhan Park, 38, Mahatma Gandhi Road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0049277,
+        "lng": 73.78380410000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.00624408029151,
+          "lng": 73.78524713029151
+        },
+        "southwest": {
+          "lat": 20.0035461197085,
+          "lng": 73.7825491697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Aditya ortho store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2896,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109318226376276549741\">Nobita- the Noob Gamer</a>"
+        ],
+        "photo_reference": "AdCG2DPomMwJzeO4LVi3azJRNU6ouBmyoM-nQYHj9tx-v7lC7LT-UwDmH2Hz9bsZ51-xsabq9bGQgecnux445EQaE6AaO8DcbI1GAH7ePRdO2MlMMtCg2G9LYmBZHxT_8RKi4wKG6H1iVG3fo_IFW893swZ5gDWu64BaPdnGkmo5QtVsk6bl",
+        "width": 4344
+      }
+    ],
+    "place_id": "ChIJm97-l6jr3TsRm8ef0QGiRF0",
+    "plus_code": {
+      "compound_code": "2Q3M+XG Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q3M+XG"
+    },
+    "rating": 4.3,
+    "reference": "ChIJm97-l6jr3TsRm8ef0QGiRF0",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "dentist",
+      "point_of_interest",
+      "store",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "7/8, 1st Floor, Meher Signal, Sindekar Plaza, Gole Colony, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0055705,
+        "lng": 73.7847207
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0069531802915,
+          "lng": 73.7860809802915
+        },
+        "southwest": {
+          "lat": 20.00425521970849,
+          "lng": 73.7833830197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Abhijit Tambe Best Prosthodontist/ Dr. Renu best Dentist in Nashik @ Pearls 32 and You dental clinic, Ashokstambh",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116709677622209893097\">Dr. Abhijit Tambe Best Prosthodontist/ Dr. Renu best Dentist in Nashik @ Pearls 32 and You dental clinic, Ashokstambh</a>"
+        ],
+        "photo_reference": "AdCG2DMFh6QTidpWfoKhB2b1nED81mYAUzbKYLPaWT-AkqgG2zAVrJ4xrlzjQIdlOnNOjCr-qtcUvAmt5-IoMmeEVAWbPGXKkJBRwI_moXMcXVqpuJO2KlfVSc5zDTnKr7iW6fjsiGIkAu5_bjUD_cYJshZBwgtarmlk5ePz77z59_cuinkq",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJAVa1zWjr3TsRZ_zA7Zk6kS8",
+    "plus_code": {
+      "compound_code": "2Q4M+6V Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q4M+6V"
+    },
+    "rating": 4.9,
+    "reference": "ChIJAVa1zWjr3TsRZ_zA7Zk6kS8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "202; Space Cosmos Tower, Ashok Stambh, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9880723,
+        "lng": 73.7906855
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.98933643029151,
+          "lng": 73.7920676302915
+        },
+        "southwest": {
+          "lat": 19.9866384697085,
+          "lng": 73.78936966970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Astha Dental Clinic(Dr.Sonal Chaudhary)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117135958347567757242\">Astha Dental Clinic(Dr.Sonal Chaudhary)</a>"
+        ],
+        "photo_reference": "AdCG2DMy1upXWK91SD3xQsR37SXRgCcgFGlb60YDVzpA6odl_dzHAixunozPKuuo0MRk7H1-Ot8aTcLnomliq_EzwMRNvagwCcxRS9_DlS0QYwyXECff0DUFS-TXfg8cUTNj8eyraY-H3GXbAViKPjjpGmGdo3ysozl4L47FNYV5yjXGVJF1",
+        "width": 721
+      }
+    ],
+    "place_id": "ChIJ3QbSwfHr3TsRTk1eoFdtkDM",
+    "plus_code": {
+      "compound_code": "XQQR+67 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQR+67"
+    },
+    "rating": 5,
+    "reference": "ChIJ3QbSwfHr3TsRTk1eoFdtkDM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "Besides sanskriti hospital, Astha clinic, samraat nucleus complex, ground floor, Bhabha Nagar, Mumbai Naka, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9887604,
+        "lng": 73.783568
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9900588302915,
+          "lng": 73.7848321302915
+        },
+        "southwest": {
+          "lat": 19.9873608697085,
+          "lng": 73.7821341697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sarthak Health Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109919744731580812549\">Sarthak Health Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPwcJDHvtSKGZ0r-CCxeYF0TzF2CccL_zrxyLemVaOljDZl6n88SiH_e4HLA9JCPQHsBUk_DRA8hQQ310dhRvSyZb2RI_5Yr1QvTTJCDKFgud92WO64AnMvTCbniGOp5TaLEGz_-e_Zph3ZLILDqghBD2MtOrrCwEE8tSUoEpXjsoav",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ5_ErwI7r3TsRg8uisfFwuTQ",
+    "plus_code": {
+      "compound_code": "XQQM+GC Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQM+GC"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ5_ErwI7r3TsRg8uisfFwuTQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "Mumbai Naka Tajane Anusaya Complex Shop No 5 to 8 Above SBI insurance"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9958362,
+        "lng": 73.7786739
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9974623802915,
+          "lng": 73.7799265802915
+        },
+        "southwest": {
+          "lat": 19.9947644197085,
+          "lng": 73.7772286197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Shekhar Shashi Amale | Say Maternity Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117333027583020234243\">Dr. Shekhar Shashi Amale | Say Maternity Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DPi7eNv9gvi8Ln4WQEVSMXVnBoq40kP_e7f5V5L7xC3XjNoWyRdADUKZhR3u64b6ItArCAoYum_9shgScbJ44ybhBifFIu2-x4TnmfyQpOxzFs39EkeQ6uL2biS_05A95xc5RqgPGC5HJzi_5kj10aoU5OMhjVxcLfV-RuzVXayLtNM",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJtVOfonXr3TsRWC4LUiJYlQI",
+    "plus_code": {
+      "compound_code": "XQWH+8F Nashik, Maharashtra, India",
+      "global_code": "7JFMXQWH+8F"
+    },
+    "rating": 4.3,
+    "reference": "ChIJtVOfonXr3TsRWC4LUiJYlQI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Shy Maternity Hospital, behind Kalika Mandir, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.007141,
+        "lng": 73.784578
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0084935802915,
+          "lng": 73.7858491802915
+        },
+        "southwest": {
+          "lat": 20.0057956197085,
+          "lng": 73.7831512197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Ravikiran Patil",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106802161137955458823\">Shashikant Gaikwad</a>"
+        ],
+        "photo_reference": "AdCG2DNXdwuLRcPEvRnhVAkgyE4j9FJwFFXo0qm04LyPK4h6s139O58OZ5dDxRryRlAOGEnYf0Wi_4xLWpQX-ghM1Q5qiUi3jQot-4gAOlvi54RvPhOGoDH39szt1oogVIpTRL0osf6jDYJ8NZHSE7oTUJOZ5u_oZErq5j14QQ3-s01_0-ly",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJDcngN6_r3TsROazcZQbQAmc",
+    "plus_code": {
+      "compound_code": "2Q4M+VR Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q4M+VR"
+    },
+    "reference": "ChIJDcngN6_r3TsROazcZQbQAmc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "6, 1st Floor, Anant Chambers, near Ganapati Mandir, Ashok Stambh, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9882409,
+        "lng": 73.7837617
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9895776802915,
+          "lng": 73.78504843029151
+        },
+        "southwest": {
+          "lat": 19.9868797197085,
+          "lng": 73.78235046970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Rahul Ahirrao MDS (Maxillofacial Prosthodontist & TMJ Disorder - Cranio-facial pain treatment specialist)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113886893012627107076\">Dr Rahul Ahirrao MDS (Maxillofacial Prosthodontist &amp; TMJ Disorder - Cranio-facial pain treatment specialist)</a>"
+        ],
+        "photo_reference": "AdCG2DMBK8NMLtCtShgFpsMLuUdt3PZNJpGP6uiYGm5qZJiEq9_1WlosJ_I7zWrT0LIRK9WJorqM_gRSz1aEGp7JtQyNKAtuuaL9UOMgtxYBhxQeQ3vg3YDhfLro9OIrU3t0tKUumDfD0qeXtyFetN0GKrW_LI3F7_xXe2tTjZHDObFPXp0Z",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJaxaAvBrr3TsRK_GgtW7a4EM",
+    "plus_code": {
+      "compound_code": "XQQM+7G Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQM+7G"
+    },
+    "rating": 4.4,
+    "reference": "ChIJaxaAvBrr3TsRK_GgtW7a4EM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 68,
+    "vicinity": "Suyojit City Centre, below Shatabdi Hospital, G-8, Mumbai Naka, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9881568,
+        "lng": 73.78379989999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9895341802915,
+          "lng": 73.78521543029149
+        },
+        "southwest": {
+          "lat": 19.9868362197085,
+          "lng": 73.78251746970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Center for artificial eye, ear, nose & Jaw | Prosthetic Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 270,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112132307792198460174\">Center for artificial eye, ear, nose &amp; Jaw | Prosthetic Dental</a>"
+        ],
+        "photo_reference": "AdCG2DPz2KMCPnFwdfPWlkoK-miuAtgKpFHSW-wnOy7FT1FNrKOiUlBxCz87g28BUrwhwsKPZ3ccZRFSKgcKea8HVMo5En1bO5h3ysUK11-Oa6PDkQxOJwJ1JX01UIBCvct094OfADVwFlBO_JtoKKqlv9e15VrlfdDH1J9R8ktq_f7417wv",
+        "width": 480
+      }
+    ],
+    "place_id": "ChIJ7dCOvBrr3TsRmudG7CrFs8s",
+    "plus_code": {
+      "compound_code": "XQQM+7G Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQM+7G"
+    },
+    "rating": 5,
+    "reference": "ChIJ7dCOvBrr3TsRmudG7CrFs8s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Shop no G-8, Suyojit city centre, below Shatabdi Hospital, Mumbai Naka, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9868109,
+        "lng": 73.7871598
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9881613802915,
+          "lng": 73.7885550802915
+        },
+        "southwest": {
+          "lat": 19.98546341970849,
+          "lng": 73.7858571197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Noble Smile Multispeciality Dental Clinic Implant & Braces centre ( Branch 1)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106837803057172594185\">Noble Smile Multispeciality Dental Clinic Implant &amp; Braces centre ( Branch 1)</a>"
+        ],
+        "photo_reference": "AdCG2DMiP5JThdH6-RePtGmnx2ifBvLeLxnJn3ukiUB1_1o_e984LVcbwKX9Mbf-j13SgqpgsjX5QzBT9039jmZs_YzR-VYb5eI6JDQMdtOPMTANiwr5eQYe93rGrhUwDjwIIbk3r_pQtjG6VRJzwDEUZ6XtCE6xG4Fzh6F3iEKzSDpHTJ_Y",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ8UR5ra_r3TsR2XitHwohp6o",
+    "plus_code": {
+      "compound_code": "XQPP+PV Nashik, Maharashtra, India",
+      "global_code": "7JFMXQPP+PV"
+    },
+    "rating": 5,
+    "reference": "ChIJ8UR5ra_r3TsR2XitHwohp6o",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "user_ratings_total": 45,
+    "vicinity": "BRANCH 1 : Shope 1, Nayantara co. Op. Society, Mumbai Naka, Dr.Homi Bhabha Nagar, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0070118,
+        "lng": 73.7839374
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0083601802915,
+          "lng": 73.78526768029151
+        },
+        "southwest": {
+          "lat": 20.0056622197085,
+          "lng": 73.7825697197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kalpadant Implant & Cosmetic Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 5344,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105543414540026762263\">Kalpadant Implant &amp; Cosmetic Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOmzbAr5aw8z5buGjW7tLmIbfQo4olVil79azo_nZk61Mo-zKpDr8vQKyBKe-J70J1Gxt3FEDXObiJl4ZWYW3lPMxVuVsV6G7rwC3kSw_oqWp0-_nIeBCyczIcFzWw2l5KNwNFzkivV_XJKZUU43ak3k_hPpGXY4MiFHAZbwDU2FDBA",
+        "width": 3006
+      }
+    ],
+    "place_id": "ChIJM6JxN6_r3TsR6EX5y2DltpI",
+    "plus_code": {
+      "compound_code": "2Q4M+RH Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q4M+RH"
+    },
+    "rating": 5,
+    "reference": "ChIJM6JxN6_r3TsR6EX5y2DltpI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "617, 6th floor, Lotus Capital Ashok Stambh, road, Gangapur, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9878681,
+        "lng": 73.7839551
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9892562802915,
+          "lng": 73.7853098302915
+        },
+        "southwest": {
+          "lat": 19.9865583197085,
+          "lng": 73.78261186970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Nakod's Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101544165143152454305\">Vinit Gadre</a>"
+        ],
+        "photo_reference": "AdCG2DOLOdwDQJqzv1V9ZuFC0_7Fbt87-7BpseI_oXdnus5ZoPDrcxH_pEBi4jYyAXpAVvXsbNJhJUE459M28TEhNXAnAyq2Fc3kkx8BuGj2oWwSLRDVzEXQ8yPkbrBdwzXe2zI6RKQnvQAO-1w0Y8iNnSr33q5h9ZNKsExEazplHRnEEZV6",
+        "width": 3468
+      }
+    ],
+    "place_id": "ChIJrUTkvBrr3TsRoebUnRq5t7s",
+    "plus_code": {
+      "compound_code": "XQQM+4H Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQM+4H"
+    },
+    "rating": 3.8,
+    "reference": "ChIJrUTkvBrr3TsRoebUnRq5t7s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "F1, 'B' Wing, Bus Stand, Suyojit City Centre, opp. Mahamarg CBS Office, Landmark:, Mumbai Naka, Govind Nagar, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9867479,
+        "lng": 73.7859758
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9881496302915,
+          "lng": 73.7873206302915
+        },
+        "southwest": {
+          "lat": 19.9854516697085,
+          "lng": 73.7846226697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DR. PAHILWANS DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106852365321271702219\">Prachiti Pahilwan</a>"
+        ],
+        "photo_reference": "AdCG2DMeSsHfDkOPfedNMq1T41aqGjvxrnVCD6Wdv25t0E2tilfCmBC_9jO2MDKvPIVhCeNwv5pn_ru9I32ZkyBr2GTfWm5PCVz8NzcfMG3IQlr4DlzAg2NMZ_fxaUBCa--wg-rOZusGHjNeqaHefe8grxDwu7wFED_SRIrcjuw3KiI4kDm0",
+        "width": 768
+      }
+    ],
+    "place_id": "ChIJb7CvRQDr3TsR6hlEyrFlGoM",
+    "plus_code": {
+      "compound_code": "XQPP+M9 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQPP+M9"
+    },
+    "rating": 5,
+    "reference": "ChIJb7CvRQDr3TsR6hlEyrFlGoM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 48,
+    "vicinity": "SHOP NO3, Varunaditya Apartment, APT RD, Bhabha Nagar, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9879054,
+        "lng": 73.7833162
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9892753802915,
+          "lng": 73.78480733029151
+        },
+        "southwest": {
+          "lat": 19.9865774197085,
+          "lng": 73.7821093697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Nirmal Dental And Ayurved Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJI1w5lAHr3TsRek3erRW90rM",
+    "plus_code": {
+      "compound_code": "XQQM+58 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQM+58"
+    },
+    "rating": 4.9,
+    "reference": "ChIJI1w5lAHr3TsRek3erRW90rM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34,
+    "vicinity": "Business park, bus stand, Nirmal Dental Clinic 201, next to Mahamarg, opposite to shatabdi hospital, near saheba hotel, Mumbai Naka, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0007075,
+        "lng": 73.77778359999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0021563302915,
+          "lng": 73.7791384302915
+        },
+        "southwest": {
+          "lat": 19.99945836970849,
+          "lng": 73.77644046970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Asher Aesthetics & Multispeciality Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110542809014115059437\">G Digital Media Solutions India Pvt. Ltd.</a>"
+        ],
+        "photo_reference": "AdCG2DNhyYJCp_Bm4kNGyDIYSGiv31Ixl2n5_fB54wbAVm4qW_HGsDZGv3ywmymvOm1P_9ks2QfxSAa_nh12mkhZLSGdlbleuMBiFNYYFlAPKlG_yaaTxFpFDR9VG-wn39rRa3GBs5KszFBw6qLgJ6J8VwUK66evBC_oYXDzSGrSQnGHToQw",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJtQVJUKfr3TsRnsNRevPd8_E",
+    "plus_code": {
+      "compound_code": "2Q2H+74 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q2H+74"
+    },
+    "rating": 4.2,
+    "reference": "ChIJtQVJUKfr3TsRnsNRevPd8_E",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hair_care",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "above Soni Jewellers, 2nd Floor, Suyojit Modern, above Soni Jewellers, Sharanpur Road, Police Staff Colony, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0005618,
+        "lng": 73.7776408
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0020869302915,
+          "lng": 73.77900013029151
+        },
+        "southwest": {
+          "lat": 19.9993889697085,
+          "lng": 73.7763021697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Orasurge Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110164831844099996739\">Orasurge Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMg8xC9hmmesFqXN6GYgNmYyFeJrY1Ri9-rgtIRCKOe8PAJJ1iJZnLO7vCT7Tu6lyKAa23cAwRM8eG8goNZHKYPnbkLf8PK93RUX7AUnL5IobQiNCC75BsVD_8_es1RAwG6rPJni1VceuTS3FDAQg-OYbR0nxywRlcMzYaWGxQmhnl9",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJUT2mUafr3TsR38OwWXfubH4",
+    "plus_code": {
+      "compound_code": "2Q2H+63 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q2H+63"
+    },
+    "rating": 5,
+    "reference": "ChIJUT2mUafr3TsR38OwWXfubH4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "opp. Police Pared Ground, G-9, Ground Floor, Suyojit Modern Point, opp. Police Pared Ground, Sharanpur Road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9909006,
+        "lng": 73.7793098
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9922617802915,
+          "lng": 73.7806365302915
+        },
+        "southwest": {
+          "lat": 19.9895638197085,
+          "lng": 73.7779385697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Suryawanshi Eye & Dental Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 601,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116068627174473391937\">Suryawanshi Eye &amp; Dental Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DPjlwdaTyjpe9QEngBN4YOrNQg77qzrBtyA3TNXR6K9p_8sTwuh6ChJmA-aCrEOIwbbRdGLdMXuHbQFYwm7HhSFnooliK3J-vfm2-CmIqcIN46ukviYQpfy2hAm4o_d5fsj-xTaObstRztUuy_-3IayuWwoTT3VFyGzzW024OYkuPze",
+        "width": 1068
+      }
+    ],
+    "place_id": "ChIJz9XSWg7r3TsRpvNFRBu6rQU",
+    "plus_code": {
+      "compound_code": "XQRH+9P Nashik, Maharashtra, India",
+      "global_code": "7JFMXQRH+9P"
+    },
+    "rating": 4.8,
+    "reference": "ChIJz9XSWg7r3TsRpvNFRBu6rQU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39,
+    "vicinity": "opp. Nehete Hospital, next to Sopan Hospital, Shri Hari Narayan Kute Marg, Matoshree Nagar, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9881142,
+        "lng": 73.78181769999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9894976302915,
+          "lng": 73.7831570802915
+        },
+        "southwest": {
+          "lat": 19.9867996697085,
+          "lng": 73.7804591197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Dr. Ganorkar Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105361288921527436970\">Mighty Magpie India</a>"
+        ],
+        "photo_reference": "AdCG2DP-ZDMZUbmjzKQanaDBoHY6yhCoA6p9g2RIEGeotPosp8N5y25n461_hTBIIXPSuAOeMFWxZUxXn_W4TBKvDIRWd4WCXIVBfCifB4p2O8EB1CrtWhyKwocBpLGuCFg6N5Fu537rB-a_T6XBwGEzU1KriPTNUholXT73MJCxgvLc1gsD",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJt-Hf3QLr3TsRAENcjGbtuY8",
+    "rating": 3.5,
+    "reference": "ChIJt-Hf3QLr3TsRAENcjGbtuY8",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 119,
+    "vicinity": "Bus Stand, behind Mahamarg, Mumbai Naka Circle, Gaikwad Nagar, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9898383,
+        "lng": 73.7998035
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9911548802915,
+          "lng": 73.8010387802915
+        },
+        "southwest": {
+          "lat": 19.98845691970849,
+          "lng": 73.7983408197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Soham Doshi",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2356,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103000234068792837646\">Dr. Soham Doshi</a>"
+        ],
+        "photo_reference": "AdCG2DPZ-JdbENxoTseyeiuHHBDzzqak7yjEvOtduPquavSAOTfhOSnrQdcm5MGQO5tm307l7ABL_l1UbpdiWq9RnUw61jJh695Mv5Vul2Q1oEnsMcpprkvh879E7TJcEp9Q42iInywwrDDS4GNwPnYs4LbvI6ZtbcFYoSBmoYrEB9r6gySu",
+        "width": 4192
+      }
+    ],
+    "place_id": "ChIJs_o36Mrr3TsRY9PujCDsVvI",
+    "plus_code": {
+      "compound_code": "XQQX+WW Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQX+WW"
+    },
+    "rating": 4.9,
+    "reference": "ChIJs_o36Mrr3TsRY9PujCDsVvI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 378,
+    "vicinity": "3rd Floor, NIROG Superspeciality Clinic, Shreeji Bizz World, above Kotak Mahindra bank, opposite Domino's Pizza, Kathe Lane, signal, Dwarka, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9956979,
+        "lng": 73.80276099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9970470802915,
+          "lng": 73.8041090802915
+        },
+        "southwest": {
+          "lat": 19.9943491197085,
+          "lng": 73.80141111970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Royals Dental Clinic and Implant Center in Nashik",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101489006367269601828\">Royals Dental Clinic and Implant Center in Nashik</a>"
+        ],
+        "photo_reference": "AdCG2DPjPMBMegViCOzaFzzsIYZKs90iZAJj57QLvrgZxpLPERzDW3oIoJs0y2TOCxcvrUkrIk-qYbZJeDqSnADx1rw4zy2WggLzT79Tnfqq9C3_V2SCHuxo8u0LM_FCFzHrCQ_P7kET6zinkaIru4fNKxoUavyxE2lNbBGBQg3gOYO-QkSo",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJi0cwakvr3TsRDnXYiVmXsU0",
+    "plus_code": {
+      "compound_code": "XRW3+74 Nashik, Maharashtra, India",
+      "global_code": "7JFMXRW3+74"
+    },
+    "rating": 4.8,
+    "reference": "ChIJi0cwakvr3TsRDnXYiVmXsU0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 36,
+    "vicinity": "B1, Shri Ramkunj Housing Society, Takli Road, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9889903,
+        "lng": 73.7802585
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9903163802915,
+          "lng": 73.78166818029152
+        },
+        "southwest": {
+          "lat": 19.9876184197085,
+          "lng": 73.77897021970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Palekar Shree Neuro Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJIVMFKw7r3TsRODa6HMifSyw",
+    "plus_code": {
+      "compound_code": "XQQJ+H4 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQJ+H4"
+    },
+    "rating": 5,
+    "reference": "ChIJIVMFKw7r3TsRODa6HMifSyw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "near Mahamarg Bus Stop, 210, Archit Saisquare , beside Suyash Hospital, near Mahamarg Bus Stop, Ahilyabai holkar marg, Tidke Colony, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.98896869999999,
+        "lng": 73.7802401
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9902932802915,
+          "lng": 73.7816537302915
+        },
+        "southwest": {
+          "lat": 19.9875953197085,
+          "lng": 73.77895576970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SWASTIK SMILE CARE CENTRE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 7536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107242211295425329451\">DR. PRITISH LODHA&#39;S, SWASTIK SMILE CARE CENTRE (SSCC)</a>"
+        ],
+        "photo_reference": "AdCG2DOiiW-5xzXS6sB0xTOj9qT1XqkPIW8Ti_hRNh3OQKNU_-tByJoxxAr89UKXCuoDORH5bVM4vyz5CyY5v4FwOG3sLnsia5FNLAdozHTLAtmatmlkRbg4qWvz0bh4wUaDHFqv-0-Fu53UmBdjmfKikVl24OuLMaT4i7Fq7qU9nG-aaAVf",
+        "width": 10630
+      }
+    ],
+    "place_id": "ChIJnQrv1A_r3TsRSdL3rcSvlKA",
+    "plus_code": {
+      "compound_code": "XQQJ+H3 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQJ+H3"
+    },
+    "rating": 4.9,
+    "reference": "ChIJnQrv1A_r3TsRSdL3rcSvlKA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "110,111 SAI SQUARE, NEXT TO \"SUYASH\" HOSPITAL,, NEAR MAHAMARG BUS STAND, MUMBAINAKA, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.988966,
+        "lng": 73.7802073
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9904488802915,
+          "lng": 73.78155953029152
+        },
+        "southwest": {
+          "lat": 19.9877509197085,
+          "lng": 73.7788615697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Priyanka Palekar - Best Dentist in Nashik",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112133144970773122613\">Digital view india</a>"
+        ],
+        "photo_reference": "AdCG2DPBWC6ENxHJTZAm1SegLTMEYQrXZVRD3LtmMXmBWkuvl5O1caSYgJPWjwlgWkThsIxROzCt-Q7Ccu7yGiSguurNMao9Z3pPOZulYylZ2V8OIBsbJgCyVB4kXRpec1LVTBuiE1ldTsmw15xpU7g9-0flrKQMk6OkBKnT9N2MsQkSu1D1",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJu6dv8nDr3TsRvGIUfBnd0Sw",
+    "plus_code": {
+      "compound_code": "XQQJ+H3 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQJ+H3"
+    },
+    "rating": 5,
+    "reference": "ChIJu6dv8nDr3TsRvGIUfBnd0Sw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 58,
+    "vicinity": "Shop no 210 , Second Floor, Saisquare apartment, bus stop, beside Suyash Hospital, near Mahamarg, Ahilyadevi Holkar Road, Mumbai Naka, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9889531,
+        "lng": 73.7801377
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9902621302915,
+          "lng": 73.7815925802915
+        },
+        "southwest": {
+          "lat": 19.9875641697085,
+          "lng": 73.7788946197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Suhasya Dental Clinic - Best Dentist in Nashik",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 607,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109415801567760733100\">Suhasya Dental Clinic - Centre for Esthetics, Gum Care and Implant Dentistry</a>"
+        ],
+        "photo_reference": "AdCG2DM112UOJyQZl0sFYbY2GBxT5bdMTuxCQe8I1VdEmhek5qwisgfUZEoLvXmPZcsNgguzB8RAtldLzqT70_FKyDOkJ56BGALdCeH4-NenVdJC93pxqsGipSg2Uv7xzY0pKLW3WQVZ4dYe_kLIJoltzrT4MxJ97gVBt8FzMWVHOFELL6JW",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJGdk1Kg7r3TsRKyF8rk7UZco",
+    "plus_code": {
+      "compound_code": "XQQJ+H3 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQJ+H3"
+    },
+    "rating": 4.9,
+    "reference": "ChIJGdk1Kg7r3TsRKyF8rk7UZco",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "near Mahamarg Bus Stand, 205, second Floor, Sai Square Complex Next to Suyash Hospital, near Mahamarg Bus Stand, Mumbai Naka, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.988822,
+        "lng": 73.780102
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9901343302915,
+          "lng": 73.7815480802915
+        },
+        "southwest": {
+          "lat": 19.98743636970849,
+          "lng": 73.7788501197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Riddhi Multispeciality Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1494,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106001582770825246996\">Sharad Deokar</a>"
+        ],
+        "photo_reference": "AdCG2DPyzhoVoHXGT6iy0CZpBrZ9pI5UfBWK1CKl3oY_Zdtxj6RiV8oIMLj3C24Nam9-Ysg_WROiX8QMLyTq3NOsqhQrKPkWqOv6mpJ03J2GeYVvot9Il_JlzvQ3EKLssebWkw1ZvhA_MtK2WBNDTNjOjdhUCLX5zB4polCaEb6Xz5Ji1qi_",
+        "width": 3622
+      }
+    ],
+    "place_id": "ChIJQ3C3Kg7r3TsRLzbs4G2QQLc",
+    "plus_code": {
+      "compound_code": "XQQJ+G2 Nashik, Maharashtra, India",
+      "global_code": "7JFMXQQJ+G2"
+    },
+    "rating": 3.6,
+    "reference": "ChIJQ3C3Kg7r3TsRLzbs4G2QQLc",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "near Tupsakhare Lawns, 4th Floor, Sai Square, near Tupsakhare Lawns, Mumbai Naka, Tidke Colony, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0100867,
+        "lng": 73.79344300000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0114358302915,
+          "lng": 73.79480178029152
+        },
+        "southwest": {
+          "lat": 20.0087378697085,
+          "lng": 73.7921038197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SWASTIK SMILE CARE CENTRE (SSCC)",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJq0nO36zr3TsR0jL6G_xt8t4",
+    "plus_code": {
+      "compound_code": "2Q6V+29 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q6V+29"
+    },
+    "rating": 3,
+    "reference": "ChIJq0nO36zr3TsR0jL6G_xt8t4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "101, Ganesh Siddhi Apartment, above BANK OF MAHARASHTRA INDRAKUND, Panchavati, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.9894154,
+        "lng": 73.77889669999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9907068302915,
+          "lng": 73.78016248029148
+        },
+        "southwest": {
+          "lat": 19.9880088697085,
+          "lng": 73.77746451970847
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SMBT CLINIC",
+    "photos": [
+      {
+        "height": 1237,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104837344412099136837\">Sachin Gunjal</a>"
+        ],
+        "photo_reference": "AdCG2DPuVvN-SrRRK7J-gGHEjXdhp5meYvfHeRemWgiFrf_da5LHw05CHchF1GtgwWr9BjGweqojFzuO_iTI5xcaFeDbA-qND505oZHlvk6pP2hqtKagk8mDYpzAZJPAPznFgse_bWFh-j83zkQTAd3CGvuFt03KIH7cYSg5mJTc4nW19Map",
+        "width": 1856
+      }
+    ],
+    "place_id": "ChIJg5XqS_Lr3TsRkFT-bk2Nb3I",
+    "rating": 3.2,
+    "reference": "ChIJg5XqS_Lr3TsRkFT-bk2Nb3I",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "vicinity": "XQQH+QH2, Mumbai Naka, Matoshree Nagar, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0101513,
+        "lng": 73.7954215
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0114471302915,
+          "lng": 73.79675813029152
+        },
+        "southwest": {
+          "lat": 20.0087491697085,
+          "lng": 73.7940601697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Total Teeth Care Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 706,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103375053567256545057\">Total Teeth Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPmlab3nu_-6-D01GgTAxR27h39Jqa3MzBiAx93Vr3EyJyxhoIDEjluwf0wjf8apDMmsX8VoWPm8h8JW6Q7K-xlJQ3pa2XSaBuiOwReepwucHoiLK40KhMDUZUm1Ys9oQTtmWYxXILtfXn0HwwRLNGjMVApxcRIbx_aGtcmFeTJt6k-",
+        "width": 1257
+      }
+    ],
+    "place_id": "ChIJqcT5KFPq3TsR0CdOO8gp_Vs",
+    "plus_code": {
+      "compound_code": "2Q6W+35 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q6W+35"
+    },
+    "rating": 5,
+    "reference": "ChIJqcT5KFPq3TsR0CdOO8gp_Vs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "1st Floor, Manas Arcade, above Manas Arcade, Panchavati Karanja, Panchavati, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0104258,
+        "lng": 73.7953564
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0117902302915,
+          "lng": 73.7966468302915
+        },
+        "southwest": {
+          "lat": 20.0090922697085,
+          "lng": 73.79394886970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Pravin R. Bonde",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110542809014115059437\">G Digital Media Solutions India Pvt. Ltd.</a>"
+        ],
+        "photo_reference": "AdCG2DNrIADxZJvUNO5QS2ikmj8T8UoYvGIPw7VLQmA4NlJyZ-szAxhxZ4rbjpNY-EEmmH24zxZaFs-QGYmSpqlXp7Y1RkYYhvML-VPYGSbC-k8zTFdjIjQX9B-FboT4DGVkM69FL56vKBOLVbjQA0mfJOIaz_6UpsLwHriHvXgslZueDatz",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJVVVVFavr3TsRrTHqgmuwvVE",
+    "plus_code": {
+      "compound_code": "2Q6W+54 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q6W+54"
+    },
+    "rating": 4.6,
+    "reference": "ChIJVVVVFavr3TsRrTHqgmuwvVE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39,
+    "vicinity": "1 st Floor, Govind Bhuvan Apartment, near Mithil Lodge, Panchavati Karanja, Nashik"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 20.0032919,
+        "lng": 73.7757586
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.0045792302915,
+          "lng": 73.77709133029151
+        },
+        "southwest": {
+          "lat": 20.0018812697085,
+          "lng": 73.7743933697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Doctor",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ_-qpjAjr3TsRosgYysa7Tvo",
+    "plus_code": {
+      "compound_code": "2Q3G+88 Nashik, Maharashtra, India",
+      "global_code": "7JGM2Q3G+88"
+    },
+    "reference": "ChIJ_-qpjAjr3TsRosgYysa7Tvo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Gangapur Road, Nashik"
+  }
+]

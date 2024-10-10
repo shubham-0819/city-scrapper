@@ -1,0 +1,2894 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2406461,
+        "lng": 81.63796330000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2420567302915,
+          "lng": 81.63940678029151
+        },
+        "southwest": {
+          "lat": 21.2393587697085,
+          "lng": 81.6367088197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "RAIPUR DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2735,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112946025748168739967\">Zafar Zia Khan</a>"
+        ],
+        "photo_reference": "AdCG2DNzisA7i1RaC1kkPVPiKflvRWo-f9RebQEc3XQDtUnF0TZtMAfe__btrlHR6ss1Lo1JWC--xoi0WHfKUSgQLjs5L2QdRC8Pr0OC7d7wscI7N6FAqy5u6XpwH8eT1hHtomCBHbZQL0BjC5caxlLfiVa_cbiNYcyF32s7XTSCV6uPfGRs",
+        "width": 2083
+      }
+    ],
+    "place_id": "ChIJcYsDH6PdKDoRt8YqwAKTI6Q",
+    "plus_code": {
+      "compound_code": "6JRQ+75 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JRQ+75"
+    },
+    "rating": 4.7,
+    "reference": "ChIJcYsDH6PdKDoRt8YqwAKTI6Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "ground floor, Dixit Complex Shastri bazar road Baijnathpara landmark : Evergreen chowk, to, Malviya Road, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.24657239999999,
+        "lng": 81.6300851
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2479919802915,
+          "lng": 81.6314315802915
+        },
+        "southwest": {
+          "lat": 21.2452940197085,
+          "lng": 81.6287336197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rathor Dental Hospital",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103248122783514630691\">Rathor Dental Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DOBijiq41fQTDZi-q6gSGEiWnZ0GlTs3fTWORJKgVwuYcn2qTCnXnU_lF4ydkd21UX_7kOkmVKdkL5U1obipwm9Bb4uSiVA9Nii46C4lb31NSb1o3ip_OxfbaGzI3GWKqiTTZwMiulXk3hTyfVEP5dfc-dlM9RQyPkKjoZngdFiTiEr",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJZayd3ZXdKDoRIE1KVL68-xQ",
+    "plus_code": {
+      "compound_code": "6JWJ+J2 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JWJ+J2"
+    },
+    "rating": 4.8,
+    "reference": "ChIJZayd3ZXdKDoRIE1KVL68-xQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "FF03, First Floor, Suraj tower, Main Road, Ramsagar Para, Jawahar Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2428314,
+        "lng": 81.64148039999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2442493302915,
+          "lng": 81.6428189802915
+        },
+        "southwest": {
+          "lat": 21.2415513697085,
+          "lng": 81.64012101970847
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chirayu Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112314067465305303306\">Chirayu Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMG8WmToyL05yjUYFI2DL40TYCxUIQgYxtqVPnJ0e0e4rGeZ_mbX4BCuRrrcGOariyZ-PGImB2dJO-7Gb2_JcbnVXJcTVsl6KtC_sqmoG-AMnFvlP3cDidadeJ_ZGwtb2IAV2dGabGAKN15VI8f6BkP_V0jVstdyS3Kjw7tLvSvOXLO",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJYeQ5HKLdKDoRZkIuqqvN6_M",
+    "plus_code": {
+      "compound_code": "6JVR+4H Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JVR+4H"
+    },
+    "rating": 4.9,
+    "reference": "ChIJYeQ5HKLdKDoRZkIuqqvN6_M",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 247,
+    "vicinity": "Modern Complex, beside Agrawal Mithaiwala Sweets, Road, Moti Bagh, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2397975,
+        "lng": 81.6390139
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2411729802915,
+          "lng": 81.6404061802915
+        },
+        "southwest": {
+          "lat": 21.2384750197085,
+          "lng": 81.6377082197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile N Shine Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114181127248030366524\">Smile N Shine Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPTAQgYWh3u8ht33gKnJwEO7j3-440J695gSUaIUdAjTLscJSbBYUPSlwV71z9mR1YZvMLUMXYCT_6ZiVWeAuLG-wSgoaIHdcpuA3zWrn_aZwf7Fw81SOVwqa6d5oxUss9uUxzlCmEY5T-RJXP__8GsMOthGSkJkch0mIS1kbufIPQ1",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJp50FBqPdKDoRtL_-A3z11Rw",
+    "plus_code": {
+      "compound_code": "6JQQ+WJ Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JQQ+WJ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJp50FBqPdKDoRtL_-A3z11Rw",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43,
+    "vicinity": "beside Sirat Maidan, Near Muslim hall, beside Sirat Maidan, Baijnathpara, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2380033,
+        "lng": 81.6378927
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2393090802915,
+          "lng": 81.63925288029151
+        },
+        "southwest": {
+          "lat": 21.2366111197085,
+          "lng": 81.6365549197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Chhattisgarh Dental Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107098320414006677474\">Chhattisgarh Dental Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DNh188MUgO51RfKSW8297Uq4MYksHNd9upe092EP2MGfSHbvrDrFF9SVyGBCYqxpKg0bFTLXIHPSFqQIEZaBiroQyCza_qMmvJgKEqPVlYu6UUx3XdT_L-6vL0D7v6-stmeLNDcIbqUofwDTTK1h6aUbx9cLvgtlrYFqe3-crvMvfHc",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJl6hkX6PdKDoRkIjQrFqr_4c",
+    "plus_code": {
+      "compound_code": "6JQQ+65 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JQQ+65"
+    },
+    "rating": 4.5,
+    "reference": "ChIJl6hkX6PdKDoRkIjQrFqr_4c",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 216,
+    "vicinity": "near City, Chhotapara Road, Kotwali Chowk, Janta Colony, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.247631,
+        "lng": 81.66008099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2489648302915,
+          "lng": 81.66139908029149
+        },
+        "southwest": {
+          "lat": 21.24626686970849,
+          "lng": 81.65870111970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Malik Implant Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107313374016045782880\">Malik Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPL49QetdTo8zjErFdvh2cGKPVrl9o0aiyMumiHRVffJpJaccB3UDjTNPWCbqnEC0jjX8SzHIWeAgIDG4ojyYdmcFLpWI8fUiJBpA7w86rQnpsG86TAvha0WvZekhh4V490plehrgGGOSmjZ_sj34iusNlVCkNDFTDifNw8D-hAPZ4J",
+        "width": 1240
+      }
+    ],
+    "place_id": "ChIJA73lIHDdKDoRy6nZXDb0wuw",
+    "plus_code": {
+      "compound_code": "6MX6+32 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36MX6+32"
+    },
+    "rating": 4.1,
+    "reference": "ChIJA73lIHDdKDoRy6nZXDb0wuw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 59,
+    "vicinity": "Shop No. 4, Block C, Vineet Estates New Shantinagar, P.O, Shankar Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2318306,
+        "lng": 81.60347279999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2331684802915,
+          "lng": 81.60475008029152
+        },
+        "southwest": {
+          "lat": 21.2304705197085,
+          "lng": 81.6020521197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DENTAGLAM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112107634775800345323\">Dr Gaurav Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DON0fZQR3xVn-t8J2d7_Mg2j4jrr8jEB88Tzfd2wuKY60A4obXjw_25yLnm5JeE7g6UpnDJVMg3kO-nS5RuJmDUp7qnTtT0rYLmy5PIGjgl7gQXsV4IDeGeYL5PzpoFuI2-EOfMbl0XyxdLG02FnmHU02uFwBNX84JoF4S0twJNzOxz",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJM0ElQKfgKDoR2jOqI8R6eNU",
+    "plus_code": {
+      "compound_code": "6JJ3+P9 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JJ3+P9"
+    },
+    "rating": 4.9,
+    "reference": "ChIJM0ElQKfgKDoR2jOqI8R6eNU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "local_government_office",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "First Floor, Thakur Singh Bhawan Acharya Narendra Dubey Marg, Chowk, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2512053,
+        "lng": 81.6639599
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2525925302915,
+          "lng": 81.66530433029149
+        },
+        "southwest": {
+          "lat": 21.24989456970849,
+          "lng": 81.66260636970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Khemka Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118123467999309269507\">Dr. Khemka Dental Clinic / best dental clinic in Raipur</a>"
+        ],
+        "photo_reference": "AdCG2DOq-svWrX8Pwc5HOGBKcn6XM2o_MMtDvTy8xlRlrfT4O0aoOhrfI0tkVjKCdq_cACR91luIwSdOiZxCsxKlMGR844im-m3_0w4rAucpgibvBHZnni2BiRe6lVNDZinbvGg3GCN3I1nJrewGWbldCdqLIeUu3qv2H8gafqUXzmONZ0WQ",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJO5arVWndKDoR7NhpIshOm4o",
+    "plus_code": {
+      "compound_code": "7M27+FH Raipur, Chhattisgarh, India",
+      "global_code": "7MH37M27+FH"
+    },
+    "rating": 4.1,
+    "reference": "ChIJO5arVWndKDoR7NhpIshOm4o",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Shop No. 2&3, AT Plaza, Shankar Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2192,
+        "lng": 81.64127599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.22055623029151,
+          "lng": 81.6426738802915
+        },
+        "southwest": {
+          "lat": 21.2178582697085,
+          "lng": 81.63997591970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Royal Smile Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 934,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107637239659287866971\">Royal Smile Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DO1XVciYo7KckXCput9LPiz4-dr74kW6j6XD6GMVptlvvL1ZuHodrwp2QFPR9GCf-dEqioHF5HH6CVsdSLb7r9jzFKn-XY2Fol9oDw4aTlv-eSqMPu8QHkwhPl8UuCRda_2Una1NuuD9NEy4itMD063OOnc45kiOj8ywW6XI0HpgJqc",
+        "width": 1139
+      }
+    ],
+    "place_id": "ChIJGfGNXlPcKDoROfDDb3z3jMU",
+    "plus_code": {
+      "compound_code": "6J9R+MG Raipur, Chhattisgarh, India",
+      "global_code": "7MH36J9R+MG"
+    },
+    "rating": 3.7,
+    "reference": "ChIJGfGNXlPcKDoROfDDb3z3jMU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Sanjay Nagar Main Road, Infront of govt school Sanjay nagar main Road Raipur, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2570675,
+        "lng": 81.66802659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2583754302915,
+          "lng": 81.6693554802915
+        },
+        "southwest": {
+          "lat": 21.25567746970849,
+          "lng": 81.66665751970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Raipur Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1979,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117284648378889251447\">Raipur Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOiEtNclXw9VZlPMOI8ajY_2_VXuWHL774RA0LOr30r_S_JKePeg72H7KW31lzUU2E-YPptlsp8Zkej-INoICKfU3Cer5_p-B0iHa7eDzUSSfk57p0IWq2GQ8bGnxBvlze1AMqrDn0ydBdTeupQUuJqJMDjnvzj42427qIka6MSPiLN",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJh-mWcqPdKDoRiVxecqlG2Q0",
+    "plus_code": {
+      "compound_code": "7M49+R6 Raipur, Chhattisgarh, India",
+      "global_code": "7MH37M49+R6"
+    },
+    "rating": 5,
+    "reference": "ChIJh-mWcqPdKDoRiVxecqlG2Q0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "phase 1, Khamhardeeh sarover P.O, opp. T V Tower Road, J/17, Street 1, Shri Ram Nagar, Shankar Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.24651709999999,
+        "lng": 81.66907599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.24786448029151,
+          "lng": 81.6703840802915
+        },
+        "southwest": {
+          "lat": 21.2451665197085,
+          "lng": 81.66768611970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "City Dental Care & Implant Centre",
+    "place_id": "ChIJ5xsap2rdKDoRiDleoP2bnl0",
+    "plus_code": {
+      "compound_code": "6MW9+JJ Raipur, Chhattisgarh, India",
+      "global_code": "7MH36MW9+JJ"
+    },
+    "rating": 3.2,
+    "reference": "ChIJ5xsap2rdKDoRiDleoP2bnl0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "12, Avanti Vihar, Shankar Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2180767,
+        "lng": 81.65252679999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2195828302915,
+          "lng": 81.65397978029151
+        },
+        "southwest": {
+          "lat": 21.2168848697085,
+          "lng": 81.65128181970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bardia Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1950,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108262739615156294040\">Bardia Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DNByWKm3q2IbSJjuF5e51yHR0XF_2b-O0uCcKEc7quNya2hgnVv0U2wpc6ZUOeLHutntDYRUzNBIKtOs0QhErhwwwsxaC4rW0i3Cvr8p5GD7jf5MNHYUHFfe68cLeWi-nSuvVWt4NVY7yCAp0otEMMBQODe4xJzdUKmSakevL3YpH0f",
+        "width": 3464
+      }
+    ],
+    "place_id": "ChIJmVN9b_7cKDoRk-SeVaYRmqk",
+    "plus_code": {
+      "compound_code": "6M93+62 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36M93+62"
+    },
+    "rating": 4.8,
+    "reference": "ChIJmVN9b_7cKDoRk-SeVaYRmqk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 104,
+    "vicinity": "Shop No: 105, First Floor, Lalganga Business Park, New Dhamtari Road, Pachpedi Naka, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2230036,
+        "lng": 81.6607926
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2243805302915,
+          "lng": 81.6621765302915
+        },
+        "southwest": {
+          "lat": 21.2216825697085,
+          "lng": 81.6594785697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jain Dental Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103132075934938447315\">Jain Dental Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DOQkMkNW4MJgmIYm_rJLnp1RrY5uPIt3k6TRo8F4U0pWcVwIhRkXMSoC6H-ANhUD9zbjSXWvIUtA2aQqDGvwMqtVKr2Zw5tokDd_M0XyP7tQBp3pA9aUXux3g8JXWVTVzHyh7b4hUDh2gFFX0ph8sP2xbjhgpqOlgiZ5d9uaejseksc",
+        "width": 3696
+      }
+    ],
+    "place_id": "ChIJwwYAANDCKDoR13Hw3e61IoY",
+    "plus_code": {
+      "compound_code": "6MF6+68 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36MF6+68"
+    },
+    "rating": 4.7,
+    "reference": "ChIJwwYAANDCKDoR13Hw3e61IoY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 265,
+    "vicinity": "271, Main Road Opp UCO Bank, New Rajendra Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2619969,
+        "lng": 81.675619
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2633809302915,
+          "lng": 81.6769821802915
+        },
+        "southwest": {
+          "lat": 21.2606829697085,
+          "lng": 81.6742842197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CITY DENTAL CARE & IMPLANT CENTRE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105155256479851671205\">CITY DENTAL CARE &amp; IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DOHB8caljnPN8gk7a3l5Cx94b02joXt34YIYrihkqb1f6uVKgQLVMgVimYAOmgCfnBv3xH1pktIp7TSDvLWTbvbO3qdpqWrmb4Qn9TXOudb8rAvgu4mIkMGMypSLlrdrGFnaSRtUjX1tV0MpbKVKNuy86CIFEnOpGt5v3yiBGFjc0aO",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJ8SXa7FvdKDoRbUM2XSh1oxE",
+    "plus_code": {
+      "compound_code": "7M6G+Q6 Shankar Nagar, Raipur, Chhattisgarh, India",
+      "global_code": "7MH37M6G+Q6"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ8SXa7FvdKDoRbUM2XSh1oxE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Opp. Ashoka Ratan,(Gate No. 2), Khamardih Extension, Vidhan Sabha Road, VIP Estate, Shankar Nagar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.251442,
+        "lng": 81.6296625
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2528130802915,
+          "lng": 81.63104183029151
+        },
+        "southwest": {
+          "lat": 21.2501151197085,
+          "lng": 81.6283438697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Khan Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2213,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115886719868599809991\">Dr Khan Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DMZI3ZrALz5qLMKJxeQS5Tduv2CxGkHf85xQO73hogx7c7r7IVs7TogX_trdWUEaUhmAZjxY8PMUV88bz-WYAPEVkDqrHpAxNpkeJe-IPOpyW_pnqE6CLwlCZGPxXjaEkte-TJTd8saPKJSDoweDeElZ5TWK7Iv1Xis3ykkyu4lcZ_A",
+        "width": 2213
+      }
+    ],
+    "place_id": "ChIJn3Gjx5PdKDoRvuo5OyTMxNU",
+    "plus_code": {
+      "compound_code": "7J2H+HV Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J2H+HV"
+    },
+    "rating": 1,
+    "reference": "ChIJn3Gjx5PdKDoRvuo5OyTMxNU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Main Road, Chhotapara Chhotapara"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2508408,
+        "lng": 81.6298475
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2521583802915,
+          "lng": 81.6311525302915
+        },
+        "southwest": {
+          "lat": 21.24946041970849,
+          "lng": 81.6284545697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SITA DENTAL CARE & IMPLANT CENTER",
+    "place_id": "ChIJfff6wZPdKDoRxFvf65fSbpU",
+    "reference": "ChIJfff6wZPdKDoRxFvf65fSbpU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "7J2H+8WQ, Subhash Road, Station Road, Moudhapara, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2479991,
+        "lng": 81.6306989
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2493139302915,
+          "lng": 81.63204193029149
+        },
+        "southwest": {
+          "lat": 21.2466159697085,
+          "lng": 81.62934396970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.ankit Khandelwal",
+    "place_id": "ChIJC628H5TdKDoRnswYCCvZVY0",
+    "plus_code": {
+      "compound_code": "6JXJ+57 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JXJ+57"
+    },
+    "rating": 5,
+    "reference": "ChIJC628H5TdKDoRnswYCCvZVY0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Main Road, Ramsagar Para, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2475326,
+        "lng": 81.6314536
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2488606802915,
+          "lng": 81.6328041302915
+        },
+        "southwest": {
+          "lat": 21.2461627197085,
+          "lng": 81.6301061697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. R. K. Khandelwal",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJqyopmpbdKDoRxMRJGLSphbI",
+    "rating": 5,
+    "reference": "ChIJqyopmpbdKDoRxMRJGLSphbI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "6JXJ+2H8, Moudhapara, Raipur"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 21.2497738,
+        "lng": 81.6352241
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2511194302915,
+          "lng": 81.6366044802915
+        },
+        "southwest": {
+          "lat": 21.2484214697085,
+          "lng": 81.63390651970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Apurv Dental Traders",
+    "permanently_closed": true,
+    "place_id": "ChIJx3H4tJDdKDoRTlhULGp1Nfo",
+    "reference": "ChIJx3H4tJDdKDoRTlhULGp1Nfo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "near City Kotwali, Malviya Road, near City Kotwali, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2568421,
+        "lng": 81.6322959
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.25829078029151,
+          "lng": 81.6336589802915
+        },
+        "southwest": {
+          "lat": 21.2555928197085,
+          "lng": 81.6309610197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Khemka Dental Clinic & Implant Centre | Best Dental Clinic in Raipur",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108680220477235091494\">Dr Khemka Dental Clinic &amp; Implant Centre | Best Dental Clinic in Raipur</a>"
+        ],
+        "photo_reference": "AdCG2DPaWohTdO4f0EAwypBEkU1iggQT37MBVci1dgoYZtwf23vriZKNNeOX4MJocJJc_rBhZa9bodSNOtX1aYYLt-49pnut-4Zj6h40_L-gTFCwAJ1ZCjZnWbX9ra2SfMZ9P8iyKtso03DnjKRsq0WbqUudLjkTw5X26nkRvUggQcX0aprX",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJmdJP3pTdKDoRSi8_28rn52Q",
+    "plus_code": {
+      "compound_code": "7J4J+PW Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J4J+PW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJmdJP3pTdKDoRSi8_28rn52Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Satyanarayan Dharamshala, Station Road, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2447039,
+        "lng": 81.63016619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2460618302915,
+          "lng": 81.6315499802915
+        },
+        "southwest": {
+          "lat": 21.2433638697085,
+          "lng": 81.62885201970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KHUSHI DENTAL CARE",
+    "place_id": "ChIJX5CI6JXdKDoRdKIoSTT2ut4",
+    "rating": 5,
+    "reference": "ChIJX5CI6JXdKDoRdKIoSTT2ut4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "6JVJ+V3M, Titya Para Road, Ramsagar Para, Jawahar Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2580217,
+        "lng": 81.6245263
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2593484302915,
+          "lng": 81.6258281302915
+        },
+        "southwest": {
+          "lat": 21.2566504697085,
+          "lng": 81.62313016970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DR.AJAY SINGH THAKUR(THAKUR DENTAL CLINIC)",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJRytVV-PdKDoRhfwTjywX13w",
+    "plus_code": {
+      "compound_code": "7J5F+6R Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J5F+6R"
+    },
+    "rating": 5,
+    "reference": "ChIJRytVV-PdKDoRhfwTjywX13w",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "STATION, Telghani Naka Road, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2598208,
+        "lng": 81.6275735
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2611699302915,
+          "lng": 81.62892243029151
+        },
+        "southwest": {
+          "lat": 21.2584719697085,
+          "lng": 81.6262244697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Om Sai Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJn1ABTPDdKDoRMOqzy6RrJ3s",
+    "plus_code": {
+      "compound_code": "7J5H+W2 Gudhiyari, Chhattisgarh, India",
+      "global_code": "7MH37J5H+W2"
+    },
+    "reference": "ChIJn1ABTPDdKDoRMOqzy6RrJ3s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "opposite Axis Bank Branch, 7/110 near GANGA MEDICAL STORES Opposite LAXMI MEDICAL HALL, opposite Axis Bank Branch, Sukrawari Bazar, Gudhiyari"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2570306,
+        "lng": 81.6367853
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2585272302915,
+          "lng": 81.6381832302915
+        },
+        "southwest": {
+          "lat": 21.2558292697085,
+          "lng": 81.63548526970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Sunita Chhatre",
+    "place_id": "ChIJvTPwXYXdKDoR4hbp8d4L39s",
+    "plus_code": {
+      "compound_code": "7J4P+RP Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J4P+RP"
+    },
+    "rating": 2.3,
+    "reference": "ChIJvTPwXYXdKDoR4hbp8d4L39s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Labh Complex, near Dakshin Swad Hotel, Chowk, Fafadih, Raipur"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 21.2564,
+        "lng": 81.637346
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2577854302915,
+          "lng": 81.6386383802915
+        },
+        "southwest": {
+          "lat": 21.2550874697085,
+          "lng": 81.63594041970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chhatre Dental Clinic - Multi speciality Cosmetic, Dental Clinic",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 669,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102471328724396525305\">Himanshi Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DP6yAJA5Py6N6gWpopV2HQvfFoHK5OY6-wsXN4Wsfgdh1JCeqan86AbvZ_eu4Ci-zSJSD1DRJprjvCgtufMgPkjmlqq0TMCEG5sPwsD4N-Np-c-OryBgoUZZrQlfzS3-aXG1x8ANiFF4boJHCKfJ3ougWJ_uXLD9WlX_huvY-qK7GAF",
+        "width": 1153
+      }
+    ],
+    "place_id": "ChIJ1_PtRYXdKDoRFSqJT90ADFs",
+    "plus_code": {
+      "compound_code": "7J4P+HW Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J4P+HW"
+    },
+    "rating": 2.3,
+    "reference": "ChIJ1_PtRYXdKDoRFSqJT90ADFs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Labh Complex, near Dakshin Swad Hotel, Fafadih Chowk, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2583283,
+        "lng": 81.6366554
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2597078802915,
+          "lng": 81.63801093029151
+        },
+        "southwest": {
+          "lat": 21.2570099197085,
+          "lng": 81.6353129697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "आर.एम.होम्योपैथिक सेन्टर",
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113982249311182681532\">PANDEY G</a>"
+        ],
+        "photo_reference": "AdCG2DPj4te2Etua0yYMlwEWkGJU8jisEJ9tYGhmTLELnqDkza7oUoTDOfzrZRaVEaQX_2gLNLSkn5A9loPm2mCRde91wZ8wNcfh8Q8zKWF5caRSYiW808CYI9GJyjHHDhBwoh2ICckq6_YNKKXUyrH6ANMKDgwaCMjz-n_cOw2ZWOQxsmjz",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJpYHefoXdKDoRc1x3Ak5N2WE",
+    "plus_code": {
+      "compound_code": "7J5P+8M Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J5P+8M"
+    },
+    "reference": "ChIJpYHefoXdKDoRc1x3Ak5N2WE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.24000689999999,
+        "lng": 81.6298425
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2413295802915,
+          "lng": 81.63125408029151
+        },
+        "southwest": {
+          "lat": 21.2386316197085,
+          "lng": 81.62855611970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tiwary Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 507,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107841836971364564782\">Tiwary Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO6qJLt_G_DHS-YB98OW6dxnZMtKpYKU2BZF6XAXoXZux2htW58SSJeWfolG-kAlegsrF6S7NjadIy0Hbf1tHB1cglGeP0AXsbmlUHgKTVrkT-NKGMfOYSGJiHhmPOWA6qR_kv6dZchiucIlZflWc-KhHb8I78vj5twsYM2XDM8NxSJ",
+        "width": 523
+      }
+    ],
+    "place_id": "ChIJl5riiL7dKDoRdt10sfEbrI4",
+    "plus_code": {
+      "compound_code": "6JRH+2W Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JRH+2W"
+    },
+    "rating": 3.3,
+    "reference": "ChIJl5riiL7dKDoRdt10sfEbrI4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Nayapara, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2466019,
+        "lng": 81.6181981
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2478600802915,
+          "lng": 81.6195565802915
+        },
+        "southwest": {
+          "lat": 21.2451621197085,
+          "lng": 81.6168586197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Om Dental Hospital and Implant centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1021,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102452397446522879966\">Om Dental Hospital and Implant centre</a>"
+        ],
+        "photo_reference": "AdCG2DMmZsQjEBYfF39gg41CvKu4m745zMFRt3c9dCcnH78XU73oCaE4_6X715N23ccy6DpTsoBRsN4ViwM5wx84G5927aXVgHMkNiujV9sQJ7IMAGOIS-R3cbD3tkwKl5m3lsnaO_8jRpJU3x5YVf15GBz5hNYxsKbrUIKETqYgDDr2LYUV",
+        "width": 634
+      }
+    ],
+    "place_id": "ChIJXW2IAOvdKDoR1SgLzaADLvM",
+    "plus_code": {
+      "compound_code": "6JW9+J7 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JW9+J7"
+    },
+    "rating": 3.9,
+    "reference": "ChIJXW2IAOvdKDoR1SgLzaADLvM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "H. No 117, near IDBI bank, opposite Punjab National Bank, 117, Samta Colony Main Road, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.247524,
+        "lng": 81.6418736
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2488695302915,
+          "lng": 81.6431507802915
+        },
+        "southwest": {
+          "lat": 21.2461715697085,
+          "lng": 81.6404528197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "RheumaDent Speciality Care | Multi-speciality Dental Clinic | Rheumatologist In Raipur | Endodontics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1781,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104983715267211067806\">RheumaDent Speciality Care | Multi-speciality Dental Clinic | Rheumatologist In Raipur | Endodontics</a>"
+        ],
+        "photo_reference": "AdCG2DOgDlhegexz7eVv9EJyGj2hyFDnvBSxm7IV9OZzya8iNrpASqX33K-qhBH6CuJYV5uhm1sMjGLxewjs4QCp4j5p23OgquF-YLwaeSBp9A3gMuB8-i1QWciGXej4_1781p279_7mH9N1GuybMBUaVDTPPyeQJxbe9Ux_ovyhkjigGFd3",
+        "width": 1472
+      }
+    ],
+    "place_id": "ChIJ608GLE_dKDoRhp9ZBG524AI",
+    "plus_code": {
+      "compound_code": "6JXR+2P Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JXR+2P"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ608GLE_dKDoRhp9ZBG524AI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Shop No 12, Nagdev Plaza, opposite City hospital, Kutchery Chowk, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2395658,
+        "lng": 81.6259443
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2409169302915,
+          "lng": 81.62730428029151
+        },
+        "southwest": {
+          "lat": 21.23821896970849,
+          "lng": 81.62460631970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.rajendre Parganih",
+    "place_id": "ChIJS3bZer_dKDoR5YTa5W70TYI",
+    "plus_code": {
+      "compound_code": "6JQG+R9 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JQG+R9"
+    },
+    "reference": "ChIJS3bZer_dKDoR5YTa5W70TYI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "shop no 5, Great Eastern Road, Moudhapara, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2393501,
+        "lng": 81.6268329
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2407491802915,
+          "lng": 81.6281966302915
+        },
+        "southwest": {
+          "lat": 21.2380512197085,
+          "lng": 81.62549866970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Samyag Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113724104036282173881\">Samyag Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPlC8GHsWEImffqUzSzgUZhwkAqu7zUOfx6_6P9Rh4BWFBeCChJAJg6feTYv5VIFXdayPnbeFKpFsAwbVUynKS7Ii4DABRIjObf6Kh_8epVVQRrhZcQJ2cuJniKXHk4v7-FLxBgozX_fsthkY1D2owhJJc3FQnfiURzM0ch6OWqhHyU",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJz2hmoybdKDoRY3GjXRbWnMY",
+    "plus_code": {
+      "compound_code": "6JQG+PP Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JQG+PP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJz2hmoybdKDoRY3GjXRbWnMY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 66,
+    "vicinity": "opposite Sai Mandir, Azad Chowk Road, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2607229,
+        "lng": 81.6205671
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2620418802915,
+          "lng": 81.62187428029151
+        },
+        "southwest": {
+          "lat": 21.2593439197085,
+          "lng": 81.61917631970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Prime Dental Care | Best Dentist in Raipur | Best Dental Clinic in Raipur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106910515190079384187\">Prime Dental Care | Best Dentist in Raipur | Best Dental Clinic in Raipur</a>"
+        ],
+        "photo_reference": "AdCG2DPo1MB_9cc3RyqdIxs5IWP_AFZ9sSWCgAV03pl-tFm1tgFUH58rTVQlEs9x0n82breChIv378WDl6NhK7AuTUSNS9BPG9qojZlFQmJSbKU-WYEjiICB4U8rcXVfZDqt1FmM6WA_Dh49jsChtqJK-6aJbuYAqop92tkBqUtJPExCj9Nv",
+        "width": 2400
+      }
+    ],
+    "place_id": "ChIJ9brkz4_dKDoRzAN8Xq7UDl8",
+    "plus_code": {
+      "compound_code": "7J6C+76 Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J6C+76"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ9brkz4_dKDoRzAN8Xq7UDl8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "vicinity": "opposite Bharat Mata Chowk, Lig 16, Gudhiyari"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2618227,
+        "lng": 81.63735319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2631795802915,
+          "lng": 81.63865178029151
+        },
+        "southwest": {
+          "lat": 21.2604816197085,
+          "lng": 81.63595381970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. S. Jain's Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114648612536850372998\">Dr. S. Jain&#39;s Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO1oJN7Y2OLIN-Cd61n7IdhKVXHGHOigiUO1dT6pfFbysDWu9q0FT7k76UlRjLjfP0UUeEcgq_kUJugwDBdOdRxklS8NU27N25G2HrYv-b09GGZXoCoE4oZrtuIy1Gk8r99V8Zzwz1eKCpLIP1VOBWgqkB4TVAwq_QFYn7kT_-80hhX",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJmZ2XUXXdKDoRm1g7A6tronk",
+    "plus_code": {
+      "compound_code": "7J6P+PW Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J6P+PW"
+    },
+    "rating": 5,
+    "reference": "ChIJmZ2XUXXdKDoRm1g7A6tronk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "Dr. S. Jain's Dental clinic, beside Jain electricals, near SBI Bank, beside anise restaurant, Fafadih, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2408097,
+        "lng": 81.62123570000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2422336802915,
+          "lng": 81.62260618029151
+        },
+        "southwest": {
+          "lat": 21.2395357197085,
+          "lng": 81.61990821970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "फतनानी पॉली क्लिनिक",
+    "place_id": "ChIJsZfBl8HdKDoRHXyBlSjFzVU",
+    "reference": "ChIJsZfBl8HdKDoRHXyBlSjFzVU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "6JRC+8FH, Great Eastern Road, Ganjpara, Gurunanak Chowk, Jawahar Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2401584,
+        "lng": 81.6216376
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2414884302915,
+          "lng": 81.62303713029151
+        },
+        "southwest": {
+          "lat": 21.2387904697085,
+          "lng": 81.6203391697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Vivek Agrawal",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118414797704903411531\">Dr. Vivek Agrawal</a>"
+        ],
+        "photo_reference": "AdCG2DO_CzTtymSfeqJ5IkV224Vzz4l0Tn09iH0V9ECKNs2xeOtltsYckx3EHOeKoIGkOl5xbbOE8frK-dCyjaTq1jk0ZP7fhxVTzohvuMZSSM1pPPS6w0Pbug6ygXvoqQqBzBonF2uIw_O7aywK36GWJcW-UljkmjDIq9Ml7kM3iml76i66",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJE0J1JTzdKDoRsTIV9m6pSzQ",
+    "plus_code": {
+      "compound_code": "6JRC+3M Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JRC+3M"
+    },
+    "rating": 5,
+    "reference": "ChIJE0J1JTzdKDoRsTIV9m6pSzQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "opposite R D Tiwari School, Redaint Dental Clinic Gurughasidas Complex, G E Road, Amapara Near Vishal Nigha Math &, opposite R D Tiwari School, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2614053,
+        "lng": 81.64031779999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2627850302915,
+          "lng": 81.64165893029151
+        },
+        "southwest": {
+          "lat": 21.2600870697085,
+          "lng": 81.63896096970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SRIJAN DENTAL CLINIC",
+    "place_id": "ChIJ1TsY7oXdKDoRmJQPYr7ns9Q",
+    "reference": "ChIJ1TsY7oXdKDoRmJQPYr7ns9Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "7J6R+H48, near parag hospital, Fafadih, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2646206,
+        "lng": 81.63692170000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2659762302915,
+          "lng": 81.63834058029153
+        },
+        "southwest": {
+          "lat": 21.2632782697085,
+          "lng": 81.63564261970852
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pathak Dental Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108780962813545379385\">Pathak Dental Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DNLX3AfCKlKfpadpKvsKobVyfQaFuq_tZof40iIcHqvhHzbx9A45mxxS_LfWaVmqO_E8FwHanaEOnI3Cg3hEljetPNCpLgBCtsjQupic3nqNdJWujDnBPDoKrcrWwMsukGp5PvduriqvbLI8VAsnG8yvNGj7qdiOmxBmymVXb0kZd9O",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJWdHbJnbdKDoRrwB8D33ZGlA",
+    "plus_code": {
+      "compound_code": "7J7P+RQ Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J7P+RQ"
+    },
+    "rating": 5,
+    "reference": "ChIJWdHbJnbdKDoRrwB8D33ZGlA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "PATHAK DENTAL HOSPITAL, OPPOSITE LANE NO 4, Main Road, Fafadih, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2601015,
+        "lng": 81.64254389999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2614417302915,
+          "lng": 81.6439681802915
+        },
+        "southwest": {
+          "lat": 21.2587437697085,
+          "lng": 81.64127021970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shashwat Eye & Dental Hospital- Opthalmologist Doctor, Dentist In Raipur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 636,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109633567318896617732\">Shashwat Eye &amp; Dental Hospital- Opthalmologist Doctor, Dentist In Raipur</a>"
+        ],
+        "photo_reference": "AdCG2DNqubrrn_ESu4EXsg8oPhHEqGybEtVNqFLPX4PNJYZjjNPQrqGwoYZLD7oxwooiyaF5F1c0mim6LJbw0xLowPPrMuxstS6AYLkMWKZFK2b0uiXJ3tOrLHae9N8e0K2jXIRsYYTHLhfqqAglFtcAshC-28MbN9O-ED_P_xLVgI-DmVFb",
+        "width": 1100
+      }
+    ],
+    "place_id": "ChIJ3cxPBZvdKDoRkXmsdbUWdNo",
+    "plus_code": {
+      "compound_code": "7J6V+22 Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J6V+22"
+    },
+    "rating": 5,
+    "reference": "ChIJ3cxPBZvdKDoRkXmsdbUWdNo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "opposite New Timber Market Road, Survey No -214/04, opposite New Timber Market Road, Devendra Nagar Main Road, Sector-3, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2499817,
+        "lng": 81.6460985
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2513770302915,
+          "lng": 81.64739748029149
+        },
+        "southwest": {
+          "lat": 21.2486790697085,
+          "lng": 81.64469951970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Tamrakar's Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105569268786057884435\">Dr. Tamrakar&#39;s Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO2kqmdOYE3KxjhFxbY4anRhIVvWxfyn72JDAfXiCpGrgRMzZ4NRr6QDuFNkUbbHixRm5MjUCiwOlI8valmUt4X-w476gyqZv_hWVl9v_uYUpcO9cgpYas3bPJ6qTk9gLlC0vU3we5CWK5E_qAj63H92xjZhrCholMMsk1gl-GQgTy3",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJ5QobMZndKDoR2LTdBV_-NME",
+    "plus_code": {
+      "compound_code": "6JXW+XC Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JXW+XC"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ5QobMZndKDoR2LTdBV_-NME",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 72,
+    "vicinity": "R.C. Tower, opposite to Bus Stand, Pandri, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.235848,
+        "lng": 81.6289218
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2372020802915,
+          "lng": 81.6302354302915
+        },
+        "southwest": {
+          "lat": 21.2345041197085,
+          "lng": 81.6275374697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "B.N Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJV7vQnjfdKDoRtwOCOKhC35Q",
+    "plus_code": {
+      "compound_code": "6JPH+8H Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JPH+8H"
+    },
+    "rating": 4.4,
+    "reference": "ChIJV7vQnjfdKDoRtwOCOKhC35Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "near Kankali Talab, Kankalipara, Raipur Dham, Kalyani Bhawan, near Kankali Talab, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.23828679999999,
+        "lng": 81.638933
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2395997302915,
+          "lng": 81.64029248029149
+        },
+        "southwest": {
+          "lat": 21.2369017697085,
+          "lng": 81.63759451970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Sana Khan",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103699885568992026491\">Dr Sana Khan</a>"
+        ],
+        "photo_reference": "AdCG2DMK2Ts4BAIiPg_HpDIp3JLwwn-bmB6NdiWybXhEMm0uEaadYV9izWdgGPOX7ki3GowDc5Qq6yxMeHx0NCQP_cOz_oCFsRRDGvkmQ_QsfP3kJeUjzrdOcuu3FmNY2q-Kz7A1rI9i1KfZ-aQIk_3kwCDaEXfGDauDyvZ3UZAiPA7QEj1G",
+        "width": 3464
+      }
+    ],
+    "place_id": "ChIJRXORz_rdKDoR3VTPz3ciI8w",
+    "plus_code": {
+      "compound_code": "6JQQ+8H Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JQQ+8H"
+    },
+    "rating": 4.8,
+    "reference": "ChIJRXORz_rdKDoR3VTPz3ciI8w",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "near Masjid, Main Road, Chhotapara, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2444039,
+        "lng": 81.61419599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2457445302915,
+          "lng": 81.6156212302915
+        },
+        "southwest": {
+          "lat": 21.2430465697085,
+          "lng": 81.61292326970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Flosswork Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101114219160276965195\">Flosswork Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DP8szBo6Dy6qvHHTKRQf4W3CvwkivGHgeps3cpnzptAJSG-MQ_gADZMCrYNYnqZ7Hg4LQsq6kzmNUN029jnvRhZ1nuCaNweJBvvA3QFhJoLhs9UFQWx_IarM495EQoDFOhOwlqDzpKEu_14_B7hisT9hLwLOntrZEulPXhT40TTrDTo",
+        "width": 768
+      }
+    ],
+    "place_id": "ChIJzV21R3vdKDoRyp5qzn5RcXM",
+    "plus_code": {
+      "compound_code": "6JV7+QM Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JV7+QM"
+    },
+    "rating": 4.8,
+    "reference": "ChIJzV21R3vdKDoRyp5qzn5RcXM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "6, South Avenue, Choubey Colony, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2385469,
+        "lng": 81.64005860000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2398545302915,
+          "lng": 81.64141748029151
+        },
+        "southwest": {
+          "lat": 21.2371565697085,
+          "lng": 81.6387195197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Visharad Dental and Maxillofacial Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1529,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112123782860246170434\">Visharad Dental and Maxillofacial Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMu24Zkm18MlpDKmvjtOy3RnD_yUgBtN4b2nOR0S_wscUuyxuFwOv2IbDTwUrmU22WM2WwXMrFzJLQxqcVO4O5fy3kovKcEmXg0_E2IzYAuOm6VAeJl0P5RFmR84W0hud_4CvNCUFrm7PCWdZ5BhRxFFCdligPYNyD_7E-3sL-yujuo",
+        "width": 1170
+      }
+    ],
+    "place_id": "ChIJrSc_Lb_dKDoRmYPGT7BR3q8",
+    "plus_code": {
+      "compound_code": "6JQR+C2 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JQR+C2"
+    },
+    "rating": 5,
+    "reference": "ChIJrSc_Lb_dKDoRmYPGT7BR3q8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "opposite Subhash Stadium, Visharad Hospital, V Y City Centre, opposite Subhash Stadium, Moti Bagh, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2371312,
+        "lng": 81.6212903
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2384664302915,
+          "lng": 81.62264703029149
+        },
+        "southwest": {
+          "lat": 21.2357684697085,
+          "lng": 81.61994906970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "BAJAJ DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJL-ENfSLdKDoR46rW8xbP9EI",
+    "plus_code": {
+      "compound_code": "6JPC+VG Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JPC+VG"
+    },
+    "rating": 4,
+    "reference": "ChIJL-ENfSLdKDoR46rW8xbP9EI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "BAJAJ DENTAL CLINIC, CHOWK, Lakhe Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2606818,
+        "lng": 81.64399739999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2619986302915,
+          "lng": 81.64533848029149
+        },
+        "southwest": {
+          "lat": 21.2593006697085,
+          "lng": 81.64264051970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kumra Dental Solutions",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 811,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100736095999733598505\">Kumra Dental Solutions – Best Dentist in Raipur | Best Dental Hospital in Raipur</a>"
+        ],
+        "photo_reference": "AdCG2DNU3ypEXe6Ni-BEtxuAVMXKqvfYSZtKZ27vVfct0exI07qyY4mkhGji4PY3oXF7CSfdmFlK4IQyiqRxdBYKNaAlPLPOFCJ0tYzi9xAdNgKkBR1hCsZXPBya0deDMv-iwp1Y9WeMFAFkh8nnj9IdldVmkmTxd5_2Mz19Uq_g59-hhUZP",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJZy0yFErdKDoR0dl3kX7MfXc",
+    "plus_code": {
+      "compound_code": "7J6V+7H Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J6V+7H"
+    },
+    "rating": 5,
+    "reference": "ChIJZy0yFErdKDoR0dl3kX7MfXc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "C-77, Sector 2, Devendra Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2355916,
+        "lng": 81.6338693
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.23690498029151,
+          "lng": 81.6352075802915
+        },
+        "southwest": {
+          "lat": 21.2342070197085,
+          "lng": 81.6325096197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vrinda Dental Clinic & Implant Centre - Best Periodontist in Raipur | Dental Clinic in Raipur | Dentist in Raipur.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115344318450455591231\">Karan Barmat</a>"
+        ],
+        "photo_reference": "AdCG2DMYpzvLiJnYQoKsfaCEvNB4ACtsVjoV9GLS_DWAA7vTnMSjKvCuoSCq83s2tkHLgpFI0jH8WiYO-1z7gczlMi1-hEeQcHOMigfExiVm4HIoOAAvsALt2wl2YA3Rs2DYE18RdnezgpFwBg_93z_pJ1yMwliDlV-yAMCX3YXPH1sCMhl5",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJaZZK7ljdKDoRP57G3-6LOds",
+    "plus_code": {
+      "compound_code": "6JPM+6G Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JPM+6G"
+    },
+    "rating": 4.7,
+    "reference": "ChIJaZZK7ljdKDoRP57G3-6LOds",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "near Shyam talkies chowk, Opposite, Durga Mandir Road, Budhapara, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2505227,
+        "lng": 81.6472351
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2518999302915,
+          "lng": 81.64861358029151
+        },
+        "southwest": {
+          "lat": 21.2492019697085,
+          "lng": 81.6459156197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sparsh Skin & Dental Clinic|Dr Vartika Sahu - Best Orthodontist Raipur|Dr Ajit Kumar - Skin Clinic In Raipur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2269,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113423787652538359629\">Sparsh Skin &amp; Dental Clinic|Dr Vartika Sahu - Best Orthodontist Raipur|Dr Ajit Kumar - Skin Clinic In Raipur</a>"
+        ],
+        "photo_reference": "AdCG2DNL-mHuMlqfV5Tgspcz6RHs4xxKufNPaagIe9w1Da7l4Sml9zXojlT0pUZfMb6x6yeXKxU64Wp-t3gsYK5BXh4Kc7oGa8AGQFtj-1dw4khFPkOiDSQDYpWLt8vAFPbLjWvrtQJHsMAlVFFedn-v0rhEDpT77Orjq1jzH_78Hp_jelu5",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn0QOHlfdKDoR2EQadp0GKR0",
+    "plus_code": {
+      "compound_code": "7J2W+6V Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J2W+6V"
+    },
+    "rating": 5,
+    "reference": "ChIJn0QOHlfdKDoR2EQadp0GKR0",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "dentist",
+      "doctor",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 55,
+    "vicinity": "Bus Stand, 2/2 Govind nagar, near guru hotel, opposite pandari, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2367494,
+        "lng": 81.6391811
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2380617802915,
+          "lng": 81.6406597302915
+        },
+        "southwest": {
+          "lat": 21.2353638197085,
+          "lng": 81.6379617697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Super Speciality Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3488,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100868343896781239046\">Kamakshi Patel</a>"
+        ],
+        "photo_reference": "AdCG2DPuenRWMhXFmIEENrt1emQIVY2QfORvmjzFG-VXoWQFqTkDBwGpoey6T0cjsmUFYynpeVjoX0S9G2y38HZlR-CJTX0hahRDQKjKycsynRKDXSp9DJ6gfyK1XllG95zUcAlHIq05nSCtL0iiByZX91QPig4TQO4zCRKIY32mWuo_KOyK",
+        "width": 2093
+      }
+    ],
+    "place_id": "ChIJAf0B1UTdKDoRynU1o8we9AM",
+    "plus_code": {
+      "compound_code": "6JPQ+MM Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JPQ+MM"
+    },
+    "rating": 4.9,
+    "reference": "ChIJAf0B1UTdKDoRynU1o8we9AM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 76,
+    "vicinity": "beside Mahant College, opp. Rang mandir, Gandhi Chowk, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.24686509999999,
+        "lng": 81.6474514
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2482305802915,
+          "lng": 81.64883373029151
+        },
+        "southwest": {
+          "lat": 21.2455326197085,
+          "lng": 81.64613576970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Prestige Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 370,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111396015648508288868\">Prestige Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DN0LYrm9hBHasdIGRDzQlAcX-dBsVsn4Mln_9_0H64m5Y6sKLMnG9QQ7hjwMyuVeecC2eQhuC1H-T4w1wXsws0qn7IRnXydfgXhOyfzhK67iLMEaE5PuyJpH694biczezXOzkBtuabH3cbdYKz2-Ytq7pG_VrCQurEi6Hs3LJ_XEAFm",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJSabkq3fdKDoRq2FNQiUVbEI",
+    "plus_code": {
+      "compound_code": "6JWW+PX Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JWW+PX"
+    },
+    "rating": 4.9,
+    "reference": "ChIJSabkq3fdKDoRq2FNQiUVbEI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 344,
+    "vicinity": "First floor, 7A, Baban Prasad, near Naresh Trading, Mishra Marg, Ravi Nagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2362309,
+        "lng": 81.6386807
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2376083302915,
+          "lng": 81.64004948029151
+        },
+        "southwest": {
+          "lat": 21.2349103697085,
+          "lng": 81.63735151970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Kalpana Jain",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105625925073609454404\">Dr. Kalpana Jain</a>"
+        ],
+        "photo_reference": "AdCG2DMumoIa5sITuj7rW8rZrfwS0xgsH3PWV7Blb5hKLoIgdRgleclNe9H7AEkV_0u77-ORz95H7xgC3qiAMp8s4Ju0cfoywAcXItXs0zAZwtJEPJkkDg2QS93j-FaUJCxC9CUm1EjjGMLAOSkBk9StoVa0nCszqU6YU3HVjpIl-W34fO-O",
+        "width": 588
+      }
+    ],
+    "place_id": "ChIJn3Gjx5PdKDoRdpSFjvbBs7s",
+    "plus_code": {
+      "compound_code": "6JPQ+FF Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JPQ+FF"
+    },
+    "rating": 5,
+    "reference": "ChIJn3Gjx5PdKDoRdpSFjvbBs7s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Gandhi Chowk, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.250487,
+        "lng": 81.64830599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.25180793029151,
+          "lng": 81.6496239802915
+        },
+        "southwest": {
+          "lat": 21.2491099697085,
+          "lng": 81.64692601970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CFI Dental Clinic & Implant Center, Raipur - Dr. Neeraj Chandraker",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100569502839294439654\">CFI Dental Clinic &amp; Implant Center, Raipur - Dr. Neeraj Chandraker</a>"
+        ],
+        "photo_reference": "AdCG2DMKy8FbHyfB6lLCoUMw3DaoBBNy0bbjgdkCosZXNNTVe4eybaS8AwUFhdnmwrlgVFpDVSFsmdBp2Pc6-uXNml8qTiYnW8EN5XVCIhqJrgqKL4xgx_f-2FG4hgU2KRVrdtdUNwexw8KPyxt6B6fyJ1yvoWLggZbde31cuLLGRzbelUhV",
+        "width": 2175
+      }
+    ],
+    "place_id": "ChIJpa5XCDTdKDoRpImtAE6fFcE",
+    "plus_code": {
+      "compound_code": "7J2X+58 Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J2X+58"
+    },
+    "rating": 4.9,
+    "reference": "ChIJpa5XCDTdKDoRpImtAE6fFcE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 71,
+    "vicinity": "beside Axis bank, Pandri, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2528553,
+        "lng": 81.6489282
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2542060802915,
+          "lng": 81.6502753802915
+        },
+        "southwest": {
+          "lat": 21.2515081197085,
+          "lng": 81.64757741970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Vartika Sahu (Orthodontist in raipur)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113010189348188463904\">Dr Vartika Sahu (Orthodontist in raipur)</a>"
+        ],
+        "photo_reference": "AdCG2DO8rHYQfTc0shvx8fkPEqn8P2onJ4SpkOkoNB_kDe4GZq7T28BCBUytbooYqZIuYatKlyZca7uXlpY7EJqiSeMFMmztyD9Jx3QoGW374m_gk5B1lmCHsfZNiabEDJ_GXqeDcj0TbTjR3BNjKg1cptdKJx3L92zdc2SmOXtoXfa151Ux",
+        "width": 1290
+      }
+    ],
+    "place_id": "ChIJpQIPYgDdKDoRkYly2CgoF5o",
+    "plus_code": {
+      "compound_code": "7J3X+4H Raipur, Chhattisgarh, India",
+      "global_code": "7MH37J3X+4H"
+    },
+    "reference": "ChIJpQIPYgDdKDoRkYly2CgoF5o",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Pandri Road, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2443911,
+        "lng": 81.6110456
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2457665802915,
+          "lng": 81.61228218029152
+        },
+        "southwest": {
+          "lat": 21.2430686197085,
+          "lng": 81.60958421970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shivam Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1190,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102174652874988823206\">Shivam Dental &amp; Maxillofacial Clinic, Implant center and Hair transplant center</a>"
+        ],
+        "photo_reference": "AdCG2DOraleFy_l2Mp889WJ4bE0DHucs50GqTAel0cOm6yW2DdX-pUlLGLksSsVzh9yrmGAJZDasClFaHl6ZbjKHTk0QYzYLOedhB3vL_ck5AV5xts2gcynxup7clGm9iIM7GD2TQy6ukrqTb2OspTulHQO9lwIsI8Dis3ykrUCQBrYMfrLi",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJcSEGpzvdKDoRncLpfpa94IM",
+    "plus_code": {
+      "compound_code": "6JV6+QC Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JV6+QC"
+    },
+    "rating": 5,
+    "reference": "ChIJcSEGpzvdKDoRncLpfpa94IM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 143,
+    "vicinity": "Shop no. G6, ground floor, National Corporate Park,, near rajkumar college, GE road, Raipur., Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2477291,
+        "lng": 81.6493239
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2491075302915,
+          "lng": 81.6506588802915
+        },
+        "southwest": {
+          "lat": 21.2464095697085,
+          "lng": 81.6479609197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Medicare Multispeciality Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101355116869382689197\">Medicare Multispeciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN4mYVWU00CmbbXgiahWpuM-dJeg7i9eCyd1dAxTbAFEij3mLPAeb9iFcKjX0slwGo85GdfxP2qTaDoXviA8jzUXGLgQLQBNfHJNsb4DkpZE6JtAby1ztpQlo9SfSLtOHPSl2mLnlE4SjgjuEjJlDHOPLoY7HmVau8uhmtlHhIgoxoY",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ-btTNd7dKDoRjrg4abTNcX0",
+    "plus_code": {
+      "compound_code": "6JXX+3P Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JXX+3P"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ-btTNd7dKDoRjrg4abTNcX0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "behind B.P pujari school, Rajatalab, Raipur"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 21.23512849999999,
+        "lng": 81.64006169999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2365418302915,
+          "lng": 81.6413449302915
+        },
+        "southwest": {
+          "lat": 21.23384386970849,
+          "lng": 81.63864696970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chen`s Dental Clinic",
+    "permanently_closed": true,
+    "place_id": "ChIJ9fJ-S6TdKDoRMVbd0GzLQdE",
+    "plus_code": {
+      "compound_code": "6JPR+32 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JPR+32"
+    },
+    "reference": "ChIJ9fJ-S6TdKDoRMVbd0GzLQdE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "38, 1st Floor, Gurukul Complex, Kalibadi Chowk, Kalibadi Chowk, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2715019,
+        "lng": 81.63276450000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.27284738029151,
+          "lng": 81.63401933029152
+        },
+        "southwest": {
+          "lat": 21.2701494197085,
+          "lng": 81.6313213697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Laxminarayan Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104057468080511009273\">Laxminarayan Dental Clinic - Best Dentist | Dental Clinic | Top Dentist | Dental Implant Clinic in Raipur</a>"
+        ],
+        "photo_reference": "AdCG2DOxmvxrQovq3QEZK0wv7VuUnlNXqDPjzd1TXrZbpxicdEJ6TpiovVa6cqwtYNdrxsiJx7EGyThYWFxf-kVmQ4rsSKUx2w5rlpAidvvnOlER2DhchVKtsNYNI2KzRx5bjQIb-zhzxjm2BAXF27fKSSz5yDGu2z4PURHQfa6u_eOZG9M",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJNbIQo2PnKDoRDJkNPbJPayY",
+    "plus_code": {
+      "compound_code": "7JCM+J4 Raipur, Chhattisgarh, India",
+      "global_code": "7MH37JCM+J4"
+    },
+    "rating": 4.9,
+    "reference": "ChIJNbIQo2PnKDoRDJkNPbJPayY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "Sai plaza complex, opposite vandana furniture, durga mandir chowk, Shrinagar, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.244784,
+        "lng": 81.6506093
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2460912302915,
+          "lng": 81.6519557802915
+        },
+        "southwest": {
+          "lat": 21.24339326970849,
+          "lng": 81.6492578197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AROGYADHAM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104519886340067279402\">AROGYADHAM</a>"
+        ],
+        "photo_reference": "AdCG2DPbKzUdIvpVhYu-IQZW_V131oVV-vlChUixdOmWAgBmt1kyHUet3dRq62jStwtaDBoQLaFWcoHadBl6Big9psDt0zswoCjiBq9ChwSNlHvPfYUleFVtVCGhe-vYw5EiIkqGX06QGV-aEI6JtIvFT_TR62Mr1Qgnyp2wV7WpmJSe6e9g",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJbRwTMPgJGToRv4rkACjI11g",
+    "plus_code": {
+      "compound_code": "6MV2+W6 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36MV2+W6"
+    },
+    "rating": 4.8,
+    "reference": "ChIJbRwTMPgJGToRv4rkACjI11g",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "near DAIKIN SERVICE, opposite to GARDEN, Anand Nagar - Pandri Link Road, Indravati Colony, Raipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2719588,
+        "lng": 81.6340687
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.27327418029151,
+          "lng": 81.6354146302915
+        },
+        "southwest": {
+          "lat": 21.2705762197085,
+          "lng": 81.6327166697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "EVERSHINE EYE & DENTAL CLINIC",
+    "place_id": "ChIJf7OXc2PnKDoRC5H0Pxn1CL8",
+    "plus_code": {
+      "compound_code": "7JCM+QJ Raipur, Chhattisgarh, India",
+      "global_code": "7MH37JCM+QJ"
+    },
+    "reference": "ChIJf7OXc2PnKDoRC5H0Pxn1CL8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2303126,
+        "lng": 81.62290039999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2316715802915,
+          "lng": 81.6242639802915
+        },
+        "southwest": {
+          "lat": 21.2289736197085,
+          "lng": 81.6215660197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DENTAL CLINIC",
+    "place_id": "ChIJA-UHY8jdKDoRQ82MOb5c948",
+    "plus_code": {
+      "compound_code": "6JJF+45 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JJF+45"
+    },
+    "reference": "ChIJA-UHY8jdKDoRQ82MOb5c948",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 21.2370053,
+        "lng": 81.64794309999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2385093302915,
+          "lng": 81.6491445302915
+        },
+        "southwest": {
+          "lat": 21.2358113697085,
+          "lng": 81.64644656970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Manish Agrawal's Experteeth",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1825,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110489643098271247648\">Dr Manish Agrawal&#39;s Experteeth</a>"
+        ],
+        "photo_reference": "AdCG2DNhm0HPoUTwSyTEicgRTC5v7LNplgzG-_6SUR4fmsaQePGgG4j1wx_JhYAv01MCJXhKRr3J4ReZw27q2COlOySeGadVFeSfuGhIsXGT9FSCXxuc1Y0efZROfIX3Bh8uGWfbIe69GynGdv6PBIpromOIj7U_jsuLV7evuJx16zsUckEQ",
+        "width": 2738
+      }
+    ],
+    "place_id": "ChIJO0HXIUvdKDoR82mdHOG1vqA",
+    "plus_code": {
+      "compound_code": "6JPX+R5 Raipur, Chhattisgarh, India",
+      "global_code": "7MH36JPX+R5"
+    },
+    "rating": 5,
+    "reference": "ChIJO0HXIUvdKDoR82mdHOG1vqA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 666,
+    "vicinity": "1st floor, Above BRANDSHIP ,The Digital Studio Near Holy Hearts School, Janta Colony, Civil Lines, Raipur"
+  }
+]

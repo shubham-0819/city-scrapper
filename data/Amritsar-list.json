@@ -1,0 +1,2782 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.638483,
+        "lng": 74.8857584
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6398225802915,
+          "lng": 74.8871968302915
+        },
+        "southwest": {
+          "lat": 31.6371246197085,
+          "lng": 74.8844988697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dhaliwal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100234225552465909527\">Dhaliwal Hospital | Best Surgical Hospital in Amritsar</a>"
+        ],
+        "photo_reference": "AdCG2DPBpDI413dNv8ePE4wy4ccjruY_UeHRZ6IfCD7KQFDRa4byssDZs-wuG1XxKL0gL_fAwoH8P42ikpjpvjnPsp3bjQtRnpmm-BiKg76Jo268EVWxs_QguHVhWx_EcBiqPYbjnJL8lXaMl7yLd6HFvY8guQLFaoq1kYj7emr-NUctbkB1",
+        "width": 2999
+      }
+    ],
+    "place_id": "ChIJQyAKKFBjGTkRPVE0hY6wWi0",
+    "plus_code": {
+      "compound_code": "JVQP+98 Amritsar, Punjab, India",
+      "global_code": "8J3PJVQP+98"
+    },
+    "rating": 4.7,
+    "reference": "ChIJQyAKKFBjGTkRPVE0hY6wWi0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 532,
+    "vicinity": "3, Batala Road, Amritsar"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 31.640375,
+        "lng": 74.87337099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6417888802915,
+          "lng": 74.8747248802915
+        },
+        "southwest": {
+          "lat": 31.6390909197085,
+          "lng": 74.87202691970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Demat9",
+    "permanently_closed": true,
+    "place_id": "ChIJQwWK7adkGTkRRf3WSaN9F8M",
+    "plus_code": {
+      "compound_code": "JVRF+58 Amritsar, Punjab, India",
+      "global_code": "8J3PJVRF+58"
+    },
+    "rating": 2,
+    "reference": "ChIJQwWK7adkGTkRRf3WSaN9F8M",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "3, Ann Kay Victory Tower M.M.Malvyia Road, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6232177,
+        "lng": 74.8680442
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6245726302915,
+          "lng": 74.8693839302915
+        },
+        "southwest": {
+          "lat": 31.6218746697085,
+          "lng": 74.8666859697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "ARORA DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103282652183929025487\">ARORA DENTAL CLINIC-Best Dental Clinic in Amritsar</a>"
+        ],
+        "photo_reference": "AdCG2DNG3bHGFMy3_Xwo1oNTal-cL3seli9EkCBvv4usAAiGHjgZPlXzKHcnntiiOgCapLzaC46BBCT2tlkiMGfl3wB06COhYXEBt-lHdR1pmVBWOv0YueJEZBinIyEXJaeG1rhjAIM776MXV2V5OjkJBPlMnwMUVLczxxt1UtfcOT37H2e8",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJGRzA_lN7GTkRUamPZelGk7g",
+    "plus_code": {
+      "compound_code": "JVF9+76 Amritsar, Punjab, India",
+      "global_code": "8J3PJVF9+76"
+    },
+    "rating": 4.7,
+    "reference": "ChIJGRzA_lN7GTkRUamPZelGk7g",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38,
+    "vicinity": "near Hindu College Amritsar, C-8,, Dhab Khatikan,, near Hindu College Amritsar, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6457236,
+        "lng": 74.8844861
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.64710223029151,
+          "lng": 74.8858463802915
+        },
+        "southwest": {
+          "lat": 31.64440426970851,
+          "lng": 74.88314841970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Hundal Dental Traders-Dental Chair, Extraction Instruments & Autoclave Equipment’s Dealers | Disposables Supplier in Amritsar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 774,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100829475971109022975\">Hundal Dental Traders-Dental Chair, Extraction Instruments &amp; Autoclave Equipment’s Dealers | Disposables Supplier in Amritsar</a>"
+        ],
+        "photo_reference": "AdCG2DMGVyex6f5WMzy0rNveMi6fY9lUL1LRXSexPMnqTHKY-CIXCETW42gMJtM7umhyzFPBj0XilZXRmBjM43nbHon8cxHptqDE21E817XC3ms7gzoxHRZmjnQHlDPqjn_O3ZZxkKIizgtGDKqdIi8uYCyfbNmQzOmmNNwC0OMh8OSGwYYt",
+        "width": 1032
+      }
+    ],
+    "place_id": "ChIJ2afD-mhjGTkRlDlaXUNHqlI",
+    "plus_code": {
+      "compound_code": "JVWM+7Q Amritsar, Punjab, India",
+      "global_code": "8J3PJVWM+7Q"
+    },
+    "rating": 5,
+    "reference": "ChIJ2afD-mhjGTkRlDlaXUNHqlI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "Doctors Complex, children Hospital, opp. Govt. Eye & ENT Hospital & Naresh Grover, near Gupta Bakers & Dr Puri Lab, adjoining street, Majitha Road, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.63832219999999,
+        "lng": 74.87033310000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6397221802915,
+          "lng": 74.8717093802915
+        },
+        "southwest": {
+          "lat": 31.6370242197085,
+          "lng": 74.8690114197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "PARVEEN SAINI ROBOTICS ORTHOPAEDIC BEST KNEE , HIP& SHOULDER JOINT REPLACEMENT ADVANCED CENTRE AND DENTAL ORTHODONTIC CENTRE",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118113877047467723364\">PARVEEN SAINI ROBOTICS ORTHOPAEDIC BEST KNEE , HIP&amp; SHOULDER JOINT REPLACEMENT ADVANCED CENTRE AND DENTAL ORTHODONTIC CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DPUZt0WogqVUym0zaeRslkREl1Ch6bTn3xrD-yv7G-eKdUFZaq2HjQ1Fjwct-giJ9LE67DsRrhXrby18JP2bnPscg_l9fbGQC0m0U4xylLfRR63gtrIlB9zHMEyHkcPpb3yEGu2CmzzNA4NR9wxJqC3EsJJXxNEiDwW7FfhXVA9hhES",
+        "width": 6720
+      }
+    ],
+    "place_id": "ChIJo8JmmahkGTkRfTOxwPkmATM",
+    "plus_code": {
+      "compound_code": "JVQC+84 Amritsar, Punjab, India",
+      "global_code": "8J3PJVQC+84"
+    },
+    "rating": 4.8,
+    "reference": "ChIJo8JmmahkGTkRfTOxwPkmATM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 127,
+    "vicinity": "70-C, Taylor Road, Chanderpuri, opposite Gandhi grounds, near heritage club, Near, Lawrence Road, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6426255,
+        "lng": 74.8627851
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.64408823029149,
+          "lng": 74.86415678029151
+        },
+        "southwest": {
+          "lat": 31.64139026970849,
+          "lng": 74.86145881970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dream Smiles Dental & Skin Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112028119883620248326\">Dream Smiles Dental &amp; Skin Care</a>"
+        ],
+        "photo_reference": "AdCG2DMcRB6ljMuQTEwZOZ0ZsSVVEFhIm_6TDJeEFlHr7SRzBAmyn5M4MvFMi9pcVnTN77Bom9dwy_q2nCoZFXG4IKlsQ_0eh3TfN2-4CZL5QEhyBY1KCmWoU3y1cpOCuxS6KkAFOOOrM6tDb2JL-H-rBuAgJ9W0RFS7cuRotlIKvIT7xI3W",
+        "width": 4288
+      }
+    ],
+    "place_id": "ChIJOa4KsqRkGTkRKKfRmzP6hZc",
+    "plus_code": {
+      "compound_code": "JVV7+34 Amritsar, Punjab, India",
+      "global_code": "8J3PJVV7+34"
+    },
+    "rating": 4.7,
+    "reference": "ChIJOa4KsqRkGTkRKKfRmzP6hZc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "Mall Road, Kennedy Avenue, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.64967009999999,
+        "lng": 74.8792158
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.65103598029149,
+          "lng": 74.8805646302915
+        },
+        "southwest": {
+          "lat": 31.64833801970849,
+          "lng": 74.8778666697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentista Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1146,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104116121037541156757\">Dentista Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNW0gpWVKgrhVS8jhLj6Jb0_bElZ73lJcBewf4pRR9ujZTGUjA2phI6vpSmWOVhXJh_Rmhdlif5oWfJDsSIOtN5fRoVf14S6WiLbwgoACKzSC8WA6YcvUonlCU3p2mYJVM5QBiuzAnRddMsMzsZMkyQpZaoUhfjVk7O1yCHVMosDSmc",
+        "width": 792
+      }
+    ],
+    "place_id": "ChIJr1LLE15jGTkRrj5-AVW24mo",
+    "plus_code": {
+      "compound_code": "JVXH+VM Amritsar, Punjab, India",
+      "global_code": "8J3PJVXH+VM"
+    },
+    "rating": 4.5,
+    "reference": "ChIJr1LLE15jGTkRrj5-AVW24mo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Pushpa Market, opp. Axis Bank, near Tare Di Hatt, Lawrence Road Ext, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6477577,
+        "lng": 74.8604
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6490352802915,
+          "lng": 74.8616454302915
+        },
+        "southwest": {
+          "lat": 31.6463373197085,
+          "lng": 74.8589474697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sahib Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108408307424274778518\">Sahib Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN2Wt3Rillz4cC_JUyhgAaE0-fL7UYj-1R14SHq6L_ltl0XixXuEI-g2bq7Ao_qZAwkQ_k-WAaw3lOTtyJxfpxxJhF_WDaKCx3pHhW-oYkpAaKg1R8oxGePjExu_X8EC9hdXWPjCAg_Ouj39mCxdRDo7Vjq2wmmnyA-m0ekCgrKqO7n",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJDQuAbr1kGTkRhgtUyQdt5Zc",
+    "plus_code": {
+      "compound_code": "JVX6+45 Amritsar, Punjab, India",
+      "global_code": "8J3PJVX6+45"
+    },
+    "rating": 4.9,
+    "reference": "ChIJDQuAbr1kGTkRhgtUyQdt5Zc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 65,
+    "vicinity": "B -48 Ranjit Avenue Near Shemrock Public School"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.65042430000001,
+        "lng": 74.8788781
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6517760302915,
+          "lng": 74.88029743029152
+        },
+        "southwest": {
+          "lat": 31.64907806970851,
+          "lng": 74.87759946970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clove Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116433996878245307376\">Clove Dental</a>"
+        ],
+        "photo_reference": "AdCG2DPGTltj_HWfs8b2GOY4nhNRfO9VvxRZVu0aRFQeTUT7ZeO9IuLAajNwTrk3tPfmYFHO9nEABsxoYNIZQB3ubGKcO4dBjG2LyJg8osshnuMFMX6vAd98VyZM0Q7OWoMJCg5hUAyVoq8ctLmrioYrPL3fQrI9CqyvrT505Bs11m1-5Sag",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ49-nGl5jGTkRWb_G6GnmTbk",
+    "plus_code": {
+      "compound_code": "MV2H+5H Amritsar, Punjab, India",
+      "global_code": "8J3PMV2H+5H"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ49-nGl5jGTkRWb_G6GnmTbk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 598,
+    "vicinity": "Pal Tower, near Nayyar Hospital, Lawrence Road, Extn, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6164966,
+        "lng": 74.87146489999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6178704802915,
+          "lng": 74.87279023029151
+        },
+        "southwest": {
+          "lat": 31.6151725197085,
+          "lng": 74.8700922697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile N Shine Super Speaciality Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100375136215401765309\">Smile N Shine Super Speaciality Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMjvhh9hAiyO_lyfbKjDZcgj1V6gOlPXIX8hgT9ut-Sn2Nm7TmbQ3-Divzw8DYy4VdJGpS2SWBM4PChEPscQAep0yX3POJhFcFrQvnxTQ7K7clNJJjWgKun4LjZ1Y615Nm4QxX8lumUtgyC8Oy3tXyztay0CYC1txFEhqfgALP7LaU",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJgYcpKlh7GTkR2JLcal6TSfg",
+    "plus_code": {
+      "compound_code": "JV8C+HH Amritsar, Punjab, India",
+      "global_code": "8J3PJV8C+HH"
+    },
+    "rating": 4.9,
+    "reference": "ChIJgYcpKlh7GTkR2JLcal6TSfg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34,
+    "vicinity": "opposite gali teliya wali, Nimak Mandi, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.63001979999999,
+        "lng": 74.89447779999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6313731802915,
+          "lng": 74.8958346302915
+        },
+        "southwest": {
+          "lat": 31.6286752197085,
+          "lng": 74.8931366697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Simar's Dental & Oral Care Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107071576806329631299\">Dr. Simar&#39;s Orthodontic And Implant Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DM2AVIA2JoiJFJEogdJ52bCb5gVPu28ovCR5teSMXIoiIh1xe4wJnkOEfD8qNZfGdNvQBXFpuJ1Egnl703_-KVRKImeJ9yjuqMQEwLnXx4CnL7bQ1xO4bc8jry6vFrif-eMld44Q45aQpgkaBtPTWU4cbKh6xYgXgvYwMbKdPiF7tPy",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJfclRJ7V8GTkRLTRsTKBFoA8",
+    "plus_code": {
+      "compound_code": "JVJV+2Q Amritsar, Punjab, India",
+      "global_code": "8J3PJVJV+2Q"
+    },
+    "rating": 4.8,
+    "reference": "ChIJfclRJ7V8GTkRLTRsTKBFoA8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 134,
+    "vicinity": "Ram Talai Road, Main Bazaar, New Golden Avenue, Sharifpura, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6497832,
+        "lng": 74.8584692
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6511216302915,
+          "lng": 74.85977373029151
+        },
+        "southwest": {
+          "lat": 31.6484236697085,
+          "lng": 74.85707576970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dukhniwaran Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100327656268408840948\">Dukhniwaran Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPnbAje_zZ_F8ViKjx_pBpox5lGs9qz-ghNSFZoYJ31E5e6GxgZ0Ul9Ormkd_fMWI3066cpiHRSMIbkFhLzzXeyH4cLUJhcDveyHCE4W6IFBVpFODmrum2SroghWrs8iDoxAZtMgWzXiytapO-X8WGs2w2o3TUorRUr3or3vL-9AuMs",
+        "width": 2870
+      }
+    ],
+    "place_id": "ChIJaQfu1a5kGTkRuJjbqoZl5g4",
+    "plus_code": {
+      "compound_code": "JVX5+W9 Amritsar, Punjab, India",
+      "global_code": "8J3PJVX5+W9"
+    },
+    "rating": 4.9,
+    "reference": "ChIJaQfu1a5kGTkRuJjbqoZl5g4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 314,
+    "vicinity": "opposite to HDFC atm in, Flat shop 33, Ranjit avenue B block, opposite to HDFC atm in, A - Block, market, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6558144,
+        "lng": 74.85948719999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6570888802915,
+          "lng": 74.86064853029151
+        },
+        "southwest": {
+          "lat": 31.6543909197085,
+          "lng": 74.85795056970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clove Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108346943188322064780\">Clove Dental</a>"
+        ],
+        "photo_reference": "AdCG2DNUzUppv7OqY2a85dEDQ9cy-_cvSTKgUgdJpCCzky3GMJ6JjrpBD-JUj--undASfNkAj-NBxYTdF151jWc17I4ZmD5qoHU3kIHwk-z58Cp_IkRrFb2z7j8f9x0ZZH0rSXlwiTKlX4iGPEBk_kgIzRJ0R3uGtPtlrZSlf3TmlyBfnO_5",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ07O5JphkGTkRQbjfD2VvQE4",
+    "plus_code": {
+      "compound_code": "MV45+8Q Amritsar, Punjab, India",
+      "global_code": "8J3PMV45+8Q"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ07O5JphkGTkRQbjfD2VvQE4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 566,
+    "vicinity": "above Kafeine Cafe, near Mahindra Showroom, SCO- 75, Gumtala Sub Urban, D - Block, Ranjit Avenue, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6593787,
+        "lng": 74.8622867
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6607372802915,
+          "lng": 74.8636609802915
+        },
+        "southwest": {
+          "lat": 31.6580393197085,
+          "lng": 74.86096301970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr manjul mehra .Mehra dental / Kashvi Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105715334046886073063\">Manjul Mehra</a>"
+        ],
+        "photo_reference": "AdCG2DOVKbDwjDb6P6tNxXna8-c-SuP9eExZWVG-Xo3X0NuMkh2Xxx6CiNhfBxqHFHNEjwz3Nb6Nbx7iyp33D9XmwHoD_OwW7y0F2i2nl0bBq049ltSYkRlkTBSIAt0CmDDrn_nB-bmX-1eh7WGQqnLKvUh5zeBhuN0TSzpABiiwRXEDOPil",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJS3EIvWZjGTkRqrvhOyyeuuQ",
+    "plus_code": {
+      "compound_code": "MV56+QW Amritsar, Punjab, India",
+      "global_code": "8J3PMV56+QW"
+    },
+    "rating": 4.8,
+    "reference": "ChIJS3EIvWZjGTkRqrvhOyyeuuQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "E-Block Ranjit Avenue Market, 536, opp. mehak park, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.65449779999999,
+        "lng": 74.8814821
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.65586128029149,
+          "lng": 74.88293953029151
+        },
+        "southwest": {
+          "lat": 31.65316331970849,
+          "lng": 74.8802415697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Joy Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113407612912918348028\">Simarpreet Sandhu</a>"
+        ],
+        "photo_reference": "AdCG2DO3bKFBlS2SAUdjN4rW-PJHaTdtWqFHaHmHZ-qPZfPVP1PQ-SwoK7_1oGlZ_O86I3Bh2_8I9jzK8rRR9oMnikuiabs5DdZmBOr6G1WZMIJiwcUplvQ8OrEgSQrfdLqh701fm0xOpn2m78oX5D7xAiXhJouncDk-Xon93Z4YtobkPD6p",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJ2d2hwGZjGTkRp1J-ZYNoitw",
+    "plus_code": {
+      "compound_code": "MV3J+QH Amritsar, Punjab, India",
+      "global_code": "8J3PMV3J+QH"
+    },
+    "rating": 5,
+    "reference": "ChIJ2d2hwGZjGTkRp1J-ZYNoitw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 103,
+    "vicinity": "883, Circular Road, Medical Enclave, Amritsar"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 31.6339793,
+        "lng": 74.8722642
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.63531993029149,
+          "lng": 74.87361443029151
+        },
+        "southwest": {
+          "lat": 31.6326219697085,
+          "lng": 74.87091646970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "S P Arora and Co",
+    "permanently_closed": true,
+    "place_id": "ChIJVXOeVqpkGTkRrNu-4wWy18s",
+    "reference": "ChIJVXOeVqpkGTkRrNu-4wWy18s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Mohanlal & Sons, Majitha Mandi, Shastri Market, Shastri Market, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.63468319999999,
+        "lng": 74.86994279999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.63606873029149,
+          "lng": 74.8712837802915
+        },
+        "southwest": {
+          "lat": 31.6333707697085,
+          "lng": 74.8685858197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Puneet Kumar",
+    "place_id": "ChIJ5cPaFKlkGTkRsFqwfEI-J4c",
+    "plus_code": {
+      "compound_code": "JVM9+VX Amritsar, Punjab, India",
+      "global_code": "8J3PJVM9+VX"
+    },
+    "reference": "ChIJ5cPaFKlkGTkRsFqwfEI-J4c",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6356941,
+        "lng": 74.8748859
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6369739302915,
+          "lng": 74.8762502802915
+        },
+        "southwest": {
+          "lat": 31.6342759697085,
+          "lng": 74.8735523197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Parekh Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 797,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107129233189904404126\">Parekh Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMnMn2R9qCF8cEkr6hZC4Z5gG5wnSQFQQXckR3Te1sqx0t3DvWJRfovzk91L5Gx50y1dJaSy8-CJ0MKgGXbTT1cpE4uFMBQiEyo2CrMx2NQVlQaDs8sU3cqQkvtUEmvFY7LpIo7UBjkwna4hNcZtiGqsWO6MFClQ13ax1HYpNXgApFp",
+        "width": 1418
+      }
+    ],
+    "place_id": "ChIJDUMNO1ZjGTkRdet6xb0M24U",
+    "plus_code": {
+      "compound_code": "JVPF+7X Amritsar, Punjab, India",
+      "global_code": "8J3PJVPF+7X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJDUMNO1ZjGTkRdet6xb0M24U",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 77,
+    "vicinity": "near Crystal Chowk, #208, Queens Road, INA Colony, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.63148099999999,
+        "lng": 74.8749538
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6328156802915,
+          "lng": 74.8762977802915
+        },
+        "southwest": {
+          "lat": 31.6301177197085,
+          "lng": 74.87359981970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SHAKTI ORTHO",
+    "place_id": "ChIJM29sm1VjGTkRTJyDPZ24JQs",
+    "rating": 5,
+    "reference": "ChIJM29sm1VjGTkRTJyDPZ24JQs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "JVJF+HXW, Chitra Talkies Road, Hall Bazar, Katra Ahluwalia, Amritsar"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 31.630082,
+        "lng": 74.87342300000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6314209302915,
+          "lng": 74.8747489302915
+        },
+        "southwest": {
+          "lat": 31.62872296970851,
+          "lng": 74.8720509697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile dental spa",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109349376367798190570\">Smile dental spa</a>"
+        ],
+        "photo_reference": "AdCG2DMPT3k348R-NzJFLQ51f40z5e51Xo3QYHV9dkVtlyLxYPJAEygHtUgiC6udm-pM2XgeIBa8PJ2CpZnchGb55btqs6vt2OC3uRDxR16BPaDCnw8pjtiITDXCe4hoeMpCB-XgLckvzfagXr4pgK7gDjh_YEu4D8vHpJ4a3JGN8HQHGpYM",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJGTyHmqpkGTkR3qH18PfIauM",
+    "plus_code": {
+      "compound_code": "JVJF+29 Amritsar, Punjab, India",
+      "global_code": "8J3PJVJF+29"
+    },
+    "rating": 4.9,
+    "reference": "ChIJGTyHmqpkGTkR3qH18PfIauM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34,
+    "vicinity": "172, Katra Moti Ram, Hathi Gate, Amritsar"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 31.628973,
+        "lng": 74.874659
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6302871302915,
+          "lng": 74.8760394802915
+        },
+        "southwest": {
+          "lat": 31.6275891697085,
+          "lng": 74.87334151970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Om Enterprises",
+    "permanently_closed": true,
+    "place_id": "ChIJo7-HWlVjGTkR1P9D_w8I8ss",
+    "reference": "ChIJo7-HWlVjGTkR1P9D_w8I8ss",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "JVHF+HVM, Kucha Dai Khana, Katra Sher Singh, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6280238,
+        "lng": 74.8727449
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.62935793029149,
+          "lng": 74.8740657802915
+        },
+        "southwest": {
+          "lat": 31.62665996970849,
+          "lng": 74.8713678197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.Amit Sharma",
+    "place_id": "ChIJEbU1tapkGTkR7aiWw55sWu8",
+    "plus_code": {
+      "compound_code": "JVHF+63 Amritsar, Punjab, India",
+      "global_code": "8J3PJVHF+63"
+    },
+    "reference": "ChIJEbU1tapkGTkR7aiWw55sWu8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.629609,
+        "lng": 74.8778573
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6309571302915,
+          "lng": 74.87920898029151
+        },
+        "southwest": {
+          "lat": 31.6282591697085,
+          "lng": 74.8765110197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ram Parkash Ashok Kumar",
+    "place_id": "ChIJS7VU21RjGTkRqOj3CQKTYX0",
+    "reference": "ChIJS7VU21RjGTkRqOj3CQKTYX0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "JVHH+R4X, adjacent to Gupta Cloth House, Chownk, Katra Bhagian, Ram Bagh, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6291992,
+        "lng": 74.8786186
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6305311302915,
+          "lng": 74.8799291302915
+        },
+        "southwest": {
+          "lat": 31.6278331697085,
+          "lng": 74.87723116970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.Sushil Gupta",
+    "place_id": "ChIJXe05tlRjGTkR-d72mZccRfs",
+    "plus_code": {
+      "compound_code": "JVHH+MC Amritsar, Punjab, India",
+      "global_code": "8J3PJVHH+MC"
+    },
+    "reference": "ChIJXe05tlRjGTkR-d72mZccRfs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6414843,
+        "lng": 74.8745675
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6427815802915,
+          "lng": 74.8759064302915
+        },
+        "southwest": {
+          "lat": 31.6400836197085,
+          "lng": 74.87320846970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. YUKTI GUPTA",
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113410194865354050561\">yudhbir singh</a>"
+        ],
+        "photo_reference": "AdCG2DNZNXz4ZzWYfhQFOIQRs6ypnyUxhCHwL8z8WjnA4PV8iG9i4wCkxMaZ73-xmFmeA7QIOJSIizkr6x-VgCxy1A9SSjHxKuSAdhIVWNmO2g3ajL0HwvQPW1dmI1-dSv8WFp-YX2EYqX1iDQui9nUPEYEZ7sYkIcQNMstLt83BTdck177a",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJu_3-eVhjGTkR3i2q5MuEHIc",
+    "plus_code": {
+      "compound_code": "JVRF+HR Amritsar, Punjab, India",
+      "global_code": "8J3PJVRF+HR"
+    },
+    "rating": 5,
+    "reference": "ChIJu_3-eVhjGTkR3i2q5MuEHIc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "The Mall, DENTAL STUDIO, Adult and Paediatric Dentistry,, Basement DR VED GUPTA HOSPITAL, 355, MALL ROAD, Adjoining Govt. Girls School,, AMRITSAR, 117-A, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6262006,
+        "lng": 74.8727056
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6275576802915,
+          "lng": 74.8740694302915
+        },
+        "southwest": {
+          "lat": 31.6248597197085,
+          "lng": 74.87137146970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. HIRA LAL KHANNA",
+    "place_id": "ChIJz-m7bFV7GTkRUGvBxFaZKPA",
+    "plus_code": {
+      "compound_code": "JVGF+F3 Amritsar, Punjab, India",
+      "global_code": "8J3PJVGF+F3"
+    },
+    "reference": "ChIJz-m7bFV7GTkRUGvBxFaZKPA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.64160979999999,
+        "lng": 74.87471819999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6429612302915,
+          "lng": 74.8761117302915
+        },
+        "southwest": {
+          "lat": 31.6402632697085,
+          "lng": 74.87341376970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Om Parkash Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116071234266028006582\">Dr. Om Parkash</a>"
+        ],
+        "photo_reference": "AdCG2DP_8K6aeolSj-5G9VCNdcSwAEVxY6VqjHBE3Aub5R4kO75j6y39WhGHwXl6fCutOWXakjdwjf_NNfYIaMbOcPqBs05HXBbp5Y5TT6v4VpMjPu4kOTZRzf7AWkxIbPNf8R8sm270SBSQ7Mnat3Ka3U_vDU-u7dnpfBOeYBJA_yIIoee7",
+        "width": 2500
+      }
+    ],
+    "place_id": "ChIJ43u7O01ON6URajm8BvW3Suo",
+    "plus_code": {
+      "compound_code": "JVRF+JV Amritsar, Punjab, India",
+      "global_code": "8J3PJVRF+JV"
+    },
+    "rating": 5,
+    "reference": "ChIJ43u7O01ON6URajm8BvW3Suo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 664,
+    "vicinity": "The Mall, beside omaxe novelty mall, 117-A, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.64220449999999,
+        "lng": 74.8753529
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6435536302915,
+          "lng": 74.8767019802915
+        },
+        "southwest": {
+          "lat": 31.6408556697085,
+          "lng": 74.8740040197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Gupta Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115089015397229725825\">Gupta Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DORCRFJ3XNVYOxNU87ia77Xtm5I8zhSpnDWfrhV_DLvAOrZ9vjPteWdoiqoNu0rtQ27CJ1f9RaxOBgZn8CG9w5oKnmRchNRiAstFm_u4ohJP9rOThbp0hBOUZMq4qFT3YAiLq_Y1Eu597H7vWJVshjxU9QAJN13zKwG1KuX4vC5MNj0",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJCYuCnx9jGTkREygTRr00Jyg",
+    "plus_code": {
+      "compound_code": "JVRG+V4 Amritsar, Punjab, India",
+      "global_code": "8J3PJVRG+V4"
+    },
+    "rating": 4.8,
+    "reference": "ChIJCYuCnx9jGTkREygTRr00Jyg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "opposite Nehru shopping complex, Nanak building, opposite Nehru shopping complex, Lawrence Road, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6336452,
+        "lng": 74.8836464
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6349556802915,
+          "lng": 74.88503443029151
+        },
+        "southwest": {
+          "lat": 31.63225771970851,
+          "lng": 74.8823364697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.Krishna Oberoi",
+    "place_id": "ChIJId1qOFJjGTkRiK5ShBhP_is",
+    "reference": "ChIJId1qOFJjGTkRiK5ShBhP_is",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "JVMM+FF2, Shivala Road, Hussainpura, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6433539,
+        "lng": 74.8694519
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6447258802915,
+          "lng": 74.87067553029149
+        },
+        "southwest": {
+          "lat": 31.6420279197085,
+          "lng": 74.86797756970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "( Child dental care) Aesthetica dental care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 331,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112481180571961041671\">( Child dental care) Aesthetica dental care</a>"
+        ],
+        "photo_reference": "AdCG2DNljJbxAUUX3OZqfbA-1biXsinmiHqLJdmpquZ3xtwbL7xc_QuuDkKswaaLjlotAKl5NCTwVebgYOZ1xyOmRWPDyPctUwDtmlx2ImD2OtYefoLJEc7bXS-kwjDi6wy4QntmNWfIL2azlRiHtNV3s6im7aCEgixbtD_7Egpc0UTkDnj_",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJCSVe-Z5kGTkRrTd1B11K1pE",
+    "plus_code": {
+      "compound_code": "JVV9+8Q Amritsar, Punjab, India",
+      "global_code": "8J3PJVV9+8Q"
+    },
+    "rating": 4.8,
+    "reference": "ChIJCSVe-Z5kGTkRrTd1B11K1pE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "28, Rose Avenue, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6336776,
+        "lng": 74.8836937
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6350693302915,
+          "lng": 74.8850723302915
+        },
+        "southwest": {
+          "lat": 31.6323713697085,
+          "lng": 74.88237436970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Taneja Dental Clinic",
+    "place_id": "ChIJySVJOFJjGTkR8-3pIloMKg4",
+    "plus_code": {
+      "compound_code": "JVMM+FF Amritsar, Punjab, India",
+      "global_code": "8J3PJVMM+FF"
+    },
+    "reference": "ChIJySVJOFJjGTkR8-3pIloMKg4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Bus Stand, City Centre, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6340263,
+        "lng": 74.8839569
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6352948802915,
+          "lng": 74.88538923029151
+        },
+        "southwest": {
+          "lat": 31.6325969197085,
+          "lng": 74.8826912697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "New Era Dental Lab",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107872033231245691539\">New Era Dental Lab</a>"
+        ],
+        "photo_reference": "AdCG2DNi-Cxnw5qk7eSf6pp7opaHnGJEy02m5tfsfLxvazvVoJUCTDN6JT8VLQDHJbw899j4elh6a6WojWOMOQVCQ416fA_IyBRTMZjS69r2417mkBpCJ4zChZ1vyksO0szUoUclTJm_s5wFIGDts5oDX6y6T9KYWx_OxW70yIt3Uba4sp-6",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJQ8v_dNVjGTkRxg-eGI4CbAM",
+    "plus_code": {
+      "compound_code": "JVMM+JH Amritsar, Punjab, India",
+      "global_code": "8J3PJVMM+JH"
+    },
+    "rating": 5,
+    "reference": "ChIJQ8v_dNVjGTkRxg-eGI4CbAM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Near Fatak, West Hussain Pura, Hussainpura, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6385042,
+        "lng": 74.8617553
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6398457802915,
+          "lng": 74.8630967802915
+        },
+        "southwest": {
+          "lat": 31.6371478197085,
+          "lng": 74.8603988197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "𝗪𝗢𝗥𝗟𝗗 𝗗𝗘𝗡𝗧𝗔𝗟 𝗖𝗔𝗥𝗘 𝗖𝗘𝗡𝗧𝗥𝗘",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3926,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102455014141707645496\">𝗪𝗢𝗥𝗟𝗗 𝗗𝗘𝗡𝗧𝗔𝗟 𝗖𝗔𝗥𝗘 𝗖𝗘𝗡𝗧𝗥𝗘</a>"
+        ],
+        "photo_reference": "AdCG2DPGsPx_zFEcxQUKHHZkIV_pkLpn4XEr9gV57O-bbkTZuQHfmgRqWhJHDf7TrGny2jZPmgUGndwHPi-2EzAJqhZGP8YQ767HOqOp0FVWr72uFdqrMGDfnl1OfPlQBJtY76_ASUFcV6SCUgiiwJ_s0227rqT5gJxWJpmubrqfAY6kXmRw",
+        "width": 2183
+      }
+    ],
+    "place_id": "ChIJQXhVwziUXg4RIVK7IPL078c",
+    "plus_code": {
+      "compound_code": "JVQ6+CP Amritsar, Punjab, India",
+      "global_code": "8J3PJVQ6+CP"
+    },
+    "rating": 5,
+    "reference": "ChIJQXhVwziUXg4RIVK7IPL078c",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 874,
+    "vicinity": "BUILDING NO 46, Rani Ka Bagh, Mohindra Colony, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6424171,
+        "lng": 74.8643969
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6438694802915,
+          "lng": 74.86576663029152
+        },
+        "southwest": {
+          "lat": 31.6411715197085,
+          "lng": 74.8630686697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentales",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 845,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106871848386456098305\">Dentales</a>"
+        ],
+        "photo_reference": "AdCG2DNHn0l0_EF1R50b6qehUsOZQ-HggjHiLQoo8zwi8U1Q7Jt22cYzwBSt6LzJE9sBtuCmEILHRxZh-Xht_90kYPEBEY8-dr15-NIt7Zaew01tjeYDOqiUcTBYfw-2Cq6glNFxoS3We3kn6RkvtZo17s1UqNGloDuXJVCLh7zk5gBntRzk",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJhUcv4zplGTkRxf2_nm46Huw",
+    "plus_code": {
+      "compound_code": "JVR7+XQ Amritsar, Punjab, India",
+      "global_code": "8J3PJVR7+XQ"
+    },
+    "rating": 5,
+    "reference": "ChIJhUcv4zplGTkRxf2_nm46Huw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 95,
+    "vicinity": "LGF-4, Eminent Mall, Mall Road, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6374022,
+        "lng": 74.88432139999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6388002802915,
+          "lng": 74.8856824802915
+        },
+        "southwest": {
+          "lat": 31.6361023197085,
+          "lng": 74.88298451970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Biala Dental Care & Implant Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104979104927616185718\">Biala Dental Care &amp; Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNMj-7MqKxwovCnXBo33qI56iqhbLNvDYrhmnOcZhIZ4lTdpjJMNqQ3_J0nMBL4bsTcwts3VOzrb6CSehDDJ0WKErpj-P3zac8zH-05l5Z1xyDk3McNFpNcjthy81TxhTxQpqU1hmf3F9950-TTveptg8O5ya3L4CBy9OdCSoom6MfN",
+        "width": 900
+      }
+    ],
+    "place_id": "ChIJA0jitVFjGTkRMhuMBLzuzmQ",
+    "plus_code": {
+      "compound_code": "JVPM+XP Amritsar, Punjab, India",
+      "global_code": "8J3PJVPM+XP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJA0jitVFjGTkRMhuMBLzuzmQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "54a hukam singh road bhavan's S.L.public school lane, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.635478,
+        "lng": 74.885393
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6368095802915,
+          "lng": 74.8867734302915
+        },
+        "southwest": {
+          "lat": 31.6341116197085,
+          "lng": 74.88407546970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Batra Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ90L7-1FjGTkRTYuKMydT4JU",
+    "plus_code": {
+      "compound_code": "JVPP+55 Amritsar, Punjab, India",
+      "global_code": "8J3PJVPP+55"
+    },
+    "rating": 5,
+    "reference": "ChIJ90L7-1FjGTkRTYuKMydT4JU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Mandir, near, Shivala Road, Sunder Nagar, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6353849,
+        "lng": 74.858919
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6366618802915,
+          "lng": 74.86031208029151
+        },
+        "southwest": {
+          "lat": 31.6339639197085,
+          "lng": 74.8576141197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Anmol dental clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100091262640760391206\">Anmol dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOx0JWYRMJlh3nzsRHykFWWYCHY89Ys_Dz0PJnm_9PBkhyigLcx0n-FhDBNLG_stp2LKnArB0pnFc2DXHyPnETBLBCn-Grap82zTNK3T_khDrw5iHAjr0u5OZbjE1A5QWRglLJZK-wWNgKYhprfkk_yyXRgAP4K3nzEXez5AHq9RsR6",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJX3AI8KVlGTkRaWPn_vSZ9ck",
+    "plus_code": {
+      "compound_code": "JVP5+5H Amritsar, Punjab, India",
+      "global_code": "8J3PJVP5+5H"
+    },
+    "rating": 5,
+    "reference": "ChIJX3AI8KVlGTkRaWPn_vSZ9ck",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "188-b, Rani Ka Bagh, Mohindra Colony, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6229076,
+        "lng": 74.8680378
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6242433302915,
+          "lng": 74.86937693029151
+        },
+        "southwest": {
+          "lat": 31.6215453697085,
+          "lng": 74.8666789697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Parveen Narang",
+    "place_id": "ChIJ2arIjFN7GTkRvhPhkK_GLEc",
+    "plus_code": {
+      "compound_code": "JVF9+56 Amritsar, Punjab, India",
+      "global_code": "8J3PJVF9+56"
+    },
+    "reference": "ChIJ2arIjFN7GTkRvhPhkK_GLEc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6305194,
+        "lng": 74.8856886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6319041802915,
+          "lng": 74.8870572302915
+        },
+        "southwest": {
+          "lat": 31.6292062197085,
+          "lng": 74.88435926970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kundan Dental Care Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 815,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110182351375741751261\">Kundan Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOe90oyhIVVub9Tl9Y4gTzhBM2fNYqPcvVOcf9VkgxwDeIVBQotLfJkfy_XxW6ztj1nAZziHiRW4LkvRxLZc3dwXJgaEN0gVZEfUDmp-JIO-ZfvTs7_tZUwab98PlDj95omaWz2nv1p24Uf4go5NL6GNcGVh58sk0FqgeKkQ3r15sgA",
+        "width": 816
+      }
+    ],
+    "place_id": "ChIJRUo5rkxjGTkRHXZ91bC6fAU",
+    "plus_code": {
+      "compound_code": "JVJP+67 Amritsar, Punjab, India",
+      "global_code": "8J3PJVJP+67"
+    },
+    "rating": 5,
+    "reference": "ChIJRUo5rkxjGTkRHXZ91bC6fAU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 179,
+    "vicinity": "Building no. 2320, Bus Stand, opposite City Center(Near, Sharifpura, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.64535849999999,
+        "lng": 74.8772286
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6466899302915,
+          "lng": 74.8786192802915
+        },
+        "southwest": {
+          "lat": 31.6439919697085,
+          "lng": 74.8759213197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Young's & Café",
+    "place_id": "ChIJUyDh1F5jGTkRnkTwFiEH_t0",
+    "plus_code": {
+      "compound_code": "JVWG+4V Amritsar, Punjab, India",
+      "global_code": "8J3PJVWG+4V"
+    },
+    "reference": "ChIJUyDh1F5jGTkRnkTwFiEH_t0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "23A, Lawrence Road, Nagi jawlersh, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6454513,
+        "lng": 74.8782039
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6468107302915,
+          "lng": 74.87955913029151
+        },
+        "southwest": {
+          "lat": 31.6441127697085,
+          "lng": 74.8768611697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lawrence Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110894513471708566253\">ruhani Bhatia</a>"
+        ],
+        "photo_reference": "AdCG2DMb00zMj1k40T1ynuCce3oqkW290Diin_D-GPj-ZT1qXt5Deo3p9ZsnwVYu40QBKdMHbzQ1vuqL-zydDY1pZOHcoMGo9AC-JXLMuoJT5yuaRpJyDNGpfaahhC_iUw5I3-o31Xb5vCYN-IpUDEmvdDIUCB37xsiBcS8IEJsmsfUH6d0N",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJBX0N3IpjGTkRKxDSuArw87c",
+    "plus_code": {
+      "compound_code": "JVWH+57 Amritsar, Punjab, India",
+      "global_code": "8J3PJVWH+57"
+    },
+    "rating": 4.8,
+    "reference": "ChIJBX0N3IpjGTkRKxDSuArw87c",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "opposite B.B.K DAV college, 2 Navi Sadak, Dayanand Nagar, Opp Sanjha Chula, opposite B.B.K DAV college, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.64506429999999,
+        "lng": 74.8791562
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.64637928029149,
+          "lng": 74.8804817302915
+        },
+        "southwest": {
+          "lat": 31.6436813197085,
+          "lng": 74.87778376970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Modern Dental Clinic",
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104216811920019679332\">Modern Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNK5sDzi-uk5RoCJ9NTdDVedQ3TvnhzJjumCtwMH9zNlAqEQOfoQIbSui2QQNYAS8NrjtMXmmbPtOZ_lzp0jDvxOcgnZ8HaqchnPI5id_y4TGUCjvz7gQwK138GQ366TAu80oonoM0hDDQVusQIhhKos3cg9ktPSB7cWfXAHwd2U3_1",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJI205TlljGTkR3hOwPlI11Yk",
+    "plus_code": {
+      "compound_code": "JVWH+2M Amritsar, Punjab, India",
+      "global_code": "8J3PJVWH+2M"
+    },
+    "rating": 4.6,
+    "reference": "ChIJI205TlljGTkR3hOwPlI11Yk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "4-A, Ground Floor, Lawrence Road,Nai Sadak, Dayanand Nagar, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6352213,
+        "lng": 74.8876578
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6366035302915,
+          "lng": 74.8889439802915
+        },
+        "southwest": {
+          "lat": 31.6339055697085,
+          "lng": 74.88624601970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Aanchal Dental Care and Implant Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103061837239457691528\">Aanchal Dental Care and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMPRLF2NPF117g5eGox64SvcMfSFVqZ2S5aZP7AdGl-XUgZwCv2PJzkO15EXSxiaam_TQLXhKU_b88F97fVGAemEax1Ep4MNBE2E1tiXU_DpPxQq368LnFWoqR5a90-ZD3jRXU8XoFdytYXAOuHgGMpmeADg5SYgrKJxypiZDTbQxpa",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJi-miFB5jGTkReWZZu7rDzWg",
+    "plus_code": {
+      "compound_code": "JVPQ+33 Amritsar, Punjab, India",
+      "global_code": "8J3PJVPQ+33"
+    },
+    "rating": 5,
+    "reference": "ChIJi-miFB5jGTkReWZZu7rDzWg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "near Government Girls School, 283, Shivala Colony, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.633745,
+        "lng": 74.8877713
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6351212302915,
+          "lng": 74.8891001302915
+        },
+        "southwest": {
+          "lat": 31.6324232697085,
+          "lng": 74.88640216970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. A.D. Singh",
+    "place_id": "ChIJ7RANuU1jGTkR5BJjtzA9UGo",
+    "plus_code": {
+      "compound_code": "JVMQ+F4 Amritsar, Punjab, India",
+      "global_code": "8J3PJVMQ+F4"
+    },
+    "reference": "ChIJ7RANuU1jGTkR5BJjtzA9UGo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6398412,
+        "lng": 74.8866839
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6411518802915,
+          "lng": 74.8880247302915
+        },
+        "southwest": {
+          "lat": 31.6384539197085,
+          "lng": 74.8853267697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bright Smiles Dental Clinic",
+    "place_id": "ChIJnUok709jGTkRiOmq0_IxhN4",
+    "reference": "ChIJnUok709jGTkRiOmq0_IxhN4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "JVQP+WMM, Mall Road, Maharaja Ranjit Singh Nagar, Joshi Colony, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6474359,
+        "lng": 74.86954589999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6488374302915,
+          "lng": 74.8709113302915
+        },
+        "southwest": {
+          "lat": 31.6461394697085,
+          "lng": 74.8682133697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Gupta's Dental Hub",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1047,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112816444325520367741\">Dr Gupta&#39;s Dental Hub</a>"
+        ],
+        "photo_reference": "AdCG2DNUEPVTechNiMzzwLWjGrJoAPEjKyiZ906W4Pf4tMWyBr6STTQMCUOzBQseAUxAnYSo_nVmgomu2LfW4Au6bx-bfBDYpsXOiwUdjy30N9CV8j9IXjUTdfR4Q_xdceKi0GtUGEws1IJXZisBgWQWywwU2-aVcJDi0b9T3UAQlHVrPY_o",
+        "width": 838
+      }
+    ],
+    "place_id": "ChIJQ4B8CwdlGTkRg-2BPt4AUxk",
+    "plus_code": {
+      "compound_code": "JVW9+XR Amritsar, Punjab, India",
+      "global_code": "8J3PJVW9+XR"
+    },
+    "rating": 4.9,
+    "reference": "ChIJQ4B8CwdlGTkRg-2BPt4AUxk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 131,
+    "vicinity": "11 a, Maqbool Road, White Avenue, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.62031139999999,
+        "lng": 74.8688636
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6216637802915,
+          "lng": 74.8702024802915
+        },
+        "southwest": {
+          "lat": 31.6189658197085,
+          "lng": 74.86750451970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Joginder Singh Memorial & Sons Dental Clinic",
+    "place_id": "ChIJ6zrHNFF7GTkR6qXS4lESZg0",
+    "plus_code": {
+      "compound_code": "JVC9+4G Amritsar Cantt., Punjab, India",
+      "global_code": "8J3PJVC9+4G"
+    },
+    "rating": 5,
+    "reference": "ChIJ6zrHNFF7GTkR6qXS4lESZg0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6348314,
+        "lng": 74.88877719999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6361805302915,
+          "lng": 74.8901080802915
+        },
+        "southwest": {
+          "lat": 31.6334825697085,
+          "lng": 74.88741011970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Sood's Dental Point Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1545,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106003609291149564742\">Dr Sood&#39;s Dental Point Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOd717I3-xzRpLzCQDFHOhG011JXrddO5Bjfw2PQQukVvWI2Bc2H5iLYu3eSVN7Q4jc7kpimpGv0daxuwdUULcNtnwTpGK4tPZxkN0IRdC_VDkmSd7CJaanNIiDkSZpLAlsdpRS1iKhTsTQbZd0rLiQeXjIQCpYilSeHWs8DHU0zief",
+        "width": 1079
+      }
+    ],
+    "place_id": "ChIJiei8yNBjGTkRGXXod4oTTaE",
+    "plus_code": {
+      "compound_code": "JVMQ+WG Amritsar, Punjab, India",
+      "global_code": "8J3PJVMQ+WG"
+    },
+    "rating": 5,
+    "reference": "ChIJiei8yNBjGTkRGXXod4oTTaE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "106, Shivala Road, Tilak Nagar, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.62094590000001,
+        "lng": 74.8659807
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6222912302915,
+          "lng": 74.86733518029149
+        },
+        "southwest": {
+          "lat": 31.6195932697085,
+          "lng": 74.86463721970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Neha Arora Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115175245163137939783\">Dr Neha Arora Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMglPwIxpqQEmk7YZo9S6tO2rcTSKB1jyFmR_GDvFNag7ANU5NNCkQZVNT_20Alu3OCB1BbZPgPuJhijv5s6Pv6KX1AUKJu2bhj8CnjHMAyqpJm_O9cNqg3xoTgNJ9ULmpgkMD8pwTzjGP-GFR5UljTIpx0C1fCJKrT7AqLUC00otIy",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJ-xexnr97GTkRHON282zDPFY",
+    "plus_code": {
+      "compound_code": "JVC8+99 Amritsar, Punjab, India",
+      "global_code": "8J3PJVC8+99"
+    },
+    "rating": 5,
+    "reference": "ChIJ-xexnr97GTkRHON282zDPFY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "Dr. Neha Arora Dental Clinic, I/s, Beri Gate Market, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6202643,
+        "lng": 74.8682295
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6216304302915,
+          "lng": 74.8695251802915
+        },
+        "southwest": {
+          "lat": 31.6189324697085,
+          "lng": 74.8668272197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DR.SATYA NAND SHARMA",
+    "place_id": "ChIJub7ONFF7GTkRQ8pUPuARPoI",
+    "plus_code": {
+      "compound_code": "JVC9+47 Amritsar Cantt., Punjab, India",
+      "global_code": "8J3PJVC9+47"
+    },
+    "reference": "ChIJub7ONFF7GTkRQ8pUPuARPoI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6442806,
+        "lng": 74.884292
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.64562333029149,
+          "lng": 74.8856085802915
+        },
+        "southwest": {
+          "lat": 31.6429253697085,
+          "lng": 74.88291061970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Anand Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJl5M2GFtjGTkR1Q73hwPxdts",
+    "rating": 3.3,
+    "reference": "ChIJl5M2GFtjGTkR1Q73hwPxdts",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "JVVM+PP7, Majitha Road, opposite Madaan Hospital, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6457075,
+        "lng": 74.8825853
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6469898802915,
+          "lng": 74.88398028029151
+        },
+        "southwest": {
+          "lat": 31.6442919197085,
+          "lng": 74.88128231970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Malvika Sethi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113793225963832202849\">Dr. Malvika Sethi</a>"
+        ],
+        "photo_reference": "AdCG2DN4-0kdWa8HZU1buZ1XU4ntedWH3_Q1uLMXEyjn8Lu5LBwEf5zuvHU9IpfgGOOJwVNxDdX9s_uRwQxAPW8eOH58V2QPkxdxWUzyyNyU1Uk1NLD_psxs-5EhyElZ9oDkCAnCWaEUkHOrLshiJPkVrqX70HGY35gsV054VTGszjOo2VI",
+        "width": 700
+      }
+    ],
+    "place_id": "ChIJrxznRtpjGTkRQKcp5c-TFcA",
+    "plus_code": {
+      "compound_code": "JVWM+72 Amritsar, Punjab, India",
+      "global_code": "8J3PJVWM+72"
+    },
+    "reference": "ChIJrxznRtpjGTkRQKcp5c-TFcA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "above Puri Labs, 19, Majitha Road, Bhawani Nagar, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6335853,
+        "lng": 74.85494609999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6349453802915,
+          "lng": 74.85629398029151
+        },
+        "southwest": {
+          "lat": 31.6322474197085,
+          "lng": 74.85359601970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "M.M EYE & DENTAL CLINIC",
+    "place_id": "ChIJXzfJ57ZkGTkRhXdV3bIbL6s",
+    "reference": "ChIJXzfJ57ZkGTkRhXdV3bIbL6s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "JVM3+CXP, Service Rd"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6446741,
+        "lng": 74.8598693
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.64596603029149,
+          "lng": 74.8611886802915
+        },
+        "southwest": {
+          "lat": 31.6432680697085,
+          "lng": 74.8584907197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Shakeen Eye & dental Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1986,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109368274463629778857\">Sukhmanpreet Singh</a>"
+        ],
+        "photo_reference": "AdCG2DOlDkaXdXOGnMn-YVFZ8oVLy4Tv32yWXzsRmBEcg1-NsDrN2XyGI8fJRefWOWdIsE_nW_Jy-hGsToRtWRBfXJysiY34JvaGGfnfp73BRjNF463_zN9skbMSdVtdJf15ay2enuEEiaCqo00KKDwqbfa0I27ndeEwxgEgQ70Nbum39Ldk",
+        "width": 2979
+      }
+    ],
+    "place_id": "ChIJ8VQdltNlGTkR8Oy9LqBU3CY",
+    "plus_code": {
+      "compound_code": "JVV5+VW Amritsar, Punjab, India",
+      "global_code": "8J3PJVV5+VW"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ8VQdltNlGTkR8Oy9LqBU3CY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 45,
+    "vicinity": "391, Green Avenue, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.64563029999999,
+        "lng": 74.88471249999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.64696783029149,
+          "lng": 74.8861071802915
+        },
+        "southwest": {
+          "lat": 31.64426986970849,
+          "lng": 74.8834092197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Gupta's Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1824,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104385414137222192971\">sunil gupta</a>"
+        ],
+        "photo_reference": "AdCG2DOCFPtRvO6r02pf04ajNZgtM3vDLe9926inSHLXkeX6KC84CNXInCnxwwdxdiTpbL1faMZsI8wp5mZ1FH4lgBMu68PL-yyrUw3MyRkbSd0pvioNJfyaohEB9X-fn_D8x8SRRKJuVqU447G3cuaZAUxFLVrXCYk0VNd5p8aKsiMvnjYl",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJJ0F5W1tjGTkRy86_5mFdixA",
+    "plus_code": {
+      "compound_code": "JVWM+7V Amritsar, Punjab, India",
+      "global_code": "8J3PJVWM+7V"
+    },
+    "rating": 4.7,
+    "reference": "ChIJJ0F5W1tjGTkRy86_5mFdixA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "Plot No. 3, Opp. Government Eye Hospital, Majitha Road, Medical Enclave, Amritsar"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 31.645226,
+        "lng": 74.8589499
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6465967302915,
+          "lng": 74.8603772302915
+        },
+        "southwest": {
+          "lat": 31.6438987697085,
+          "lng": 74.85767926970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.Anu'S Dental Solutions",
+    "permanently_closed": true,
+    "place_id": "ChIJO_LWZndlGTkRTWxFBPeSBI4",
+    "plus_code": {
+      "compound_code": "JVW5+3H Amritsar, Punjab, India",
+      "global_code": "8J3PJVW5+3H"
+    },
+    "reference": "ChIJO_LWZndlGTkRTWxFBPeSBI4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "156, A - Block, New Amritsar Colony, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.64276359999999,
+        "lng": 74.85656139999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6441559302915,
+          "lng": 74.8578978302915
+        },
+        "southwest": {
+          "lat": 31.6414579697085,
+          "lng": 74.85519986970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Balwinder Singh Sandhu",
+    "place_id": "ChIJyQ257Y1kGTkR8HK0NIRn8kE",
+    "reference": "ChIJyQ257Y1kGTkR8HK0NIRn8kE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "B-28, Ranjit Avenue, Near Red Cross, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6387271,
+        "lng": 74.89035609999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.64005473029149,
+          "lng": 74.8917037802915
+        },
+        "southwest": {
+          "lat": 31.6373567697085,
+          "lng": 74.88900581970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ganpati Dental Clinic & Implant center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115652931587672255733\">Ganpati Dental Clinic &amp; Implant center</a>"
+        ],
+        "photo_reference": "AdCG2DN4F4aqLgJOJBG--JYUbgw3LT3-txTr07Jq0VJduKLRrMLpEBxdwKR7Qhl90l7SYEpEqf1uaxZwvu4Re4a_Av2U5gf_xXxswjvNuDkNmJ6Uck5S9awnUk0L3fg70ElZvzybhMqnPj162YPluN4_oWSqueBu-5SxRvAvZE9nUgGudmJr",
+        "width": 899
+      }
+    ],
+    "place_id": "ChIJv1R4zi1jGTkR2dFfMyfZc8I",
+    "plus_code": {
+      "compound_code": "JVQR+F4 Amritsar, Punjab, India",
+      "global_code": "8J3PJVQR+F4"
+    },
+    "rating": 5,
+    "reference": "ChIJv1R4zi1jGTkR2dFfMyfZc8I",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Back side celebration mall market, Batala Road, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6488611,
+        "lng": 74.8797362
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6501294302915,
+          "lng": 74.8810599802915
+        },
+        "southwest": {
+          "lat": 31.6474314697085,
+          "lng": 74.87836201970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Richa Aggarwal",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109916727384459791084\">Dr. Richa Aggarwal</a>"
+        ],
+        "photo_reference": "AdCG2DN0bCtyY1IBI8omPpiPxtkHvDpS7MGjwlUDrDuMI3DjO3twsI9KrQlGPf7HTe4QQaxHydJENtaTRqXMZWGOq_es74qj0se4rFndZSgqLhpxYzVVyGnsFY35JBRvVRKOlzy0lNZahrxqm3v4qiRifAvwGFk8Fkp-bBKLRRlQOpuhM1K8",
+        "width": 3201
+      }
+    ],
+    "place_id": "ChIJZRSEnsBjGTkR7IX5Jh-DjIA",
+    "plus_code": {
+      "compound_code": "JVXH+GV Amritsar, Punjab, India",
+      "global_code": "8J3PJVXH+GV"
+    },
+    "rating": 4.8,
+    "reference": "ChIJZRSEnsBjGTkR7IX5Jh-DjIA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 81,
+    "vicinity": "7 Dhuni Chand Road, Jammun wali sadak, Lawrence Road, Amritsar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 31.6451022,
+        "lng": 74.8862037
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.6464527302915,
+          "lng": 74.8875012302915
+        },
+        "southwest": {
+          "lat": 31.6437547697085,
+          "lng": 74.88480326970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "sandhu dental care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108040435259809942758\">sandhu dental care</a>"
+        ],
+        "photo_reference": "AdCG2DNi10glynX9wLqNMtFGZw0K2OictdN3tJ3O1csbMxxWXeip-WTZGaDz7FOq_C3PbYdY-m8fhHyMSTZvl_pLMKSX8MHSH1pkD5NCVB4xFNoQfgj5nqJ_su2mj8sal_0XTkMd4cyvdajzj25cbJYLsmZTkzD7kqXMTEBLrIWm18v9soNk",
+        "width": 2136
+      }
+    ],
+    "place_id": "ChIJOaODmlFjGTkRTVQ4g0pW3N8",
+    "plus_code": {
+      "compound_code": "JVWP+2F Amritsar, Punjab, India",
+      "global_code": "8J3PJVWP+2F"
+    },
+    "rating": 5,
+    "reference": "ChIJOaODmlFjGTkRTVQ4g0pW3N8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "opp. petrol pump, h.no 14, sandhya enclave, opp. petrol pump, Majitha Road, Amritsar"
+  }
+]

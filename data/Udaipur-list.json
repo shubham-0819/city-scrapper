@@ -1,0 +1,2708 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5865144,
+        "lng": 73.69709879999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5878032802915,
+          "lng": 73.69845223029151
+        },
+        "southwest": {
+          "lat": 24.5851053197085,
+          "lng": 73.69575426970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Ritu's Orthodontic, Dental & Implant Care (Invisalign specialist)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106338828893801811129\">Dr. Ritu&#39;s Orthodontic, Dental &amp; Implant Care (Invisalign specialist)</a>"
+        ],
+        "photo_reference": "AdCG2DMQQTd8xSpc1W_efXYyD9CY7Rl6yVw72PRrvWjnDlyE5OcPV_2HvzyDru2xxSc43mlW_8NLgeQpfdT3WDzoeasO396VroeM4LA5YSJe2TURz-uQQqkNAXkqguDw1G6bghnEP9yn-72-W8XW9y2k_H1FbNAO5txeWH1r88Qges9ou9P2",
+        "width": 2880
+      }
+    ],
+    "place_id": "ChIJ9WPfHXflZzkRCXcAwz1Gv2s",
+    "plus_code": {
+      "compound_code": "HMPW+JR Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMPW+JR"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ9WPfHXflZzkRCXcAwz1Gv2s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 484,
+    "vicinity": "27,28, Indraprasth Complex, near L.I.C.Building, Delhi Gate Circle, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.59572799999999,
+        "lng": 73.68510479999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5970348302915,
+          "lng": 73.6864537802915
+        },
+        "southwest": {
+          "lat": 24.5943368697085,
+          "lng": 73.6837558197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bansal Orthodontic Center & Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101484933957577326512\">Rajat Gautam</a>"
+        ],
+        "photo_reference": "AdCG2DMRSp1PAC5iXWeW3-Td6DpIkHs1qdR5MPc72GIgTUaFe0UIULVEHeAfaWTp-5HNeMzOt_fsS1djfl60fFf3xAZr60JenDGzdDI-Ce1cq4QeE1FKxf8FeG9O27emrTE-9lQ__6n7JToYUFNnUQTNKgjzFaw9uFqkyAcZNT9iJDqqL6RM",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJq6qqaRPlZzkRSWPez-BOrT4",
+    "plus_code": {
+      "compound_code": "HMWP+72 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMWP+72"
+    },
+    "rating": 4.2,
+    "reference": "ChIJq6qqaRPlZzkRSWPez-BOrT4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 228,
+    "vicinity": "near Hindustan Zinc Colony, Anugrah, 53, near Hindustan Zinc Colony, Moti Magri Scheme, Zinc Park, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5779686,
+        "lng": 73.6975272
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5793800802915,
+          "lng": 73.6989025802915
+        },
+        "southwest": {
+          "lat": 24.5766821197085,
+          "lng": 73.6962046197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mani Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2356,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112075320990231665998\">Mani Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNctiluACgLSfeNkK61CoPXmyhikmuQ3TIXxDI1Vq7LuADBLYofsXcSbEYWz0eVyDCeM2ioTC0IuNCjSwzgQm5i4ECdEK3-TBy_Up3cidw48c0E-dXMrHRwf4b4mzszYfV9vLOiyBdfmf1HA6uNBs1XqDo5CnZSUb_3pEABgU2gz42Y",
+        "width": 4192
+      }
+    ],
+    "place_id": "ChIJ49MYLXnlZzkR3rL-_KB9_ok",
+    "plus_code": {
+      "compound_code": "HMHX+52 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMHX+52"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ49MYLXnlZzkR3rL-_KB9_ok",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Building,Ground floor, Tourist Hotel, 21, City Station Road, Toran Bawri, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5968373,
+        "lng": 73.6907662
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.59839503029151,
+          "lng": 73.6920506802915
+        },
+        "southwest": {
+          "lat": 24.5956970697085,
+          "lng": 73.68935271970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smilez Dental care and Implant Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 493,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113300380221442520710\">Smilez Dental care and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DM-WwlUi-JR98lBaxwO8JYHK7AgZg4uJ2Binm9VH5RNITvHyafUISKVFiIR6o1ZGlcywgHX0i1tBEAbpuGR761b33CokArvYBEDJxortGNIelmFLgPXu1wELjvOoQslv5zblhSc7x_iW89MtWrf0iBKGh1wZkFQr9HZfAzEX_fYkTSM",
+        "width": 874
+      }
+    ],
+    "place_id": "ChIJISt8DA3lZzkR7jmwH8hrkTg",
+    "plus_code": {
+      "compound_code": "HMWR+P8 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMWR+P8"
+    },
+    "rating": 4.3,
+    "reference": "ChIJISt8DA3lZzkR7jmwH8hrkTg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "307 - 308, RKay Mall,, Panchvati, Panchwati, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.59524,
+        "lng": 73.70985
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5965442802915,
+          "lng": 73.71117483029151
+        },
+        "southwest": {
+          "lat": 24.5938463197085,
+          "lng": 73.7084768697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Plus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1904,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116797608451921449318\">Rahul Agrawal</a>"
+        ],
+        "photo_reference": "AdCG2DPwiFFehuBWfHTC_ml54sqyGxRPuTTwBWbZQpruyFOsTEuSaQ3Khn04YCcJ1DYOAAGnBikx_0ZPCEB0nlxC7lpNHpNGcP58z9NAi-TypW_cSc6D8COFHuNmAQZhiVeXbaEo16LW8Q3RlcdjVrq4sQmHhGUsVH62KkXzcwwfu3i9L6fe",
+        "width": 2247
+      }
+    ],
+    "place_id": "ChIJpRwdXpjlZzkR_iqM57iJtA0",
+    "plus_code": {
+      "compound_code": "HPW5+3W Udaipur, Rajasthan, India",
+      "global_code": "7JPMHPW5+3W"
+    },
+    "rating": 4.9,
+    "reference": "ChIJpRwdXpjlZzkR_iqM57iJtA0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 72,
+    "vicinity": "near St. Gregorios School, 18- New, near St. Gregorios School, 100 Feet Road, Ashok Vihar, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5844484,
+        "lng": 73.69641899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5857983802915,
+          "lng": 73.6977421802915
+        },
+        "southwest": {
+          "lat": 24.5831004197085,
+          "lng": 73.69504421970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Prakash Sharma Hospital and Dental Unit",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3025,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107635035204138565347\">Dr. Prakash Sharma Hospital and Dental Unit</a>"
+        ],
+        "photo_reference": "AdCG2DOPVEqFeBR15aOhAa_8khnygwSh89wuGSj_Lbjc9pe9GJxlIL81QgOh8FWj_0I6imicf3bsblmN4eOAPZdFSafg18bhRM18rp5saJfjObRyD17ywE8lNWr5kj-DrrmqKjd5dKVpgxSrG9ZY1ckwQpkVx-oIxlOfBzuYzGcb0zJnGYsZ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJG7ArZnflZzkRXT2kacnQ7IU",
+    "plus_code": {
+      "compound_code": "HMMW+QH Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMMW+QH"
+    },
+    "rating": 5,
+    "reference": "ChIJG7ArZnflZzkRXT2kacnQ7IU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 182,
+    "vicinity": "117, Bapu Bazar, Bapu Bazar Main Road, Nada Khada, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5929249,
+        "lng": 73.6927686
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5942732302915,
+          "lng": 73.69418208029151
+        },
+        "southwest": {
+          "lat": 24.5915752697085,
+          "lng": 73.69148411970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mumbai Dental Clinic & Implant Centre I : Best Dentist in Udaipur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 607,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112613222502543525568\">Mumbai Dental Clinic &amp; Implant Centre I : Best Dentist in Udaipur</a>"
+        ],
+        "photo_reference": "AdCG2DO1-g3N7AjHw3Zatk88P7gsVCYk7w4usCi8kvhQCVIStM4vbtOcNxetNVEGSOYmKu3I1pQff-in1fQ_lalgzA4K3U5qkkUT4rVCZfSdQ9meX9Y6i8I4KP9Bhx4FJjQc6iZLsxUGbuOFZ5r65NQYOkA-prblQ7M44TAAUXbx9e0tRRk6",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ2YVpEXPlZzkR5YbA3axwdBQ",
+    "plus_code": {
+      "compound_code": "HMVV+54 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMVV+54"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ2YVpEXPlZzkR5YbA3axwdBQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 652,
+    "vicinity": "opposite ICICI Bank, Madhuban, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5915395,
+        "lng": 73.6910917
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5928874302915,
+          "lng": 73.6924392802915
+        },
+        "southwest": {
+          "lat": 24.5901894697085,
+          "lng": 73.68974131970847
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Apple Dental Clinic Udaipur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110497011677292671431\">Apple Dental Clinic Udaipur</a>"
+        ],
+        "photo_reference": "AdCG2DNCOoJiLkJdcPo1o2qEzf_5BbdABHKLc84J_owPTIBm6W4XKAJkQqemR9BRq_QnuBu0N-CNsQ1GjVDqls4YqnANz5O57OToI2itwQd5tG4zbqOfijjZDAtEs4RlaFwHrQi7a9bSpw453tMpqHmftn8iaueXpgYKNwDDlunqS_zHe1EM",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJxS62WXLlZzkRZsB5CxceACQ",
+    "plus_code": {
+      "compound_code": "HMRR+JC Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMRR+JC"
+    },
+    "rating": 5,
+    "reference": "ChIJxS62WXLlZzkRZsB5CxceACQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "1st Floor, opposite HDFC Bank, Chetak Circle, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.6171944,
+        "lng": 73.69532319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6185433802915,
+          "lng": 73.6966776302915
+        },
+        "southwest": {
+          "lat": 24.6158454197085,
+          "lng": 73.69397966970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Apex Neosmile Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105662067282621624562\">Apex Neosmile Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMm42zasi6KiSWPU01oo71fnZwL45QE2GduE_Jmpb6THq3fOFoq_qRzR5RJiIF9R8xARRn7bvRKjMtKdBHm-t4rFMYTqle2zv-LgF2wTPtiEVSPeN0DFup-d4YOLcZqs-oVWEvEj1k_gZzXL4ludkaNWeZ129vNzVEUJYLbVMTJNq4m",
+        "width": 3984
+      }
+    ],
+    "place_id": "ChIJNR8pRv3kZzkRsUauKEY3GR8",
+    "plus_code": {
+      "compound_code": "JM8W+V4 Udaipur, Rajasthan, India",
+      "global_code": "7JPMJM8W+V4"
+    },
+    "rating": 4.8,
+    "reference": "ChIJNR8pRv3kZzkRsUauKEY3GR8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "near celebration garden, Navratna Complex, Mahaveer Colony Park, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.585445,
+        "lng": 73.712479
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5867000802915,
+          "lng": 73.7137720802915
+        },
+        "southwest": {
+          "lat": 24.5840021197085,
+          "lng": 73.71107411970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Anjali Saraf",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJq6qqqprlZzkRPTC9ZapWeVw",
+    "rating": 5,
+    "reference": "ChIJq6qqqprlZzkRPTC9ZapWeVw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "784A, Alkapuri, Hotel Lakend, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.591427,
+        "lng": 73.7152775
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5927357302915,
+          "lng": 73.71662493029152
+        },
+        "southwest": {
+          "lat": 24.5900377697085,
+          "lng": 73.7139269697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Satellite Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113493688558763207609\">Satellite Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMAFAj48Ilu_Ezzu66-ebZawEMHx20Pzfsr9c6Qb1WFcKalGEzrafPsELdgeqbJo0skGsl3KjoKNSeGpRTZepKDRNM4GCabs3AtVnkCyxnlLLCzYj-kUFVOvUNPHmU0MjJanyoqsoycmTl7lHk4QFL7q1wqagJI0JgOX85SxxSwTurJ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJF6dzLJHlZzkRxO5meWJM0eM",
+    "plus_code": {
+      "compound_code": "HPR8+H4 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHPR8+H4"
+    },
+    "rating": 5,
+    "reference": "ChIJF6dzLJHlZzkRxO5meWJM0eM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "Jain mandir ke pas, Nagda Restaurant, Pipal Wali Gali, Keshav Nagar, Pahada, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5904177,
+        "lng": 73.7185191
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5917005802915,
+          "lng": 73.7198953802915
+        },
+        "southwest": {
+          "lat": 24.5890026197085,
+          "lng": 73.7171974197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Kirti Dental Studio",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106288736293086382220\">Dr. Kirti Dental Studio</a>"
+        ],
+        "photo_reference": "AdCG2DNHjSTm6-UOH9HZqVL7USC_UB9yFbcgmhaBpHQNgZbTPUfPYoEBIqRGpeM33kwiF499aBOAsjdrTaXCbzImK02EaT9juxS-O91UnwjAKGE5vk5a6Dx-rfK_hYFMzhr6LH3wUMhK0wDJie52j250ozHlOcs8pv6skPlMlr4T5AB6kV1-",
+        "width": 949
+      }
+    ],
+    "place_id": "ChIJ3VeUMjPlZzkRxBryFYNvezE",
+    "plus_code": {
+      "compound_code": "HPR9+5C Udaipur, Rajasthan, India",
+      "global_code": "7JPMHPR9+5C"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ3VeUMjPlZzkRxBryFYNvezE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 246,
+    "vicinity": "near Aishwariya College, 1st Floor Gokul Plaza, near Aishwariya College, University Road, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5929264,
+        "lng": 73.7069779
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5943001802915,
+          "lng": 73.7083346302915
+        },
+        "southwest": {
+          "lat": 24.59160221970849,
+          "lng": 73.70563666970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vinayak Dental Lab & Care",
+    "place_id": "ChIJI4nzLpnlZzkRbi5EIxZDv_k",
+    "plus_code": {
+      "compound_code": "HPV4+5Q Udaipur, Rajasthan, India",
+      "global_code": "7JPMHPV4+5Q"
+    },
+    "rating": 1,
+    "reference": "ChIJI4nzLpnlZzkRbi5EIxZDv_k",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "khara kuwa, Nand Bhawan, road, New Bhupalpura, Pahada, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5967915,
+        "lng": 73.7166983
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5981395802915,
+          "lng": 73.71805108029152
+        },
+        "southwest": {
+          "lat": 24.5954416197085,
+          "lng": 73.71535311970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Saurabh's Dental Clinic & Implant Center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1067,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111681574751250643431\">Dr. Saurabh&#39;s Dental Clinic &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DNqsMIkHNRKqnLUc5AeGvPRwuZGXvR1MU0WGGMujoyE4W2IaBszXPDGT1zTwTNSMOFMNOfBNXsC94zw-YLHoeD5MsNOIVCIZ2Iu22P3iQTjuRWuglup0nE9KcQGZksATu2rd3nxkdZA4YdoV-EBB-02zLIw4gb6p5DBZDj59UnqlGqD",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJ4Xj3UJblZzkROsNitcJwddg",
+    "plus_code": {
+      "compound_code": "HPW8+PM Udaipur, Rajasthan, India",
+      "global_code": "7JPMHPW8+PM"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ4Xj3UJblZzkROsNitcJwddg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 175,
+    "vicinity": "Shop No 1-B, Vinayak Residency, University Road, Keshav Nagar, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5970285,
+        "lng": 73.7168311
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5983922302915,
+          "lng": 73.7181217302915
+        },
+        "southwest": {
+          "lat": 24.5956942697085,
+          "lng": 73.7154237697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Garima Agrawal -Aarogya Dental n Skin Udaipur/Best skin treatment",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5412,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102883780087909851087\">Dr Garima Agrawal - Facial Aesthetics | Facial Treatment in Udaipur | Acne Treatment</a>"
+        ],
+        "photo_reference": "AdCG2DMNfiXMSH1lXDovN5eL_aPJasK6dTF0GMohpkPPBbJo4XtLhv1qHiTNQFj9krfSJfiMq_bD8-xY8OMq_ApgHJBJdelHKgm8dj91Pzy5zTOGk-WqOqzp4qHFfDaOenEGKsemKMxayq2XHmobTImY5PmTs6TOcyL3hie_8q9PdVWk5UPU",
+        "width": 5412
+      }
+    ],
+    "place_id": "ChIJTdnlFwzlZzkRMisQxn-w2wc",
+    "plus_code": {
+      "compound_code": "HPW8+RP Udaipur, Rajasthan, India",
+      "global_code": "7JPMHPW8+RP"
+    },
+    "rating": 5,
+    "reference": "ChIJTdnlFwzlZzkRMisQxn-w2wc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "12, Roop Sagar Road, Shanti Nagar, Pahada, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5970285,
+        "lng": 73.7168311
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5983922302915,
+          "lng": 73.7181217302915
+        },
+        "southwest": {
+          "lat": 24.5956942697085,
+          "lng": 73.7154237697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Aarogya Dental & Skin Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116521746931005422757\">Aarogya Dental &amp; Skin Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMVyMBPo-FD3x9vA0_SP3v67yLr-fmP8gLba_Ai9I9ZDQu1MkderK8NIfW7DboZZSKnHQNH42Tu8UWpAGI4FllB8_rydkbczq-M_hnvaAXMDyfLwZV1PMx6g1Y2XDEBrz_kJ3khXhCiPk3yZTZ2uXqGhbIgWT2usHygUOkyeICPFx9C",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJCXbuLpHlZzkR0vK6AeEt5V0",
+    "plus_code": {
+      "compound_code": "HPW8+RP Udaipur, Rajasthan, India",
+      "global_code": "7JPMHPW8+RP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJCXbuLpHlZzkR0vK6AeEt5V0",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "dentist",
+      "hair_care",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 74,
+    "vicinity": "12, Roop Sagar Road, Shanti Nagar, Pahada, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5752849,
+        "lng": 73.7237174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.57660853029151,
+          "lng": 73.7250629802915
+        },
+        "southwest": {
+          "lat": 24.5739105697085,
+          "lng": 73.72236501970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.vipul's Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJMXwCN5PlZzkRBRJzvSMd3UI",
+    "plus_code": {
+      "compound_code": "HPGF+4F Udaipur, Rajasthan, India",
+      "global_code": "7JPMHPGF+4F"
+    },
+    "rating": 5,
+    "reference": "ChIJMXwCN5PlZzkRBRJzvSMd3UI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "near nehru hostel, 96 gandhi nagar, near nehru hostel, Sector 3, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5994432,
+        "lng": 73.7093589
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6008646802915,
+          "lng": 73.71083143029149
+        },
+        "southwest": {
+          "lat": 24.5981667197085,
+          "lng": 73.70813346970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "fernsnpetals",
+    "place_id": "ChIJJ1IZ_6LlZzkRtrIXzs5qP3I",
+    "plus_code": {
+      "compound_code": "HPX5+QP Udaipur, Rajasthan, India",
+      "global_code": "7JPMHPX5+QP"
+    },
+    "reference": "ChIJJ1IZ_6LlZzkRtrIXzs5qP3I",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "near ASHOKA PALACE, 102, 100 Feet Road, Shobhagpura, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5917893,
+        "lng": 73.7266676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5932026302915,
+          "lng": 73.7279441802915
+        },
+        "southwest": {
+          "lat": 24.5905046697085,
+          "lng": 73.7252462197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Shalu Agrawal l Best Dentist",
+    "place_id": "ChIJP9aNbI3lZzkRl20fB-kg4m8",
+    "plus_code": {
+      "compound_code": "HPRG+PM Udaipur, Rajasthan, India",
+      "global_code": "7JPMHPRG+PM"
+    },
+    "rating": 5,
+    "reference": "ChIJP9aNbI3lZzkRl20fB-kg4m8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "St. Taresa Hospital, near Teresa school, University Road, pushpgiri, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5926304,
+        "lng": 73.6982635
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5940383802915,
+          "lng": 73.6996120302915
+        },
+        "southwest": {
+          "lat": 24.5913404197085,
+          "lng": 73.6969140697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Silver Smiles",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101694157982523754430\">Silver Smiles</a>"
+        ],
+        "photo_reference": "AdCG2DMMyoGeoLDPy1wtwyR3AvhXGAgWWXyV95vmQgxo8kIaWvHcr5sooy5hUNsh99k2IExgkB-px_kO8_HD0nDmCW_msDttSKKFgbA3Am874VEZv2xgrOnBkk7-co0pXu5m6BYtaTUZ2nKfLZaHk8RjVjR0g2bFd_APAu-8zq9QJPKftMCr",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJuU7f4HTlZzkRj_oGnb10Yvc",
+    "plus_code": {
+      "compound_code": "HMVX+38 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMVX+38"
+    },
+    "rating": 4.5,
+    "reference": "ChIJuU7f4HTlZzkRj_oGnb10Yvc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Shop B, Lahar Apartments, near Bansi Paan & Math, 102, Bhupalpura, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5685379,
+        "lng": 73.7075675
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5699169302915,
+          "lng": 73.70892818029151
+        },
+        "southwest": {
+          "lat": 24.5672189697085,
+          "lng": 73.70623021970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "LAKECITY DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105029948432302299149\">Ihit Jain</a>"
+        ],
+        "photo_reference": "AdCG2DMAPoRq5o_nc8SWFzSYDX1DYfdiea8enj6vy_FNs03eBJnaLfrW7uRC2QnP_ElDLzGNi6x_kag8tEDmDib65AoDGWjTgTayGiSjofz64Yg8a9TKFioCf2DLSzyzs8MbK7nPrMssWKSjV1KkqADq5XQtrJGPwDAi08L12sI0cnskXUmV",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ9QPohFDvZzkRH41h4eSFtg4",
+    "plus_code": {
+      "compound_code": "HP95+C2 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHP95+C2"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ9QPohFDvZzkRH41h4eSFtg4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Peepli Chouraha, CITY, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.6020344,
+        "lng": 73.71948069999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6034098802915,
+          "lng": 73.72077458029149
+        },
+        "southwest": {
+          "lat": 24.60071191970849,
+          "lng": 73.71807661970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "LIFE SMILE",
+    "place_id": "ChIJjSPjlb7lZzkRzJ_DftrN1PU",
+    "plus_code": {
+      "compound_code": "JP29+RQ Udaipur, Rajasthan, India",
+      "global_code": "7JPMJP29+RQ"
+    },
+    "reference": "ChIJjSPjlb7lZzkRzJ_DftrN1PU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5797532,
+        "lng": 73.69386519999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5811018302915,
+          "lng": 73.69521383029151
+        },
+        "southwest": {
+          "lat": 24.5784038697085,
+          "lng": 73.6925158697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chhabra Dental clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2071,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104046892315981703453\">Chhabra Dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DONmMntX_zFqa87X08uik7ULdzR-TO1lbk4Ro_AlbzjjrqxZ-YkPcczW-S0AoVNdNmB3DAKVht_sg9_4KxF_0U8GyT3GPQtMiehvMwnNS4tERqSQCLQVc-AM4m0x7GY1iqNx0EjD_ADx2KkmRsi7SrD9LCT7pWutQ8mLf-Cs3TPhv2v",
+        "width": 2520
+      }
+    ],
+    "place_id": "ChIJOfQVWETlZzkRKaLc-KCpDUg",
+    "plus_code": {
+      "compound_code": "HMHV+WG Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMHV+WG"
+    },
+    "rating": 3.7,
+    "reference": "ChIJOfQVWETlZzkRKaLc-KCpDUg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "8c, ziniret Chowk, inside surajpole, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5954457,
+        "lng": 73.696054
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5967621302915,
+          "lng": 73.69733628029151
+        },
+        "southwest": {
+          "lat": 24.5940641697085,
+          "lng": 73.69463831970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tooth Diaries Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115329697533085625208\">Tooth Diaries Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DNPdl_qjTBkjs4z5s4dQEefUsmexL05DEQXRVTLsdNzaFRJ4FEPGB77WxiaR-5EqqvzI1qN8tPhwr2LWrUQ3tKovMWyr_Mnci0QmbW5v3uLleLlM_lBan3fJSYiXqad077uQdZfa5cpqWyYnTpEaHSbLe-t0RFCU98dmH3zzgcnECn5",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJDSJhzxvlZzkRkTIJI9cvFa8",
+    "plus_code": {
+      "compound_code": "HMWW+5C Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMWW+5C"
+    },
+    "rating": 5,
+    "reference": "ChIJDSJhzxvlZzkRkTIJI9cvFa8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "5, abhay niwas, near Hanuman temple, Residency Road, Sardarpura, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5929465,
+        "lng": 73.6925949
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5942974302915,
+          "lng": 73.69385668029152
+        },
+        "southwest": {
+          "lat": 24.5915994697085,
+          "lng": 73.6911587197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "PERFECT DENTAL HOSPITAL",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116956713188699343261\">PERFECT DENTAL HOSPITAL</a>"
+        ],
+        "photo_reference": "AdCG2DMuvwggeznQN9e4OCYEmHqjAAJ77WJgd2hJyhQ-UL80OghziU75sYbe2LvcZDVAMFiDtul4jD6d_pUObcDVlHtXLf8pJ35y5XX9dXZR-S4fBaJCqryFdRGYxncMUtHtx_4fb0fIVX8CnF5x2lwxqMjyvAY3f-hiWlImnvl7qkHDq6Y",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJi95H6aflZzkR4Jfoc7Dq5tU",
+    "plus_code": {
+      "compound_code": "HMVV+52 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMVV+52"
+    },
+    "rating": 4.2,
+    "reference": "ChIJi95H6aflZzkR4Jfoc7Dq5tU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "Kanchan nivas, near sbi bank, 18c, Madhuban, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.566898,
+        "lng": 73.7204569
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5682365802915,
+          "lng": 73.7218431302915
+        },
+        "southwest": {
+          "lat": 24.5655386197085,
+          "lng": 73.7191451697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Metro Dental Clinic & implant centre/ Best dental clinic/ RCT/ Implant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1326,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104313368499885503543\">Metro Dental Clinic &amp; implant centre/ Best dental clinic/ RCT/ Implant</a>"
+        ],
+        "photo_reference": "AdCG2DP1vrpY90l-vFkEeahhPkS6RBJ-7hdcYx10kM5FB08fIoxjT2y8WkNx6ZeH1YP9cdRWmBA_v4Vq8Hkh9PzDJ38NmqsqEcE7rvJLbht-HUF4rhmlu294rZLRzZvZzO4rjcYZJZubfgTGI-930AT9SceuspyKh82K6wHkhlNur87G9heG",
+        "width": 2357
+      }
+    ],
+    "place_id": "ChIJ____r2bvZzkRsfF6xzRtF4I",
+    "plus_code": {
+      "compound_code": "HP8C+Q5 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHP8C+Q5"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ____r2bvZzkRsfF6xzRtF4I",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 373,
+    "vicinity": "near commerc hub classes, 813, Main Road, Sector 4, Hiran Magri, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5921054,
+        "lng": 73.69189089999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5934146802915,
+          "lng": 73.6932723802915
+        },
+        "southwest": {
+          "lat": 24.5907167197085,
+          "lng": 73.6905744197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Malot Dental Laser Clinic & Implant Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103842428972798672027\">Dr Malot Dental Laser Clinic &amp; Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMwDtUseMPiQF0bVpTfzOcMDdodLRaQvK-b1kQjKr28EwFreKiJYAtxQawZ_9xTfPzTW_U775fCoTxokBw5dr0yuRJDZYIRoBBJUk9svtpy9kZXgIYh13LK5xdxwiDDfwjCaUot7jCi2fP2sjAp0CtQ7FLw-U8ASEQGvz1aJ_q3HMes",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ5YMJ_3LlZzkR9e6otGU9_Qo",
+    "plus_code": {
+      "compound_code": "HMRR+RQ Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMRR+RQ"
+    },
+    "rating": 5,
+    "reference": "ChIJ5YMJ_3LlZzkR9e6otGU9_Qo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 68,
+    "vicinity": "1st floor,24-C, Sohan Bhawan, opp. Madhuvan Head, Post Office Road, Chetak Circle, Madhuban, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5862813,
+        "lng": 73.6901044
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5876802302915,
+          "lng": 73.6914628302915
+        },
+        "southwest": {
+          "lat": 24.58498226970849,
+          "lng": 73.68876486970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Porwal's Dental Park, Dental Implant and Laser Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103704647626459206465\">Dr Porwal&#39;s Dental Park, Dental Implant and Laser Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPIAyI30lq1o8-w3ENGkOugUdD6sTWnK0V67KJj6yC7U54MrFFajip6qOq1rIQEuJPoPnpJnyZ1nDwKGflghHMVgTwwpDvUGydM04CyLi_Tq1gPN79XTjFKKZCZGNWMwuOe9B34Z6I92I5UyM0AOSNb8SEq7O25KF0iq8Wn_08dItuA",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJt1W3J27lZzkRGC1U4sHfo-c",
+    "plus_code": {
+      "compound_code": "HMPR+G2 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMPR+G2"
+    },
+    "rating": 5,
+    "reference": "ChIJt1W3J27lZzkRGC1U4sHfo-c",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "54 Ashwini Bazar, opposite, Hospital Road, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.6073012,
+        "lng": 73.71122729999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6086080302915,
+          "lng": 73.7125681302915
+        },
+        "southwest": {
+          "lat": 24.6059100697085,
+          "lng": 73.70987016970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Samridhi Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 805,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110335153948729825907\">Dr Siddhi Paliwal</a>"
+        ],
+        "photo_reference": "AdCG2DOjZH579nto0QakbTl-B6A7VZr-Ep3FqJNgfPmexABUCLLropbXKbTqfsdI7n8yKcqWQXNnWVQPOCUDlRMJUIm8O2xWQOEzdlcpN6zpM85mwXXqfx40J5667Xl1N6PLgMzmqgvHmb2XaWeKs1zW0CSEYPi8CUuUUwaXLW5htYM-yKGs",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJv6iB9eHlZzkRR1d3KyK3Ykc",
+    "plus_code": {
+      "compound_code": "JP46+WF Udaipur, Rajasthan, India",
+      "global_code": "7JPMJP46+WF"
+    },
+    "rating": 5,
+    "reference": "ChIJv6iB9eHlZzkRR1d3KyK3Ykc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "opposite JK Paras hospital, Shobhagpura, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.6069784,
+        "lng": 73.7177095
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6083127302915,
+          "lng": 73.71911828029151
+        },
+        "southwest": {
+          "lat": 24.6056147697085,
+          "lng": 73.7164203197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Saatvik Cosmodent Dental & Maxillofacial Clinic, Udaipur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101132480513737827465\">Saatvik Cosmodent Dental &amp; Maxillofacial Clinic, Udaipur</a>"
+        ],
+        "photo_reference": "AdCG2DOG8T4eQ_7thpk1dwYaHusPy2Rg8ioMQ1k1K9b0eqoaK96PV2v059MgjZNvSPWYt3GX1obynkRAGUwvGlGuqDhMcXGXIWoDXbk_KmmPBDoCaM-gDcGDFg0P-GrDhzJ2L9_n4cqn2f30ox8L6BMBgZ2m0fMIBc4zHT9_1ua1PuztL1VD",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJIeazIb_lZzkRqYeOLgLzYX8",
+    "plus_code": {
+      "compound_code": "JP49+Q3 Udaipur, Rajasthan, India",
+      "global_code": "7JPMJP49+Q3"
+    },
+    "rating": 5,
+    "reference": "ChIJIeazIb_lZzkRqYeOLgLzYX8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43,
+    "vicinity": "opp. Ceremony Resort, New Shobhagpura Bypass, opp. Ceremony Resort, 100 Feet Road, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.607288,
+        "lng": 73.70753979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6086818802915,
+          "lng": 73.7088975802915
+        },
+        "southwest": {
+          "lat": 24.60598391970849,
+          "lng": 73.70619961970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "TRIDENT DENTAL CARE | Dr. HITANSH PUJARI | DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107256449737047596644\">TRIDENT DENTAL CARE | Dr. HITANSH PUJARI | DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DNtn1h075OgFTq5IixoYeRcQ6rgFBdmBox15MkwkX0Wzwt5UMPts-8HPXXt8O3c-5C0rDUAx0REIIaW3oZ3Z5kdCu_Aouz2QNjudYEdJUV5nS7Lfy---PDOeFy2Igo8oOqBCn5jHU_Cf8vve2KSdSg40OrEh72sZvVRO2zyexcQ-kx3",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJRyPtVhXlZzkRCtCZGmulLLY",
+    "plus_code": {
+      "compound_code": "JP45+W2 Udaipur, Rajasthan, India",
+      "global_code": "7JPMJP45+W2"
+    },
+    "rating": 5,
+    "reference": "ChIJRyPtVhXlZzkRCtCZGmulLLY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "near Govt. Primary School, Shobhagpura Circle, near Govt. Primary School, Fatehpura Road, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5618636,
+        "lng": 73.7184236
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5632164302915,
+          "lng": 73.71976503029151
+        },
+        "southwest": {
+          "lat": 24.5605184697085,
+          "lng": 73.71706706970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Amit Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103302912652942339072\">Rohan Menaria -lifestyle</a>"
+        ],
+        "photo_reference": "AdCG2DPYE-HLBOssN_i2vYmbFQwUd4XzkzarDd96H2zXSMgoIUxJxokU0ae3VvoTEuO6LSkrfLyK325qOhopXI4Fn4-i5xMJn6RgVeSjiOHccJmTiYBJJb0BPyaHTC4xzV04t_rBXoRTn0fDpF0lh2GiZOUdBdTgNoAzqzLxeORxa8mDxHnZ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ8bUbBXPvZzkRLIsw2SDp5Fw",
+    "plus_code": {
+      "compound_code": "HP69+P9 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHP69+P9"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ8bUbBXPvZzkRLIsw2SDp5Fw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 975,
+    "vicinity": "Riddhi Siddhi Complex, opposite Suzuki Showroom (Guru Naman Motors, near Axis Bank, 3 M-23-A, Hiran Magri Main Road, Sector 5, Hiran Magri, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.567294,
+        "lng": 73.73069269999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5686732302915,
+          "lng": 73.7319096302915
+        },
+        "southwest": {
+          "lat": 24.5659752697085,
+          "lng": 73.72921166970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bharat Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117240530397726063468\">Bharat Dental</a>"
+        ],
+        "photo_reference": "AdCG2DPc4WSNE3dxVv8zS9vmjDXXRbeXhO1dnvZyi7-yxciv-5nYbtwKACmk6h8P17aCqxr4jCu3Yfw7a3VwSfw7JQfEI0AKIHLgFiEkjdsahZQLDjXRJjyLI6U4OiOaD5j0koCgyCKq5XeKtbHUKI_caE6smVPnrS7wQAJuMi380EtsRpzI",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJf57n0RnvZzkRdhohVsExM4o",
+    "plus_code": {
+      "compound_code": "HP8J+W7 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHP8J+W7"
+    },
+    "rating": 5,
+    "reference": "ChIJf57n0RnvZzkRdhohVsExM4o",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "Manva Kheda Road, New Vidhyanagar, Sector 4, Manva Kheda, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5687884,
+        "lng": 73.691362
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.57012583029151,
+          "lng": 73.6926571802915
+        },
+        "southwest": {
+          "lat": 24.5674278697085,
+          "lng": 73.6899592197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "R.K. DENTAL CLINIC",
+    "place_id": "ChIJayberIfvZzkRDu7jhkPKsYk",
+    "plus_code": {
+      "compound_code": "HM9R+GG Udaipur, Rajasthan, India",
+      "global_code": "7JPMHM9R+GG"
+    },
+    "reference": "ChIJayberIfvZzkRDu7jhkPKsYk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5685736,
+        "lng": 73.6914285
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5699099302915,
+          "lng": 73.69271858029151
+        },
+        "southwest": {
+          "lat": 24.5672119697085,
+          "lng": 73.69002061970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mewar Dental Clinic",
+    "place_id": "ChIJ6Z56U4bvZzkRzjhosoTvCJk",
+    "plus_code": {
+      "compound_code": "HM9R+CH Udaipur, Rajasthan, India",
+      "global_code": "7JPMHM9R+CH"
+    },
+    "reference": "ChIJ6Z56U4bvZzkRzjhosoTvCJk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "near Fitness Plus Gym, 52, Kishanpole, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5797159,
+        "lng": 73.6842866
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.58104128029151,
+          "lng": 73.6856351802915
+        },
+        "southwest": {
+          "lat": 24.5783433197085,
+          "lng": 73.68293721970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "HARAMRIT DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 581,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115970543737377376965\">HARAMRIT DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DNRuyCki8FdqGLWjqc5xhL0lkkM27nMLfOFdh01RodmXeU2cI8MYK8qTHD0-glK4gsMRva7AUUZFOrbsbRYZkVgWnP3xgRc47hRlKnPDECtzIPXlhRVqG5Uxm7gX5tBPzF2_Ld46kTtT4nx3Fd0jNsmYFTGvDKol86BguAhOkP777wO",
+        "width": 1037
+      }
+    ],
+    "place_id": "ChIJh9PON0vlZzkR0e2w-mOvdS8",
+    "plus_code": {
+      "compound_code": "HMHM+VP Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMHM+VP"
+    },
+    "rating": 4.6,
+    "reference": "ChIJh9PON0vlZzkR0e2w-mOvdS8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "Hotel Baba Palace, Udaipur, Surya Marg, Jagdish Chowk, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.6123581,
+        "lng": 73.71411789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6137210302915,
+          "lng": 73.7154084302915
+        },
+        "southwest": {
+          "lat": 24.61102306970849,
+          "lng": 73.71271046970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dermadent Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107871121672498341676\">Dermadent Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNp0Z5-v3mgleF0t12ZajXSUJ4YhTDrgvjyz3vTGU42bZjGwWLgvb1MYV6GMtC0w-HCvJ0jTgYnuVvA8iAKWO4DiD4M7gcYngSB9bvQQ2KxEgSUZ0Vs-no9tgDc5rE4kthE6nl3GyyYsG33JtR3wrMLuy3rX9TRoMf2eQjgM0a9IFD7",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJlSgs7JjlZzkRZ0jMIrr2Ns0",
+    "plus_code": {
+      "compound_code": "JP67+WJ Udaipur, Rajasthan, India",
+      "global_code": "7JPMJP67+WJ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJlSgs7JjlZzkRZ0jMIrr2Ns0",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "dentist",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1619,
+    "vicinity": "B Block 60, Shobhagpura, near Akme Paradise, 100 Feet Road, Meera Nagar, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5590099,
+        "lng": 73.7206033
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5603634802915,
+          "lng": 73.7219280802915
+        },
+        "southwest": {
+          "lat": 24.5576655197085,
+          "lng": 73.7192301197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Rohan Bhatt- Dentist In Udaipur",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102427063872802344413\">Dr. Rohan Bhatt- Dentist In Udaipur</a>"
+        ],
+        "photo_reference": "AdCG2DMBIoewu89c2_wBptbAYf3wPKhyemGAaxt3J62yvy0_j52GubeTaDrLbB-bau5IgbT1MNnRQa2HeaaFojYEtMRzegGjdAII71LLqWxQV3cI-MCoUzjRBf-NPJIVV0DOUft2uruNa3Mio9_0XkryHYlbRAYY0kMU49Dl30DMqgMSAHbP",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJi06dvILvZzkR-wv-BKfCKPE",
+    "plus_code": {
+      "compound_code": "HP5C+J6 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHP5C+J6"
+    },
+    "rating": 5,
+    "reference": "ChIJi06dvILvZzkR-wv-BKfCKPE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "MUKTA DENTAL CLINIC, New Satellite Hospital Road, Prabhat Nagar, Hiran Magri, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.611714,
+        "lng": 73.7039245
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6130646802915,
+          "lng": 73.70522653029151
+        },
+        "southwest": {
+          "lat": 24.6103667197085,
+          "lng": 73.7025285697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "House of Dental Solutions",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116020531062361051975\">House of Dental Solutions</a>"
+        ],
+        "photo_reference": "AdCG2DM8cuhJxblY4xB1fqKJTAdtQ1KfSfX0sLR_vS1v1HYbQKjdFzJmXaxHSOdwY-i1qhqJZeZ4qPknnuxgd3vsj6W2Qq0YZFkURRIykEeVJfpsP6DuUyaCD68GrI6DuW0xYg1ztY5erLBXAqPMb_WHXxXKzdfHH4_nJeUWqopfUFkDeJ94",
+        "width": 6048
+      }
+    ],
+    "place_id": "ChIJs-_xtFPlZzkRReMXos3M0RY",
+    "plus_code": {
+      "compound_code": "JP63+MH Udaipur, Rajasthan, India",
+      "global_code": "7JPMJP63+MH"
+    },
+    "rating": 5,
+    "reference": "ChIJs-_xtFPlZzkRReMXos3M0RY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "53, Suncity Delight, behind Celebration Mall, near Bhuwana, adjacent to Callisto Restaurant, Lane, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5587765,
+        "lng": 73.7225924
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5601211302915,
+          "lng": 73.7239604802915
+        },
+        "southwest": {
+          "lat": 24.5574231697085,
+          "lng": 73.72126251970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MUKTA DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 959,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101754428102760581053\">MUKTA DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DOf3lbaD2HbIZjIIn98AhHrYQVje7j6C4FvmQM1GSLlSBc6mNKQK92hpuv1sMaa8N56zzkJBhQy9YawdMb-9lg-i2aZSeejwQZmGf3cnQFIgLwUEn07M1HzwtGj2aFv9duieRHvKlTYv8dMj4mG5-bUVDcU_gVQGDNytJKrYRhBowHE",
+        "width": 1047
+      }
+    ],
+    "place_id": "ChIJWb3V6mnvZzkRjgwi1EZ99Cg",
+    "plus_code": {
+      "compound_code": "HP5F+G2 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHP5F+G2"
+    },
+    "rating": 3,
+    "reference": "ChIJWb3V6mnvZzkRjgwi1EZ99Cg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "near Gayatri Sewa Sansthan, New Satellite Hospital Road, Prabhat Nagar, Hiran Magri, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5627143,
+        "lng": 73.7313817
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.56409113029151,
+          "lng": 73.7327358302915
+        },
+        "southwest": {
+          "lat": 24.5613931697085,
+          "lng": 73.7300378697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "BEST DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105597137221924925016\">Bhagwati Talesara.</a>"
+        ],
+        "photo_reference": "AdCG2DOJmjBkjl8VmTm6QmNngZZpEkzVUHFfWHdoEjQfzlw7T2RLE6J0MrsMZUVROdgbBvZgF-2k6D4TA8xJZR8jL-S6xlkq6kpJ4Y18CF0TCx49ZrOiY6PLUyGEV-jnVOjZabs09wuqOpQ1M5k4Nptf9XND0BxPjigGWFF1oEXNCgNBwloy",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJR34JvUTvZzkRqVhhCnGyL5Y",
+    "plus_code": {
+      "compound_code": "HP7J+3H Udaipur, Rajasthan, India",
+      "global_code": "7JPMHP7J+3H"
+    },
+    "rating": 3.9,
+    "reference": "ChIJR34JvUTvZzkRqVhhCnGyL5Y",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 118,
+    "vicinity": "Shree ram vihar colony, behind dev kirti appartment, near savitri vatika marg, 42, Manva Kheda, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.59734629999999,
+        "lng": 73.6829388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5987238302915,
+          "lng": 73.68368203029151
+        },
+        "southwest": {
+          "lat": 24.5960258697085,
+          "lng": 73.68098406970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "dharm raj devara",
+    "place_id": "ChIJ3U3i75nlZzkR2IYJHigjhSQ",
+    "reference": "ChIJ3U3i75nlZzkR2IYJHigjhSQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "HMWM+W5P, Zinc Park, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.6151092,
+        "lng": 73.7115651
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6164630802915,
+          "lng": 73.7129184802915
+        },
+        "southwest": {
+          "lat": 24.6137651197085,
+          "lng": 73.7102205197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mehta Dental Clinic and Implant Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104388088106108386247\">Mehta Dental Clinic and Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPCuze20NqbI0x58sRHf8E7UaB8PGOQDDsRNoF79wcPrhF3g9wUtCy0SOMSvhT5384MJH2JE5nsZYdZVxTr_BJeM7LGb2oR8WQM-lAxn2elcSBMo353wbcKt4Rf3ECidQbVT1C_0xoHcIGgimN0FOFvY7NiAVSSAymELPLYVj6h_4rQ",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJYZ5qJxflZzkRdlI6SQcCfDk",
+    "plus_code": {
+      "compound_code": "JP86+2J Udaipur, Rajasthan, India",
+      "global_code": "7JPMJP86+2J"
+    },
+    "rating": 4.9,
+    "reference": "ChIJYZ5qJxflZzkRdlI6SQcCfDk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 82,
+    "vicinity": "Indira Puri Street, 100 Feet Road, Meera Nagar, Pahada, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.55877479999999,
+        "lng": 73.69454139999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5601196302915,
+          "lng": 73.6959365802915
+        },
+        "southwest": {
+          "lat": 24.5574216697085,
+          "lng": 73.69323861970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Hello Doctor Health Center",
+    "place_id": "ChIJ9UreYJvvZzkRzBaegk-jxOY",
+    "plus_code": {
+      "compound_code": "HM5V+GR Udaipur, Rajasthan, India",
+      "global_code": "7JPMHM5V+GR"
+    },
+    "reference": "ChIJ9UreYJvvZzkRzBaegk-jxOY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.6103387,
+        "lng": 73.68950749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6116795802915,
+          "lng": 73.69068758029151
+        },
+        "southwest": {
+          "lat": 24.6089816197085,
+          "lng": 73.68798961970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Nahar's Dental Hospital",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 721,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116269204348439866273\">Dr Nahar&#39;s Dental Hospital</a>"
+        ],
+        "photo_reference": "AdCG2DOfe3wdSK5CKhATuuDESkDmA4eJjEbxbnPY01aG4bX-btMB3PXvNQECxK25Fiy0HfBt56sU15KfREYMawBmb9b_uClmJhE3ZS04ZSw-3KQQhbOIEwP5L23vu_tgSy53tTqzx8bK13fmwgDPvYF4wt4vq0st-M4FOYzZCnEXTeI1b52_",
+        "width": 2317
+      }
+    ],
+    "place_id": "ChIJCWY9JpLlZzkR1Var1_9M-gc",
+    "plus_code": {
+      "compound_code": "JM6Q+4R Udaipur, Rajasthan, India",
+      "global_code": "7JPMJM6Q+4R"
+    },
+    "rating": 3,
+    "reference": "ChIJCWY9JpLlZzkR1Var1_9M-gc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "opp. DTDC COURIER, 5/11, Fatehpura, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.610388,
+        "lng": 73.68950149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.61172893029151,
+          "lng": 73.6906831302915
+        },
+        "southwest": {
+          "lat": 24.6090309697085,
+          "lng": 73.68798516970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Prashant Nahar",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 348,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108925382700482510186\">Dr. Prashant Nahar</a>"
+        ],
+        "photo_reference": "AdCG2DN2Q9OpPGMAid4iakIJJ-9R_oxiBwsk4s4EiYChXjVU7ACVacN__U22I_4NTZuhzN-En59b2Rvi7EEDE2WWJkV9GkSnpP4vFN0kSz3WV4vdVmrgDNu59nazIbv8ZzJtGxL2Pngt9F7M-7BKdzDQsdQVxtfkuWL9d4_bOUBm-9iP1u0C",
+        "width": 560
+      }
+    ],
+    "place_id": "ChIJhQPoPOzlZzkRwPtoX5Ny690",
+    "plus_code": {
+      "compound_code": "JM6Q+5R Udaipur, Rajasthan, India",
+      "global_code": "7JPMJM6Q+5R"
+    },
+    "rating": 3,
+    "reference": "ChIJhQPoPOzlZzkRwPtoX5Ny690",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Fatehpura, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.6184013,
+        "lng": 73.7057076
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.6197887302915,
+          "lng": 73.7070733302915
+        },
+        "southwest": {
+          "lat": 24.6170907697085,
+          "lng": 73.70437536970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "NEW LIFE CARE DENTAL CLINIC",
+    "place_id": "ChIJoxT_RKvlZzkRg8kdYHYApfg",
+    "plus_code": {
+      "compound_code": "JP94+97 Udaipur, Rajasthan, India",
+      "global_code": "7JPMJP94+97"
+    },
+    "reference": "ChIJoxT_RKvlZzkRg8kdYHYApfg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5499433,
+        "lng": 73.71356589999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5512871802915,
+          "lng": 73.7148629802915
+        },
+        "southwest": {
+          "lat": 24.5485892197085,
+          "lng": 73.7121650197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Purva's Dental Clinic - Your Smile Space | Best Dentist in Udaipur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1974,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115698195814908816471\">Dr. Purva&#39;s Dental Clinic - Your Smile Space | Best Dentist in Udaipur</a>"
+        ],
+        "photo_reference": "AdCG2DPbokKk1d5RocXwCDF_18cS5QzIkyIwmJbLTBKSG0JPgT1nxJG4z4nbtLwg6ZW2qCRyB1I7sNyeItatxJiQy77RzR4UtAfrsKehPis3W6eyMhF-Z22TPUj3CM1VN9uIpMD6s7ZIoyZMs20Fk37Fw1fRJDMKvEOaTzCPDLx-5jMf92f4",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJyYXbnyLvZzkRh-fbHxJt2-o",
+    "plus_code": {
+      "compound_code": "GPX7+XC Udaipur, Rajasthan, India",
+      "global_code": "7JPMGPX7+XC"
+    },
+    "rating": 5,
+    "reference": "ChIJyYXbnyLvZzkRh-fbHxJt2-o",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 77,
+    "vicinity": "16 A, Sector 9, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.6182358,
+        "lng": 73.6889013
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.61954293029151,
+          "lng": 73.6902408802915
+        },
+        "southwest": {
+          "lat": 24.6168449697085,
+          "lng": 73.68754291970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "NXT Dental Clinic & Implant Centres",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1001,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100746492201192056385\">Dr Mukesh paliwaal</a>"
+        ],
+        "photo_reference": "AdCG2DMQF5jOYwhJEgMSjgBCoySF14BU4V-0Ac3SP9IcRERoy1BaEKemhmJgl3rKuCIxv2vIZR6Y-43nTC8l7w74YZ4oWFH0FG3y7T165rAsHBi0RBSQVWfq8UhaUdN5yFy_zEDEGpTViwrtOmNbrEv7baOSdaWc3rNcnwV-SYMEbE-Jwp0K",
+        "width": 750
+      }
+    ],
+    "place_id": "ChIJYw5NTf3kZzkRoGi3jq9uAag",
+    "plus_code": {
+      "compound_code": "JM9Q+7H Udaipur, Rajasthan, India",
+      "global_code": "7JPMJM9Q+7H"
+    },
+    "rating": 3.7,
+    "reference": "ChIJYw5NTf3kZzkRoGi3jq9uAag",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Navediya Bhawan, near SHREE BALAJI BIKANER MISTHAN BHANDAR, 705, Bedla Road, Fatehpura, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5466561,
+        "lng": 73.6998681
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5480366802915,
+          "lng": 73.70120578029152
+        },
+        "southwest": {
+          "lat": 24.5453387197085,
+          "lng": 73.6985078197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Radiant Dental Care, Udaipur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104193688491606785756\">Radiant Dental Care, Udaipur</a>"
+        ],
+        "photo_reference": "AdCG2DPDGmPdB71JmS2MS9gbxh9HyNC57i2yyDk1gVCfD3u3gykNf95FSyydTkLShOrBcyvzBgPQRTS9E2mjJP8lVaCfB7ZuLzyO5N9RjVM50XHgDTxkUs7cLMzFAVJ5qdEl1oIrPU4fuJTpijlCp_2-C2iuyrgIIdT2JcXGNxfk0F5lqjTW",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJq6qqqprlZzkR1_O8v-XthCo",
+    "plus_code": {
+      "compound_code": "GMWX+MW Gordhan Vilas Rural, Rajasthan, India",
+      "global_code": "7JPMGMWX+MW"
+    },
+    "rating": 5,
+    "reference": "ChIJq6qqqprlZzkR1_O8v-XthCo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 178,
+    "vicinity": "Shop No-1, Rishabh Enclave, Kheda Circle, Sector 14, Hiran Magri, Gordhan Vilas Rural"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5835583,
+        "lng": 73.6675468
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5848743302915,
+          "lng": 73.66889828029151
+        },
+        "southwest": {
+          "lat": 24.5821763697085,
+          "lng": 73.66620031970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Renu Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110441794218400694517\">Renu Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMbk7OBg7z8uAIg1FGt3vFa1M1Amz57JLjZyi42iG0-WWEHZNP_WLbn4g_yqEBxvbOOSDCLa1YjZsYym-niIZCfgZOJ9hjozvNZ2nVVy3qnQANo_zS9ztUhBtFn5wqpZr8xAsU8Mhe2DT0TJ2Tw7gT9019Labjpe4ncbT2XYaHgx7NM",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJEbfCU53lZzkRlps-55cp9hw",
+    "plus_code": {
+      "compound_code": "HMM9+C2 Udaipur, Rajasthan, India",
+      "global_code": "7JPMHMM9+C2"
+    },
+    "rating": 5,
+    "reference": "ChIJEbfCU53lZzkRlps-55cp9hw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Mallah Talai, opp. Regal Medical Store, Dudhyaganesh Ji Road, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5446445,
+        "lng": 73.7062565
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5459949302915,
+          "lng": 73.7075512302915
+        },
+        "southwest": {
+          "lat": 24.5432969697085,
+          "lng": 73.7048532697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Elif Dental & Medical Care - Dental Clinic | General Physician in Udaipur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107763904971805871266\">Manish Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DNLpICjZTQC_T2tUHcjGcpUjPGmGc5msz1P0wmWaLleCN5HscN1D-pOuz_ZEJtCtOZd_jgEPqLJ_JEzuHUQGARuRAhmjpwzUpvYyzsl63pq6lvQqUw3lCso0aK3Fp-g3APwehaK878JrCwKaIRyBPORWN8I_VZS4cRpRou4x9F6Tkrs",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ18tQ0XrvZzkRSYOZbYYFB2w",
+    "plus_code": {
+      "compound_code": "GPV4+VG Udaipur, Rajasthan, India",
+      "global_code": "7JPMGPV4+VG"
+    },
+    "rating": 5,
+    "reference": "ChIJ18tQ0XrvZzkRSYOZbYYFB2w",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Barkat Colony, Hiran Magri, Nela road, Sector 12, Savina, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5484902,
+        "lng": 73.6878547
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5498139802915,
+          "lng": 73.68927923029152
+        },
+        "southwest": {
+          "lat": 24.5471160197085,
+          "lng": 73.68658126970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cosmo Dental Care Clinic & implant center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103443615509306641643\">Cosmo Dental Care Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN3b17vvpSs99N9fv5MLk7HHvKG-k9skusHSrR7_Tqo3vyurBtitI-z3_ucTnNBSQU16nD5r1LUY8Rzf62Ohol0HU5jrBHcM_Grbh34LWuO8vd4MvWfn3k7tYMTD3AsPBTBF-c7WcWh1ioEnX7rautor88nyKte1NUJOeg07rHvmsSS",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJm7dL-hfvZzkRx3Hw-_fl2vk",
+    "plus_code": {
+      "compound_code": "GMXQ+94 Udaipur, Rajasthan, India",
+      "global_code": "7JPMGMXQ+94"
+    },
+    "rating": 4.7,
+    "reference": "ChIJm7dL-hfvZzkRx3Hw-_fl2vk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 60,
+    "vicinity": "15, Anuvrat nagar, NH-8, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5441902,
+        "lng": 73.695977
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5454988802915,
+          "lng": 73.69733968029149
+        },
+        "southwest": {
+          "lat": 24.54280091970849,
+          "lng": 73.69464171970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Mantri's Dental Clinic & Implant Center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 713,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104017996883069006097\">Dr. Mantri&#39;s Dental Clinic &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DODEVdtrwbIKqxreDIH3VewA55ZVGkPDFWSRJqDb0IoAx2QzjFg7kW90mx7gqVFvu3igA_EOW5a0EdfDv5qc4rYQO2jVHIUKdNAxqsPxTWxL97JDqumZPlah8vXJNW3gt4JH3Ki77fi0feJd6tRUpGpi0YakjIqGNY2vSFE4_QsNfYu",
+        "width": 713
+      }
+    ],
+    "place_id": "ChIJURg3n0XvZzkR9T-AlTGPqoY",
+    "plus_code": {
+      "compound_code": "GMVW+M9 Udaipur, Rajasthan, India",
+      "global_code": "7JPMGMVW+M9"
+    },
+    "rating": 5,
+    "reference": "ChIJURg3n0XvZzkR9T-AlTGPqoY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "First floor, Arihant Tower, above Arihant Medical, Khejri Choraha, Mantri Dental Road, Sector 14, Udaipur"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 24.5406066,
+        "lng": 73.7102556
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 24.5419362302915,
+          "lng": 73.71153923029149
+        },
+        "southwest": {
+          "lat": 24.5392382697085,
+          "lng": 73.70884126970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Lal PathLabs",
+    "place_id": "ChIJh1UtvQ_vZzkR1mVsoCHLddY",
+    "plus_code": {
+      "compound_code": "GPR6+64 Gordhan Vilas Rural, Rajasthan, India",
+      "global_code": "7JPMGPR6+64"
+    },
+    "reference": "ChIJh1UtvQ_vZzkR1mVsoCHLddY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  }
+]

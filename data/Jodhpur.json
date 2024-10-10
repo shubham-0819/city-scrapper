@@ -1,352 +1,2285 @@
 [
   {
+    "formatted_address": "Vidhya Park, C-18, IAF Road, opp. Bhartiya Vidhya Bhawan, Jodhpur, Rajasthan 342011, India",
+    "formatted_phone_number": "094614 06532",
     "name": "Swastha Dental Care",
-    "address": "Vidhya Park, C-18, IAF Road, opp. Bhartiya Vidhya Bhawan, Jodhpur, Rajasthan 342011, India",
-    "phone": "094614 06532",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109489376525651547043\">Amit Rathore</a>"
+        ],
+        "photo_reference": "AdCG2DOYlCv-fMllFoCHR4qacDCZ8gK3w7-nDdbegW4m9KngSDQ8LJnnIkSXrOVsJ3wngWlEv2JVTCwKIG11sq5E_fi7ivG0CjlHj-zCfQsTj7f73LLUuil3lJzZ59v8fu-iMpgHkMT8edLOtVbeP2WEIZHis9cyzNyGIv6Epf9fT0NpRmHq",
+        "width": 1080
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113776421072650128384\">Pankaj Singh</a>"
+        ],
+        "photo_reference": "AdCG2DOZzwIKzmVXGR-UJrm1ar8WlqRko7hoWbbkHcJwp5zi5o-1DR_egFzssJJzPjXdn1RJSARpVfLNKY8bKpcoUUsOWyjPsEnCV-UFahm63dxpbPecRXWzuY8gBtd4aUnWytV6s3iu1PSF78sAx8alldvs0umt07JVaEINtT7HDtede1C-",
+        "width": 3024
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102676326994257015281\">Swastha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DMLwayFFXq7fhYglQem9-tI9F16Ys-vx0_YT-c9bXavFt3u-6TWHSD80MdYTg33t0jV2io6QXuP2OkDQrSIt163cBO4EziYbcgCZO6tq9Ut80DeNC0HhVOEf7PsxKoNxZFgwvYE8IH83vwekSHsNz1aUTl3-hkJwhdoIFZn5-q8c9LO",
+        "width": 1600
+      },
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102676326994257015281\">Swastha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DNWByYTCT_2ctl4dfPhff70187PEGwm7SyGbgdCS-Pnwpeyw9mbXJhNCOzMBzL5mF-DE2FFY422s0ILUsnGZmR2d9jtMTaQApq36vwibSOrQ1gza4qFi-zcV7m2AVEw5lQFJcIN4s2DlMW7NuEBJKhhVkcSswCvZosR6i7OeFfxEYGc",
+        "width": 4096
+      },
+      {
+        "height": 5000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102676326994257015281\">Swastha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOCXAIi0wesx0XWZlLrxZGsIJeMOU7e8YVfOYpwthdv_pI8T7f8NxQHJETE2vjadhN6aSiMmVrD-JqN-0heIjR5Eb2-vXrn_bAz0Dkazan6d-dDeErQ_yzxxVmKCnlBD-8w2wfJu2gI_4GofRIukPugJPRHuLTAYEQ8snarWRhmA57h",
+        "width": 5000
+      },
+      {
+        "height": 5000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102676326994257015281\">Swastha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DN2vC8pC3gVnaUD_iMkWzZHzJ_5B7KiskvnJBsxA8Mm7fWyzQCve1QpPOni0Xmp9BTt9e_QfvcEPN-dTIf-oIbNpE606bAEOoZ82vcT7vzl5FO3k7quXcw4feO7EFWkBaYlv2huMzoIQEvOWQA9WTdL88cWbjT5sE_NVlJp61lqm8pE",
+        "width": 5000
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102676326994257015281\">Swastha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DM9vD1B4wTQRUwVGFXl48MO8Qmb3xgnrZ7iL86E4BxdfHlllXapaGb5lOtSSdTYwqEasqJFEEjWfdINomzM-d9xCSm-Eycfr5G9YVS9YNw0rVicoGjofgV4je4LBq1NvXcgPAIgESBOxeMNCaHs3eBva3vJBJBR9F1ukydTd9Y-xo8O",
+        "width": 768
+      },
+      {
+        "height": 1521,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102676326994257015281\">Swastha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOmon0fPZwh8Y8WnSn46-NANJeo5ee_V5nMybKNbg1Gjc2AsScgCwr9Ydh1Vf26X9TrWElJFDZPRUJODnImSUwBDAoTVUpicviztU85Wg0593R_g-Nm8dvOo6xwsnm3zhXYdoDWaFHmKR6C340wztQwMlpx7wxQyng0sws8PVDf7kRg",
+        "width": 1600
+      },
+      {
+        "height": 5000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102676326994257015281\">Swastha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DPRueio2wJ-F2iqIkQRPJZ8w4482KMTxb0_ETVsgeSSmgVBaHnOnrT41oumNhYUvFWLGI4IiLN7-25rQb1154D7dvAjfqj9z3J0eJ1W_-tWqLqetSlfgddWanT4u36LokZSLssPSe-9vGBQkjLI4C1x_YYYdFQ4zzjKVKMPPJE-ovvt",
+        "width": 5000
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102676326994257015281\">Swastha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DN28rJA-mEnHFL_4JcZ2sbL3-TJgtztY8U2fpenwwDr6-KDLWDAwpUsh5gqXM1F_sANJ6JcyceRLUoGhlIw0794aCBdOCLB6GLWXMCtg6vcuHiTRTzdp4LnpjHFsJGxcyy6cqTV0RO0X9e790ywBTLJSR7nhQtzh-vYe6yqH2KAFKbs",
+        "width": 1080
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 76
+    "user_ratings_total": 79
   },
   {
+    "formatted_address": "D-52, near Medical College Auditorium, Sector-D, Shastri Nagar, Jodhpur, Rajasthan 342001, India",
+    "formatted_phone_number": "094604 60450",
     "name": "Manas Dental Clinic",
-    "address": "D-52, near Medical College Auditorium, Sector-D, Shastri Nagar, Jodhpur, Rajasthan 342001, India",
-    "phone": "094604 60450",
+    "photos": [
+      {
+        "height": 481,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109884127575355909828\">RUDRAPRATAP SINGH SODHA</a>"
+        ],
+        "photo_reference": "AdCG2DP2ON8wDc3Trcz7SNwtnjflByIP2qIDFzUv5eG4s_5IDP6qY97LgMs02B6RZPofRSWjyLHDTcJ2v0I0Uxzipj-zzNjddYzaG2rOKDBEkoswYhburAIiHrekNccbtH92FZzSlgz3HnVolYJ56Wz-Bdjlatq3Co2nH0RSGnNSDbPROIBU",
+        "width": 820
+      },
+      {
+        "height": 818,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111701627137610515835\">Dominic Carr</a>"
+        ],
+        "photo_reference": "AdCG2DNT9cmtebdlps2u_VPxhP1R61qHf7nGXVMq3x3SZTiDbIkd52nuLsXKRBCpASVoaeQyEv7vTGxvWc9gUWNbFkdTioaPy0f2BoahZ86G4yKcxro8M-hHLNI9Ek5Aan2AGImqvPaj8wSXDeEPzv0eLx8boS2dvN50sDg_xk-cBbkf6vnT",
+        "width": 1046
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117091371371503293238\">Narendra Siol</a>"
+        ],
+        "photo_reference": "AdCG2DNHlb6rwwMznlEF0U7VK2If1kIfFQW_be22mI60q0mG04p5KXKkFYmh-h0e8CkESnOeOtbGSxQbvy2hVzrh7zLi90ExlT3m0d1l1Dys2nQlCrVyjzY0Ar1-tZi5ZlYODTkcH9MrRW_cx6bY0u1oUoNpGZm6Mh5WYPad2hX4D1ddXiIe",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114337934161114004899\">Rajasthan Wala</a>"
+        ],
+        "photo_reference": "AdCG2DPig83eofgh4gqgBKbNTk_GI3GqmibtXcC8MsgrvtEYHFh6YZHcmJDzd26F-sXGDXcQErGx8yn3B344rJpm1aLQBjOodwTw8bxTn4r5r8Wkm7TLE8yYqDIHs9rkft3Ue-DzVcpnQSnE0MYBCRbpfEi7ECYooiTstb_nXqJAgrl3USq1",
+        "width": 1920
+      },
+      {
+        "height": 523,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109884127575355909828\">RUDRAPRATAP SINGH SODHA</a>"
+        ],
+        "photo_reference": "AdCG2DP7XtT4ZII0OKctVAG4AnpTROl6x0zE8LBSKWkz__PTZ96EgTjHj0zxSBojiqT_nHn4YBGcWjq4HcROSpmXfPRiL57mZQjzxQpdUiXgKZDbCae7hgk11gLOKYvQ2JRS0K0Oj_NYmvFC5k1nd1_6OLi51OpZNWhua-k1oLuDm4P59Z1T",
+        "width": 820
+      },
+      {
+        "height": 3216,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111516498403588495459\">N W</a>"
+        ],
+        "photo_reference": "AdCG2DNWM85nC5s8DwvtPkaVgg-kyeUaSebV3QDu8MVzdCWgg2oc8DQaLITOoHYIAAHpAaB7N3JmfFlMyzX-DQg_2uzeAUHNLJjUkxPuiFD_ux_RKTur9ol54sH02vyu66ejNnKM-bMY4crYRFyat9y0w579drL4yRwngJVXi3sr21TxAB2k",
+        "width": 1528
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112018936995127210717\">Manas Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOO9lmAEeiAfK2b7ABp00Vsam2YgI3q8BvgTEmf3kEpOqUk61hsOxVdklnQQVXzZ7j3p4vVzlBQz8mWWSO5QHP2TsYWCWeOI1jUGi5ru_2gzScOO65QaKSl2Ta07wvK4WxHYTotvRBwt6LhZf8n7Q5TNI7uvWNdW9rqyUefZ1RAZT4r",
+        "width": 3024
+      }
+    ],
     "rating": 4.8,
-    "number_of_reviews": 48
+    "user_ratings_total": 48
   },
   {
+    "formatted_address": "Varsha Dental Hospital And Implant Center B-54 , Saraswati Nagar, near Saint Anne's School, near Ambika Hospital 🏥, Basni First Phase, Landmark:, Jodhpur, Rajasthan 342005, India",
+    "formatted_phone_number": "097997 74276",
     "name": "Dr. Mohan Ram Latiyal- Dentist In Jodhpur",
-    "address": "Varsha Dental Hospital And Implant Center B-54 , Saraswati Nagar, near Saint Anne's School, near Ambika Hospital 🏥, Basni First Phase, Landmark:, Jodhpur, Rajasthan 342005, India",
-    "phone": "097997 74276",
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666118656523341701\">Dr. Mohan Ram Latiyal- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DN-B5CkBMIHEpDbqNfganHEnpUuL7m5mDWjJhj5nZIDmzGf-3Ysy6Bo4nzDeW2Nx59HTIcALqiAobjzFQ9DzmqetVPEyNEzx9uRfSH6Rs6X69qPtaQ2r8igPVuA5icjAwn9Z4gHS1X-VgTA2tj-s3i21SnaEfQ-JouBJqolOLGrdKdm",
+        "width": 800
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666118656523341701\">Dr. Mohan Ram Latiyal- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DMRAeGe7M1yrd0qmMBVLBxyrvQ1ZasPxX3we6Qc1ZpDAOapYWKb2FYw-d9TG2TGY6LJdR5Rx7ya09230Tzw5obUhylB1akzSomyN9K8H_9AX7m7-ma8JolpStxxEQZ8MZ_eVZMgcKvxaIuKNx6rzP2FApK4YplnTa5a8QZLg0ePWyZo",
+        "width": 2256
+      },
+      {
+        "height": 819,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666118656523341701\">Dr. Mohan Ram Latiyal- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DPzBg5KyvSMWNugokQVYalToEVpw-w5tCfmPY73xzMrJpegLDFF2UTlwEnNZ_xcrq1vAhivYb0MuujhDzra03RPdnG6R-5lzSUS4gmSTqxF9IZ4Ftnm6gyOGQcjIXC0Kkbb-z2wCO0pX-4h6wDekIuTPf-qvh5A_SiijX1P8QQhDApd",
+        "width": 1280
+      },
+      {
+        "height": 2256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666118656523341701\">Dr. Mohan Ram Latiyal- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DPeEJb3Fvjo0Gnc5hDmxHSMX5wTECeUh5ahU8Jt_KAqImO6wqDUNVdf3tncGSMi_DNYRQ61stxrwbfhvwEuqTinFUj2nW760J_iE_-lZthb_6ceqf9XMmZQ47ofJVj-J8N5YcjtTnyJxd3qFCUxDF-T-Yy1rKhsk8Kzo40T7VPrerSx",
+        "width": 4000
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666118656523341701\">Dr. Mohan Ram Latiyal- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DNoY7GwYSBTcZAtLpCVjLpO5MDzaCkKWhgNF_FMTr0PjcuyX5RTi0xJb3ntBdUAusDJcadEGejxAv1b77zSp77j9-ZfCAM2S9RybVNIQ0E81PgZ_meTbZ0yLpz19FEVbCFNagi67bakvyQLfBgtEn5PPWumg5LSTt6-Fiz362OBd_uB",
+        "width": 1496
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666118656523341701\">Dr. Mohan Ram Latiyal- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DOAY0FsHW1DASsw4pH7R5MHMT4seD6oD1w79keEFOCttrgTyGhtz5i4I0IXTCzl20aDQ8H0kDAx4KJzj8ahLB6pfJPDR7FHhqzQYd4dVVcyTn8TcaO7L7op6r89wxYw1JCBBI8OXaOThGyDrGnSPqG-ujj6xQpyH56H_A0f86_fUqic",
+        "width": 1496
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "B-54, Saraswati Nagar Main Rd, near Ambika Hospital, Basni First Phase, Basni, Jodhpur, Rajasthan 342005, India",
+    "formatted_phone_number": "097997 74276",
     "name": "Varsha Dental Hospital & Implant Centre - Best Dental Hospital in Basni, Dentist & equipped Dental Hospital in Jodhpur",
-    "address": "B-54, Saraswati Nagar Main Rd, near Ambika Hospital, Basni First Phase, Basni, Jodhpur, Rajasthan 342005, India",
-    "phone": "097997 74276",
+    "photos": [
+      {
+        "height": 5400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105710336268910863781\">Varsha Dental Hospital &amp; Implant Centre - Best Dental Hospital in Basni, Dentist &amp; equipped Dental Hospital in Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DNuae_vF3X67LIvm4wGg5sogMAQeiZSVuFIS_ryvOF4OIGSVRcq3pKzIrk51x3phwDPG714HpwKkF5ZzoD1_-5wd12SJYGoU17WxRdvkM_nUDaC_XMGzTwnm98QoZEZJsj-kUvkbVOrb7-acXXbIOW4FnAbfIuHK3IX4uRSyWMfJHHM",
+        "width": 3600
+      },
+      {
+        "height": 2256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105710336268910863781\">Varsha Dental Hospital &amp; Implant Centre - Best Dental Hospital in Basni, Dentist &amp; equipped Dental Hospital in Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DNGaqjER0PhaWSr9z4mgMBz5qDYl7YwxPrQ1Ljrx0d9jrAbLFftCdmhJ6DUuSIgoqFYGklDM_-DmXe4nH0msqEsIM8oZ0xfqK_IyEKlR3eO59BfQuTuOxuajjwGsvErzDjZM7Q4yHmwrlUW2ZgW5LyeO4dDwsZbg6E1-zxzzlai_M43",
+        "width": 4000
+      },
+      {
+        "height": 2256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105710336268910863781\">Varsha Dental Hospital &amp; Implant Centre - Best Dental Hospital in Basni, Dentist &amp; equipped Dental Hospital in Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DOFJ61h_pRLiARG5EBhJsTplGxUaMXhh4MKvue9JLPYzxSFVkegQ-I7RyagKjaWCRZPEOV4JCV0aDAJNFux8jON0YegAmX7MaqOuV6LdRxlGAHM_Xw4tH0Ds9VxJNQG2M3jPAeFN8QUvPCYsXjD5852A1TMyG5SgayyctwFcbFE4SCT",
+        "width": 4000
+      },
+      {
+        "height": 2352,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105710336268910863781\">Varsha Dental Hospital &amp; Implant Centre - Best Dental Hospital in Basni, Dentist &amp; equipped Dental Hospital in Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DONL3svuzrdxQrPYbwyxwG03Rw8odVXJ66FsET49N0Rz0ZaCoZhfatZ6IV6DwoKbpAtwmYNUPK8lpXQrui8GpqScRbmWjwh-2in1zFK3ZHnTNZ5XzJh-CNrGS7HCr6NVbA6kgiKw6y_R0wpNmII1_ZZ4_0e6gUF9HoH0ZIox4EH2xf5",
+        "width": 4160
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107225983859846552630\">Dr.Nitesh Bansal</a>"
+        ],
+        "photo_reference": "AdCG2DOKbQ_STQ_Z-dgchxd-43kldi3dc_X3XOT9oIwdkd2MkNMRb7paqsdbqVcbatdvC4AsPWdE647HK5Nq8zf-01eh0UyEJ4kHlQzp31hVrU5uh3r1_PqOtwnVA8R7q79Ptw-8hOqsDzg0LJcZbQim_faAQgkxAkphuas0kCqcU1GiLAYH",
+        "width": 5184
+      },
+      {
+        "height": 5400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105710336268910863781\">Varsha Dental Hospital &amp; Implant Centre - Best Dental Hospital in Basni, Dentist &amp; equipped Dental Hospital in Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DMraOkv1rBjc_twwzCJCOAseh-zdXMxPCXxTv75sCRAvsbw1Sgl87JlEz-0Ej4kg78ZSH6lWgSVHOp-MlizG6WC5jZkSV_TVSUQ26QcUawTe_z1l59I58T0xn3nh0NP0muwYJHfynyOE-3wvkxroexmSiznGVz-jkFaPL3NvP4h9u3E",
+        "width": 3600
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105710336268910863781\">Varsha Dental Hospital &amp; Implant Centre - Best Dental Hospital in Basni, Dentist &amp; equipped Dental Hospital in Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DO8VZgSCugw1190rZFq7Qel3bajzfMOTdavfQ7n0G25dCfzB2ekLVOFnt2eVHg5am9YLoC8jlkIDh0OaOychPpJNYFvfCDyEoc1bPPKVNO86NkOKNDhf0yDqGT4PsPu5Kuvq0nlh4e2xPi2AMdINHxT4of-XuMwi7GBfk9CRR2_XwHD",
+        "width": 2256
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107225983859846552630\">Dr.Nitesh Bansal</a>"
+        ],
+        "photo_reference": "AdCG2DNZT9FHKahnzt18xAJDmvm33MITyQxmpexCbGYSfaDfV9QuX3RX9SJON0WQTVIg5z1mpB7jt6eWHZFQ64DS8jux8ndqkXRveUz8egl6D9hfhAKSCUCLDtiZs_D5NSLzEenCs2LytJri70ab64sYVfkessraRNhtFtguQK1-uDHhkawG",
+        "width": 5184
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105710336268910863781\">Varsha Dental Hospital &amp; Implant Centre - Best Dental Hospital in Basni, Dentist &amp; equipped Dental Hospital in Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DNq0YvcFKTOJQBElKujGkxsezorrynYVspC6x3PdaHE4NeM_1v2L4uwzBwj6TvIHq5wSGzCE8wYBh0SeyY-tp46OH5XqeujWNlvhttwXFAEVOANVRytSkB-hY9RiJO0G1HJkMxvfD8vPWrGHtkVTDvLmMDuiLnq4m8xzhstU7gOYgK6",
+        "width": 2256
+      },
+      {
+        "height": 2352,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105710336268910863781\">Varsha Dental Hospital &amp; Implant Centre - Best Dental Hospital in Basni, Dentist &amp; equipped Dental Hospital in Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DPmZUXcvZWiZtir2cD6NGHnGBM45MrTpx-MTojc-d3Pu4SzqeAcBZjEC3KpHF4QGrI4u7HctDfhzoLUfGS5LtH3mKRiJymQka7YhC9rDE_o0mpACk-5XMpV8tDtRpeJZs5CKKmnkRGqifI3BHXDwRS3o5TMGE-RQgl9HNHPnsNDEBV-",
+        "width": 4160
+      }
+    ],
     "rating": 4.2,
-    "number_of_reviews": 33
+    "user_ratings_total": 33
   },
   {
+    "formatted_address": "Vistar Yojana, Bhagat Ki Kothi Extension Scheme, J-4, Bhagat Ki Kothi, Jodhpur, Rajasthan 342001, India",
+    "formatted_phone_number": "094131 45672",
     "name": "Impressions Dental Clinic& Implant Centre-Best Dentist/Implantilogist/Root Canal Doctors/Tooth Cap/Dental Implant in Jodhpur",
-    "address": "Vistar Yojana, Bhagat Ki Kothi Extension Scheme, J-4, Bhagat Ki Kothi, Jodhpur, Rajasthan 342001, India",
-    "phone": "094131 45672",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100669011927947477438\">Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DO7vWCaAO4wGIwUF7ouysoa6pFT01on95_PDgKog3kV2WbTFHbDiCNClLOkinQNrQu6bcOwmc_8Igvp1KDpUFCpK389XLGKR8xW68ZhF-bE6KWK4CG0l1AAtoFSRI_DWMsbSXsXGbTPAuLcyp9TV5cc6eaVnPxu8V6yMUl7oNVNaozs",
+        "width": 1080
+      },
+      {
+        "height": 528,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100669011927947477438\">Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DOHdrY4FX_BkDYswV3kU4tzSZQgruYorp64PaTU1tRhhdksy9SVWbNLW8TrrD6xdpf1_T6EfmPV3RaK4g5_S3B9jYzsP2raIImhAif8fHFu79JA5a-npjoY2-PD_2eTNBElCQ5r_dzGJ_pmR26z5lWIEeoySPQpzqrKs4LWb-hAEXXd",
+        "width": 1152
+      },
+      {
+        "height": 528,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100669011927947477438\">Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DN4EoAwTk_CaUaQjkhqNJigQvtMidvb_07rSx7qz2jkE0pw6aT8ZjABGRpedZrdJGi2VUzIbmvaM_8WMkKs0daG5Y4oPVVf9rELESHxCOmGof4rn2eNdqWE8OoSXqMiad47u9SjZRN_YdjLokHQv7fArgk9u_46olG3iJfWfSZs1dt7",
+        "width": 528
+      },
+      {
+        "height": 2184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100669011927947477438\">Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DOpjYKluTA5d7cebjMnp32GFhIsMY84IdJP04w401ad1B5wFH0zNvV87_D3o80-ZXtL8MnHJVUsXcfL8JILDxD_g0dQwFgDdiLFw4CS0nqRYgQoWADhUYqMrho-iz1J48y6TFMrH1O_FQ_ew15N9SgaDHJcn-6IS1n_eKgmpDxvxA4Y",
+        "width": 4608
+      },
+      {
+        "height": 647,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100669011927947477438\">Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DO4g2z9qq1I5hMdlvo1oTr60UANNxH_lxSQZw0mfZAMdptrSoE1T2EyZZSuDZc0Bb79M-HHpr9NcOhpEpaYzF5avx4ftJW-51Skx-8riZ8D9-iUrU9sUqd3fHUL-UlnoIV154EX1xGoWeuucWgPvnW16esBxXZ6dVCkyx2U-679pq7B",
+        "width": 647
+      },
+      {
+        "height": 1400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100669011927947477438\">Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DMNuh1bA56zPIeW47pHadhQeR6vXqmG49MAs-y0Zev3hCELU58AzwIIw_qoUTrOQxpgXWngZd1ekHaIlandk6oIko9zPIYVq4uY0rpq52OynIYQc7_M-Zqdh-Yd120bC7QRrNhY1sJqtLoBR5912WJq5ro31bs2MESEnJ0p6PHRZ8Dp",
+        "width": 1400
+      },
+      {
+        "height": 2184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100669011927947477438\">Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DODLkwQkG6mBs5GT0p7UfFAs4ydPp5oAB8KPOWgBUfDXCV9xlrxWCjsVIa1uKiagObrhfVVfz4sHm7AUgjzcQrrsuwelS80kmAObb5kW90vRmeGjZlIv9e0gL7pq644ICBVbBuQsIX5daxcRWEu49gVyaLPR4u2mFcAGPld1Ig91rr1",
+        "width": 4608
+      },
+      {
+        "height": 1908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100669011927947477438\">Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DNOkPwWKddcybt5dqpmUPLBMAeN70TClHbmSu_g-75s-nOuVaEkQKGG0YfrvXWRV4BSuOsqRBuNlcls9zty_FOkoa88TioNcXmwnFciJdgB8MQoCNwE6J1f1bMpbCUWKRh-ANbwqpIVuMdAl19x8ibMY79HQyOKnEQVwnUQvBfQ0Udu",
+        "width": 4032
+      },
+      {
+        "height": 612,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100669011927947477438\">Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DNG6s_SSaTkIta3mYyKVrUM9dqCv2g-zJbR9rp_9cOJkOS33qtFF8yVQOgzUrLdh3MsidGE_NEC7amI9Uk8QnsFwvUnu45tg0dqnaXMKBr_z12GnAOWLmbUMxjpBgZmz7jI2FAoinji4nM8dTlzU6FMU-syr1eVkkEUmQqzRzFN4rJL",
+        "width": 612
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100669011927947477438\">Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DO-X5_FW5LOZqZ8LwXckalqRqlQxORE__kRm2mVmDo-hAKpArfJVEFco6wqwxBdhhkS5yWxlJ_-6J9ihzt0HAgzvjV6r83vvnkndhmj1kOpbB-wMYEdwduzjeOusflCg5Dw0obhVVI0wq5PJpkqXpkPf6h6G-fANf39wuG2fCgKh5Wx",
+        "width": 1280
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "Bhagat Ki Kothi Extension Scheme, Heavy Industrial Area Phase II, Basni, Jodhpur, Rajasthan 342001, India",
+    "formatted_phone_number": "094131 45672",
     "name": "Dr Dushyant Soni",
-    "address": "Bhagat Ki Kothi Extension Scheme, Heavy Industrial Area Phase II, Basni, Jodhpur, Rajasthan 342001, India",
-    "phone": "094131 45672",
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108859191272725816433\">Dr Dushyant Soni</a>"
+        ],
+        "photo_reference": "AdCG2DPEkDZ3Rqxq4ElP3cB6_nN-uejx5JBm11_cb7YlNis7qLdbbb-Z_a0OCL-8kDQ5-7As-tsgtNejyfI9BBmEfsNgEpx-HNWk-2xqMpSRgN979mrbbz6P_RZQnsd-NRoAmzjh6UEf0G5nS8q6cVuXmDl3NbzoZdK4nbw7zN91c6_71jQc",
+        "width": 1440
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 4
+    "user_ratings_total": 4
   },
   {
+    "formatted_address": "Aditiya Sapphire, opp. New High Court, near Shatabdi Circle, Prithviraj Nagar, Jodhpur, Rajasthan 342005, India",
     "name": "Dr. Manish Bishnoi -Orthodontist",
-    "address": "Aditiya Sapphire, opp. New High Court, near Shatabdi Circle, Prithviraj Nagar, Jodhpur, Rajasthan 342005, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108975714056566932479\">Dr. Manish Bishnoi -Orthodontist</a>"
+        ],
+        "photo_reference": "AdCG2DOv4vQxPXhkEQkRu3tSKMF11UJha5fhSO331aUALMIANYvd4cAeIGWQdUBBXDZkfCsrX5lyO5PnSoQhbCbDvML0v3dtTN0Oo9Xy3K-itSaRt9A5Yp4gBneHeSiTG0mNSJMyRC_56TW7jiCXSP5_H7EU_XW8iObsEDnSfrQQKOf5RIHm",
+        "width": 1440
+      },
+      {
+        "height": 3999,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108975714056566932479\">Dr. Manish Bishnoi -Orthodontist</a>"
+        ],
+        "photo_reference": "AdCG2DNO4bja5INzXeuRAqT9lbAVZ-nciLSMKTJpzTuQrd0oTINuBg7YfEP8shIjR12hXILNwiWOyHWFujzlNynSBUIhh7LO6Aq59QbV0g-wX7lXlFob5oNCzKMN2lQZX4cYDaEuXfBv4aKho1mH8ROwmz7tTqdqK2MrmPOdaMOZWqMDGL4B",
+        "width": 3000
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
+    "formatted_address": "petrol pump, Lifeline hospital, Pali Rd, near blue city, Jhalamand, Jodhpur, Rajasthan 342005, India",
     "name": "Dr Bhanupriya 's Dental Hub",
-    "address": "petrol pump, Lifeline hospital, Pali Rd, near blue city, Jhalamand, Jodhpur, Rajasthan 342005, India",
-    "phone": "N/A",
     "rating": 5,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
+    "formatted_address": "Sector-C, Basni, Jodhpur, Rajasthan 342005, India",
+    "formatted_phone_number": "094144 76793",
     "name": "Dr. Kishore's Clinic",
-    "address": "Sector-C, Basni, Jodhpur, Rajasthan 342005, India",
-    "phone": "094144 76793",
     "rating": 4.2,
-    "number_of_reviews": 5
+    "user_ratings_total": 5
   },
   {
+    "formatted_address": "29, Golf Course Scheme Rd, near Chandra Imperial, Air Force Area, Jodhpur, Rajasthan 342011, India",
     "name": "MultiSpeciality Dental Clinic, Dr Ratna Bansal",
-    "address": "29, Golf Course Scheme Rd, near Chandra Imperial, Air Force Area, Jodhpur, Rajasthan 342011, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100330491066885144327\">MultiSpeciality Dental Clinic, Dr Ratna Bansal</a>"
+        ],
+        "photo_reference": "AdCG2DPeDF0iPM7QTfmWPOMRd_97fIl9TCWvYW5dFwUSBRsr3ggRSF3rRqpMRcv30qUxvJZhHKz3qti3sjjHG7F94_ZxQYJ6TWeQP0Owx2l_EbwbeujO7f9jFghs5Y7O5VpXDWjMARxcr46VW5SkQ0gZUXsPL3G6WUliWrHPzPWEm1QjGMqo",
+        "width": 3648
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100330491066885144327\">MultiSpeciality Dental Clinic, Dr Ratna Bansal</a>"
+        ],
+        "photo_reference": "AdCG2DNtZ14ax5cLNdF1aADfjxzION41ZWWjFfGna3bXjlDjKMkBVGsLkHrSfJibzUX-SAl0VXaPDJkHXtWInzQ0v2bn25gkLBL3rSlVtokCALKdhoO6II7pJCJKZ1JjbzWkJ5pKJNwASYHjdsJavZmS3UJJ_pqkceoiTfJrMJMA_gS2lhzB",
+        "width": 3648
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100330491066885144327\">MultiSpeciality Dental Clinic, Dr Ratna Bansal</a>"
+        ],
+        "photo_reference": "AdCG2DMl9Z8vMmUrfrQCfdNYcdXPJIk77mJ_8LPOXVPAl0Veuh7TVaayTl2XCi-5mpk6Cg9JAK0tmXqkik1Qe9E05uktwqAYLCeVi0SWgWZVvTw4FVuNkhcB3ffxpOHxrmA1R7Rs64l0bTkD-5zdaeiFKhhESBpE9qEX76G0oyfoR3C-d69J",
+        "width": 3648
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100330491066885144327\">MultiSpeciality Dental Clinic, Dr Ratna Bansal</a>"
+        ],
+        "photo_reference": "AdCG2DNJaJ-3x5EHUUDWtpjRCOcy4k_tCwXjFH7wbrbzD8izk6GceKzO4VLpR0su1X5PeKVI1GFuQMw6FgPC7oxaZGUL91Doy6EAL3QW6CxqdKR9RvksyjBjKEq_BSiNdDnjvlTeOt4Sz_Q27LS9EO5pUQOxLLaHFCvQ0Rc8UOOaKTOVM0Gh",
+        "width": 3648
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 7
+    "user_ratings_total": 7
   },
   {
+    "formatted_address": "3-c-63, Kudi BHAGTASANI, Sector 3, Kudi Bhagtasni Housing Board, Jodhpur, Rajasthan 342005, India",
+    "formatted_phone_number": "098296 53162",
     "name": "Aesthetic Dental Designs (Dental clinic)",
-    "address": "3-c-63, Kudi BHAGTASANI, Sector 3, Kudi Bhagtasni Housing Board, Jodhpur, Rajasthan 342005, India",
-    "phone": "098296 53162",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108966077867246670279\">Aesthetic Dental Designs (Dental clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DNH_oPoTnbsokVgLC3vEHXVCaWptsBEM9QSTqyTc8F0g2RNv5bAUVN4Ct1BqZu8bAn6lmzpo0r8rEiu5iz4Y6Gldk383c0V5g_CRpuWOQ5FGYYWruA_WXaLYGVf7c74JmJtfobdBbfyx278IsdI0MKJuFjXnLZcupNlwdyjAQtVuZqT",
+        "width": 3000
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108966077867246670279\">Aesthetic Dental Designs (Dental clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DNzdGBHXe0dZtaFqjWbsHJ0bMozRg0nJCuY9TLaoawU-SKy6h6NY7LI7CEWccue3Zht2kEHsaAAWLHo2knmlX1cVPqo14QOTDLCDZfDMR_BU6VHJ0tRjLUWhBCc21ONwmrgPWqVPRiZ3SXOQ45F-dGJn2p6yYeG1UzcZoUpi77aiJgl",
+        "width": 4160
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108779812891985953722\">Dr Tripti Bharadwaj</a>"
+        ],
+        "photo_reference": "AdCG2DOEtPAeXHQWKk7pU3aFQ_OiSYpWhGIRONhJP03GU6O4zilxLN5JORw41WEmCMk-65hOXVyMpyZEnTwMvTDtKGD6vweL-57ONmSDVfJLdvkiPHgvHJL3lyqf1hA10j69rwBZyQB2mRWjAFlcdvSX3pgsXTyG0WIPERBDEnY1BpyZ32fK",
+        "width": 3000
+      },
+      {
+        "height": 5184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108966077867246670279\">Aesthetic Dental Designs (Dental clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DPb61J12UwtZf_pxBVaQbOpWRrfxreHIfYX3klkodEK3TkAvSjH49M-1DfWIA8h-Ca0hZRyjcoPnnfYaW6zVid-XaW4KQo45zV8mhBdf6GdSI3EUZz11D1qKSjfwnkX7phKKpfF6Gez34WBZ_0YyCvIJerDSN9jvAY9QWV9FBa_4W4A",
+        "width": 3880
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102518891044261753791\">Anjali Singh</a>"
+        ],
+        "photo_reference": "AdCG2DMdNV3ug8utbf1LcNF7e0orFnFRZ874MHUoKSnBjkPYSHV1I2owS7rHLs_YfsSq_qPsS6Mfq8ZtLjSDM0gx9SNli3yKfb0W5jzMx45pvo-ZA9JhVhlJhkwpkR-b3uLqZ4AeKCpa-Jety_arfUhHht1Zs6esedn8lcLlFiINiwoLZ4tV",
+        "width": 1808
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102518891044261753791\">Anjali Singh</a>"
+        ],
+        "photo_reference": "AdCG2DOhreXJjqpJ-lDnwAsFZfwBnC-URxADxUdTLnL1262I-Qtk7-1Gc7CqZ2nmlszyTu2j_mivBhiCPM9O2Ze-f__xep-UU30-GN4pDWSchLZQjCjFrl12U8uJjxrQc25ecx6kicWtKLKvm6ciVA_hoq-JJnFOhBsIP79YJsDmrRVZJDlF",
+        "width": 1808
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102518891044261753791\">Anjali Singh</a>"
+        ],
+        "photo_reference": "AdCG2DO3DvYZmSEtkO9tcdtfYwHog49448QitrkORsGE-_dJDh61dqRrBcAYVlUW73aMIn1T9qphueWzghuTTRedJzVKuRfBFmiZnjrmESZL0UgiHL_4sRSKYHzIV7m8Pfj0CNdRKLGmybZtCMu35fbOSTAkrjMdJntgsQmlrMCAHugMjvya",
+        "width": 1808
+      },
+      {
+        "height": 317,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108966077867246670279\">Aesthetic Dental Designs (Dental clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DM2dyUxkuIuHLczWrLcjzlNpvvTlF6uNbo-BpvP-pYJgCmxA9hvHT_mPqXJpa6s_02Ei-XbBJD0pxZvOsjxTZ-iCODTJTiSYPuavfTLHzZLw18sQ-qca0JPFaaGFHImmi3Jk4VyKYng8uObAk6eq8zhCAOOxOfmZlEYb05hBE5ptloa",
+        "width": 439
+      },
+      {
+        "height": 3984,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108966077867246670279\">Aesthetic Dental Designs (Dental clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DOOu9wBDbxcBYyIFa1zg5wYBv5T-ncmUTDbFvkGtx9xo3OZdvNDGe7-Nxvbw10MBUMxblWHAjxKVSBo8x1KEuBuWlQWihqyQbz2tQBDMJvYbeVdvUm-jD2AHxZxz3tLO2ZOhsdYgcwv04aBEPB1NSoo5syPPkjMOxD31tAwtv5y7zAy",
+        "width": 1840
+      },
+      {
+        "height": 3984,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108966077867246670279\">Aesthetic Dental Designs (Dental clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DPIF5I-qQvAWmq3DDDEERDhBKTukoInHS9zzJna-sYm-kBGz3baaG6kZXd3IQoHLmdP2QI8yv0gaRF_P9zyomcMonYbF_rT5X8d9j73hjwwefQ_TM3JsSt_1lOKS0huSPVhdayBTbuWwLsWFzo2BdcrLiTRNAnqLw1J1HgbdLvaYGLp",
+        "width": 1840
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 107
+    "user_ratings_total": 108
   },
   {
+    "formatted_address": "Kanwar Nagar, Jodhpur, Rajasthan 342005, India",
+    "formatted_phone_number": "094620 50444",
     "name": "New Satyam dental kanwar nagar",
-    "address": "Kanwar Nagar, Jodhpur, Rajasthan 342005, India",
-    "phone": "094620 50444",
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104640010732501913566\">New Satyam dental kanwar nagar</a>"
+        ],
+        "photo_reference": "AdCG2DOYQPOdH3ThLSvMp5EZU2WhohTnlsl77MNfHWJA8iu-N1TBB0F_AM1a0eHrfQrt5CsFUEEnW6MZOZCY8o9FKmEyZ6iUgI_Uv7GkOPmryZJGX8QEAKMZozF0rdjYUjyjzfX5SI4WUoJjU7mzZXDDAvpG33ZBAlorkkLKD7HV1SbyByX4",
+        "width": 2932
+      },
+      {
+        "height": 2670,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104640010732501913566\">New Satyam dental kanwar nagar</a>"
+        ],
+        "photo_reference": "AdCG2DOPeUD-oIskRD9pJsOJHz0Tz8iLPU5hl7m1jsv3pdRDFOLbd2-mwckOtEN0CdsmrbSX7Lt3EyeSQnw17r_0AsxCdPX6NDNlce0-wbduC4qrstZrrHPML8IgFFInALqxi-vNC0N1NVYi56d665ILzOpPpxghahencpWvgoJ_dYQ_iJuc",
+        "width": 4160
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104640010732501913566\">New Satyam dental kanwar nagar</a>"
+        ],
+        "photo_reference": "AdCG2DOMWyX4t5oRAQbizkcc1mm11o4R9Or8AJMqHDJNxeF_E_6UG02IIZqWtgUOUFxRo8ZxkmHvMXr5euZlmwtJb6GlAAcSL1jGfHZ13I8RmzZHleL-ZLdt4BZHxT2jhHto7dQ2V9VVdJMZuzqfQmVwyUcJyeL7_GhcJxWoIgstSEUk_-bm",
+        "width": 4160
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104640010732501913566\">New Satyam dental kanwar nagar</a>"
+        ],
+        "photo_reference": "AdCG2DM9_vyIj73vL1iTzKlkyn1k6ryfo-k8hFQBXkA6aiFja0JVSAj5mB_eA6Eelwqpkp8Z08KLgZ-C4JTmiN5ca3qCwaTBAuyJq7BVEXY2uRJ_0DGlPEvER-KzBiFnTuoE9mr9PFpIS3K3fCNVbjsYLG0aeGVdYuZZB8hnKcaHLqUvXzTv",
+        "width": 4160
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104640010732501913566\">New Satyam dental kanwar nagar</a>"
+        ],
+        "photo_reference": "AdCG2DP12onySBsEhBiguOHbfheMl73xrhzOPqULxvtRClpLAMn1OoXARxRIykkr57QGdDiBxlSUfvt0qj-cbsgJtPRzhd1xTqvAl70kJYYBXT3KM2AOeTcxvwFDczFx4slhYlQHi1eRnnNoBZ6OjmXddEuqIcaaIAOOe5uV7lmahVvDA4W_",
+        "width": 1280
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104640010732501913566\">New Satyam dental kanwar nagar</a>"
+        ],
+        "photo_reference": "AdCG2DO9neNE0j9LOtx5Ksf_Zncv1DbA2J-QqgK7HxS9evJRPuCCWv9D28GH-vWOo3Q_7PVi_nyXmN-wKseEMkSFedOxhBRVe7aijohHZPg8W6rSbr_-nfakREOVgPIA1r8J5_nAOe0FqIm6jZFCbJIkcK1uYDjA_eo4Khi8fM5LXVhxb2Yr",
+        "width": 4160
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104640010732501913566\">New Satyam dental kanwar nagar</a>"
+        ],
+        "photo_reference": "AdCG2DO_5dz1Ve64brjKjxfYJdpaeIH35GoOmM0XvCgJTVD1CnEgoC6D0YugzWZoagGvNGUurWal5jv4kf9pQlrn0jn5xCcgTsMtqx9yF_PkHf4WYOkg6SHwKIIKi_VcYFGYfVAtFgXA7rEoNbw68mkvOsVjEFtEuDoCQHU2r5kief_MnGzi",
+        "width": 1200
+      },
+      {
+        "height": 2138,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104640010732501913566\">New Satyam dental kanwar nagar</a>"
+        ],
+        "photo_reference": "AdCG2DP0a44f7-HjsvnNNp1x7lLQ7bPQHgbm7iXROrSvhsSbXZJ-CiTFlw_p_Eeg7_CmOpJWFPsLfHLamJfrEqtHkm5P8FyPXc8qRFjCAWpyA7SiGHmv9_Fce6_z58rMi9O83bLPO46241XbuLivUtn7XUan20OdH7X5G2Lry6hpD_ZMQbMU",
+        "width": 2569
+      },
+      {
+        "height": 1941,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104640010732501913566\">New Satyam dental kanwar nagar</a>"
+        ],
+        "photo_reference": "AdCG2DMBF459GX4o4orbPYJOG9Yh2YxyoPqIwYJTUAw1XP5QgwQvPNW8a-PCeEdhpvuA6dhqVHyAvnfr9N_Q2comOoHapXTmlLBcA16L-W4BVzMS0cDLbgLA2xsNsoGjyzup5O7xG2hQd0A61-eqvFO9RM00BAy4JiCmxR2SeE9xiPmFNdNN",
+        "width": 2105
+      },
+      {
+        "height": 2951,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104640010732501913566\">New Satyam dental kanwar nagar</a>"
+        ],
+        "photo_reference": "AdCG2DPuHcO3sETKMZLqdYLTdEYiIL8k0Wpck-xVXVCsezI9GTRAg8bcW9zSjhrKBFsC9UzwoWKH3MR53oVXFmut2RNBX1kSLqKocNM1NImSZIElFxxPxpLVSwqwa1JZK1D_OynEEZpw3TxTFo-3kkhuY9ZzXhzOo8id72PVhUzINBgnxgIg",
+        "width": 1893
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 142
+    "user_ratings_total": 148
   },
   {
+    "formatted_address": "100 -C, Central School Scheme Main Rd, Air Force Area, Jodhpur, Rajasthan 342011, India",
+    "formatted_phone_number": "094624 79281",
     "name": "Perfect Smile dental Clinic",
-    "address": "100 -C, Central School Scheme Main Rd, Air Force Area, Jodhpur, Rajasthan 342011, India",
-    "phone": "094624 79281",
+    "photos": [
+      {
+        "height": 359,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102794989330837095232\">Perfect Smile dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPbq_LLruW-IzwV6pDNriSE-aH3JpXLMdvsG10ohxVgU_FiJ2YtqGhx_ur0lNYk_mFIlLAOaWmKa-OajYl6gCyPSrwcm_YLuTS9413HHH4r4vx0UDfqoy5r3TR1bopHlhjwizQusY1xQ9TWx3t_7ydse59r3Zeoj8vLIzNK9f0cm8od",
+        "width": 640
+      },
+      {
+        "height": 1728,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102794989330837095232\">Perfect Smile dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNlolsIq1KxyvA6IUrUeGM8IjFvzde0N3eVNQ4NvxqvvbzRCUCAS6wq7EXJbF_ytFGvO6fHQ8Fvl6GF1rufppVn7C8dw227Sy0PpxPTGa7aY8QFD7jOVSsZQ3Nkj3mgPLZPsj77Q6zAhQaxaTDoBAtdNaM5q2epfb5CLnmXcA-2byE-",
+        "width": 2592
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102794989330837095232\">Perfect Smile dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DN7TN3_3cq6L_skPMcrza9STeHnC2-HYlamAwHgYoqVyqCae6IE5HA5zYYBAv4tOSCWPphUl5PGae7JgMWlfn1jvgHDX980Qh0oRxSgfxxRoSStunQyTZNQY1tlwHWOfl31Yf9AMTIQo3e5TJV9maQ1Hz3cURaAYcgBpxu56SxHDXV9",
+        "width": 2048
+      },
+      {
+        "height": 272,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102794989330837095232\">Perfect Smile dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPoxUk1QwIPng1ePk5VaOKf_vr5k1DIlqV7-rM9NJQUJ61-PwUso9hLKSiOylKQAG1wEQQ2-pdTF02NW-Y94ZVkuTnX4DbZW7iXbYfvYzK34OjoRUgkdSLp4CCxJLwp_M5DmAgIKRaZEre9Wmpkra8J2w66dGpM8vA6U2VJi4hfvjzQ",
+        "width": 500
+      },
+      {
+        "height": 1256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102794989330837095232\">Perfect Smile dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMpKsxznlF8hMGX25qSzvcaZOEu2Sp2Nm1IntQswkOFJ8a_BANotePyQQFcPOWN77MJqUmEo7SeHP5gfXt8Jnvuz7K6sXHBDWylf-qUCzZ0A3aYTotv4XFr_iuqTg5gIbxdSZBxeLe6jf5Fi28YBYzbKaZsnkj_eYrb5q09X1BR_EV5",
+        "width": 1890
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102794989330837095232\">Perfect Smile dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPkbzyZb7_4p-oE1nFoLz3Bh_OUj15igIj2pHT_NQ9EHbYSSPJmQmL1LO04oGiYzc3LicEN8P5jJgf2WG_qwnQlEE_eIwr279S4Ye6dJNDWruvtxTyX-XoazyIbjAcULVOC1Vvw-POpHZBlXj_PCdx8kti2sU_8KtNgw8QuT92PJl4_",
+        "width": 1500
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102794989330837095232\">Perfect Smile dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPRWIm0g5CvpUj-ciLiSPlfdUS9RfxGl-0vrvYou3ZCcR0pIj6XNxcChrF5b0ADdjLcQASxoX8wjo8CKiwgBaJlOhdyHVp-U2l3E9jkO6Sl0k3g-mv2WjWusuug-FK74fbl01OUPNtE-MP1NEM8txOjAWBse_A2q7j3Ri9kgvpEvX5Y",
+        "width": 1000
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102794989330837095232\">Perfect Smile dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNLhe9V83WhVfC4SOQ_q3GOA9dYE7bp1cwUVHrdOKTBL5nGjl4Laudh9o1WKgfHevQRuHgzjeLDTlBFTgCLac2359flZTXgBs1wbd58-_eResbkpKt-k70n8mv6qR8htz4r2A4ZK4N2Qg8-omCibPYxv-YJ8Wv2V3BqQk-xGiH3A1mA",
+        "width": 5184
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102794989330837095232\">Perfect Smile dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DM0S9oOYUloH2YoUaUsbW2_luQ8bdkc33s2Vuuw3h1-Ymy6FboZZl2No-f0Ml8onpDeH3Ax0z1kvKCDIS9273cv1YjNtPFO7Y6fUBvBOTG5NmBqbPuWKlnt1Eb6zRfDYxw1HwUF5EQFBV8xucpjRwjAkmNmCNJsG_RsntODwPnU4HhX",
+        "width": 3008
+      },
+      {
+        "height": 418,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102794989330837095232\">Perfect Smile dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMPTZN_It1Vi8LjGHb3aHMtHycUx6G2Pj1-YRMrSuzgoTd4aACtJh-cKDgrJWIMTqP3t0BGWMx1cs6TMCKpYe35LnSQMjoPSOeX9SUf8Ydi9MEzXaxHKWtKT7N4QFblHdfKPPEZETpP9vFDGJgKk4ZoBz5jfLRLqWysVVpmUnOzbW7y",
+        "width": 352
+      }
+    ],
     "rating": 4.8,
-    "number_of_reviews": 184
+    "user_ratings_total": 184
   },
   {
+    "formatted_address": "40 Feet Rd, Rameshwar Nagar, 1st Phase, Basni, Jodhpur, Rajasthan 342005, India",
     "name": "Mukesh Dental Care Orthodontic & Implants Centre ( Dr. Mukesh Paliwal)",
-    "address": "40 Feet Rd, Rameshwar Nagar, 1st Phase, Basni, Jodhpur, Rajasthan 342005, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 744,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109994846644237646596\">Mukesh Dental Care Orthodontic &amp; Implants Centre ( Dr. Mukesh Paliwal)</a>"
+        ],
+        "photo_reference": "AdCG2DOOnYfAQ8LnKnTYQypPucRkj91jc9DxD_U4QMh5hbwtydXBwcSvmm0ZQJoq0kJqfWBGkBBRBh3lYLHoo4aKuEM2AOviTv5IU8c59qk618gVHm4alUnkwfvmmZYRWBeHKx5xhF7PpqQ2QCSiarNbRMVRKkaZdYqnDi9ucS_kiLyithC6",
+        "width": 1276
+      }
+    ],
     "rating": 4.5,
-    "number_of_reviews": 21
+    "user_ratings_total": 21
   },
   {
+    "formatted_address": "103, Central School Scheme Main Rd, Air Force Area, Jodhpur, Rajasthan 342011, India",
+    "formatted_phone_number": "098282 90678",
     "name": "Mehta Dental Clinic - Dr.Anam Mehta & Dr.Ashima Mehta",
-    "address": "103, Central School Scheme Main Rd, Air Force Area, Jodhpur, Rajasthan 342011, India",
-    "phone": "098282 90678",
+    "photos": [
+      {
+        "height": 606,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112013412850568714220\">Mehta Dental Clinic - Dr.Anam Mehta &amp; Dr.Ashima Mehta</a>"
+        ],
+        "photo_reference": "AdCG2DPbEyolDxci-KVNFhKEzdp9GlVlTn7uQ3MBM_ZuqWP0Ed0J5IMXQfO_afqqnPQF73hfX-qAc-yU6VjGcIolT9ONj_k57z8y6OqLPvQfN9snXCtN-oOBBaxUZjHrXeFV5ysGcWsm-KEUCCSGAZWPjs5V1zK3XflKUEvhbMDjo-SVMpnu",
+        "width": 1080
+      },
+      {
+        "height": 607,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112013412850568714220\">Mehta Dental Clinic - Dr.Anam Mehta &amp; Dr.Ashima Mehta</a>"
+        ],
+        "photo_reference": "AdCG2DN77gIizOk-QpAH5fBuYGAvHYrv2PIfoxffm88vKNYWfl0wOBI-uGHgHbvI9SNiXa3XlQ1-Ptf-mjzYSRr80_vcI0SXq5Dl53ybbdyI_f2bNzxwzRNd8kmrQvt9cgkR_6pIV1572bWzVHl1cjUZqjspked32PmpI3hnVTWMVLFMq_mg",
+        "width": 1080
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112013412850568714220\">Mehta Dental Clinic - Dr.Anam Mehta &amp; Dr.Ashima Mehta</a>"
+        ],
+        "photo_reference": "AdCG2DNPlSTjrLLD2qRRpi_k_-lk9mMzicXpR7seGFXAkRhtF82UuY7TE4fEpG8FOjA9J1xBxH_IFsaLl_6grrSaQbwokuPD8EHt0S5KjTwaqLv_osLmhuhc8iJ2U-_aG94tzwfaYkG4A9ri68SNO1aVY_31WzYvm-KoLtaxcAIkWksgM69K",
+        "width": 1280
+      },
+      {
+        "height": 665,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112013412850568714220\">Mehta Dental Clinic - Dr.Anam Mehta &amp; Dr.Ashima Mehta</a>"
+        ],
+        "photo_reference": "AdCG2DOdb1daw1_R7mzQie795zyyF2toF5RdWL4jZ37hbWesxSBKA--17Wf03OqnEFrSH013-OZ5cJFIYzSQGrTvOhnpHg16YE92oy4S3EcbG174Ae8AHq37cBUrOamx2YMWi106pIrd1gzZAhTQNhRzH44lNA9_KP2JIOxvpuNFK0Cot6ya",
+        "width": 960
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112013412850568714220\">Mehta Dental Clinic - Dr.Anam Mehta &amp; Dr.Ashima Mehta</a>"
+        ],
+        "photo_reference": "AdCG2DMZrAH2VnF_MIWDF_RbLvk5V4ny7fNoOafHbXVpaKZMT2OYtxbuxggaqDGWrcvWKYsKXlZpT7Y98OQ9uQYBTAwM0hPZkzP6qYje9axLbAvbr6TAfIKUqodArrhOVyVRi-lLITHfKwyCAdwHNH_9eO89tPuOdG-MHxl8VlsWZGEBlfni",
+        "width": 960
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112013412850568714220\">Mehta Dental Clinic - Dr.Anam Mehta &amp; Dr.Ashima Mehta</a>"
+        ],
+        "photo_reference": "AdCG2DOn4vrinMzNC-icR73lCqUu3oWOXcoJTtMk4rCl7iP56eUCVRc6NR4F4DMMw1pwQmrGmDXUnF-NEKJEBUiPRsb7UZ7Qbf7CBrAdvt1sDGj8qpkbcP_Ux88r3AeuM1XopdoDCcEjWnvRNzDQ9ToAkchfKQCLsQeC95WPcPHmVkuJDbYP",
+        "width": 1920
+      },
+      {
+        "height": 584,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112013412850568714220\">Mehta Dental Clinic - Dr.Anam Mehta &amp; Dr.Ashima Mehta</a>"
+        ],
+        "photo_reference": "AdCG2DO2YuniYY0iLDnHk0D6OPcMqyVpIxQ0Y6S1VcWM9qDpgCqQCLlFujl0E15oyo0XLbtZwgjgS7ANW3AmydeDvtG1j_cOm_MPtA8PwjcF1fVgyh_O4YGPPs5xqqWD6zCfZ1C4sy_DHDXkpMX3G5an3ALNuAZbNlayUsY_yysjRRtq_AVA",
+        "width": 1040
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112013412850568714220\">Mehta Dental Clinic - Dr.Anam Mehta &amp; Dr.Ashima Mehta</a>"
+        ],
+        "photo_reference": "AdCG2DNrPFzjxqfJHWPyOrSDAldaOPAedtRMQ_vmv7qVY_fNROuL0DHmG4xGKuuSOO5P0RoLtxyNLGHV7fyb1oY3JjnmYrloO-VTj6obj9BHNwmWZfQvhQbE4pUykdLRHV6W0HZ035alrIQIPARR5PM7vqtMlYq5dLCQ_M9ks3LgVXwj7u3z",
+        "width": 640
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112013412850568714220\">Mehta Dental Clinic - Dr.Anam Mehta &amp; Dr.Ashima Mehta</a>"
+        ],
+        "photo_reference": "AdCG2DOZKJYn-p7Rm4R_AV5fSL1oLX1vSLr2VSErGxaImowQ39DgcCNOZOJNDbktxNgipst5dEtyqHLj1-vK1Dtgwp_Qd7wFHrGnJW9F_6w9-mrIjzD9X1Hs7BWv5-C6iGvJLDloj3M_Dl2849Z1WN4_PiHu_fQI47mZ5j8IAzOwN9Lcy4vK",
+        "width": 1840
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112013412850568714220\">Mehta Dental Clinic - Dr.Anam Mehta &amp; Dr.Ashima Mehta</a>"
+        ],
+        "photo_reference": "AdCG2DMd2Yx6fnXiIDGs74q8tWL0SBmfvLAA80PSTfTjQBLEb10V_77xSCeu-AdsicAW3_hrqPt9pmFpxjlfFcXsowx2r-jPJNvQAanmXgffBQTldymTJUrJCjCj2IABP8Kzt1FYK0LrsuyxVWflOAclumINd9Y-1e3MtI1Ck8EOKu1h7rDG",
+        "width": 1840
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 62
+    "user_ratings_total": 62
   },
   {
-    "name": "A R dental clinic",
-    "address": "726M+R4W, Golf Course Park Rd, Air Force Area, Jodhpur, Rajasthan 342011, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "726M+R4W, Golf Course Park Rd, Air Force Area, Jodhpur, Rajasthan 342011, India",
+    "name": "A R dental clinic"
   },
   {
+    "formatted_address": "3/21, near Samudayik Bhavan, Sector 3, Kudi Bhagtasni Housing Board, Choraha, Jodhpur, Rajasthan 342005, India",
+    "formatted_phone_number": "096808 77699",
     "name": "Rajmani's Dental Care - Best Dentist Near Me | dental Clinic Near Me | Dentist in Jodhpur",
-    "address": "3/21, near Samudayik Bhavan, Sector 3, Kudi Bhagtasni Housing Board, Choraha, Jodhpur, Rajasthan 342005, India",
-    "phone": "096808 77699",
+    "photos": [
+      {
+        "height": 774,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105148015566400951960\">Rajmani&#39;s Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOS9Zaq530siuODqZx5PkgOsV6JNX2e8WtMcXPbXAbfrjYDs-puvqteOZQGIKEUt-OT85uiD4GjAFIdGrraDHPEBKW6w5K0viUWv9kiVEq1Gt3-Gl2M7vzj061qko8lTVkmoST2ViEMlpDPo7yMK_KUY-ARxZPyDdHdeAmGlyyf7Uxf",
+        "width": 1450
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110542809014115059437\">G Digital Media Solutions India Pvt. Ltd.</a>"
+        ],
+        "photo_reference": "AdCG2DOhN4eVgbS1iazTVL42Fo3LzuoBqmjUGSnjQY1eVxvQraqCjifO75Z4INpidwkhyktWyFG5FOQyv9eKkJpJP9gi60Y8augOy491JeCaN6l1hEXgeksTw4QNSPW-j7mBIhctKqfP30_f8nXKcYU9Uj-T67bqnL3rvcRcT83g-G5VXWoh",
+        "width": 5184
+      },
+      {
+        "height": 516,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109082561890862387178\">Business View India 30</a>"
+        ],
+        "photo_reference": "AdCG2DOcMUG0VXp_7ZRfgL9EUY8xvPRbleuyL6rm5_STF7yWyF8RewkaEI4hy5IV5PnzHMUJAVwYrtU6YagJUYxYg8Ew295XGt0nEN1BTYg3XyFcLFioVVLUXk6pCxgiEOEqOpSxcceygWk2EXXApH-QueXYTVyLNGXJN8FJNVtb-fx-qSE-",
+        "width": 399
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110542809014115059437\">G Digital Media Solutions India Pvt. Ltd.</a>"
+        ],
+        "photo_reference": "AdCG2DMLpzNkXxVTcT2gGWBLjSCHYANuOEboRnu6VXlQAYnaSTg-_wjvv4_vHhrrT0EpONvZMXW3BiW2pjLcICoOrTMAk8pkO-98YzDBTkipx8bArPPHzYbHmohTKhIXFBzBb9ykVRkE1HptMs9fpoygr3m-GtmzWCzkJ_P_jLmtNp1L6p03",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115456193825491445827\">G Digital Media Solutions India Pvt. Ltd. india</a>"
+        ],
+        "photo_reference": "AdCG2DNHpnfHF6jSQu30P-fR53ol3Rpwnng5b4u8jKVSDkfTGuLSudqXgNrwyLCidVALkiZ30rjKd0ch5su2kHm16VRXHPMtc7PxoX8g8JhBXrAhV5E2Id5fdXncLry-0x10W8GDK8kBlL0rH_dggZaw25vcLmoSQCKom1gR0pJ9pH7IBOXL",
+        "width": 2048
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104074378501511567378\">ujjwal singh</a>"
+        ],
+        "photo_reference": "AdCG2DMuxqLu4f3ed43mBsGrv32TmcL8dW6K3WclohYeqU0gQjBZMzJ9quz2hyrzMtN-r31fa6FT2CkezO1UXY2DIsnngvt4cc2J_elU7fZbBu0axKGLcrKSsNMjeZFQ9ve7X0WJvdHbngyFNw1OboShXaNArdW00vC3yC3nFycPyZAK2pC9",
+        "width": 2448
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115456193825491445827\">G Digital Media Solutions India Pvt. Ltd. india</a>"
+        ],
+        "photo_reference": "AdCG2DNytz3Efyb1CHD7tpDG5cwVBn3Z7rm7fIAugv2x55lRn8TldAgBdBE5yA3l9DIE0N2NqcN6iLWMyGzP25ddU19Yb66VinVQediGDg_wMt7xttdVc68Cg6doRFWvgik050E84eLkpn1ugFcxZfFjtX5G-kRvJwbykd90pmBe5ZN_nwMO",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115456193825491445827\">G Digital Media Solutions India Pvt. Ltd. india</a>"
+        ],
+        "photo_reference": "AdCG2DNhBieupiDgpBux4TSQSvGcD_dZ2tG7BEqhta07lqR-77X5HU9-G-4fjUoP4PrMjrk74POV2RiInDIp0l1UPV9lLksk2HdTENJLyh09ZbCl19H7uRjAmylkVGv3QhnmQffi_X4sbb9_jxk-D4xXVly__fwZWrXh9-TyeCB3U5-0DFzw",
+        "width": 2048
+      },
+      {
+        "height": 1488,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118177494921668172654\">Yashmaan Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DOhanx-CDBoXz38SIX-w9NoPgl_s0ydTuAclANwrMtApU2BD4K2AahVKy7vlzwwGApANJ0DI6ZszPlPOVOldH1QFLBYqWG5JEKewFNrFX2XyrPDIGzT8Q6rT5sWs1BnS2pKG1apO_6p7s0ntG5lUqKYKngnr5-rLaJkVK6pJK6sYFV7",
+        "width": 1984
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115456193825491445827\">G Digital Media Solutions India Pvt. Ltd. india</a>"
+        ],
+        "photo_reference": "AdCG2DM5SyF7HsDQqvCza1VSpcCIFo0px3kqGUB4xC9npX5Npjxfv0zmuRgrR45Pu8TE5iUi4syh0HUk7HUwas6P1dx40cTRTfU6cUs6ys54Bra3KTDWdEvh2SnWV252bgjBqh601LnBS1ZXdXplUO5ZOP5srWQdoqaz-dFe3jK_ed78Z56r",
+        "width": 2048
+      }
+    ],
     "rating": 4.4,
-    "number_of_reviews": 8
+    "user_ratings_total": 8
   },
   {
-    "name": "Meenakshi Dental Care",
-    "address": "7265+JQR, Sector-H, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "0291 261 0423",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "7265+JQR, Sector-H, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "0291 261 0423",
+    "name": "Meenakshi Dental Care"
   },
   {
+    "formatted_address": "1/3 mdm hospital campus,near shastri circle,shastri nagar, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "0291 263 8385",
     "name": "Dr. D.D. Gupta",
-    "address": "1/3 mdm hospital campus,near shastri circle,shastri nagar, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "0291 263 8385",
     "rating": 4.5,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
+    "formatted_address": "G-284, Adarsh Society, Sector G, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "name": "Dr. Renu's Tooth Temple - Multispeciality Dental Clinic & Implant Centre | MDS Dentist in Jodhpur",
+    "rating": 5,
+    "user_ratings_total": 24
+  },
+  {
+    "formatted_address": "houswe, 119, New Power House Rd, behind market, near deeksha classes, Section 7, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "092399 93999",
     "name": "Dr Anika Aggarwal - Best Dentist InJodhpur | Smile Designing & Root Canal Specialist",
-    "address": "houswe, 119, New Power House Rd, behind market, near deeksha classes, Section 7, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "092399 93999",
     "rating": 4.6,
-    "number_of_reviews": 26
+    "user_ratings_total": 26
   },
   {
+    "formatted_address": "Dr. Radhika Joshi Clinic 4F2, New Power House Rd, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
     "name": "Dr. Radhika Joshi- Dentist In Jodhpur",
-    "address": "Dr. Radhika Joshi Clinic 4F2, New Power House Rd, Section 7 Extension, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110476328053045731153\">Dr. Radhika Joshi- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DNDSu48GJtCt1Du4y00IsTuDnESzqH7hmx5ZTDPKY5SpPG5mGdDLMpeaNt4fCod01wfLJj2Y9GWTrExHufK0NQ-lTakrcjdLrVcWhcP_TDnfLdlzBiOESdqcowZgO4RKwPZt7CzRm3ipPCcEfrkPVra_tEbqQb5gm8fwXS80xMoK1qx",
+        "width": 800
+      },
+      {
+        "height": 1075,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110476328053045731153\">Dr. Radhika Joshi- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DNA2M2h1sonk2yuX6A9xSpqd28JpsQxeKqvuEIvmk1PrO3mVFlKxvXw297ltdF_lyh5C8Yw7jIXzO33OCL4vGfUisOXFUSp7t5Ic5PiobMSz-9yGIwNnO5OTsKDdWtwA7Fawfcjtj18RTR636SJXZR1CoDVPcp1dsJYf2SkvM7hxsnK",
+        "width": 1170
+      },
+      {
+        "height": 1077,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110476328053045731153\">Dr. Radhika Joshi- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DNtT5uYG_cYZcHURfVrFLGdmWZsgf6Jtw6W3UerkKQ_iXu8qvOE0jB7mb0uWUsNCz6ckXn4zO36nf_TqL4St9GxPfsHQ1HHEwIBRaeaYErZAuSnVZ1A-McAKH6idBE0-2SZo9UIUr4cSPSXX3zc8ikwVBE7crg9_t90pFgDQjr61Ecv",
+        "width": 1170
+      },
+      {
+        "height": 1100,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110476328053045731153\">Dr. Radhika Joshi- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DOLNsK52GUqR-2lnBTCytGfgjJyTzn0NpIZs4oyswii3r55mZqnw7VpNflb7YKPliD2Jxq8D_dH7bX0mrGsnXbrIQccNCtpgl76aPDFLc34qePn42MA-NPvyNe96dsDsTPfstqLZif7EqC2tPVYggFtdQljYwODIt3ddL4gUlU37yu1",
+        "width": 1170
+      },
+      {
+        "height": 700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110476328053045731153\">Dr. Radhika Joshi- Dentist In Jodhpur</a>"
+        ],
+        "photo_reference": "AdCG2DPDBu6NatDMgPx1LpKSEzt38tpvmp93z9Nhc1ZfEOw4MG4400yTDU8O0FHF_BRbhLg3-trHyjRwarDVlrZs-0XFV9LgMZBBQz7nkytrLWrVnqhb0uw4KahYeZxkbCOqxSeON3iV5EzNrxtL81ykCQhyUAjJmVk4eBDF1M1tlxm2M5RX",
+        "width": 700
+      }
+    ]
   },
   {
+    "formatted_address": "46 Abhay Ghar Opp.Airforce K.V.No.1 School, Jodhpur, Rajasthan 342011, India",
+    "formatted_phone_number": "094144 74473",
     "name": "Manvi Sparkling Smiles",
-    "address": "46 Abhay Ghar Opp.Airforce K.V.No.1 School, Jodhpur, Rajasthan 342011, India",
-    "phone": "094144 74473",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104984196217675893058\">Manvi Sparkling Smiles</a>"
+        ],
+        "photo_reference": "AdCG2DO4a_V4IdUXBGTqta0dOUjnGCVUNsZQ4Lo9TPpZvFq1Nfh58BXG6oqXjaa1WjD8gx6MmxzGOkBo3V60RJaVwL97NHehTJHwjEX9AYs6VCrMrN7K4pcGEgU3clstpO1PapDU-ASDL6VfSwpJHB3oug7GioSZbJQDCUs6AA7lkdstIT4i",
+        "width": 4032
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104984196217675893058\">Manvi Sparkling Smiles</a>"
+        ],
+        "photo_reference": "AdCG2DMnZLPvV_FRncMNmny61YfsmlvxbQ4GCIYSRmUH4LOc_8Ksp7iCNN9znt74XOL_VEtZDFJWVKRHmGLY7xbcFwA10Egjf4XJVLQiHGWvKznfnLlHftrA114aFkOs_Ci_4hzxgC4ZYAbxkqXHOIj1c7eAyOMqwJChjq9joHoD7atEcm7P",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104984196217675893058\">Manvi Sparkling Smiles</a>"
+        ],
+        "photo_reference": "AdCG2DPhzbJ8xLIAzB-59q8bf75l0i6iMfBKS3sXJQtJsaPnvzhiH_US_VtnEIHsQiOURC-qfOram6aoNr7L2GbHZjFrx4shdIhLyFOEbLHSmkq_rYtGIB-QQkApOo3ItTK4rgLiqAwJf4yuD4ZDsM8sReXJqbtPe9Op5-K9kNfLwxiti2yn",
+        "width": 1600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104984196217675893058\">Manvi Sparkling Smiles</a>"
+        ],
+        "photo_reference": "AdCG2DOMNlo3HU3-lQnKkUkk3UsOo9CBf4unqEoykoJbvwdINA4gszmRcEzdsjxZKDgHqvaUtfKL7CxTvJ9c1kjU_b-LxHrx7qvxNHuCRqHJ1mR2mU59wTLKqJpm7AU_1IZodWiNqTSg7SlvVlFU5VossOPCV_iV4aFS1jQtawfyzm6iV_g5",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104984196217675893058\">Manvi Sparkling Smiles</a>"
+        ],
+        "photo_reference": "AdCG2DPn2qTFyDuTulo5ecJWFoWw1C5t_eQ1VjJEM6fXy7CQPN2G6CgwuqZKa2HrQdl7GXTGxmDXbHumvV2nX5ugSVWS9yR1YRb0FqFY1X0xqJWt7t0pDyMGWke5HO4eYgiy_u5o8lGdjNrIWYDzpp5brD9R1DTA3yXg7tqEzZ3TOwd9uLw0",
+        "width": 3024
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 17
+    "user_ratings_total": 17
   },
   {
-    "name": "Shailee Dental Care",
-    "address": "C-159, near mansukh diagnostic center, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "082900 22300",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "C-159, near mansukh diagnostic center, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "082900 22300",
+    "name": "Shailee Dental Care"
   },
   {
+    "formatted_address": "C-16 A, Opp. MDM Hospital, Shastri Nagar, Jodhpur, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "094141 34764",
     "name": "S R Dental Clinic",
-    "address": "C-16 A, Opp. MDM Hospital, Shastri Nagar, Jodhpur, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "094141 34764",
     "rating": 4,
-    "number_of_reviews": 4
+    "user_ratings_total": 4
   },
   {
-    "name": "Newsmile Dental Care",
-    "address": "111, Shobhawaton Ki Dhani Rd, Gajendra Nagar, Khema-Ka-Kuwa, Jodhpur, Rajasthan 342008, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "111, Shobhawaton Ki Dhani Rd, Gajendra Nagar, Khema-Ka-Kuwa, Jodhpur, Rajasthan 342008, India",
+    "name": "Newsmile Dental Care"
   },
   {
-    "name": "Paras Dental Care",
-    "address": "111, Shobhawaton Ki Dhani Rd, Gajendra Nagar, Khema-Ka-Kuwa, Jodhpur, Rajasthan 342008, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "111, Shobhawaton Ki Dhani Rd, Gajendra Nagar, Khema-Ka-Kuwa, Jodhpur, Rajasthan 342008, India",
+    "name": "Paras Dental Care"
   },
   {
+    "formatted_address": "Sector 8, Kudi Bhagtasni Housing Board, Vivek Vihar Yojana, Jodhpur, Sangariya, Rajasthan 342013, India",
     "name": "Gehlot Dental Clinic",
-    "address": "Sector 8, Kudi Bhagtasni Housing Board, Vivek Vihar Yojana, Jodhpur, Sangariya, Rajasthan 342013, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108375527605694584729\">Kuldeep Gehlot</a>"
+        ],
+        "photo_reference": "AdCG2DPDZrTO24y9NZoyvMKPMx4e2ZqgvAeZcnmT4Uw5vvGUTF0hvhbUq-vgAcX4LvY71Uy3puUsbrEWQHwlxfr87QY48Qpu5pnd-ipI1G_WDc7iWQsoOBZ1sN-y56wc_B0JZoMELyY7PvidH_euKNY-JvK5dhPzNv7ISIR4N8hloUVsUqNK",
+        "width": 3456
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107734342402001275597\">Gehlot Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPbarJEnC1t3GhQvXTUMBGXmRnCAMU_ZSjmBB7PAQHJWhtHDYV2wQlt3fwZCwN3kfBeQwkGVlWh63G2PNA4b5R7gDUeodiIhJ45FVBw9zZzk0y5osukQKRoK7t1IGn1PqdF1kcyzuTWOUROos9kFTbJpu5EvE7rjEkNJNFSP1SOsdJj",
+        "width": 3456
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107734342402001275597\">Gehlot Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMA4-6Mti-epve_DR0cUwZTDiMQcLD8C3hat4jUKJ5UmA3owqRNrp0vOJSi23pEYoD_RvO7VrdzoJ5ow7T8PPmbDNKWiuzWex5SoxTXFvmCm_fUz3qGrg9nqq3ZGU3mCjLs6aK8QLDcouEm9tfKIw5jDa-8oz8R1jdFKzm5jhJJYDcR",
+        "width": 3456
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107734342402001275597\">Gehlot Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOOxVE8Q8U5EstEZ-NFxrvf1rPz8FM-UzGD2AXRiYeoYIX58yAtd9VnO2N3Krq3Zcz9EeFhs02sotk8eJxtTk9tBYjIo3QiVoSZ6PkAZ0_0xViKOYVupywuUJc87HaJOX2nRkPCiNfXQaXEII32ZFttErAyDWWRat4F0Gqmy_Eet7L5",
+        "width": 3456
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108375527605694584729\">Kuldeep Gehlot</a>"
+        ],
+        "photo_reference": "AdCG2DODE3lhHvy_IZO-3j6vO2rSHG1RPsN8qIAJ4nAVJNVGr66ZYPxGSGzOH_1B2hKVdkHfL801iFyOHpyXJeExu4vyjWkQorehHRiCnlCz0tFjkyJ4MsLdLeDfjRl43OblIHt8-_L3Bcw9rT_OVhpkCEV5-I3b5u_058e4iZbDiU5z81_n",
+        "width": 3456
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108375527605694584729\">Kuldeep Gehlot</a>"
+        ],
+        "photo_reference": "AdCG2DPnQCTWEpCJmRZeXyMITol_XSOhoKg7dt8xJieKQtiOhPOkaDJ9o40oaPHyKw-28Ily4DFPaLzihMjuA1z82pCGXy51U_Ix69iABBWwUfNkboONFx6jFK4Yxl223LYT86ubfc0nz62-DLnXIZNfFQJ7DJ-lMFQjoMBSd5hFRr6Sd5xK",
+        "width": 3456
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108375527605694584729\">Kuldeep Gehlot</a>"
+        ],
+        "photo_reference": "AdCG2DP1bt5_PW05BrR2jcqILrko3veLqwQ4hMNwGtm6VzldNRFaxKKVsQLUu2_8qOdTVEjilPidulcYi_TB6QuvzI-Z-Nld7ef98JbvkUVAI-2Qw2O9qJWsghibATh1qGvj-bgHGmR2RiyoxEpaTEpnrPH0MMRZUCfUBvRl87cL2bpQE_yI",
+        "width": 3456
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108375527605694584729\">Kuldeep Gehlot</a>"
+        ],
+        "photo_reference": "AdCG2DPd1ldY2V3l8vev3QNbEmaB0RVFPS40GXfs9pFsauCpWifIyyBRTZUIBHjSfPK3hc91ZUD6nDzEswOF3Lakqu1RnfQVwFhqGzQpdkTtm2scE13aIkWT_upb8AqFe020YVU2SxebSwiDFyauR8AiWi8h6uu29lyj-pydvAW7HVYS61uM",
+        "width": 3456
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107734342402001275597\">Gehlot Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMP1f2zJNmCvw8_nuepwp3PAMHVK4fjOjc4CE1aXVXRrqdeX_F-cVvwXofPFyRBPA93-MI-NLaq9ESiO9Y0WMxsoLE-aKvyddlMtmjAyclP7fpwPAJ3KVaaVxsQOL1fA1MQTcuRipDqpp6hsQcGvAkQTZGLR1Ts7fVwzlrVFTKMc82J",
+        "width": 3456
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107734342402001275597\">Gehlot Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPnONd8f-em2d7cgS-duMXHEuonltqme7TY3zg9jsp2ImgmCS-m9BLQSzfZ9f11Nbx41aLjPLvHMzu20CvTwh19QK17XsI3XwR2ce9xqMlLW36sPV33Lsz-DOaxfLbIqJpHdQ7LBQsH8OWJOULQhXZz14XwMruxG0rmosHbDw9EIS8O",
+        "width": 3456
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "Shivam Hospital,4 Mahaveer Colony 'B' Bhaskar Chouraha, Mahaveer Colony, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "formatted_phone_number": "088905 60570",
     "name": "Laser Dental Clinic",
-    "address": "Shivam Hospital,4 Mahaveer Colony 'B' Bhaskar Chouraha, Mahaveer Colony, Ratanada, Jodhpur, Rajasthan 342001, India",
-    "phone": "088905 60570",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100406984588439494456\">Laser Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPsIkqCa754_uF4RQ4ECR-y78OHtBDWtbSSubOm-Afguub-D1hTT4mGMnvTFjy16TwZKHmkzy2WbIlvG2c26Z4i1-Sq4_ogu1qPQTpo8AwTtgqCcU4z96VWv21jgwzP7Na1CTwafHZiRGR9MHpqUHK2daBJugrwpicQ_-DsNNt_G7EN",
+        "width": 3120
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112427508884214719028\">rahul verma</a>"
+        ],
+        "photo_reference": "AdCG2DNjNB9K9ibHENqdskMqphWfzDBzLTE59LnzYqfX0oOVxWYwkUp63CIvTnRcT4zOJ59nf-SXhhaas-8q5es2t69AhjwvUowmTBvs_vHZO0YHqTdvofYuML3mNNmBCfn1VLrRZgCUhAPxE_MyUYIw_5Z9Q4ISsOuOOs-wxk2LuqeNul7e",
+        "width": 1872
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100406984588439494456\">Laser Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNGwlKBF4EJZERQJhij6-H9gDZ7h1hzhUB9WrQoHWWDpwXgfDm7EzYfEttt0he0J5xcjlGOLJQLc3b9lrKEieynTIXDX9gWwBnOuXtL8DuSYIEM1NhneGffeBqBvEuAvtpd3p6f1Q--o-SJEceRVaCU-IrKyp55xBND_7yV1LjAOE0b",
+        "width": 3120
+      },
+      {
+        "height": 420,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100406984588439494456\">Laser Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DO_JHHmcTWRRG_rviWX__nwajBtIxRCLOX5017TSEWFY8kxEH2OI5Pkv3hKU4Py9j_67Lwi24nAoBiPABlgRO6SZ2Et0380eq61v_Dqt5WSJZnXMfRBZ2uVPZ57M7ABXn8vL6-HXhua_jHlU4B5RpKCMXf2oKRnr9x43Z4i8tG9sqif",
+        "width": 550
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100406984588439494456\">Laser Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNIX6kFd6HWaFCLyI5EdkDNFi0Gl7goLiqkiB-wiHjcrvdPEaDZBqBlyC7rHnNWW04XuXkgdr9h5KpYzbMS18SOcFWYgODdHbC1FphuNXl1KKYgs4_h4U8fongoVdvFf1fFKZ_tQBnDswdrTldcKDhkPnpgmuYUPR-PhS2kfZGWe3Yz",
+        "width": 3120
+      },
+      {
+        "height": 367,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100406984588439494456\">Laser Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DORt6mCOvmIaSK59CPkH665_9gza15Cj2u38fXDU7MCLQacWVIY5QInnQNfzA1WVVqXhX3ptTv9yyyhFdXf_WGmponPdmxftK5Y-0ikogpOdOxP00nWuh5FjkvVrG92s5--tin3PdouwXrG__Yzn_TFVJV_f2AiNPgz-D-e1rx7CTyB",
+        "width": 550
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100406984588439494456\">Laser Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNDPxLRd091Twys68RRdANILbAKa0yUJU-zPeNV4XfhyFkuWMNrWebGQH1HktK0CJH5Q3sUUdE5OeJntIZSuASF5gXwZgKHcZXpKdNARLBzCipVl-Py7hTDY0N9QSbKwJ_8aQLROHBMfa7QdeiUj9ZeAeV7CkFZbjqofBHE3Tm8Ailo",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100406984588439494456\">Laser Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DMzCoFHMw2Lc3_8xAIyZl_LMSjpJTZA9Tk3uZcP7myn-3tGocmKiRSk-RQKTL-Z-PgpuE0wK-juWb0yXxHgtnSncQxJ9ZlbTJITDKQgQsnq09-zbAgdrqOOHu3NJXmOU2-2wawRks5XjXauRNTlC8sMlmJva0ygwHzsokSa4QzPb85c",
+        "width": 1920
+      },
+      {
+        "height": 367,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100406984588439494456\">Laser Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNLc-SQSM38aOkz2VWde4SzjaYuPTri4FCXVLgUMqDsKW4Y7YTS0tpSY26osuhNzOexJdUkw0-1PM3LIrwnMnOp2BRww9SgUWn4qn_vufT2UVxPm9P012xQKSSls3TwKwabrYGgoNvzx8lJxDuLL9EvtWb6-bMNZ0KOmrsgZLpPI7VB",
+        "width": 550
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100406984588439494456\">Laser Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNYOu-7uBGFc3Q4N-yreYEhoF_U4sDS2_18Cv5__LfnWuEqQHpasKIurch4QEFsJezc9vB_FSdfRkRrJYyZUcBB1IRICpseOw8p56V0_TIAzZitEz7xHmiNzMMpg5Q-6wf22WVX_c3w12Saa9wycp_gibz6Dv6KDbiw-U2XmUPzDLsU",
+        "width": 1920
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 54
+    "user_ratings_total": 54
   },
   {
+    "formatted_address": "B-60, opp. Agrasen Park, Sector-B, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "093523 29304",
     "name": "Lodha Dental Care",
-    "address": "B-60, opp. Agrasen Park, Sector-B, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "093523 29304",
-    "rating": 4.8,
-    "number_of_reviews": 36
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102980138929471250744\">Lodha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DM7C7mwzekWF8FlUBfXkgfSMN_dxUOMNprQjfoZzRPO3e7K11_UEGaCgX4WFsTlYhe-Blr-4EedQ8Kh-GB0OQwWbxRPn6S8Y5QQ-gilofHxJRnGVaQ6TiuArJai7JnNpGW9TmJkJJfL2lE9Jg38o1Q-Qe5HWwboqEl6kKiep8FpHfAI",
+        "width": 3456
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102980138929471250744\">Lodha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOUBEu1Q4zihXyXtrR07upAcU35OIXuVIvUbwI2OfWtcXL6KKmE-pTyVMX_7h2SL4Xroz70B24cSYTqE73NdpzvqsgOkSIQhLVD-DJRGMFTOse5DMgpsmHNyaMGk-DrJKV349smqIuw0cXAxaRgFnVfzDnUdKkmAODlga7pii-VWXuN",
+        "width": 4032
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109359755723518351419\">Sachin Lodha</a>"
+        ],
+        "photo_reference": "AdCG2DPdFqVBJoLAUcoJjszaXNuMjUVUmlPucvFUU0Rw3B-vzsBnh7s7EekoSYTlAtoBaTHNIKAW8B41hTUgtTjlEehOnTXwpepxOVa_2pOsxiTA3RWNSlqwC98k_4SFfc8Htff3DAJpu4MezjQoQ92BPiBc99vtpfx1OgXqIYJYv545_7oS",
+        "width": 2448
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110518237005212576918\">Tanubhrit Singh</a>"
+        ],
+        "photo_reference": "AdCG2DNpRIy13ehHy32GFtjJ_DYc3KNDuoicCCuN0ngHvKLLAtmoyq7YcU3Sn18Kf3SEB2THgpySlSacO_n5lB_r_fWw5aNSq_AGZljQhNVgqFn5VxuHzvJF53hZN50-b3s1EuPrBYLPxkTrR6QpxUHU5R0C2aX5fn_fkzwqYqHzZRTaVt5q",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110518237005212576918\">Tanubhrit Singh</a>"
+        ],
+        "photo_reference": "AdCG2DOsbkLUn4rb1tXmwur6U-SF42aMuce9xMLpUWwGwquQ3a6q1od99Qobnj1PJPEdpn3VXwSvmk-iwBu9H1cVTB4s-fiZliIvp2VVRl4J2yldSYaWHH8dOM5OilbXAXticjKqAwbcSIbaxxokDf2WVixLss1JCj0KxlKdKStswX-amIPc",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102980138929471250744\">Lodha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOnxfOWmriyKtU9XyoHqW5bZN0xl2SiBCxFfwi4ksR7blPuG43F-O_kt362ymWy01Fu57xLdQtuzxlBjael5HEl5cU1hljJd2fkM180rAb-Q41Qq7FNypnDrb2s52XKWw2tJKzFWNLdFAHS2zds0pz1CB_zGYBvyL1rt44DFrat26Fi",
+        "width": 4032
+      },
+      {
+        "height": 747,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118421228875340089073\">Wilson Vimla</a>"
+        ],
+        "photo_reference": "AdCG2DNToMUdNzLFtJQEJ53dkPMs1-JnGArAJVhnLX3eYzCkL_VfF6whZekCw88tOHs1DXaU0Levw4JAOcbCPJesncNzXqvcuM5zTZzevdsPYaDXhn3l3whW9qIbU2zogVFxJhYvhTB4WuZSXBUCizGpgCue2Yp-2WM7yhjnr5UardktqGMm",
+        "width": 1600
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102980138929471250744\">Lodha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DNagAN6B7yEs4F7B8zG9oQQcg8y48OtCI-FFnSgVDqG-9V0yZpuqi1OA0ldXgz7Dl4aLZSmWmZoUjZnLdXkf1T3D_33MBffMrckrUKWLw_L3LTV6nljLDYdIDH-iJ05AOrH__lXmoLpjlc7BBn3TGj1NDuY8ExVD5kPvirPO5mKSq3J",
+        "width": 4032
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102980138929471250744\">Lodha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOc4w8ZmhhQVDY54UAsLFqHNS1W_upaxTS2wyktATXmir38Gebh5FcPj7DPf8ZOXtylT31g6OJVNGbM2xXnICpomze6YYBTJT2vQE6jM-9gR4tGuOIM5l45Pz8uZBRBzS743flfaTgMVEhzfyiNG4WertaPsH_LRIUNbNytYY-ZnLTc",
+        "width": 1080
+      },
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102980138929471250744\">Lodha Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOv0TatCGk98EkrPFeAYY2gnr-EOKlfh0uTMLvvHIgHD1zKB16MYcBAaf2bnr-km2Q3HD5TXTuoMS_TrJhjD2k2hbP48KZT04k5YRTdMSpgnMhTKevEJ_PuX57kTFznzGDKOj2mRHjD2VcxyI6m9kj046BE-BuCKyAPH1ui67vJnbJp",
+        "width": 1640
+      }
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 35
   },
   {
-    "name": "Elegant Teeth",
-    "address": "6, ITI Rd, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "6, ITI Rd, Sector-C, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "name": "Elegant Teeth"
   },
   {
+    "formatted_address": "Medical Market, Ratanada Cir, opposite Bharat Petrol Pump, near Ratanada, Cantt Area, Jodhpur, Rajasthan 342011, India",
+    "formatted_phone_number": "0291 261 3737",
     "name": "Saran Dental Hospital & Implant Centre",
-    "address": "Medical Market, Ratanada Cir, opposite Bharat Petrol Pump, near Ratanada, Cantt Area, Jodhpur, Rajasthan 342011, India",
-    "phone": "0291 261 3737",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106814848989781544430\">Shr Bmr</a>"
+        ],
+        "photo_reference": "AdCG2DN4Y4GY48ohdPeskB4Y8YI9A9nU69EjNTXXR1Wu0PWRE410o4wMtMSDur4SuCXL1qSL7vQVdBHle4CvpQmRRZBX7Ojrn4fXLtePfqPliFqYjamsOsBypqIR-hKwP_ye4BVKs8bQ82v742huFGoTRwMwjD_ZTRFyAM6gxR7GXnNr7bhD",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106814848989781544430\">Shr Bmr</a>"
+        ],
+        "photo_reference": "AdCG2DMRRpCQ3ByFKtMjgl-StH0ryFMe8nbrmKLwC3QtJFUYfLgIZgHIPOJTI0zS4pEl_wImCE3lxM2TvtwIgI-VQKUzy1K7KnHvCRWTXTVuw2Qm4nR6gFpTVf6Z5yChH_OHiBv_kG-FWle0hFWZcCTySD6uLQryGFKMgpVg5tj1ylY7plo9",
+        "width": 1080
+      },
+      {
+        "height": 621,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102992692920382282050\">Saran Dental Hospital &amp; Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DO52G8bmDAF4lJ8lA1_RBs7uMRjkSikE0DykbVtbhoKdw0AqrwgXFkLzYPMgmc8K3LWOWNgE5y1_t4Od9-BCJSg4ESArUmE4OxjS1iSF-CRyvbRqemqjb8sBIBQI-xgOgzy6aK6oIozmIml29zAG3Z-TAzOAbeusdgV-zp74O8kylRs",
+        "width": 1156
+      }
+    ],
     "rating": 3.9,
-    "number_of_reviews": 48
+    "user_ratings_total": 48
   },
   {
+    "formatted_address": "House No 22 gali no.1, Shakti Colony, Ratanada, Jodhpur, Rajasthan 342001, India",
     "name": "Dr tarun choudhary",
-    "address": "House No 22 gali no.1, Shakti Colony, Ratanada, Jodhpur, Rajasthan 342001, India",
-    "phone": "N/A",
     "rating": 5,
-    "number_of_reviews": 3
+    "user_ratings_total": 3
   },
   {
+    "formatted_address": "State Highway 61, Cantt Area, Ratanada Circle, opposite Sukh Sagar Restaurant, Ratanada, Jodhpur, Rajasthan 342011, India",
+    "formatted_phone_number": "088548 12340",
     "name": "Suncity Dental Clinic & Implant Center",
-    "address": "State Highway 61, Cantt Area, Ratanada Circle, opposite Sukh Sagar Restaurant, Ratanada, Jodhpur, Rajasthan 342011, India",
-    "phone": "088548 12340",
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884796617882079923\">Suncity Dental Clinic &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DNl6QmRkWQLxaQJxAkNctYzHmC-rT7iPuQY1E5CiFC0P7lsNUckTFnaSQTlmK2zn8cWhFDiCg-6ZU6ln1y7f-DT-uBkTOFasryT1FhrM4V7jqk8EUUZYYgwcPQl8aYrm03bfXXNkzSfbcWxNYr0Ml0M7Nxlizxrb_QCYWgaUQNpFiiz",
+        "width": 5312
+      },
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884796617882079923\">Suncity Dental Clinic &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DMeEctE17X-jX6OMHGcx84L8xNjKB8_p-6jSafSfyn-4l09kReepLFDH_J3R5x5VbE6oJwrFrpT1yl7qyhfDwSzsTf_nnZ9Pqh5U_cmUFml3WGvzFMCH-i57TxKyadYtDVv9TXa2aq7xPt0jiRNdcVa7bI4oFh9ETH67ryos5QRmixA",
+        "width": 2988
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884796617882079923\">Suncity Dental Clinic &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DNIOzKsapMx7pE-j9LlilAurv676Qr9djG6PegRCxV_FRqf4veuXaWPq00WoNOh1rimAGF7wyu-FL1TYrHbsK19STXdTsfZAsQ6_FPkkk6yrWh-Je3ylmoF5Tbpv15xMT3d564OTzl05Y2Mv1aE8XDxTQ9HPbRQuNZsb8dTaRopp7gw",
+        "width": 5312
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884796617882079923\">Suncity Dental Clinic &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DOiKWixPA2reNdfn8yHT5cGCVzW5jeo7WnNGdX6V5Rp3vDFlH3PkMzVAq2O5nuycZmTuhOns-QJiz4vWzO-kmfK4Kj7AyrCzqAzy3oPlpFjIm_WVnm-yRp4DmWVgpEFBdoVUHW5laLQdJKgXqdJBuVr3v9lIhlGeygAKeck-GVkQQaV",
+        "width": 5312
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884796617882079923\">Suncity Dental Clinic &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DP7yBR9oPXsymaARU6ya_rqd-zIo4E-Fy5qflZ3fVTtGmKPbc0Mpwe2zz9FcXNR1yrUnqW9Unn_vApPC_P1-2ckQEK22IYYLWcPC08GOKP6aC5HTpeJkrZG6jdccQEuJMruJSB95hsnopJz-K3v8is1yl0bYKv4nTxGfmnopWED6XL4",
+        "width": 5312
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114698556369657566421\">Maakamakhya Dental</a>"
+        ],
+        "photo_reference": "AdCG2DMxhTZn2WfvnNqPB0y-DF9uWJFqz-p8_Y6T2hK5nBvqtHrHn3C1PY-P30YXqnU9o1o2C7MjM9YHedrHcL7o3_buXpiDO_rIl6KJlMPYv60NWAwhjLfVu6Jlc0l-HJAab_4XLP6NxqhKSISIcigXBRvuQgLf-ywGeQ2fcuZHC9VVL0WD",
+        "width": 5312
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114698556369657566421\">Maakamakhya Dental</a>"
+        ],
+        "photo_reference": "AdCG2DO5cKdXOzWkDKBO2OH8iEIup_Pj8jStBft6D1hSwqOtNG-AFmCMeBvE2z9dZ8GKzjjdJlgDFzYR6Tp2Zng_KHq-2_m3bSeG54a4iW7PHseUPFgBg9qQXNbK8u8FHEypx-kLOII0-Ru66X4GrsimvlD3msXXR1Gr22_CdtkUbZKHr2CB",
+        "width": 2988
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884796617882079923\">Suncity Dental Clinic &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DNpdMAv0Tq61_-nV9mP8ms9htVO--ntLUPe2LbPcfv_WgXX5Wz7lt6usB_WgCDPhEUkvt6wzbXlMrR5P6WdFnA3EUX-4UY10RJCjsKTSKQAwbXI1eY5pdmWz7yTipwdZWFx0wU3_X47NRSNt1tvJBfuVkcc1tnRj8ECxb5W2cl3QrAh",
+        "width": 5312
+      }
+    ],
     "rating": 4.6,
-    "number_of_reviews": 5
+    "user_ratings_total": 5
   },
   {
+    "formatted_address": "Medicity hospital and research centre, A-72, circle, Chopasani Rd, near SBI bank, Sector-A, Akhaliya Vikas Yojana, Jodhpur, Rajasthan 342001, India",
     "name": "Dr Sajjad Qureshi",
-    "address": "Medicity hospital and research centre, A-72, circle, Chopasani Rd, near SBI bank, Sector-A, Akhaliya Vikas Yojana, Jodhpur, Rajasthan 342001, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107175970106528105451\">Dr Sajjad Qureshi</a>"
+        ],
+        "photo_reference": "AdCG2DMIi1QuZU1wwhDVMre6cmdbm7kM2cm5BA7lDqSgBNeA2Q1GmzQkmEbj58Gn-V_i7tFkkcgeNIV6L6yv5GzXpPaWwLIbNpDvtKZ-o7iskGToL3_62Kwohso1O1fZZJ62ylhNaylgfXswMBgfOD0z3blHH_wjgpwLcmiAjxOjekzrLIPt",
+        "width": 1280
+      },
+      {
+        "height": 602,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107175970106528105451\">Dr Sajjad Qureshi</a>"
+        ],
+        "photo_reference": "AdCG2DNC-hLhdBwPuOsrJr30CRAift_kqY9TGTWhweZyKBnu03B885zcuwrRUFmefFP-Q5KA9XMkNooAVWu_Q_Wr2ARw7EOIXXrFfm4wir5G5Y6XjQZqxdA37jfThXhZ2qACf4QcsYvHAJXRMm4UDxmeA3j-kYwDT39plvHMAWgpPOUHmFYL",
+        "width": 1036
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 3
+    "user_ratings_total": 3
   },
   {
+    "formatted_address": "Bakhat Sagar, 45, Nehru Park Rd, Sindhi Colony, Sardarpura, Jodhpur, Rajasthan 342003, India",
     "name": "Jindal Dental Clinic",
-    "address": "Bakhat Sagar, 45, Nehru Park Rd, Sindhi Colony, Sardarpura, Jodhpur, Rajasthan 342003, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 1468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103470855282433380847\">Atal singh Rajpoot</a>"
+        ],
+        "photo_reference": "AdCG2DN1rosz3lyWq3DC4mG3SedObgR6Ib3GgONsgkFEt9AZODkxKIBlHY-Ihg2rDQwqoa7FPUUh7f4ls1oZkprk3r-3fUtqwE6drTeFUDFF6_d8NSOou24SM5DyTIVBYgGAeiBqydReZTZXssAFPAFZ47lWEWq9zb0jOAUgvZSHnHYQL951",
+        "width": 3264
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 3
+    "user_ratings_total": 3
   },
   {
-    "name": "Dr Pankaj Sancheti",
-    "address": "37-kha, 10th E Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "37-kha, 10th E Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
+    "name": "Dr Pankaj Sancheti"
   },
   {
+    "formatted_address": "72F5+45X, D Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
     "name": "Dr Arvind Singh Bithu",
-    "address": "72F5+45X, D Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 1977,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106676272072602788820\">Arvind Singh Bithu</a>"
+        ],
+        "photo_reference": "AdCG2DNYxizOat3B03zwg5m-j5Nu8w_Y6mgAhoGNnNIy5ciQr2HkHTwPSB5k1k3rwhIczf3wnF9pWY1k8F4jMSc3AbuZQUlw2i0MKNm29tFwMQv8hIXSITaIkhw8iYrwk03-eQZsfklBSw1mjwBRmys_s1Rc_zndW0q8s7Sz09ceXCW2zqmh",
+        "width": 1483
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "893, 2nd D Rd, Sardarpura, Jodhpur, Rajasthan 325001, India",
+    "formatted_phone_number": "080790 49628",
     "name": "Pearl Dental Care",
-    "address": "893, 2nd D Rd, Sardarpura, Jodhpur, Rajasthan 325001, India",
-    "phone": "080790 49628",
+    "photos": [
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115681351259450653986\">Pearl dental care</a>"
+        ],
+        "photo_reference": "AdCG2DNrHBBOpU56Vz8ExgrJu914LJsH5V-rBbW6VLXigmOFwh94fLRYvjK3hu7Ms2l8PzTCuXIUPzOr8FKAsvvbZtAve45Ss0yKYbF5sSSb4LbAAyDfu9e8UCmx1IbLvbaxXPe2fnb03c4Bw_J4_pi_Ny9yXQGYX6Xl_OOgFERF_uYlX2c_",
+        "width": 3088
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115681351259450653986\">Pearl dental care</a>"
+        ],
+        "photo_reference": "AdCG2DPYuNRRIeUy7Mn8FaFInuCUO815sGZEZAfqBnWGU6fEe2CAnhbh1AvqrYGujhXYTxuEQkFPH8VZk_V3bzQOhF0ziIiO77VkIbYQmNX9GneRfmd2ULkj41WNiVnR0AedCBEdwP5gRFzCs9u_blZ-ZJiKSClkAgK-D7heewjLbgxlyoHe",
+        "width": 3088
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115681351259450653986\">Pearl dental care</a>"
+        ],
+        "photo_reference": "AdCG2DMaB7lQFOAB2pEd2EpKDhz6lwZf_-8AIcyh_68THHUCkzcKFbBHK5TIkKsJp2O_GdlrpBjELMr8lNToNwe5NICL5Onj9p9p_ZFH60YU89sfGNH6Ew63GFDDHYv0yRgwloEFZaOV70F_bppLJIYsRkLploSYA4DGpHYGlM3fGZeq6Qhp",
+        "width": 3088
+      },
+      {
+        "height": 3088,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115681351259450653986\">Pearl dental care</a>"
+        ],
+        "photo_reference": "AdCG2DNYieV5Bx4W2ARwOH4xBvjzTHg6SOr7GFfGI1HmneBluLGflI8Nx0OrPx0wnCUvAoZQl43Qw3ZUF6sVtfg8LeilvUsG1PdN9oQWY2275JAXZorZkt7hjcaq5KRh8bxV3sylsxiM5dyZ3WrLrr3096sDvP_Jmju3aZd1s0iMquNlw4vo",
+        "width": 4128
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115681351259450653986\">Pearl dental care</a>"
+        ],
+        "photo_reference": "AdCG2DOSrrF5PLzLkm78rsgSg6gFcnxfe9fgEcGGf_254Q_HX737DZkLpNa5FWzVFPZwWv9k7JczpUvD_50vOLctOjIQ5rc8tM0A191PKbnxwjt0uxEqxUV1hx3d6LcmIfd2McktcFHo86Va_mUtwgxooLBPOQag16uV42zj3JGqOx4xas-J",
+        "width": 3088
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115681351259450653986\">Pearl dental care</a>"
+        ],
+        "photo_reference": "AdCG2DNhSzIEoWgmu8EITdWth7xc2Ld5tv8AqsQZ7m5unhjtKOhMMr5teZO0ZL_cJOwF6XfmvkgyDeo_4FfcL6tYCUqAnF1D55UZ4EInSEf55FdJfcHE5r27TRFg7iku3Us0-aawAdFwH8b1f6RSNv1VWSnI_eoVq9V1icpa9kg688knKxvg",
+        "width": 500
+      }
+    ],
     "rating": 3,
-    "number_of_reviews": 2
+    "user_ratings_total": 2
   },
   {
+    "formatted_address": "A-306, near dalle khan ki chakki, near dr shyam mathur, Sector-A, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "099827 64860",
     "name": "Dr Itika singla( Teeth and face clinic)",
-    "address": "A-306, near dalle khan ki chakki, near dr shyam mathur, Sector-A, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "099827 64860",
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151276966380847641\">Dr Itika singla( Teeth and face clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DOKT9d1OJTqd4QnYTO70BNFfg8ceF23jcAVsREzMVsH41FNPYfA-Gb09YpRT2jlvWXePdMlK6fzgMn-YIun_qsYJ_l85MDslOAUXDmGFbVB7IZe0DuOBsv7M4_dkTNEzJYPx3ajo44VFcu69uYPOIYs_i_25HOkofzPyaJWo1ijs3el",
+        "width": 3106
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109208650676115717632\">Dr Akhilesh Verma</a>"
+        ],
+        "photo_reference": "AdCG2DO0qNZOQvIQoFJFBD67Eg9EqPD3ezBr4ba_kR50LUKAhljJaMq7FJ5Wz9VFWSi_MlxIq5reYbikz2mckV7rkhUyUAy6nBCpxeZSDIaYKcOIaK1wC_m0KhiLw0n1MrZSgFBIkuZTaAq5xCx0xU8Xp9e1nhr97U9re10rJFVrrZK-sLPx",
+        "width": 4000
+      },
+      {
+        "height": 4192,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151276966380847641\">Dr Itika singla( Teeth and face clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DM_x-4Eb3Cz-uL8E3X4NaYyRJ47rUSHop7ON3phVCPfDMVl4u8gZ8FWLERYSYe8utsYTr30jeNsuNvWtByPMMQeq13vtvDDrl-SvWJO4fyR22ghCD21DuZI9NDoN8qEVKIsPwKDgtYNjspiKuTWs14Pn9D8AAI8NxGp2QPC6P5Ic28G",
+        "width": 3144
+      },
+      {
+        "height": 2340,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151276966380847641\">Dr Itika singla( Teeth and face clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DOyXFoz8kwZZ2ASKnvE3Q2dVdnU34U6lUJ8nSiOoSOS1mWuz4sdiNbV6MNXAJDJNb4FDecxYC0Ra4jv801oaj0y64_YSWM_y8DRhsX7_PewpadVjTbBmhRx2_rqcQ6FYeFfLCYNIq8ClRuUU3Pe6qPQSUnwna2nNGJ5aq12966LyDJO",
+        "width": 1080
+      },
+      {
+        "height": 1136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151276966380847641\">Dr Itika singla( Teeth and face clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DO0OtPEdXQ-6-T21vVESvU5MF8B16K_GPsSj2AjIyHkJUnbRYZ91rxAX-1oG8WSsp9hgy7vScJcK1kni0lzEUEd1guCUdZD0Ys24HUQXJS1Fzy68BkQziPLd4Dy2dKr7JARmOA-DnUI-J8MI4pZu-Wzqyf6C4zCA565NaZRJVECAmkB",
+        "width": 640
+      },
+      {
+        "height": 1995,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151276966380847641\">Dr Itika singla( Teeth and face clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DNvbBDEYUjBKjy_Xz6ZlCyPefy1Dej6_hQj-cm2yo1l-wcBiS5xmJ72MRzoVHXSp7CmT9rVds6gFI8Kv-FJmIIFAc0pn-P2rF11SVghFbDni31eVwULiNiDICWJqlBAJqFRqRAtEhl5cLBtzSjNYsDyADVxOZ8j5tAsq9UFXCx_v_7g",
+        "width": 1292
+      },
+      {
+        "height": 664,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151276966380847641\">Dr Itika singla( Teeth and face clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DPIpC9kFYSWS5lgtI9iuWMw_MAc6U2UZIeQvPSlFxK5xi-wzUNqAnMO5AcE9ieI-UIdQHxAsL248Lm8mPVrQAaKAimJir3TXj_KuxSSJmTsdPKimGCFrdWkOiFkzQrlS-YxtlMm6kcUfyWd76zUiP4j7WUOAqw_-lzQSwBAeaTm8vjI",
+        "width": 664
+      },
+      {
+        "height": 1940,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151276966380847641\">Dr Itika singla( Teeth and face clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DPV1Rjg0qQZa_ODBHOGQwqKc_18dG5RvoMnh6q9bC3_UUnfS0K86mItbK9bBYupvLi_N2sb7TL7l3fD_ckPFEeKx5Rq31CkNI0DI7DT2YMq4A9giTVa2cq2eDW7X0uBwcI8rtOcYbPn_XATGhV3R4oihs7g407WixfIqW5FVqkHRFks",
+        "width": 1432
+      },
+      {
+        "height": 1869,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151276966380847641\">Dr Itika singla( Teeth and face clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DNjz2MzR7Rn1855t_niTqyBcnTJB5D-sCDwpD_i6IhDzBJKf8jia0hNJujIGvLGslCDKbyoNxEwl2cvdRt0IcaWdF4JrCt6LrowAVTGm7QouP561F7VjgRkqjh3PjlZOXc485-Nqnnz5ki0JhCLHj722n1a8KCN64ifv-u9JwCqwb_P",
+        "width": 1307
+      },
+      {
+        "height": 2080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151276966380847641\">Dr Itika singla( Teeth and face clinic)</a>"
+        ],
+        "photo_reference": "AdCG2DOrU6d4HYdV7-Q95gx4G6QkaZOgm1R1jK_y3lAVTWL2aeKoLTBuJeD9qAbGg08deb5VxKYBCaaNB-VmQLgeaJ4NjZoMwYWU2NnIbZhy1lPtTOziszD3-NwxpbGp7laYaaGHJlEm0UcqL59KqgjhFFIm5Bw1T510P0aMKsOLTbuZVgoz",
+        "width": 1560
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 138
+    "user_ratings_total": 143
   },
   {
+    "formatted_address": "3M, Circuit House Rd, Hanwant Nagar, East Patel Nagar, Jodhpur, Rajasthan 342006, India",
+    "formatted_phone_number": "087644 16160",
     "name": "Smile Studio",
-    "address": "3M, Circuit House Rd, Hanwant Nagar, East Patel Nagar, Jodhpur, Rajasthan 342006, India",
-    "phone": "087644 16160",
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102987386334113679872\">supriya jain</a>"
+        ],
+        "photo_reference": "AdCG2DOuHK8QL7V8GJEn1xg45iM_kgm7_iE0Kv149HP0ORZcFqO8nA2AFRzYQgN5rp0vciNrfktL_NCxo7QgL3Jxt3BMnpt-HwASFJrRjCo-vJ5cNvGWk0-a_jbjRcyk77Ydeoa7rj1cet2EHxSBN9IVVwI_Qg1tvBEmMGuB4zmSF5FYH7i4",
+        "width": 1238
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 3
+    "user_ratings_total": 3
   },
   {
+    "formatted_address": "shopping center, E 49, near CLG Institute, Kalpataru, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "098298 24356",
     "name": "Dr sunita khetani ( SENIOR DENTIST) TEETH AND GUMS",
-    "address": "shopping center, E 49, near CLG Institute, Kalpataru, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "098298 24356",
+    "photos": [
+      {
+        "height": 1216,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105643807396221547451\">Navdeep Vaishnav</a>"
+        ],
+        "photo_reference": "AdCG2DMiYLDOOOD8MWKNeKUOaEIsSRebvcOIu9D25CtmDaPGA3a00V-ZNzSWEo-opDrLwIgheWjPDsttwq355eMVvfZ93wQ23U6wOLknApR7JLp7sIwZnv9bTspthh1mIfE1Aiymr4mPwDZIBgl_xJavk5udbTHsRJqjSAdO7qIr8wEExBF-",
+        "width": 1280
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117190772740329470033\">Dr sunita khetani ( SENIOR DENTIST) TEETH AND GUMS</a>"
+        ],
+        "photo_reference": "AdCG2DPS3pB_tveNGWy0vPrdCpeJniTgl0h_s4fwUWVRiAIlfNnyPDy35ve8SIhys25Sg_43p7YlG0taEC_QfMc7rDr3HHyrkE2VbuVsf8UKAnFP_h8Ea4060c8xUcQ68LdjdySMsXE2zmmMWq7UpgiQ30WM0I4pvPv5wzNjcfCZNNzVUppF",
+        "width": 2136
+      },
+      {
+        "height": 910,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117190772740329470033\">Dr sunita khetani ( SENIOR DENTIST) TEETH AND GUMS</a>"
+        ],
+        "photo_reference": "AdCG2DPENDTyweYOfZs6fCTKDKsKIf6Mq_bVBCekthTwd9xzyUTzT34B2AheA_EfwTKhFrrnSjWYjV59nc31sYXT-C8WRIryEpK3whOy_ylgttSNGa_26o1Z3Jc--SxDSk2vG-H6f1i_eT-gR1wxKMK684X_VJpVihGWCDwn9bKpAcxhsZsR",
+        "width": 1019
+      },
+      {
+        "height": 1043,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105643807396221547451\">Navdeep Vaishnav</a>"
+        ],
+        "photo_reference": "AdCG2DPjd2vFJyZUb6cKzk0x7cfDCAY2P35wYLu5-ZyZb4V3cdPMk65hdo938CbUPiJZJ2Jhj0edvMMFNU9iq8pTot-GcgMUuWulI60wnkcoi709-Q6n4owFDPDJjBYtRi9OsmB74vzDT8c3s9U_hdaP-zBOTHEvSQe7ZY73WMASWzcWZcih",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105643807396221547451\">Navdeep Vaishnav</a>"
+        ],
+        "photo_reference": "AdCG2DMyGs5dfJiZOD4OZ_WMwhD9e9x-ux3MJQHOVjKwDbi1lgYOCQCldV8el2yFQRUOmEqPEZtS9TKEZ3Viwh0UHMGscldb7jH_rk2KbYfaFqd0PEwPehvRHEO24A2L1OKUevkrI2wkc8loAK7vWlQSBXjapm_eJakOusGQzQA1iHydtknL",
+        "width": 960
+      },
+      {
+        "height": 766,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105643807396221547451\">Navdeep Vaishnav</a>"
+        ],
+        "photo_reference": "AdCG2DNiLcsVbU7I8NbuQtJ09hIhYTcEbDkr7prAxyA9RxNzYMQRqsGRYtN1uItXOMCG9uPpjLOeOm3hzH168lIQ3yggYsh7FUo4wa2lMyOLj3T7oBD7MYrhLyuLX2ipJACfnz9-EfWiaSTvWRHA96J2c3PcmcWyVMCUUAv0h-5YqHvwUYbd",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106163270625735510298\">sunita khetani</a>"
+        ],
+        "photo_reference": "AdCG2DOXmJsSoKLWvPWY5iYUPlGNedaQZN-bPwYXop1B8fLJwAAHQjNwXgqSiFdPUJ-ECU9DSZ0PoZkRjv_mryEt0G5yKEV3879feFUoF9hKOg143x5jK6ZjIBPU1xocLUiZFy1piwA1R69ew5Q_-v44fivadOScysVir_EDJixlcSkUAenx",
+        "width": 1251
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105643807396221547451\">Navdeep Vaishnav</a>"
+        ],
+        "photo_reference": "AdCG2DM3p7wWRXeeznJWhrIrGltgpCRM1zWmgy7agZQ3yQHVbLkkzyelh0vvr9JDlh1q1Fza4aJsS1yXl_LCV4CwMDKp7p7nDIB3xVUYlXQYHZ-Fs5Gx6JNAS-cYC4_TUC8j1zVqhlUJpzZm-TrIIacraJx9sUaeLFxsUjmKTKfHLEKi2L-q",
+        "width": 960
+      },
+      {
+        "height": 2340,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117190772740329470033\">Dr sunita khetani ( SENIOR DENTIST) TEETH AND GUMS</a>"
+        ],
+        "photo_reference": "AdCG2DM9kypb4vhM8icObwIabvOug5pH1_Hr1GyC1D3MjW9-9hMyrEe2zDhTXPX6PEVIUvRaJgmRhFRpudBwe1Zk-YCsQclb-Xwy58gHydO0DVlgk388iPrUwYxyftyPAqMCyUYBx0ArFxvMaN0-taC6brh7ZOc7SeAKQs8Yq1UaLk58w8Ix",
+        "width": 1080
+      },
+      {
+        "height": 981,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117190772740329470033\">Dr sunita khetani ( SENIOR DENTIST) TEETH AND GUMS</a>"
+        ],
+        "photo_reference": "AdCG2DPxUbjVn31YvC6pfmGm7MnIYx-mgoGKF-27DaGhgWAnwrKghvjDwA9930X1bZ6juMrwb1iY5zzwmrz0GhW76ezGWF0bESx2NcMobx6ocUt9o3iOx5tPO-B4pMGE4cuOUdOS7HnCAq-umExNMpg7RcQRszrbVsW89c4I_VsDW2nHbhOC",
+        "width": 1080
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 1
+    "user_ratings_total": 1
   },
   {
+    "formatted_address": "E 81 Behind Rathi hospital, kalpataru shopping centre, shastri nagar, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "094149 83326",
     "name": "Sudant - Mittal Dental & Implant centre(EX Oral & Maxillofacial surgeon AIIMS ,Jodhpur)",
-    "address": "E 81 Behind Rathi hospital, kalpataru shopping centre, shastri nagar, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "094149 83326",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109046010615459382532\">Bhagya Shree Mathur</a>"
+        ],
+        "photo_reference": "AdCG2DMiD5TuKcBm96BVSoYe-fYhEMd3_JJtuGDwEmygtJiiljFgrzr99bShnVg-uX1TBegOFhl0sXVO8s7ONgJiiRsuIdNOmEyiWdso9thYBIg6Z8Hcb9KVBetrrnhkSQJTE-U2OBaHsLc69z7fNdn8XFYUf1uYk29X-qZH5C-sPO7RJI-P",
+        "width": 4608
+      },
+      {
+        "height": 1808,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115123773541587611728\">Ankit Agarwal</a>"
+        ],
+        "photo_reference": "AdCG2DMf_o0NdIfgh71-cDTobyoTVt5f6BqO6V5ZsffnUIUd04XrRVCFumJp6cgTbnl45tNj33ULrMRWYs8pyOj7mMwr-nJOEUQ8_ZvEgQAhI8Mg24i6EOiEM9J1fbjbnkS1ppfy-wqYTV0i3CwQH4946WIzgzNtFVfXt5UvGTlsTUZ5wnS6",
+        "width": 4000
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109046010615459382532\">Bhagya Shree Mathur</a>"
+        ],
+        "photo_reference": "AdCG2DObzPeYQREvil3su1vkMAyaxnexJU7SfaPCrfAOCPteQmdR-SRFaBKX_gsuF3dR6Hq5KwgTkjHWJ1Mlp25qXS8RKmS-7HNJF1pYPAZIdv4l3O6mzA8YNNNIUysCq51SVjj6EKavP1lLv7R2cL0GU0VR4CBLbP3wLfGtHDUJnJ2AUW3q",
+        "width": 4608
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109046010615459382532\">Bhagya Shree Mathur</a>"
+        ],
+        "photo_reference": "AdCG2DNIjVpdbWDYsSEW40aXnJM9d564JmXxJ0-W3_U5ibD4rM6aaHyNvIKfLLLW7MDLJdiVXSV1PI2fn4oa5m5m3vDW3TWsJ0w_26WphJmeaJXmtZ31uemmlJCuwWoRZIKQe5xC_HVzRmf_qkUH4PS7LI0BCiblF3jSt1sNBjHe1u1SI537",
+        "width": 3456
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109046010615459382532\">Bhagya Shree Mathur</a>"
+        ],
+        "photo_reference": "AdCG2DN9Qf3Tk_6-jpHmw1NO7AwvMlOpOli_Cxj4UoF9mQxJvGYTsPWWNZvOgAf4-PrZYrMOZ-dZyyMrxn5dtF66j2UOlz_wSI0VAq-S-ppfiRRns3AJargDEJ7e9i_-b1zfNr5q7cxqQ4EYIsAUTyDg2ElzGNi2WDjBKE9aNZiQ6RhWj3ee",
+        "width": 3456
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109046010615459382532\">Bhagya Shree Mathur</a>"
+        ],
+        "photo_reference": "AdCG2DMM4OBe1Otlpzxkp4Z94oKnGX32NtyhW6T7LP-NtQTUOitUVPdlXYMJfs1TTdFbcRToHd8__NNBq_vYaozndTH6eSeBdwdua-rvdnXBWaT_sRPrFSt1k5jEJir7mK9U8sZgWp2bKTUpFS0RMj_1oQsg3yJK8_yhbjI5WS_RYNpol0tg",
+        "width": 2128
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109046010615459382532\">Bhagya Shree Mathur</a>"
+        ],
+        "photo_reference": "AdCG2DN1o5MvsqdJ8icsYK_8yle_Lf96vRZx1g3o6v_zuuQq3Upseju2D7T41QaQ0XObMda_V-SSTYpglNJDNh4FvBSLknBkC2BOJdqPVCLZLYadlFC-YKxdXwLMCQLFZTxmWCVoG-9IhGKQHBh4Pg3f5G8GrZO7fTGk00mRpyB94HCmizfT",
+        "width": 3456
+      },
+      {
+        "height": 2128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109046010615459382532\">Bhagya Shree Mathur</a>"
+        ],
+        "photo_reference": "AdCG2DO9napFNSs-KTYefVrh0AgdRczehR9vMYKjpIJC6zfLmwE7lJPOB-DuLsNZ6A05xqdHKurzEhFkd4z8eqgMPh6UwrV4DtDComYQpFgctXil-lxGGjG8OF2ki0mZDHD5VpreNAK60fMWoXA6LC3egi0P8DbxBseSh6oyO-n8h7_St6IP",
+        "width": 4608
+      },
+      {
+        "height": 2371,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100063925437041091357\">Sudant - Mittal Dental &amp; Implant centre</a>"
+        ],
+        "photo_reference": "AdCG2DO5NDruiDh6ICt1LrcZ-oCPxSHWxIjgypTLp7R8xnPFKWWpjqfmfhga-aXeEegufHd88hP6p6ePNV-_KdD081MsFiGUiXx6Tir0xuvW4nCQ9CFMBWQoNyGRKp68j68L_WhoNIAgIOlyjNlsn38jYW055oaRhBZoH9EVBDp09RskN9KD",
+        "width": 2677
+      },
+      {
+        "height": 1772,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100063925437041091357\">Sudant - Mittal Dental &amp; Implant centre</a>"
+        ],
+        "photo_reference": "AdCG2DMWIyDrP1PxZMxtLBjPAGiO3yem7RrYYRTUuL497TlrIH6mIk0kEa1Oi3Nh5mJR4GzOZlCwgcUJ3TqVxjiQuPIgkUucuewM4vAPMxTQ04K3A8TT0AoZKx7R38bIAxAOeCn4J4VV56SSlKuSLieiJE_XrtyFVNvddZmA7HbpuEVI0flH",
+        "width": 2578
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 21
+    "user_ratings_total": 22
   },
   {
+    "formatted_address": "E-109, C/O Rathi Hospital, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "081473 05750",
     "name": "Rathi Dental Care (Dr. Anubha Rathi)",
-    "address": "E-109, C/O Rathi Hospital, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003, India",
-    "phone": "081473 05750",
-    "rating": 4.8,
-    "number_of_reviews": 32
-  },
-  {
-    "name": "Dr Komal Purohit",
-    "address": "G tower, 19 A, road, Shanker Nager, Subhash Nagar, Jodhpur, Rajasthan 342008, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
-  },
-  {
-    "name": "DENTAL HUB JODHPUR",
-    "address": "family gate, Subhash Chowk, opposite Police Line Road, Ratanada, Jodhpur, Rajasthan 342001, India",
-    "phone": "098808 15445",
+    "photos": [
+      {
+        "height": 607,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117449776386819272131\">Rathi Dental Care (Dr. Anubha Rathi)</a>"
+        ],
+        "photo_reference": "AdCG2DPfZGq4XrStb56hZ_qmk71cahLzlkMkZqY8nYmm8Y-WMpuanwPSGjfaDPzDmReHratt6ckzEMoekt6N0h1b4tckBC3FscX4_pr3znxGGk8YmAOAisBcY32KTOUPCSKznkj81NoNjt7vY_uZU2tuqk5ovCjF-0KNFhzSmpZw6-CYSs7Q",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117449776386819272131\">Rathi Dental Care (Dr. Anubha Rathi)</a>"
+        ],
+        "photo_reference": "AdCG2DNGPZoqcWi9FY6MtcT9YEQdeTnlgYge8UUS9aB-ZklxLyCdB9SYp94A8Uah1Qaed1qfUGFFiKEMgauufwVj4mhXsGBPoMMg8DSMKO0yQqP1MyIBxXmv49OZ-SkkhoqSCehixzyHtPYo9atlUNAQasUYoUpqakyWZqWEM7HJNmRn5sbo",
+        "width": 607
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117449776386819272131\">Rathi Dental Care (Dr. Anubha Rathi)</a>"
+        ],
+        "photo_reference": "AdCG2DPJ_wOQcPSURwJvwIgu5hgSBUUW1sy5yl_HUQiGDQSvWYJ9n1oPoYXnxCQgScNxr6aKJP0nrm8dVgsfoDaRK-6stSO_fdE5rhvltskobSnJsTk42p7IN8GGcFnSlYKDnB1wXjcQrhoSP92ljmtbpYKaQu33psCOV32dd6oMB9XTCeGD",
+        "width": 1280
+      },
+      {
+        "height": 607,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117449776386819272131\">Rathi Dental Care (Dr. Anubha Rathi)</a>"
+        ],
+        "photo_reference": "AdCG2DMfW1_k7CqG8lVuaJF2B1lTm9gd0TlDZZB2qbkk5et9NrYeQ76A6W-5zR38BRr-Pu2zZ6FOC3-amcfJTVa6asq6Z2gnYUQfjz70gdSY5CbIuZUhS90NYZ01xiAFlhXZ4pvQIzx5cwLjNSBye93a028D8vya2qo8Fj_ykHLI2y6mqbDR",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117449776386819272131\">Rathi Dental Care (Dr. Anubha Rathi)</a>"
+        ],
+        "photo_reference": "AdCG2DP44OKh8oSz4g5_7j5K0pzb4Kx5gfLFa7fXY0B77jTLAvBwvLFJHrmMIu7zjv_uljS4I-72_urqtjXcioWehz9McYPXUuYt7NXisUqzT65aaHX4Xyhup6H_ttBiuTU3T0xKwaqVQkFZ1yYPRuPHo-4boDlfzA01Z-nxdzwnffBN1nlH",
+        "width": 607
+      }
+    ],
     "rating": 4.9,
-    "number_of_reviews": 74
+    "user_ratings_total": 31
   },
   {
-    "name": "Dr. Purnima Purohit | Dentist | JJEDC ENDODONTIC DENTAL IMPLANT CENTER",
-    "address": "JJEDC ENDODONTIC DENTAL IMPLANT CENTER, Sardarpura, Jodhpur, Rajasthan 342001, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "formatted_address": "G tower, 19 A, road, Shanker Nager, Subhash Nagar, Jodhpur, Rajasthan 342008, India",
+    "name": "Dr Komal Purohit"
   },
   {
+    "formatted_address": "family gate, Subhash Chowk, opposite Police Line Road, Ratanada, Jodhpur, Rajasthan 342001, India",
+    "formatted_phone_number": "098808 15445",
+    "name": "DENTAL HUB JODHPUR",
+    "photos": [
+      {
+        "height": 1372,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116257083175816922470\">DENTAL HUB JODHPUR</a>"
+        ],
+        "photo_reference": "AdCG2DOEbZbJeYPCGgHccwv--OOerTw3BaxFtbMe86mqo-8PGcFLNikYmjmE7cEXw-oO_SzWXzjIVnjTty_7FlT89F6LMni-ouj9snPbR2LwDLmscuRCjQwYwW3H0QLDrIcGDgAf_WhrOyRskkA_SuPzmuCYngPMC5-iXP6e0VjXG0VQ0A5S",
+        "width": 2438
+      },
+      {
+        "height": 3824,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116257083175816922470\">DENTAL HUB JODHPUR</a>"
+        ],
+        "photo_reference": "AdCG2DPQzr2InrkMcaX9PQcxtXpImX_TNVlpeH5NbqaKra8o1u09qprq_Q3K2CIPE8FniaHG6IoNbFjLkV3MBufxm1sC-QZmxD__hS4w7-6df82_eDmQCby7ETfvaWDrOyK9Dd82oY2CB5JOuR96aMJT_kUj-DAGdOk3nGJmdjrCKlVWhjwY",
+        "width": 8716
+      },
+      {
+        "height": 1661,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116257083175816922470\">DENTAL HUB JODHPUR</a>"
+        ],
+        "photo_reference": "AdCG2DP7rrfhFHOoYnXrO1l5pdnTW1XKlEDnT46TqB6mJmGnsBF4XlSPXOHDA9c235mAq8OIfiDlDU00gxNzj6Buoa1Bde4t-gxN2lN1Ej3qUVXcNoRo6Qsaqe2ks8l3-DvZyZAuz8WvHjgbb9vJIqgi6LYFbqLh_MAFdNc_C1xNYZyk2GBu",
+        "width": 1032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116257083175816922470\">DENTAL HUB JODHPUR</a>"
+        ],
+        "photo_reference": "AdCG2DN1wJ0HJhlTGQHVkqtzYayarf6Uzu14IJwS6nVgnQqBCBLLnF7DS99BRTDJn7mSchccvBFhINPyR2w4MGAuTx5YjJJykKxLzyGiB7qUJ7J_Dy1ujPoctgO_pCzZXxBpa6eZYmWbh0kfWnPHc_jrQ-JG4fvig-10fHgUfSqVPq3lBbJn",
+        "width": 3024
+      },
+      {
+        "height": 3808,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116257083175816922470\">DENTAL HUB JODHPUR</a>"
+        ],
+        "photo_reference": "AdCG2DPA8j5KmOlj0VviWDDsf06HBLbTLRrxdq386A5HQPEGAhyKf9vjDp4Z6qUsTPt85ExY5KlI6M2T53mdbnMhm2AhKhHgArjObVBid4A-Vs2MxL4rFoy0EuoZq2JidwBzoOg60s-IxNOzkziZOygEXFRU20NerBWs7wkN6Qe7fNM4M1lM",
+        "width": 14298
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108706162902634690086\">Kshitij Singh</a>"
+        ],
+        "photo_reference": "AdCG2DPYoB-2gyGQFlOOyMbgiUmD5rdiBa-SOVt6B6guxVKePKc30MTb5kupkpWUN7jFsxFfGQqiXmtD2lpPV8h6lmxmvbkjNJvciOof-_vOPXjMDF4ujMQDxgmzYrZVdFonlSFmFi9flfnMjUa30kA_jH1ImPMjdLeF6gGJIWC1M0GhAAWV",
+        "width": 3024
+      },
+      {
+        "height": 1245,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116257083175816922470\">DENTAL HUB JODHPUR</a>"
+        ],
+        "photo_reference": "AdCG2DPAuetbL2BwuMDgUwHv-EXsZ3dE4pIaAiOuFWWOR3o2r8DWn47PSX-RNZJVoBJAg3Ig2Gk0T7-WEtbtVMWPI4326bR9NdprfRlvfs1UokvSfesIwweXfqg4YN4TlcXga9hbtRkQoLnYdRAUZRirGC-rAzLvt50XyW04Bp5RgULaF5hm",
+        "width": 1242
+      },
+      {
+        "height": 700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116257083175816922470\">DENTAL HUB JODHPUR</a>"
+        ],
+        "photo_reference": "AdCG2DMDkQ_7XJ3GXfzlui08NkA3ACG_A-5ChpN1Tr6NiVxaoD9zCJn3cUKWaVMrUYZ88ixrYIDBQY8DqC-tSCZKBF9VcM5pNMze_C6zMhY68qa62MUs69hwz-VZooxDBas0_yXoBafpCGbKw5MWCal3RMvqrcz-lOsnxp7wX2gHxZKRkwzl",
+        "width": 1242
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116257083175816922470\">DENTAL HUB JODHPUR</a>"
+        ],
+        "photo_reference": "AdCG2DMo24sVYQvXa2DuINiQamMNyHlzIFEfZy4EvOKRvTzLqU0_eofNZUSffOUyEm8gHuD7fQbnUBMBKbNE8uRSRmRDGpDdRzVMXRq9Q5CbfmSPxKjCJ5D6sw6lLMXD8hYjPDwoTCCAbtaVj7VdOsde_Bj7CMr2KcDVj6Sz0KlAyXqWwoPC",
+        "width": 3072
+      },
+      {
+        "height": 1239,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116257083175816922470\">DENTAL HUB JODHPUR</a>"
+        ],
+        "photo_reference": "AdCG2DNmIMTbkggJBduMt4TRDHrHCSc4W6YJdqMJFR3yhSVo3sLpPpsoDK7vGM1Hskm5aWaJmC8oLchOZwwZzhkIUu-M-Dsrr6NzAhWaN78j02Vdi5IjNlIZa_piKST6MxkwlnLS1rvTOtfz731L52AzOjTlK1d0Uwnhp6hHK9JFq2oUS1mr",
+        "width": 1242
+      }
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 75
+  },
+  {
+    "formatted_address": "JJEDC ENDODONTIC DENTAL IMPLANT CENTER, Sardarpura, Jodhpur, Rajasthan 342001, India",
+    "name": "Dr. Purnima Purohit | Dentist | JJEDC ENDODONTIC DENTAL IMPLANT CENTER"
+  },
+  {
+    "formatted_address": "177, 1st C Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "082335 11670",
     "name": "JJEDC ENDODONTIC Dental Implant Centre",
-    "address": "177, 1st C Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
-    "phone": "082335 11670",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112321550525399809015\">JJEDC ENDODONTIC Dental Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DN-Uhqx3cun09RZxv_v2M1rI4Krbi0QiAryn8_cWFdRQx-Dm6rwI8EuoGNX4fdFD5HnkT1ERG11t4ofZVlWsT8IgvWRTinqrbqL2n7FcmGxkGNoQgaLwb-bDTf60QGIYTWOVC5qayAfdfoOiPSnAQ-yHplPvi3xoJnABKGfvWqPNd-P",
+        "width": 1080
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112321550525399809015\">JJEDC ENDODONTIC Dental Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNSxhFqwqIBwS6R_fRATPK1q5bRj_FQuDkA1D22bQWeo0IcFVmiQRTjS9sV1E-5fVWArdBheOW75gaOUuHBVm7yJwbOUbj8TooC2YE5x9ghlVd-bkcwOxqX_lrzn1_C4UOe7-VgNfJFuavqIL7ELWFdwtgZuwdsI4S5pt7F73TiX7Cg",
+        "width": 3999
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112321550525399809015\">JJEDC ENDODONTIC Dental Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DMN_Ha-0tqCq3ACH0xFC8Gzp9RUwqCg26BIdHEs85W9y0oeBq-lMur9l3mt_3Qvl_3ZSkFGXfE8JTvA8mOxlwwxNmeAwVzAIOYRN9NKpXcQNV6xl_Km3IsV5dANM36G4Gtx3p8N0xT9Sneaq39sRcSwmEB-UUbiW38Jk7MSYXLquZBn",
+        "width": 3000
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112321550525399809015\">JJEDC ENDODONTIC Dental Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DO8m53Ytypl7lVcrNReQ1tooB9EexzxGBP0feu1Q8xoRTFdZOYBaoB0QfP6nhYEU_r3aOsF7zaI9uDpK2M78CjcFCF4QHghNjoPlkYOY-M4ejAaZm9lW8k80Z47huFl9EbeNtybNZd0NaBiiUy1fLMj58H57gJ3lhCwFjG67YEKDWab",
+        "width": 1252
+      },
+      {
+        "height": 648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112321550525399809015\">JJEDC ENDODONTIC Dental Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPEEM3GCW3IjrmApYm3NDytdcqd2InmOC-lTtuaF1NT2f2Nqot-37wnbUFx2xAqX5bPuDCZYHKYK7BYVsdw1LZX5-atwtBeJFA0eTnM_CxYFFWnAxMiHmY9XJXbgsJfQJIaReCPievoJ-8G3JsBkr9-GTJtC9vIg3igJ-MMcYqDmfPS",
+        "width": 1152
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114253436834302032751\">DR.JOGESH PUROHIT</a>"
+        ],
+        "photo_reference": "AdCG2DOLNyDdBWmY8BKIPCxOXQldH18e9y0D-6wj_Uqo9nx8NLeZ0Q2tPSy4sp6sbZh3UA-uwOZcOLl5RqdNb0J62tJ0yYUz-EQZvhVpt2xXKqSYhzWxMpro6GgBE0lgv5oEYhruE4cfEeVp5QralTclX6CeTY_DZrWCgSfWYgWngIvgsVg-",
+        "width": 4608
+      },
+      {
+        "height": 1564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112321550525399809015\">JJEDC ENDODONTIC Dental Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DNiO_Q6X7Yz-jL9G42ZTSplYqdswEQQThBg4o1r-jfbRag5CUut31k-HBZAYDsWV8hDhH0le46FeHbdGQNoQAuCdF1OjO0v1gfkgsbASgXmOCXIS0t8S681aIrBD7PPSJZa6z-MLLDKU-9wkGEE9T2D950rf9aezEDlKutHnTDQqXFZ",
+        "width": 1564
+      },
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112321550525399809015\">JJEDC ENDODONTIC Dental Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DPZZ6Q2tPP9ZwuNcAJa5U1kX1xE7xvyik2xDHkwgd4K49SJGXqSDqQVFpConTz_t-E7LN00SeNDhfG828DaFiPs0rPmTK7tFrfHRkMlffC6sC4Z-E6ojfZePpYvdd_8X97CWrD9hqVVLXNbDUvsLUL5Rr_z_Erg6xioC7uqQlnV1UmZ",
+        "width": 4608
+      },
+      {
+        "height": 1564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112321550525399809015\">JJEDC ENDODONTIC Dental Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DP0KkFkHqJZX9JlCxPpez1TRmP4TM72ClKVMViqfpqOPOeEbM4Q9l4Lok1oxkjO_QSSYDCpUJ9vQPzo4s8695yaEwDnu044hO9jsp-IswP0zRz-fPw6xijZZSyHEoAn6dTDn38f27Bu3MQuTASS4aji66oyszF_8sL3kuhLfGS4RGYW",
+        "width": 1564
+      },
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112321550525399809015\">JJEDC ENDODONTIC Dental Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DO5Skfb4m00YbHwf4pFL9sac1nLCglXPvFSvVIUB804rZ-u8muPdlZVF2VCvxiE40tqtsVejMFqpV4qyfbtcP06eZLmp3XHk1ru9ls6tr2JPUZpOt7Lj9zNbujdyyutm3GiLBWeMCJVbPubflazKK7s03mgYbU6P3XWZjMBoRdD7NtG",
+        "width": 4608
+      }
+    ],
     "rating": 4.8,
-    "number_of_reviews": 65
+    "user_ratings_total": 66
   },
   {
+    "formatted_address": "JJEDC Oral Implant Centre, 177, 1st C Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
     "name": "Dr Jogesh Purohit",
-    "address": "JJEDC Oral Implant Centre, 177, 1st C Rd, Sardarpura, Jodhpur, Rajasthan 342003, India",
-    "phone": "N/A",
+    "photos": [
+      {
+        "height": 572,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108611967892308145588\">Dr Jogesh Purohit</a>"
+        ],
+        "photo_reference": "AdCG2DPWnNgkeJJWhlSX0TN-8W7wg4Gm9byoLjkmVfxx2fCLl-QZCbVw78LWaWYjn1X7T1u7tdPh9-GZfMsQwk-A1XSFJ2rjnuBs4iHjYW971tC4GeFi3cOTmGwLZTO5jQ-br5E9YVfXkHZJ8BuzDhehwsjIedVLunY_skV0UB6-M-Ty9wTl",
+        "width": 1020
+      },
+      {
+        "height": 570,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108611967892308145588\">Dr Jogesh Purohit</a>"
+        ],
+        "photo_reference": "AdCG2DMGfMzJGG2iAOjZF3IDyT46W4HvZ7E0XcS1ygGjcdyI7SKO3bjxDY3Lwsrt9c33BOjS-5GiI9oxt9Dg-CK8IG2X2jQ5yNvIkMvc4fzZf0C8ejbgxtczSqBGAm_gBq3ICG-rjnJQv4EZaX2U8Wju9TLspSxBSVHm93o0HYrUtxDWSpeD",
+        "width": 1146
+      },
+      {
+        "height": 529,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114253436834302032751\">DR.JOGESH PUROHIT</a>"
+        ],
+        "photo_reference": "AdCG2DPWjJT4U5C9Au6dCjA3XNe5R3a4yOXRh1mYSnZ5mjuGMZAkn-5BS7YnyZFQlzKaHSV0oUv0oFxLOlb8w3HhNwFagTpG1R-ThptwszfGCLJxwm66mxD5VBVtSEYwZmz82A6EeJ-NvWkcM6DNcixUZy7LQWKE1c2AjRf1RvX7plXv4TTK",
+        "width": 905
+      },
+      {
+        "height": 886,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108611967892308145588\">Dr Jogesh Purohit</a>"
+        ],
+        "photo_reference": "AdCG2DNXlxMdV4JWh62S49Oofnnu3ssXqyhZxG_FLLzuAx_SrKhCU1wpYIk4eCXgWLnLPsL9SVNrYwUMc8wrEza-0d8HOPFrg6VnYweuopXaOs-iWLQhNxl_krXebn5nScIMo3DIgAEVIihqbo5mOQcZ4ocXFMhIjduhrY0jdwrhf9DTxIXt",
+        "width": 933
+      },
+      {
+        "height": 1564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108611967892308145588\">Dr Jogesh Purohit</a>"
+        ],
+        "photo_reference": "AdCG2DMZjzOl2eQ66UZyBW06A5HBf9HeqFRL4fKiafV0vic8dtDNcLWzoX6X35R46RKbVB95Wn28pQpGc_fK84yTySsMTVAMYNDqo15YxI0rrXsoLbhPOEhsH19qA1nt-M4txiTaVSB3YLSGUUGL7hMlAxZFssdaMcLFsm-FrtR54RFBGm1g",
+        "width": 1564
+      },
+      {
+        "height": 913,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108611967892308145588\">Dr Jogesh Purohit</a>"
+        ],
+        "photo_reference": "AdCG2DNi7_UrdZrqzKMPUDYa05n2ynt7SBPlA2W80YlZLb--tP0PCBknZpwuLQfYRNU8eQxMacVyLKwz2c67fC1hH_r_hZwvrquZF9lzfOO-BLV_RfMwlk7lvzxzmJ_HgJa2mo1YsibYK1Wtja5JFr2w10RlS7rdNcJZqM1S12vvhfWKL0Cz",
+        "width": 1080
+      },
+      {
+        "height": 1564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108611967892308145588\">Dr Jogesh Purohit</a>"
+        ],
+        "photo_reference": "AdCG2DPAJW90ITZn_g90ieBhUtGIrLxbQHtFfKU0Myw6xZjMP_JwlJP0W_YywE40gYJ52QZIIxo3xsdlD2IJwu7MFUR7_C29bNhOTnaRpAedxq82nwX-C8Lnro4P-UrYpZSNLQvr5qNICO6XDvVWht9Pg7Rmv8OdFe74NHmz_e1ceTP8s2oD",
+        "width": 1564
+      },
+      {
+        "height": 1564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108611967892308145588\">Dr Jogesh Purohit</a>"
+        ],
+        "photo_reference": "AdCG2DMnBQB42Y3gB_4aLNQtUf1XfTgsXNnHewbenlGMIyC3VzAL7HU6ZtefQFTucnAZvwyhvaOJTGtOwXih14GRP44aCzusZsjr958vrfYEA8e7n2xN4pCpNt2KPBuS1zYwErH5JobFt48pARl98You9ROwmxeEhl4dUfdPu9UsCc3t48mb",
+        "width": 1564
+      },
+      {
+        "height": 1564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108611967892308145588\">Dr Jogesh Purohit</a>"
+        ],
+        "photo_reference": "AdCG2DMaegGCYAeMJz-4qv0vJaKQT_ofVuxQp1qZu5RTuWj8XgH9socnKMAoNxmbvlg-6ZTmgxYg5xpTCR7OOdHm4dRixNjkTm6wdtHooolO8QlfWZsuUXfH3NnzPCK5WezSa0_nsYYlTsa8m5wboritcytWh8YbQFRtM6JLXAnGsSGmUqcL",
+        "width": 1564
+      },
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108611967892308145588\">Dr Jogesh Purohit</a>"
+        ],
+        "photo_reference": "AdCG2DNMbYaJRDUu7Cg3oG2aVQBi5LVF1yXthsbI8HCG1vs4jYs4U1lPXr2cSBy-_hZeWOapHaEPnCp7EjKAX58_YQk7cQrorQKwwWW2sZKX396gZaCEZvsGKL6f9UQ7pLNfqv2xSNmz28l7xFgnLi-J2o5NqI5OBpudcfgGFbIr2LJOzlDf",
+        "width": 3100
+      }
+    ],
     "rating": 3.8,
-    "number_of_reviews": 4
+    "user_ratings_total": 4
   },
   {
+    "formatted_address": "B wing-103 & 104, 1st Floor, Aanchal Complex, Residency Rd, Near Manidhari Hospital, Sardarpura, Jodhpur, Rajasthan 342003, India",
+    "formatted_phone_number": "098292 49300",
     "name": "Dr. Bothra's SMILE Designing Center",
-    "address": "B wing-103 & 104, 1st Floor, Aanchal Complex, Residency Rd, Near Manidhari Hospital, Sardarpura, Jodhpur, Rajasthan 342003, India",
-    "phone": "098292 49300",
+    "photos": [
+      {
+        "height": 3933,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110212465431772106976\">Dr. Bothra&#39;s SMILE Designing Center</a>"
+        ],
+        "photo_reference": "AdCG2DNhJDi18Daao5mo2fDtZXwGItybi0QwDXIIhjLHUNuhovZHtgr2ejD_YyUayIeT4w6JvJERxzJXzZJ76cA8w7zS6xMOgOT_BCEr0CygoD7nK3_XO5wfexYQYHcGULBXv6EkPDfvJbDPi_UQe1FP8uu9LuIQfuLCcXiAuLMC0TKirx_i",
+        "width": 5891
+      },
+      {
+        "height": 2672,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110212465431772106976\">Dr. Bothra&#39;s SMILE Designing Center</a>"
+        ],
+        "photo_reference": "AdCG2DPf-oZ3yG9et94bhYQzkCic00aVcnOq3cc1o2zz6PyCqHVh1Y9KnCPn0Wuna95_n5Zq2dNHwWOXPO5VtZA15WqDtnmkbHM_xq3ZubHBR-Igk0_CZIF3H4eYvkC2hkZj6VsZizt0GG5P2s0JlZLFp4oSUb0rdk7lOlJd8M4m1RDAgyyX",
+        "width": 4000
+      },
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110212465431772106976\">Dr. Bothra&#39;s SMILE Designing Center</a>"
+        ],
+        "photo_reference": "AdCG2DPsxB_gb0eht7BC6qHzsCBAm2t5qxtPxpEeRBKMja0XbvsOe4OXoG55b2RnGf8P8CsEpvt3sXQoMQDUCbNLCFLWkbj7f4ss2wRuOUNVHZTlmVbfwzv90vuA-OT-c9jU0AF4ei5fdYxryyW7SrmW2MDsjUVH8MgX1-U1GbAMvcSXERhg",
+        "width": 1440
+      },
+      {
+        "height": 2784,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110212465431772106976\">Dr. Bothra&#39;s SMILE Designing Center</a>"
+        ],
+        "photo_reference": "AdCG2DMQC0l1noZXvJTD1e7HRvbMIa8R-J5DJvyQGZ9aPUd25U__aMjQqfK_JH_TExuCdjZKliE7M1z0eFtcDq-RZsyzj2EOHC0P7vPUkj9eGnz9R_lmnx6kmbhfVaAheOrAY-LX2k1BRTL2-lcA6bZm6FyhaoQ_3Zuxb44P8fO7M6KKdmq-",
+        "width": 3261
+      },
+      {
+        "height": 4192,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110212465431772106976\">Dr. Bothra&#39;s SMILE Designing Center</a>"
+        ],
+        "photo_reference": "AdCG2DNI4Cym3iRQoUf9e_5bV-zUYqOuYQMtztRf6L_DPPcDdPopl3utYeJVLmfsnEywrU0-qcAJtLUzF-OQeuICUqUYXJUi9dmQlnTBdQ2epwf52ThlXR6hXUKfM3KfgN4-kP_qQS0tQVPjzsuNPXuYK9zhYgWUAUWyLpos6aI7vSoYvW80",
+        "width": 4192
+      },
+      {
+        "height": 760,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110212465431772106976\">Dr. Bothra&#39;s SMILE Designing Center</a>"
+        ],
+        "photo_reference": "AdCG2DOz5nmVv00e_gu2MayQnYS89gV8hObubX3egV9631IOM4Qm8MCkRZ8nm7C7Br0XhmsXCEgsxTBZB06SMWroA7OI8gFDjDe80rRqunxBvCi0TdjMxpFo96qaf2XaYqfG-q3GF1XeUzcyTMrSa8Q4KRBwEEjPBGkrk3icanOZkBzdGOtN",
+        "width": 760
+      },
+      {
+        "height": 3037,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110212465431772106976\">Dr. Bothra&#39;s SMILE Designing Center</a>"
+        ],
+        "photo_reference": "AdCG2DMF-mKczUNOYbW9lrovP5_qvvm4-GHcIfuSVV4w4sQymbd8DxUmw_nn25s6yZpyfpTYfDz2Op2MSWaktyo1iMfIzt6RFlWhTYqayJ4xgVGBO2u6rHKHsbKkPnsy4aGYT3t0qjYl1Q8Lj8bzZQbXT-nGBWH4Y0IighXVhIXPfUDdVhZR",
+        "width": 4149
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110212465431772106976\">Dr. Bothra&#39;s SMILE Designing Center</a>"
+        ],
+        "photo_reference": "AdCG2DOZieSvv8eq8Z0CvnYNMVdPIGR0aHTPAActu6A-t4sadHJjDbO0FJppx9oYBlYlb-lJLC4wo6iakgkq3qvvAXOO9LhZgX0C6ps4r0lywtyKKcwSTJwOq1IRb6eVdWxhKgHpATjdpQAtsiDHZJChWst-Q3i3TIfKTuGASxGNFfd9E7io",
+        "width": 3120
+      },
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110212465431772106976\">Dr. Bothra&#39;s SMILE Designing Center</a>"
+        ],
+        "photo_reference": "AdCG2DNVBAp2RUE8tGzrhq_L0EROMVNlHWLtiojN388wZiuY8gv9Ss7hIDrerGhYAW9R1Mdcnozo_nzpymzBGkCXR8vgZEmKha0Og5SYoe_VnSrjLJOZIMQ4XrAvDVzR1A5AhE8Ce8TOVcWg-BXyk-QU9dcUWMXsuaXt4ZVZrc1tS7KYw7ei",
+        "width": 2560
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110212465431772106976\">Dr. Bothra&#39;s SMILE Designing Center</a>"
+        ],
+        "photo_reference": "AdCG2DPizwiQcX-aOP3C2WM6tWSiMoqGCqmwrWWlUlAZ4U0g2uUR7r4kUJyWR_zJnf72E5v58z5zTDMUk5dfgOFI3smc5_-KJHquIv-u3rB1-NyMS63OxIksgQuA_Iua0LoaambP5lzdzxSer1NqipoZ9UWkiCIANPMtIedpyy6efGEL_Hsy",
+        "width": 591
+      }
+    ],
     "rating": 5,
-    "number_of_reviews": 305
-  },
-  {
-    "name": "Dr. Sangeeta Patel",
-    "address": "Subhash Nagar, Jodhpur, Rajasthan 342008, India",
-    "phone": "N/A",
-    "rating": "No rating available",
-    "number_of_reviews": "No reviews"
+    "user_ratings_total": 306
   }
 ]
